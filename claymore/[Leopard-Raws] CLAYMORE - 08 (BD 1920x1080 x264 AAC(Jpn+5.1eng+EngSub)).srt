@@ -1,0 +1,838 @@
+1
+00:00:01,300 --> 00:00:01,300
+CLAYMORE
+
+2
+00:00:01,300 --> 00:00:01,300
+Episodio 08
+
+3
+00:00:01,300 --> 00:00:01,300
+title sign:
+
+4
+00:00:01,300 --> 00:00:01,300
+sign:
+
+5
+00:00:07,800 --> 00:00:08,840
+Entiendo.
+
+6
+00:00:09,290 --> 00:00:10,260
+La derrotaré.
+
+7
+00:00:10,990 --> 00:00:14,280
+No puedo perdonar a quien manche la reputación de la organización.
+
+8
+00:00:14,890 --> 00:00:16,680
+Lo siento, Teresa.
+
+9
+00:00:17,290 --> 00:00:19,920
+Hubiera querido luchar contigo yo sola,
+
+10
+00:00:20,350 --> 00:00:23,230
+¡¡Pero todo esto es tú culpa!!!
+
+11
+00:01:34,500 --> 00:01:35,240
+¡Aquí voy!
+
+12
+00:02:26,900 --> 00:02:27,660
+¡Teresa!
+
+13
+00:02:41,180 --> 00:02:42,460
+Maldita-
+
+14
+00:02:44,200 --> 00:02:45,410
+¡Irene!
+
+15
+00:03:35,980 --> 00:03:36,660
+¡Irene!
+
+16
+00:03:37,500 --> 00:03:39,540
+¿Estás bien, Irene?
+
+17
+00:03:39,540 --> 00:03:40,670
+¡Irene!
+
+18
+00:03:41,940 --> 00:03:43,310
+Olvídate de mí.
+
+19
+00:03:43,900 --> 00:03:44,170
+¡Ve!
+
+20
+00:03:44,880 --> 00:03:46,210
+Pero...
+
+21
+00:03:46,210 --> 00:03:47,230
+Te lo dije.
+
+22
+00:03:47,880 --> 00:03:50,840
+Debes pelear con todas tus fuerzas.
+
+23
+00:03:52,960 --> 00:03:54,360
+Olvídate de mí.
+
+24
+00:03:55,040 --> 00:03:58,190
+Necesitas ir por la cabeza de Teresa con todo lo que tienes.
+
+25
+00:03:59,450 --> 00:04:00,260
+¡Bien!
+
+26
+00:04:04,690 --> 00:04:05,790
+Maldición...
+
+27
+00:04:06,550 --> 00:04:12,930
+Creí que con cuatro de nosotras, podríamos encargarnos de ella...
+
+28
+00:04:18,380 --> 00:04:19,440
+Acaso...
+
+29
+00:04:21,770 --> 00:04:26,500
+¿Acaso... subestimé a Teresa nuevamente?
+
+30
+00:04:31,930 --> 00:04:32,750
+Ella...
+
+31
+00:04:34,380 --> 00:04:39,710
+Ella ni siquiera ha liberado sus poderes de Yoma.
+
+32
+00:04:44,470 --> 00:04:45,320
+Teresa.
+
+33
+00:04:46,290 --> 00:04:47,030
+Clare.
+
+34
+00:04:47,830 --> 00:04:49,890
+Regresa al hotel y trae nuestras pertenencias.
+
+35
+00:04:50,410 --> 00:04:53,030
+No podemos causarle a éste pueblo más problemas de los que ya tiene.
+
+36
+00:04:53,030 --> 00:04:54,750
+Partiremos.
+
+37
+00:04:54,750 --> 00:04:55,240
+Bien.
+
+38
+00:04:58,450 --> 00:04:59,660
+Bueno entonces.
+
+39
+00:05:14,080 --> 00:05:15,500
+¡Maldición!
+
+40
+00:05:15,500 --> 00:05:16,830
+¡¿Se dió cuenta?!
+
+41
+00:05:18,050 --> 00:05:22,570
+Priscilla tiene el potencial para sobrepasarla algún día...
+
+42
+00:05:25,240 --> 00:05:28,670
+¿Planea eliminarla antes de que llegue ese momento?.
+
+43
+00:05:30,710 --> 00:05:32,750
+Teresa De La Tenue Sonrisa, eres un monstruo...
+
+44
+00:05:33,860 --> 00:05:39,750
+Sólo nos heriste para dejarnos inmóviles
+ya que no representamos ninguna amenaza en tu futuro,
+
+45
+00:05:40,450 --> 00:05:47,610
+sin embargo, la única capaz de moverse, Priscilla, está tan asustada del tremendo poder que se alza frente a ella que está completamente inmóvil.
+
+46
+00:05:52,690 --> 00:05:55,470
+Yo... tengo miedo...
+
+47
+00:05:57,310 --> 00:05:58,510
+Tengo miedo...
+
+48
+00:05:59,200 --> 00:06:00,730
+No quiero morir...
+
+49
+00:06:01,140 --> 00:06:02,340
+No quiero morir...
+
+50
+00:06:03,340 --> 00:06:04,840
+Alguien ayúdeme...
+
+51
+00:06:05,840 --> 00:06:07,090
+Ayúdenme...
+
+52
+00:06:08,150 --> 00:06:10,650
+Papá... por favor, Papá...
+
+53
+00:06:11,280 --> 00:06:12,350
+¡¡¡Sálvame!!!
+
+54
+00:06:20,960 --> 00:06:23,150
+Me he vuelto demasiado bondadosa...
+
+55
+00:06:23,640 --> 00:06:26,010
+Su rostro aparece en mi mente.
+
+56
+00:06:26,570 --> 00:06:27,670
+¡Teresa!
+
+57
+00:06:29,510 --> 00:06:30,850
+Los he traído,
+
+58
+00:06:30,850 --> 00:06:33,440
+incluso los que llevas en tu cintura.
+
+59
+00:06:34,490 --> 00:06:36,640
+¿Trajiste incluso esos?
+
+60
+00:06:37,260 --> 00:06:38,550
+Debe pesarte mucho, ¿no?
+
+61
+00:06:38,550 --> 00:06:40,460
+No, está bien.
+
+62
+00:06:44,330 --> 00:06:46,190
+Persíganme cuantas veces deseen.
+
+63
+00:06:46,730 --> 00:06:48,980
+Las derrotaré cada vez.
+
+64
+00:07:04,510 --> 00:07:06,970
+Lo siento, por causarles tantos problemas.
+
+65
+00:07:18,190 --> 00:07:19,780
+¡No puedo creer esto!
+
+66
+00:07:20,410 --> 00:07:22,690
+Esa Teresa mostró piedad.
+
+67
+00:07:23,540 --> 00:07:26,620
+Antes hubiera cortado su cabeza sin ninguna vacilación.
+
+68
+00:07:29,310 --> 00:07:33,330
+De cualquier forma, aún tenemos esperanzas.
+
+69
+00:07:35,570 --> 00:07:36,420
+¡Deja de llorar!
+
+70
+00:07:36,780 --> 00:07:38,320
+¡Aún no se ha terminado!
+
+71
+00:07:38,620 --> 00:07:39,710
+¡Nuestra lucha comienza ahora!
+
+72
+00:07:41,820 --> 00:07:42,440
+...donable...
+
+73
+00:07:44,110 --> 00:07:44,940
+...imperdonable...
+
+74
+00:07:45,350 --> 00:07:46,460
+Imperdonable...
+
+75
+00:07:47,180 --> 00:07:48,850
+Imperdonable...
+
+76
+00:07:49,270 --> 00:07:50,700
+Imperdonable...
+
+77
+00:07:51,850 --> 00:07:53,490
+Imperdonable...
+
+78
+00:07:54,130 --> 00:07:55,720
+Imperdonable...
+
+79
+00:07:56,740 --> 00:07:58,160
+Imperdonable...
+
+80
+00:07:59,340 --> 00:08:00,700
+Imperdonable...
+
+81
+00:08:01,430 --> 00:08:01,890
+Imperdonable...
+
+82
+00:08:01,900 --> 00:08:04,140
+Priscilla...
+
+83
+00:08:08,440 --> 00:08:10,810
+¡¡¡Ella es una asesina!!!
+
+84
+00:08:10,810 --> 00:08:12,110
+¡¡¡Ella es la villana!!!
+
+85
+00:08:12,480 --> 00:08:14,940
+¡¡¡Ella rompió las reglas de la organización!!!
+
+86
+00:08:15,450 --> 00:08:16,460
+¡Detente!
+
+87
+00:08:16,460 --> 00:08:19,450
+¡No podrás derrotar a Teresa con tus poderes actuales!
+
+88
+00:08:22,390 --> 00:08:23,480
+¡Priscilla!
+
+89
+00:08:23,480 --> 00:08:25,240
+¡Maldita mocosa!
+
+90
+00:08:25,240 --> 00:08:27,220
+¡Se volvió loca!
+
+91
+00:08:28,260 --> 00:08:29,410
+Fui demasiado imprudente...
+
+92
+00:08:30,040 --> 00:08:32,590
+¡Me concentré demasiado en su poder latente,
+
+93
+00:08:33,170 --> 00:08:35,020
+pero olvidé que ella aún es una niña!
+
+94
+00:08:36,390 --> 00:08:37,250
+¿Pueden moverse?
+
+95
+00:08:37,250 --> 00:08:38,520
+Noel, Sophia.
+
+96
+00:08:38,840 --> 00:08:39,420
+¡Sí!
+
+97
+00:08:39,900 --> 00:08:40,570
+Sigámosla.
+
+98
+00:08:41,020 --> 00:08:44,810
+Ella aún no conoce sus límites.
+
+99
+00:09:08,930 --> 00:09:10,060
+Detente.
+
+100
+00:09:10,640 --> 00:09:14,330
+En esta situación, no podrás derrotarme sin importar cuánto lo intentes.
+
+101
+00:09:22,410 --> 00:09:24,200
+No deberías sobrepasar ese nivel.
+
+102
+00:09:24,200 --> 00:09:28,320
+Si una novata como tú libera demasiado poder Yoma,
+no serás capaz de revertirlo.
+
+103
+00:09:29,350 --> 00:09:34,910
+Cuando nosotras mitad humano, mitad Yoma liberamos un 10%  de nuestros poderes Yoma, nuestros ojos cambian de color.
+
+104
+00:09:35,300 --> 00:09:37,440
+Al 30%, nuestro rostro se deforma.
+
+105
+00:09:37,760 --> 00:09:40,690
+Al 50%, el cuerpo se deforma.
+
+106
+00:09:41,940 --> 00:09:46,290
+y cuando llegas al 80%, no serás capaz de revertirlo.
+
+107
+00:09:46,870 --> 00:09:50,840
+Ya has sobrepasado el 70%.
+
+108
+00:09:50,840 --> 00:09:53,400
+¡¡¡Cállate!!!
+
+109
+00:09:59,310 --> 00:10:01,090
+¡Maldita asesina!
+
+110
+00:10:01,090 --> 00:10:03,480
+¡Maldita asesina!
+
+111
+00:10:08,220 --> 00:10:14,230
+Nosotras aprendemos sobre los límites de nuestros poderes Yoma gradualmente durante las batallas.
+
+112
+00:10:14,990 --> 00:10:18,750
+Tú no tienes esa experiencia.
+
+113
+00:10:18,750 --> 00:10:20,040
+¡¡¡Cállate!!!
+
+114
+00:10:26,610 --> 00:10:29,840
+¡Está emanando una increíble cantidad de Yoki de su cuerpo...
+
+115
+00:10:29,840 --> 00:10:31,250
+...que no puedo leer su flujo!
+
+116
+00:10:36,520 --> 00:10:37,990
+¡Teresa!
+
+117
+00:10:43,610 --> 00:10:44,430
+Teresa...
+
+118
+00:10:49,810 --> 00:10:52,460
+¿Cómo te atreves a matar a mi padre?...
+
+119
+00:10:52,460 --> 00:10:53,930
+Imperdonable...
+
+120
+00:10:53,930 --> 00:10:55,590
+¡Imperdonable!
+
+121
+00:10:55,590 --> 00:10:57,620
+¡Te mataré!...
+
+122
+00:10:57,620 --> 00:10:59,830
+¡Te mataré!
+
+123
+00:11:01,540 --> 00:11:04,110
+Ya perdió el control...
+
+124
+00:11:05,710 --> 00:11:08,420
+No queda mucho tiempo.
+
+125
+00:11:09,390 --> 00:11:12,900
+Debo ponerme seria ahora.
+
+126
+00:11:34,180 --> 00:11:34,910
+Es...
+
+127
+00:11:34,910 --> 00:11:36,310
+¿Es una broma, cierto?
+
+128
+00:11:36,610 --> 00:11:39,410
+¿Qué son estas enormes cantidades de Yoki?
+
+129
+00:11:39,890 --> 00:11:40,810
+Esto es imposible.
+
+130
+00:11:41,120 --> 00:11:45,640
+¿Qué podemos hacer contra dos monstruos así?
+
+131
+00:11:46,210 --> 00:11:49,420
+Ambas poseen una increíble cantidad de Yoki.
+
+132
+00:11:49,420 --> 00:11:50,190
+Pero...
+
+133
+00:11:50,580 --> 00:11:51,430
+¿Qué?
+
+134
+00:11:52,560 --> 00:11:55,550
+Una de ellas es más poderosa que la otra.
+
+135
+00:11:57,600 --> 00:11:58,390
+¿Quién será?...
+
+136
+00:12:12,560 --> 00:12:13,670
+¿Qué demonios?...
+
+137
+00:12:14,520 --> 00:12:17,110
+¡¿Esa es... Priscilla?!
+
+138
+00:12:23,410 --> 00:12:25,140
+Irene, no me digas...
+
+139
+00:12:25,140 --> 00:12:28,130
+No, aún no ha sobrepasado su límite.
+
+140
+00:12:28,560 --> 00:12:32,510
+Si la detenemos ahora, es posible que aún podamos regresarla a su forma humana.
+
+141
+00:12:33,400 --> 00:12:35,680
+Pero nunca creí que fuera tan poderosa...
+
+142
+00:12:36,460 --> 00:12:40,940
+¿Quién será capaz de detenerla?
+
+143
+00:13:09,460 --> 00:13:10,810
+¡No puedo creerlo!
+
+144
+00:13:11,630 --> 00:13:13,840
+Frente al monstruoso poder de Priscilla,
+
+145
+00:13:14,840 --> 00:13:19,250
+¡¿Teresa fue capaz de sobrepasarla con sólo liberar sus poderes hasta el punto de cambiar sus ojos de color?!
+
+146
+00:13:21,830 --> 00:13:26,970
+¿Este es el verdadero poder de Teresa al liberar su poder Yoma?
+
+147
+00:13:29,320 --> 00:13:30,220
+Teresa...
+
+148
+00:13:39,040 --> 00:13:41,490
+Lo diré mientras aún seas capaz de oír mi voz.
+
+149
+00:13:42,230 --> 00:13:43,770
+Con esto te habrás dado cuenta.
+
+150
+00:13:44,340 --> 00:13:46,970
+Contén tu Yoki y regresa a tu forma humana ahora.
+
+151
+00:13:49,440 --> 00:13:50,980
+Aún estás a tiempo.
+
+152
+00:13:51,910 --> 00:13:54,100
+Si no lo haces, luego será demasiado tarde.
+
+153
+00:13:58,400 --> 00:13:59,560
+Papá...
+
+154
+00:13:59,970 --> 00:14:02,090
+Regrésame a mi papá...
+
+155
+00:14:04,590 --> 00:14:07,820
+Papá era tan bondadoso...
+
+156
+00:14:08,860 --> 00:14:12,030
+lo amaba tanto...
+
+157
+00:14:12,030 --> 00:14:13,810
+¡él devoró...
+
+158
+00:14:15,070 --> 00:14:17,700
+...frente a mis ojos...
+
+159
+00:14:17,700 --> 00:14:22,310
+...devoró las entrañas de todos!
+
+160
+00:14:24,750 --> 00:14:25,480
+¡No!
+
+161
+00:14:30,620 --> 00:14:33,590
+Por eso lo maté.
+
+162
+00:14:33,590 --> 00:14:36,310
+Cuando estaba devorando a mi hermano,
+
+163
+00:14:36,310 --> 00:14:40,830
+¡¡¡me acerqué lentamente por detrás y le corté la cabeza!!!
+
+164
+00:14:53,900 --> 00:14:56,910
+¿Sobrepasó su límite?
+
+165
+00:15:10,150 --> 00:15:13,210
+Yo... Yo no puedo revertirlo...
+
+166
+00:15:14,460 --> 00:15:15,950
+sálvame...
+
+167
+00:15:17,020 --> 00:15:18,430
+te lo ruego...
+
+168
+00:15:19,390 --> 00:15:25,330
+No quiero... convertirme en un Yoma...
+
+169
+00:15:25,860 --> 00:15:26,590
+Es inútil.
+
+170
+00:15:27,440 --> 00:15:29,370
+Sólo le queda esperar a convertirse en Yoma.
+
+171
+00:15:31,360 --> 00:15:32,980
+Te lo ruego...
+
+172
+00:15:32,980 --> 00:15:34,530
+Sálvame...
+
+173
+00:15:35,840 --> 00:15:37,930
+te lo ruego...
+
+174
+00:15:40,020 --> 00:15:40,940
+Lo siento.
+
+175
+00:15:41,550 --> 00:15:44,660
+Ya no puedo ayudarte.
+
+176
+00:15:45,610 --> 00:15:51,900
+la única cosa que puedo hacer es cortar
+tu cabeza antes de que te conviertas en Yoma.
+
+177
+00:16:08,330 --> 00:16:09,730
+Te lo ruego...
+
+178
+00:16:10,080 --> 00:16:11,350
+mátame...
+
+179
+00:16:12,210 --> 00:16:17,960
+...mientras aún posea mi corazón humano...
+
+180
+00:16:17,960 --> 00:16:18,890
+Muy bien.
+
+181
+00:16:19,900 --> 00:16:22,160
+Te sacaré de tu miseria.
+
+182
+00:16:41,230 --> 00:16:42,030
+Tere...
+
+183
+00:16:42,620 --> 00:16:43,270
+...sa...
+
+184
+00:17:03,360 --> 00:17:05,030
+¿Qué demonios es eso?
+
+185
+00:17:05,750 --> 00:17:11,900
+Es una criatura que va más allá de un Yoma... nada como ser humano.
+
+186
+00:17:13,460 --> 00:17:14,710
+Un Kakuseisha...
+
+187
+00:17:26,360 --> 00:17:28,000
+Vaya...
+
+188
+00:17:28,390 --> 00:17:32,500
+No tenía que haberme contenido tanto...
+
+189
+00:17:33,220 --> 00:17:38,410
+No creí que se sentiría tan bien...
+
+190
+00:17:45,660 --> 00:17:47,670
+Mo-Monstruo...
+
+191
+00:17:53,360 --> 00:17:56,560
+Quiero devorar intestinos...
+
+192
+00:18:04,370 --> 00:18:07,230
+Quiero abrir el estómago de un humano vivo...
+
+193
+00:18:07,230 --> 00:18:11,260
+...hundir mi cabeza en sus intestinos cubiertos de sangre...
+
+194
+00:18:12,320 --> 00:18:14,880
+...no dejar ningún rastro alguno de sangre...
+
+195
+00:18:15,380 --> 00:18:19,240
+...y saborear cada órgano...
+
+196
+00:18:28,390 --> 00:18:29,200
+Vaya.
+
+197
+00:18:29,580 --> 00:18:30,690
+Irene.
+
+198
+00:18:31,800 --> 00:18:33,360
+¿Qué sucede?
+
+199
+00:18:33,690 --> 00:18:35,930
+Veo que has perdido tu brazo izquierdo.
+
+200
+00:18:40,340 --> 00:18:41,090
+Vaya.
+
+201
+00:18:41,860 --> 00:18:43,670
+Aquí está.
+
+202
+00:18:44,240 --> 00:18:45,590
+Te lo devolveré.
+
+203
+00:18:46,150 --> 00:18:50,350
+Deberías llevar tus pertenencias contigo.
+
+204
+00:18:59,490 --> 00:19:01,490
+¡Noel! ¡Sophia!
+
+205
+00:19:03,010 --> 00:19:04,310
+Vaya...
+
+206
+00:19:04,680 --> 00:19:08,140
+¿Todas quieren matarme?
+
+207
+00:19:12,850 --> 00:19:16,700
+Pero seguramente... no puedan hacerlo...
+
+208
+00:19:30,760 --> 00:19:34,840
+Estoy hambrienta de haberme movido tanto.
+
+209
+00:19:36,060 --> 00:19:39,210
+En ese caso, es hora de partir.
