@@ -1,0 +1,1187 @@
+1
+00:00:15,050 --> 00:00:16,379
+Así que...
+
+2
+00:00:16,380 --> 00:00:18,870
+¿Así que ésto es... una Claymore?
+
+3
+00:00:24,630 --> 00:00:25,630
+No deberías estar aquí.
+
+4
+00:00:25,631 --> 00:00:27,570
+El Yoma pronto desaparecerá,
+
+5
+00:00:27,571 --> 00:00:28,750
+escóndete hasta que haya terminado.
+
+6
+00:00:28,751 --> 00:00:29,510
+Vamos.
+
+7
+00:00:37,260 --> 00:00:38,480
+¿Un tipo volador?
+
+8
+00:01:12,789 --> 00:01:14,050
+El trabajo está completo.
+
+9
+00:01:14,730 --> 00:01:17,550
+Dále el dinero al cobrado que viene.
+
+10
+00:01:29,760 --> 00:01:30,640
+Clare.
+
+11
+00:01:31,080 --> 00:01:34,259
+¿No sería mejor si tomamos algo de ése dinero?
+
+12
+00:01:34,600 --> 00:01:38,150
+El dinero será recolectado por alguien de la organización.
+
+13
+00:01:39,430 --> 00:01:41,180
+¿Hay algo que desees?
+
+14
+00:01:41,181 --> 00:01:42,240
+No...
+
+15
+00:01:42,241 --> 00:01:44,710
+...pero nunca sabes cuándo puede ser que necesitemos algo.
+
+16
+00:01:44,711 --> 00:01:47,410
+Toda tu ropa está rasgada.
+
+17
+00:01:47,411 --> 00:01:50,390
+La organización debe enviarme otro repuesto pronto.
+
+18
+00:01:50,391 --> 00:01:52,660
+Lo mismo pasa cuando necesitamos dinero.
+
+19
+00:01:55,009 --> 00:01:58,160
+¿Ustedes son empleados por alguien?
+
+20
+00:01:59,210 --> 00:02:01,880
+Hemos sido parte de la organización desde que somos niñas.
+
+21
+00:02:02,300 --> 00:02:03,400
+¿Desde que son niñas?
+
+22
+00:02:03,840 --> 00:02:07,140
+Un cuerpo que es mitad humano, mitad Yoma...
+
+23
+00:02:07,800 --> 00:02:12,640
+Es decir, hemos estado allí desde que nos convertimos en mitad humano mitad Yoma.
+
+24
+00:02:13,660 --> 00:02:15,890
+Las Claymores son mitad Yoma...
+
+25
+00:02:17,780 --> 00:02:19,510
+...eso significa que Clare es mitad Yoma.
+
+26
+00:02:20,680 --> 00:02:23,760
+Pero la otra mitad todavía es humana.
+
+27
+00:02:26,360 --> 00:02:27,900
+Mitad humana, mitad Yoma.
+
+28
+00:02:42,500 --> 00:02:49,840
+{\pos(314,49)}aa ikutsumono yoru wo koete
+
+29
+00:02:42,500 --> 00:02:49,840
+Ah, Avanzando en mis muchas noches...
+
+30
+00:02:49,841 --> 00:02:54,650
+{\pos(314,49)}koota yume to kieyukun namida
+
+31
+00:02:49,840 --> 00:02:54,650
+Sueños incumplidos, y lagrimas que caen.
+
+32
+00:02:54,651 --> 00:02:58,120
+{\pos(314,49)}woe me woe me love me
+
+33
+00:02:54,650 --> 00:02:58,120
+Pobre de mi, Pobre de mi, amame!
+
+34
+00:02:58,121 --> 00:03:05,690
+{\pos(327,47)}hito wo aisenai demo mi ga nikui
+
+35
+00:02:58,120 --> 00:03:05,690
+Yo no puedo amar a nadie..\Ny me odio a mi mismo por ello.
+
+36
+00:03:05,691 --> 00:03:10,100
+{\pos(342,41)}kokomade aruitemo owari ga mienai
+
+37
+00:03:05,690 --> 00:03:10,100
+ya eh caminado hasta aqui, y aun no veo el final.
+
+38
+00:03:10,101 --> 00:03:13,440
+{\pos(336,51)}kako no kioku wo michizureni
+
+39
+00:03:10,100 --> 00:03:13,440
+cargo conmigo los recuerdos del pasado.
+
+40
+00:03:13,441 --> 00:03:17,910
+{\pos(342,49)}kono mi wa nani wa iro de somariyukunodarou
+
+41
+00:03:13,440 --> 00:03:17,910
+Que camino terminare escogiendo finalmente.
+
+42
+00:03:17,911 --> 00:03:22,100
+{\pos(333,51)}kotae wo  sagashiteru
+
+43
+00:03:17,910 --> 00:03:22,100
+Sigo buscando una respuesta.
+
+44
+00:03:32,100 --> 00:03:35,100
+{\pos(303,340)}LA CARTA NEGRA
+
+45
+00:03:32,100 --> 00:03:35,100
+{\pos(324,169)}CAPITULO 02
+
+46
+00:03:41,450 --> 00:03:42,320
+¿Qué es eso?
+
+47
+00:03:42,750 --> 00:03:44,130
+¿Tienes hambre?
+
+48
+00:03:44,131 --> 00:03:47,570
+Sí... No he comido nada desde la mañana.
+
+49
+00:03:47,950 --> 00:03:49,420
+¿No tienes hambre, Clare?
+
+50
+00:03:59,840 --> 00:04:01,420
+¿Servirá eso?
+
+51
+00:04:13,520 --> 00:04:15,170
+Creo que ya está.
+
+52
+00:04:17,399 --> 00:04:18,800
+Aquí tienes, Clare.
+
+53
+00:04:18,801 --> 00:04:19,089
+Bien.
+
+54
+00:04:21,440 --> 00:04:23,910
+Puede que no tenga buen aspecto, pero está delicioso.
+
+55
+00:04:26,980 --> 00:04:28,010
+¡Yum!
+
+56
+00:04:46,200 --> 00:04:47,870
+¿No tiene buen sabor?
+
+57
+00:04:48,420 --> 00:04:50,230
+No, no es eso.
+
+58
+00:04:50,830 --> 00:04:52,870
+Esto es suficiente para mi.
+
+59
+00:04:53,180 --> 00:04:54,659
+¿Suficiente?
+
+60
+00:04:55,100 --> 00:04:56,870
+Sólo le diste unos cuántos bocados.
+
+61
+00:04:57,590 --> 00:04:59,420
+Así es como están hechos nuestros cuerpos.
+
+62
+00:05:00,040 --> 00:05:04,130
+Necesitamos comer solamente una cantidad pequeña cada dos días o menos.
+
+63
+00:05:04,500 --> 00:05:08,290
+Podemos pasar una semana sin comer o beber sin ningún problema.
+
+64
+00:05:08,570 --> 00:05:09,540
+¿Tanto?
+
+65
+00:05:10,370 --> 00:05:14,470
+Viéndote comer así es muy estimulante.
+
+66
+00:05:14,840 --> 00:05:16,920
+Te envidio un poco.
+
+67
+00:05:16,921 --> 00:05:19,530
+Bueno, estaba muy hambriento.
+
+68
+00:05:20,170 --> 00:05:23,530
+Así es como son los humanos.
+
+69
+00:05:25,310 --> 00:05:28,540
+¿Por qué te volviste una Claymore, Clare?
+
+70
+00:05:29,020 --> 00:05:32,000
+Lo decidí cuando era pequeña.
+
+71
+00:05:33,360 --> 00:05:34,720
+¿Es difícil convertirse en una?
+
+72
+00:05:35,110 --> 00:05:35,780
+Sí.
+
+73
+00:05:36,740 --> 00:05:38,260
+Entonces, ¿por qué?-
+
+74
+00:05:42,170 --> 00:05:44,570
+Creo que no debería preguntarle mucho.
+
+75
+00:05:45,280 --> 00:05:48,080
+Parece no tener ningún familiar o amigo.
+
+76
+00:05:57,540 --> 00:05:59,770
+¿Qué es ése emblema?
+
+77
+00:06:00,410 --> 00:06:03,590
+Cuando estamos listas para tomar trabajos,
+
+78
+00:06:03,591 --> 00:06:05,780
+nos proporcionan un emblema único.
+
+79
+00:06:06,440 --> 00:06:09,710
+El cual representa nuestro nombre,
+
+80
+00:06:09,711 --> 00:06:11,490
+un emblema que nos distingue una de otra.
+
+81
+00:06:11,790 --> 00:06:14,290
+¿Así que ése es tu emblema, Clare?
+
+82
+00:06:20,650 --> 00:06:21,880
+¿A dónde vas?
+
+83
+00:06:21,881 --> 00:06:23,260
+No me sigas.
+
+84
+00:06:27,850 --> 00:06:28,860
+¿Al baño, quizás?
+
+85
+00:06:36,320 --> 00:06:37,140
+Aquí.
+
+86
+00:06:39,690 --> 00:06:41,290
+Qué tierno de tu parte.
+
+87
+00:06:41,630 --> 00:06:43,720
+¿Por qué llevas a un niño contigo?
+
+88
+00:06:44,280 --> 00:06:46,250
+Sólo será una molestia en tu trabajo.
+
+89
+00:06:46,740 --> 00:06:48,320
+Él sólo es un cocinero.
+
+90
+00:06:48,720 --> 00:06:49,990
+No será una molestia.
+
+91
+00:06:49,991 --> 00:06:51,540
+¿Un cocinero, eh?
+
+92
+00:06:52,040 --> 00:06:54,490
+Hablas como una humana.
+
+93
+00:06:55,690 --> 00:07:00,000
+¿Has recordado tu pasado al ver a ese crío?
+
+94
+00:07:00,460 --> 00:07:01,960
+Qué sentimental de tu parte.
+
+95
+00:07:01,961 --> 00:07:04,240
+¿Me trajiste un conjunto nuevo de ropa?
+
+96
+00:07:12,780 --> 00:07:13,950
+Dáte la vuelta.
+
+97
+00:07:20,940 --> 00:07:22,690
+Has sido una imprudente.
+
+98
+00:07:24,930 --> 00:07:26,910
+Aunque la herida pudo haberse curado,
+
+99
+00:07:27,250 --> 00:07:31,800
+no olvides que incluso ustedes morirán si les dan en un punto vital.
+
+100
+00:07:32,730 --> 00:07:34,610
+La otra herida se ve bien.
+
+101
+00:07:35,090 --> 00:07:37,570
+por dejarla así no pasará nada.
+
+102
+00:07:40,940 --> 00:07:42,690
+Me pregunto que pensaría ése niño...
+
+103
+00:07:42,691 --> 00:07:45,280
+...si viera tu cuerpo.
+
+104
+00:07:46,780 --> 00:07:49,310
+Ten cuidado con tu naturaleza caprichosa,¿de acuerdo?
+
+105
+00:07:49,311 --> 00:07:52,500
+Sufrirás si tu unes mucho a él.
+
+106
+00:07:54,020 --> 00:07:55,930
+Ah, sí, sí.
+
+107
+00:07:55,931 --> 00:07:57,760
+Tengo algo para ti.
+
+108
+00:08:02,170 --> 00:08:03,730
+¡¿Una carta negra?!
+
+109
+00:08:04,170 --> 00:08:05,310
+Debe ser un error.
+
+110
+00:08:05,311 --> 00:08:06,730
+Una carta negra para mí-
+
+111
+00:08:08,360 --> 00:08:10,580
+Confirma el contenido con tus propios ojos.
+
+112
+00:08:17,440 --> 00:08:18,610
+Por qué...
+
+113
+00:08:27,680 --> 00:08:29,440
+Clare es muy lenta.
+
+114
+00:08:29,441 --> 00:08:30,730
+Quizás es uno grande.
+
+115
+00:08:37,220 --> 00:08:38,130
+Clare.
+
+116
+00:08:41,679 --> 00:08:42,490
+Clare...
+
+117
+00:08:42,919 --> 00:08:44,100
+¿Algo va mal?
+
+118
+00:08:47,670 --> 00:08:51,410
+Oye, sequé la carne que sobró,
+
+119
+00:08:51,411 --> 00:08:52,840
+así que dime cuando quieras algo.
+
+120
+00:09:00,630 --> 00:09:01,580
+¿Clare?
+
+121
+00:09:01,581 --> 00:09:03,310
+Mañana nos dirigiremos a Shire.
+
+122
+00:09:03,670 --> 00:09:05,860
+Prepárate para levantarte ya que nos iremos temprano.
+
+123
+00:09:42,760 --> 00:09:43,880
+Todo estará bien.
+
+124
+00:09:44,500 --> 00:09:47,080
+Todo estará bien si nos tomamos de la mano.
+
+125
+00:10:31,270 --> 00:10:32,520
+Oye, eso es-
+
+126
+00:10:32,521 --> 00:10:35,010
+¡Es una Bruja de Ojos Plateados!
+
+127
+00:10:40,930 --> 00:10:42,990
+¿La han solicitado para que venga a nuestra aldea?
+
+128
+00:10:42,991 --> 00:10:44,210
+¡No creo!
+
+129
+00:10:44,211 --> 00:10:47,030
+Nadie ha sido atacado por un Yoma.
+
+130
+00:10:47,031 --> 00:10:48,470
+Sí...
+
+131
+00:10:48,471 --> 00:10:49,910
+Hombre, me hacen enfermar.
+
+132
+00:10:49,911 --> 00:10:51,190
+Oh Dios mío, Dios mío.
+
+133
+00:10:51,191 --> 00:10:53,830
+No me digas que están planeando quedarse por un tiempo.
+
+134
+00:10:55,340 --> 00:10:56,460
+¿Qué pasa con ésta gente?
+
+135
+00:10:56,780 --> 00:11:00,540
+Cuando viene un Yoma, todo lo que pueden hacer es pedir tu ayuda.
+
+136
+00:11:07,080 --> 00:11:09,050
+¡Bi-bienvenidos!
+
+137
+00:11:10,450 --> 00:11:11,780
+¿Tiene una habitación para nosotros?
+
+138
+00:11:11,781 --> 00:11:13,930
+Ah... Um...
+
+139
+00:11:13,931 --> 00:11:15,410
+No se preocupe.
+
+140
+00:11:15,411 --> 00:11:17,180
+Sólamente el chico se quedará.
+
+141
+00:11:17,181 --> 00:11:19,160
+¡¿Huh?! ¡¿Por qué?!
+
+142
+00:11:19,161 --> 00:11:22,160
+Debes permanecer aquí hasta que termine mi trabajo.
+
+143
+00:11:24,330 --> 00:11:25,300
+¡También quiero ir!
+
+144
+00:11:27,000 --> 00:11:28,500
+Regresaré.
+
+145
+00:11:29,730 --> 00:11:33,680
+Esto,¿también ha aparecido un Yoma en ésta aldea?
+
+146
+00:11:33,681 --> 00:11:36,800
+No, no hay ningún Yoma en los alrededores.
+
+147
+00:11:37,110 --> 00:11:38,040
+No se preocupe.
+
+148
+00:11:39,280 --> 00:11:41,550
+¿No vas a cazar a un Yoma?
+
+149
+00:11:42,140 --> 00:11:43,180
+No.
+
+150
+00:11:43,181 --> 00:11:45,460
+Entonces, me estás dejando atrás-
+
+151
+00:11:45,860 --> 00:11:47,050
+Nada de eso.
+
+152
+00:11:47,900 --> 00:11:50,500
+No hay un Yoma aquí, ¿verdad?
+
+153
+00:11:50,501 --> 00:11:52,030
+¡Oh, oh sí!
+
+154
+00:11:52,031 --> 00:11:54,560
+Hace unos días vi pasar a otra Claymore.
+
+155
+00:11:56,330 --> 00:11:58,060
+¿La viste en el monte Shire?
+
+156
+00:11:58,061 --> 00:11:59,610
+S-sí...
+
+157
+00:12:00,500 --> 00:12:01,690
+Regresaré pronto.
+
+158
+00:12:07,050 --> 00:12:08,430
+Gracias a Dios...
+
+159
+00:12:09,140 --> 00:12:10,170
+Clare...
+
+160
+00:12:11,670 --> 00:12:12,990
+Hey, chico.
+
+161
+00:12:12,991 --> 00:12:16,610
+Parece que no sabes mucho al estar con una Claymore.
+
+162
+00:12:18,030 --> 00:12:23,190
+¿No me digas que no sabes\Nque una Claymore es mitad humano, mitad Yoma?
+
+163
+00:12:24,010 --> 00:12:25,670
+¡Eso ya lo sé!
+
+164
+00:12:26,100 --> 00:12:28,990
+Pero Clare no es un monstruo.
+
+165
+00:12:30,190 --> 00:12:35,200
+Tienen en sus cuerpos la sangre y carne de un Yoma.
+
+166
+00:12:35,650 --> 00:12:37,280
+¿La carne y sangre de un Yoma?
+
+167
+00:12:37,281 --> 00:12:41,230
+Una existencia mitad humano, mitad Yoma.
+
+168
+00:12:41,860 --> 00:12:45,540
+Una existencia que fue creada por una organización cuyo propósito es derrotar a los Yoma.
+
+169
+00:12:46,230 --> 00:12:50,450
+Por alguna razón, sólo han trabajado mujeres.
+
+170
+00:12:51,950 --> 00:12:54,450
+Si planeas estar con ella, debes estar enterado de éso.
+
+171
+00:12:55,260 --> 00:12:59,690
+Eso significa... ¿que las Claymores una vez fueron humanas?
+
+172
+00:12:59,691 --> 00:13:01,030
+No lo sé.
+
+173
+00:13:01,031 --> 00:13:03,460
+No estoy seguro sobre esa parte.
+
+174
+00:13:03,461 --> 00:13:06,050
+¿Cómo toman la carne y sangre de un Yoma?
+
+175
+00:13:06,051 --> 00:13:07,930
+Eso tampoco lo sé.
+
+176
+00:13:08,550 --> 00:13:09,670
+Pero...
+
+177
+00:13:09,671 --> 00:13:15,870
+...las Claymores usan su mente humana para controlar su energía Yoma dentro de ellas.
+
+178
+00:13:16,260 --> 00:13:18,980
+Es por eso que están del lado de los humanos.
+
+179
+00:13:18,981 --> 00:13:25,390
+{\fscx95}Básicamente, se ha convertido en las mejores herramientas para los humanos, quienes hasta el momento no han podido detener a los Yoma.
+
+180
+00:13:25,830 --> 00:13:27,480
+¿Las mejores herramientas?
+
+181
+00:13:27,481 --> 00:13:28,440
+Pero...
+
+182
+00:13:28,441 --> 00:13:31,060
+...hay un sólo problema con eso.
+
+183
+00:13:32,520 --> 00:13:36,060
+Mitad humano, mitad Yoma eventualmente se convierte en Yoma.
+
+184
+00:13:36,061 --> 00:13:36,690
+¡¿Eh?!
+
+185
+00:13:37,820 --> 00:13:39,720
+Ellas tienen los poderes de un Yoma,
+
+186
+00:13:39,721 --> 00:13:42,460
+y entre más usen aquellos poderes,
+
+187
+00:13:42,461 --> 00:13:45,040
+sus cuerpos se convertirán más en el de un Yoma.
+
+188
+00:13:47,410 --> 00:13:49,870
+Cuando pierden la capacidad de regresar...
+
+189
+00:13:49,871 --> 00:13:54,110
+...y se convierten en Yoma, son eliminadas por la organización.
+
+190
+00:13:57,410 --> 00:13:59,330
+No puede ser...
+
+191
+00:14:00,430 --> 00:14:02,020
+¿Clare se convertirá en un Yoma?
+
+192
+00:14:02,350 --> 00:14:03,570
+¡No puede ser!
+
+193
+00:14:03,571 --> 00:14:04,760
+Eso es sólo...
+
+194
+00:14:47,100 --> 00:14:48,070
+¡¡¡Clare!!!
+
+195
+00:14:53,100 --> 00:14:54,540
+Raki...
+
+196
+00:14:54,970 --> 00:14:56,790
+Te dije que esperaras.
+
+197
+00:14:57,090 --> 00:14:57,980
+Eso no es cierto, ¿verdad?
+
+198
+00:14:58,620 --> 00:15:00,550
+No te convertirás en Yoma, ¿verdad?
+
+199
+00:15:00,950 --> 00:15:03,280
+No te convertirás en Yoma,¿verdad, Clare?
+
+200
+00:15:04,370 --> 00:15:07,450
+No sé que escuchaste, pero no lo malinterpretes.
+
+201
+00:15:07,890 --> 00:15:10,140
+Nadie se ha convertido en Yoma.
+
+202
+00:15:10,890 --> 00:15:11,590
+Pero...
+
+203
+00:15:15,010 --> 00:15:17,730
+...si alguien ha llegado a sus límites.
+
+204
+00:15:17,731 --> 00:15:18,900
+¿Eh?
+
+205
+00:15:22,400 --> 00:15:25,900
+Hace unos días vi pasar a otra Claymore.
+
+206
+00:15:27,280 --> 00:15:29,410
+¿Otra Claymore?
+
+207
+00:15:29,411 --> 00:15:30,670
+Sí.
+
+208
+00:15:30,671 --> 00:15:32,100
+La mataré.
+
+209
+00:15:32,101 --> 00:15:33,440
+¿Tú?
+
+210
+00:15:33,441 --> 00:15:34,630
+¿Matar a uno de los tuyos?
+
+211
+00:15:35,580 --> 00:15:36,910
+Ésto es una Carta Negra.
+
+212
+00:15:36,911 --> 00:15:37,930
+¿Carta Negra?
+
+213
+00:15:39,760 --> 00:15:40,580
+Esto es...
+
+214
+00:15:42,930 --> 00:15:48,330
+Todas guardamos una carta negra dentro de nuestras espadas.
+
+215
+00:15:52,960 --> 00:15:59,200
+{\fscx95}El conflicto entre nuestra mente humana\Ny nuestra mente Yoma ocurre en cada batalla...
+
+216
+00:16:02,520 --> 00:16:06,070
+Eventualmente, aprendemos cuando hemos alcanzado los límites de nuestra mente humana...
+
+217
+00:16:07,390 --> 00:16:10,780
+...y nos estamos convirtiendo en Yoma...
+
+218
+00:16:13,920 --> 00:16:15,060
+Cuando eso ocurre,
+
+219
+00:16:15,490 --> 00:16:20,330
+tenemos el deseo de morir como humanos.
+
+220
+00:16:21,200 --> 00:16:22,790
+cuando eso ocurre,
+
+221
+00:16:23,170 --> 00:16:26,830
+enviamos nuestra Carta Negra a la persona que más queremos que nos mate.
+
+222
+00:16:32,190 --> 00:16:36,040
+Entonces, la persona que te envió su Carta negra fue...
+
+223
+00:16:38,640 --> 00:16:42,190
+Una persona que se unió a la organización casi al mismo tiempo que yo.
+
+224
+00:16:57,720 --> 00:17:00,280
+Nos apoyábamos durante las épocas más difíciles.
+
+225
+00:17:04,619 --> 00:17:09,079
+Aún cuando nos hicimos mitad humanos, mitad Yoma y el dolor recorrió todo nuestro cuerpo,
+
+226
+00:17:09,720 --> 00:17:12,280
+podíamos dormir gracias a que nos tomábamos de las manos.
+
+227
+00:17:19,109 --> 00:17:19,980
+Todo estará bien.
+
+228
+00:17:21,760 --> 00:17:24,720
+Todo estará bien si nos tomamos de la mano.
+
+229
+00:17:44,400 --> 00:17:46,710
+Ha pasado mucho tiempo ¿no es así, Clare?
+
+230
+00:17:47,620 --> 00:17:48,480
+Elena...
+
+231
+00:17:52,290 --> 00:17:53,590
+No has cambiado en nada.
+
+232
+00:17:54,430 --> 00:17:56,120
+Es como si hubieras permanecido exactamente igual.
+
+233
+00:17:56,850 --> 00:17:58,580
+Me ha sido muy difícil,
+
+234
+00:17:58,581 --> 00:18:00,460
+el encontrarte.
+
+235
+00:18:01,730 --> 00:18:03,530
+Ya ha pasado mucho,
+
+236
+00:18:03,531 --> 00:18:05,960
+pero se siente como si fuera ayer.
+
+237
+00:18:06,740 --> 00:18:09,360
+Aunque no eran mas que recuerdos dolorosos,
+
+238
+00:18:09,361 --> 00:18:13,790
+ahora, acabo de recordar los momentos felices que compartimos.
+
+239
+00:18:15,600 --> 00:18:18,420
+Comencé a hacer trabajos después de ti,
+
+240
+00:18:18,421 --> 00:18:20,710
+y estoy terminando antes que tu.
+
+241
+00:18:21,310 --> 00:18:23,720
+¿Qué vergüenza, verdad?
+
+242
+00:18:27,520 --> 00:18:29,920
+Pensé que si obteníamos los poderes de un Yoma,
+
+243
+00:18:29,921 --> 00:18:31,790
+nos haríamos más fuertes.
+
+244
+00:18:33,420 --> 00:18:34,460
+Sin embargo...
+
+245
+00:18:38,920 --> 00:18:41,330
+...más importante que usar las energías Yoma,
+
+246
+00:18:41,690 --> 00:18:45,700
+primeros debemos hacer fuertes nuestro corazones, ¿eh?
+
+247
+00:18:49,520 --> 00:18:50,040
+N-
+
+248
+00:18:50,680 --> 00:18:51,940
+¡No!
+
+249
+00:18:52,880 --> 00:18:53,790
+Así que...
+
+250
+00:18:54,580 --> 00:18:55,500
+por favor...
+
+251
+00:18:56,420 --> 00:18:57,620
+debes apresurarte...
+
+252
+00:18:58,220 --> 00:19:01,950
+...mientras todavía posea el corazón de un humano...
+
+253
+00:19:07,900 --> 00:19:09,350
+¡No puedes, Clare!
+
+254
+00:19:09,351 --> 00:19:10,660
+Ella es de tu especie, ¡¿verdad?!
+
+255
+00:19:10,920 --> 00:19:12,570
+¡No puedes hacer esto!
+
+256
+00:19:21,600 --> 00:19:22,740
+Clare...
+
+257
+00:19:25,210 --> 00:19:26,190
+Clare...
+
+258
+00:19:42,480 --> 00:19:43,460
+¡Clare!
+
+259
+00:19:56,150 --> 00:19:58,820
+Gracias... Clare...
+
+260
+00:20:00,840 --> 00:20:04,110
+Ahora puedo irme... como humana...
+
+261
+00:20:28,290 --> 00:20:29,770
+Elena y yo...
+
+262
+00:20:30,890 --> 00:20:33,200
+...nos unimos a la organización casi al mismo tiempo.
+
+263
+00:20:34,790 --> 00:20:37,290
+Nos apoyábamos durante las épocas más difíciles.
+
+264
+00:20:39,000 --> 00:20:43,510
+Aún cuando nos hicimos mitad humano, mitad Yoma y el dolor recorrió todo nuestro cuerpo,
+
+265
+00:20:44,140 --> 00:20:46,760
+podíamos dormir gracias a que nos tomábamos de las manos.
+
+266
+00:20:47,660 --> 00:20:48,760
+Y...
+
+267
+00:20:49,490 --> 00:20:52,520
+...para mí, que me uní a la organización muy jóven,
+
+268
+00:20:52,870 --> 00:20:55,770
+fué la única amiga que tuve en toda mi vida...
+
+269
+00:20:57,710 --> 00:20:58,980
+¡¿Por qué?!
+
+270
+00:21:00,010 --> 00:21:04,510
+¡¿Por qué sufres mucho al luchar con un Yoma?!
+
+271
+00:21:06,590 --> 00:21:07,900
+Por qué...
+
+272
+00:21:11,140 --> 00:21:12,250
+ésa es...
+
+273
+00:21:13,200 --> 00:21:15,610
+...la razón por la que existimos...
+
+274
+00:21:41,540 --> 00:21:46,880
+{\pos(470,62)}kokoromada anata no kioku no naka de
+
+275
+00:21:41,540 --> 00:21:46,880
+{\pos(437,472)}Mi corazon aun conserva tu recuerdo
+
+276
+00:21:46,881 --> 00:21:52,150
+{\pos(435,43)}karada sagashiteru tarinai watashi wo
+
+277
+00:21:46,880 --> 00:21:52,150
+{\pos(451,469)}Mi cuerpo no merece ser salvado.
+
+278
+00:21:52,151 --> 00:21:57,360
+{\pos(417,72)}kyou mo doko ka\Nde dareka ga nagasu namida
+
+279
+00:21:52,150 --> 00:21:57,360
+{\pos(410,473)}hoy nuevamente,\NAlquien debe estar llorando en algun lugar.
+
+280
+00:21:57,361 --> 00:22:02,730
+{\pos(450,79)}tsumetaku warai sadamete\Nikite yuku koto
+
+281
+00:21:57,360 --> 00:22:02,730
+{\pos(425,470)}Para poder continuar\Nmantiene una fria sonrisa en su rostro.
+
+282
+00:22:02,731 --> 00:22:08,140
+{\pos(455,68)}nakusenai mono\Nnigirishimenagara
+
+283
+00:22:02,730 --> 00:22:08,140
+{\pos(447,461)}Me aferro a cosas\Nque no puedo perder.
+
+284
+00:22:08,141 --> 00:22:13,510
+{\pos(463,43)}watashi wa ima mo koko ni iruno
+
+285
+00:22:08,140 --> 00:22:13,510
+{\pos(454,474)}Me mantengo firme incluso ahora.
+
+286
+00:22:13,511 --> 00:22:18,810
+{\pos(478,69)}karenai hana wa\Nutsukushikute
+
+287
+00:22:13,510 --> 00:22:18,810
+{\pos(459,470)}La hermosura de\Nflores sin marchitar...
+
+288
+00:22:18,811 --> 00:22:24,120
+{\pos(485,69)}yuruginai omoi wo\Nmume ni sakitsuzuketa
+
+289
+00:22:18,810 --> 00:22:24,120
+{\pos(475,474)}Brotando con algunos \Npensamientos dentro de ellas
+
+290
+00:22:24,121 --> 00:22:29,490
+{\pos(470,67)}chigirenaku momo\Ndanzai no sora
+
+291
+00:22:24,120 --> 00:22:29,490
+{\pos(455,472)}Hay cosas que no puedo evitar\Nveo la  culpa en el cielo.
+
+292
+00:22:29,491 --> 00:22:34,790
+{\pos(467,71)}tomaranai kanashimi\Nwo dakishimeteta
+
+293
+00:22:29,490 --> 00:22:34,790
+{\pos(426,469)}He decidido acoger \Neste sufrimiento interminable.
+
+294
+00:22:41,160 --> 00:22:43,360
+El mal está al acecho en la oscuridad de la noche.
+
+295
+00:22:44,010 --> 00:22:46,780
+Una oscuridad que incluso devora la noche.
+
+296
+00:22:47,360 --> 00:22:50,010
+{\pos(326,391)}Próximo Episodio, "Oscuridad En El Paraíso".
+
+297
+00:22:47,360 --> 00:22:50,010
+{\pos(320,162)}CAPITULO 03
