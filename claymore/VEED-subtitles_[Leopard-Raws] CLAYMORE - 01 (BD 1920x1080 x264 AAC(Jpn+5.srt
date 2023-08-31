@@ -52,7 +52,7 @@ Sí, de hecho eres un sospechoso.
 
 14
 00:02:43,701 --> 00:02:47,350
-Kenneth, a quién se comieron hoy, vive enfrente de ti.
+Kenneth, a quién se comieron hoy,\Nvive enfrente de ti.
 
 15
 00:02:47,351 --> 00:02:48,240
