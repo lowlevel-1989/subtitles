@@ -78,7 +78,7 @@ Whoo. Te quiero, Jake.
 
 19
 00:01:57,116 --> 00:02:00,286
-¡Pastel! ¡Por favor!
+¡Cake! ¡Por favor!
 
 20
 00:02:00,370 --> 00:02:03,748
@@ -96,7 +96,7 @@ demonios te pasa?
 23
 00:02:12,173 --> 00:02:14,259
 - ¡Oye!
-- ¡Pastel!
+- ¡Cake!
 
 24
 00:02:14,300 --> 00:02:17,262
@@ -112,11 +112,11 @@ Pero la vi...
 
 27
 00:02:21,558 --> 00:02:23,309
-¡Pastel!
+¡Cake!
 
 28
 00:02:23,393 --> 00:02:25,853
-¡No vendo pasteles!
+¡No vendo Cakees!
 ¡Sólo helados!
 
 29
@@ -125,11 +125,11 @@ Pero la vi...
 
 30
 00:02:27,689 --> 00:02:30,525
-Lo siento. ¿Pastel?
+Lo siento. ¿Cake?
 
 31
 00:02:30,608 --> 00:02:33,319
-¡Pastel!
+¡Cake!
 
 32
 00:02:44,329 --> 00:02:45,999
@@ -170,11 +170,11 @@ Sólo voy a...
 
 41
 00:03:11,649 --> 00:03:14,569
-Pastel: ¡Fionna! ¡Sálvame, Fionna!
+Cake: ¡Fionna! ¡Sálvame, Fionna!
 
 42
 00:03:16,154 --> 00:03:18,031
-Pastel. Eres real.
+Cake. Eres real.
 
 43
 00:03:18,114 --> 00:03:20,241
@@ -210,7 +210,7 @@ Suena como...
 
 51
 00:03:48,978 --> 00:03:50,397
-¡Pastel malo!
+¡Cake malo!
 
 52
 00:03:52,065 --> 00:03:56,861
@@ -438,11 +438,11 @@ Todo el mundo lo sabe.
 
 104
 00:07:32,159 --> 00:07:35,163
-¡Pastel! ¡Pastel! ¡Pastel!
+¡Cake! ¡Cake! ¡Cake!
 
 105
 00:07:35,246 --> 00:07:39,334
-¡Pastel! ¡Pastel!
+¡Cake! ¡Cake!
 
 106
 00:07:41,127 --> 00:07:44,881
@@ -1110,7 +1110,7 @@ trabajando en el instinto.
 
 253
 00:15:48,907 --> 00:15:50,992
-- ¡Pastel!
+- ¡Cake!
 - ¡Ardilla!
 
 254
@@ -1244,7 +1244,7 @@ Revela el camino y
 
 283
 00:18:20,642 --> 00:18:22,519
-¿Pastel?
+¿Cake?
 
 284
 00:18:22,560 --> 00:18:25,105
@@ -1352,7 +1352,7 @@ de mi serie de libros favorita.
 
 308
 00:19:50,899 --> 00:19:53,610
-¡Es ella! ¡Pastel!
+¡Es ella! ¡Cake!
 
 309
 00:19:53,651 --> 00:19:57,655
@@ -1444,7 +1444,7 @@ Uh-oh. ¿Dónde está ella?
 329
 00:21:13,148 --> 00:21:15,483
 - ¡Ay!
-- ¡Pastel!
+- ¡Cake!
 
 330
 00:21:15,567 --> 00:21:18,403
@@ -1454,7 +1454,7 @@ Uh-oh. ¿Dónde está ella?
 331
 00:21:18,445 --> 00:21:21,531
 - ¡Toma esto! ¡¿Te gusta eso?!
-- ¡Pastel!
+- ¡Cake!
 
 332
 00:21:21,573 --> 00:21:24,284
@@ -1514,7 +1514,7 @@ bazooka del mercado.
 
 345
 00:21:59,152 --> 00:22:01,071
-Pastel, agárrate a mí.
+Cake, agárrate a mí.
 
 346
 00:22:01,112 --> 00:22:03,073
