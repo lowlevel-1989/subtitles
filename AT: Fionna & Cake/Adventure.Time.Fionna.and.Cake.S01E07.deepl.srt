@@ -1,7 +1,7 @@
 1
 00:00:30,563 --> 00:00:33,500
-TIEMPO DE AVENTURAS
-CON FIONNA Y CAKE
+Hora de aventura
+con Fionna & Cake
 
 2
 00:01:14,007 --> 00:01:15,942
@@ -112,7 +112,7 @@ Deberíamos irnos ya.
 
 26
 00:02:48,401 --> 00:02:49,669
-¡Pastel!
+¡Cake!
 
 27
 00:02:54,040 --> 00:02:55,875
@@ -177,7 +177,7 @@ a los vampiros allí.
 
 41
 00:04:06,679 --> 00:04:08,815
-¡Pastel! ¡No!
+¡Cake! ¡No!
 
 42
 00:04:14,988 --> 00:04:16,055
@@ -932,7 +932,7 @@ Pero deberías divertirte.
 
 212
 00:15:11,610 --> 00:15:14,179
-Este pastel Red Velvet
+Este Cake Red Velvet
 ¡es fenomenal!
 
 213
@@ -1450,7 +1450,7 @@ Está distraído.
 
 327
 00:22:16,101 --> 00:22:17,936
-¡Pastel, no!
+¡Cake, no!
 
 328
 00:22:18,003 --> 00:22:20,372
