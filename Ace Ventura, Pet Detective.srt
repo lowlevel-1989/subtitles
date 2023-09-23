@@ -3,4227 +3,4052 @@
 _
 
 2
-00:00:45,157 --> 00:00:47,557
+00:00:43,000 --> 00:00:45,500
 ACE VENTURA
 DETECTIVE DE MASCOTAS
 
 3
-00:01:04,309 --> 00:01:06,300
+00:01:01,880 --> 00:01:03,760
 ¡Alerta! ¡Buena defensa!
 
 4
-00:01:06,511 --> 00:01:07,910
+00:01:04,000 --> 00:01:05,310
 Excelente defensa.
 
 5
-00:01:14,086 --> 00:01:18,750
-"VIDRIO, MANEJESE CON CUIDADO, GRACIAS"
-
-6
-00:02:04,236 --> 00:02:06,568
+00:01:59,320 --> 00:02:01,600
 Vamos directo a la meta.
 
+6
+00:02:10,120 --> 00:02:13,470
+Cállate el hocico perro callejero Idiota!
+
 7
-00:02:15,480 --> 00:02:17,243
-Cállate la boca...
+00:02:14,120 --> 00:02:15,160
+Que Quiere?
 
 8
-00:02:17,382 --> 00:02:18,974
-...perro callejero idiota.
-
-9
-00:02:19,651 --> 00:02:20,811
-¿Qué?
-
-10
-00:02:20,986 --> 00:02:25,889
-DS, señor. ¿Cómo está Ud.?
+00:02:15,440 --> 00:02:20,120
+HDS, señor. ¿Cómo está Ud.?
 Tengo un paquete para usted.
 
-11
-00:02:29,094 --> 00:02:30,493
+9
+00:02:23,160 --> 00:02:24,520
 Suena roto.
 
-12
-00:02:30,662 --> 00:02:35,258
+10
+00:02:24,760 --> 00:02:29,040
 Puede ser. Apuesto a que era
 algo lindo. Tome una forma de seguro.
 
-13
-00:02:35,400 --> 00:02:38,267
+11
+00:02:29,280 --> 00:02:31,910
 Si me hace el favor de firmar
 aquí, aquí y aquí...
 
-14
-00:02:39,071 --> 00:02:41,835
+12
+00:02:32,160 --> 00:02:34,760
 ...pronto le traeremos el resto
 de las formas.
 
-15
-00:02:45,110 --> 00:02:47,010
+13
+00:02:38,630 --> 00:02:40,320
 Qué hermoso perro.
 
-16
-00:02:47,179 --> 00:02:50,842
+14
+00:02:40,560 --> 00:02:44,040
 -¿Le importa si lo acaricio?
 -Me importa un bledo.
 
-17
-00:03:02,627 --> 00:03:04,424
-Ay, por favor.
+15
+00:02:55,320 --> 00:02:57,080
+Oh, Hermano!
 
-18
-00:03:04,796 --> 00:03:06,696
+16
+00:02:57,280 --> 00:02:59,240
 Con eso está bien. Yo la acabo.
 
-19
-00:03:06,932 --> 00:03:10,527
+17
+00:02:59,480 --> 00:03:02,920
 Que pase un buen día. Cuídese. Adiós.
 
+18
+00:03:14,960 --> 00:03:16,800
+Con permiso! HDS!
+
+19
+00:03:17,040 --> 00:03:18,800
+HDS! abran paso!
+
 20
-00:03:23,048 --> 00:03:25,039
-Con permiso. ¡DS!
-
-21
-00:03:25,217 --> 00:03:27,151
-DS, abran paso!
-
-22
-00:03:27,319 --> 00:03:28,809
+00:03:19,040 --> 00:03:20,400
 ¡Traigo un paquete, señores!
 
-23
-00:03:43,335 --> 00:03:44,734
+21
+00:03:34,360 --> 00:03:35,720
 Quítate de la puerta.
 
-24
-00:03:48,240 --> 00:03:51,232
+22
+00:03:39,080 --> 00:03:41,960
 ¿Qué te pasa? ¡Que te quites, dije!
 
-25
-00:03:53,411 --> 00:03:56,073
+23
+00:03:43,839 --> 00:03:46,339
 "Lo engañó...
-AS VENTURA, Detective de Mascotas"
+ACE VENTURA, Detective de Mascotas"
 
-26
-00:03:56,248 --> 00:03:57,408
-hijo de puta!
+24
+00:03:46,840 --> 00:03:47,880
+Hijo de P.!
 
-27
-00:03:58,183 --> 00:04:00,674
+25
+00:03:48,640 --> 00:03:50,920
 Por poco no lo logramos.
 
-28
-00:04:00,852 --> 00:04:01,978
+26
+00:03:51,200 --> 00:03:52,240
 Desafortunadamente...
 
-29
-00:04:02,187 --> 00:04:05,486
+27
+00:03:52,480 --> 00:03:55,680
 ...en toda competencia
 tiene que haber un perdedor.
 
-30
-00:04:06,758 --> 00:04:08,749
-Peeheerdeedoor.
+28
+00:04:06,840 --> 00:04:07,960
+Tienes hambre colega?
 
-31
-00:04:17,202 --> 00:04:18,362
-¿Tienes hambre?
-
-32
-00:04:22,774 --> 00:04:24,366
+29
+00:04:12,200 --> 00:04:13,720
 Aquí tienes.
 
-33
-00:04:28,880 --> 00:04:32,213
+30
+00:04:18,000 --> 00:04:21,200
 No hay problema. Se ahoga,
-esperamos unos minutos y ya.
+esperamos un momento y ya.
 
-34
-00:04:33,718 --> 00:04:35,447
+31
+00:04:22,720 --> 00:04:24,320
 O probamos ahora mismo.
 
-35
-00:04:35,720 --> 00:04:36,778
+32
+00:04:24,640 --> 00:04:25,600
 idiota!
 
-36
-00:04:36,955 --> 00:04:38,013
+33
+00:04:25,880 --> 00:04:26,830
 ¡Vamos!
 
-37
-00:04:38,623 --> 00:04:40,523
+34
+00:04:27,390 --> 00:04:29,240
 ¡Sal de ahí! ¡Sal!
 
-38
-00:04:43,962 --> 00:04:46,396
-Los idiotas están más cerca
+35
+00:04:31,880 --> 00:04:34,800
+Alerta:Los idiotas están más cerca
 de lo que parecen.
 
-39
-00:04:51,136 --> 00:04:53,570
+36
+00:04:39,080 --> 00:04:41,360
 Dame un empujón
 ya que andas allá atrás.
 
-40
-00:04:55,140 --> 00:04:57,404
+37
+00:04:43,360 --> 00:04:45,360
 Bueno, está bien.
 
-41
-00:05:00,478 --> 00:05:01,968
-Está vivo!
+38
+00:04:48,360 --> 00:04:49,800
+It's alive!
 
-42
-00:05:02,247 --> 00:05:03,976
-Está vivo!
+39
+00:04:50,040 --> 00:04:51,680
+¡Está vivo!
 
-43
-00:05:43,355 --> 00:05:47,223
+40
+00:05:29,559 --> 00:05:32,559
 "Shi Tzu extraviado.
 Si lo ve, llame a Ace Ventura"
 
-44
-00:05:47,525 --> 00:05:52,360
+41
+00:05:33,560 --> 00:05:38,080
 Ay, mi nene, ven acá.
 Extrañaste a tu mami, ¿verdad?
 
-45
-00:05:52,530 --> 00:05:57,024
+42
+00:05:38,320 --> 00:05:42,560
 Sí, me extrañaste. ¿Te lastimó papi?
 Yo no lo dejo. Jamás lo dejaré.
 
-46
-00:05:57,602 --> 00:06:02,301
+43
+00:05:43,160 --> 00:05:47,680
 Se puede quedar con la tele grande
 pero no le hará daño a mi bebé.
 
-47
-00:06:05,877 --> 00:06:08,038
+44
+00:05:51,120 --> 00:05:53,160
 Gracias, Sr. Ventura.
 
-48
-00:06:11,049 --> 00:06:12,880
+45
+00:05:56,040 --> 00:05:57,760
 ¿Cómo se lo voy a poder pagar?
 
-49
-00:06:13,051 --> 00:06:14,484
-Con la recompensa.
+46
+00:05:58,000 --> 00:05:59,280
+Con la recompensa estaría bién.
 
-50
-00:06:14,619 --> 00:06:18,715
+47
+00:05:59,520 --> 00:06:03,400
 Mi auto resultó dañado y le tuve
-que poner gasolina cara.
+que poner gasolina Premium.
 
-51
-00:06:22,227 --> 00:06:25,060
+48
+00:06:06,720 --> 00:06:09,680
 No prefiere que le baje
 los pantalones?
 
-52
-00:06:26,631 --> 00:06:29,327
+49
+00:06:11,000 --> 00:06:13,560
 A ver, déjeme pensar.
 
-53
-00:06:29,501 --> 00:06:30,490
-Pues, déjeme pensar...
+50
+00:06:13,880 --> 00:06:15,080
+Seguro.
 
-54
-00:06:39,511 --> 00:06:42,071
+51
+00:06:23,320 --> 00:06:26,000
 La gente es muy amable
 por estos rumbos.
 
-55
-00:07:45,076 --> 00:07:47,977
+52
+00:07:27,000 --> 00:07:29,000
 "DEPARTAMENTOS Y CUARTOS
 SIN AIRE ACONDICIONADO VACANTES"
 
-56
-00:08:38,630 --> 00:08:40,359
-¿Ventura?
+53
+00:08:17,600 --> 00:08:19,240
+Ventura!
 
-57
-00:08:42,534 --> 00:08:44,024
-¿Sí, Satanás?
+54
+00:08:21,320 --> 00:08:22,800
+Si, Satanás?
 
-58
-00:08:45,136 --> 00:08:48,128
+55
+00:08:23,840 --> 00:08:26,680
 Disculpe, señor.
 Confundí su voz con la de otro.
 
-59
-00:08:48,273 --> 00:08:50,969
+56
+00:08:26,880 --> 00:08:29,320
 Déjate de bromas, Ventura.
 
-60
-00:08:53,478 --> 00:08:55,036
+57
+00:08:31,800 --> 00:08:33,200
 Me debes el dinero de la renta.
 
-61
-00:08:55,213 --> 00:08:58,273
+58
+00:08:33,400 --> 00:08:36,400
 Sr. Shickadance, Ud. es
 mi primera prioridad.
 
-62
-00:08:58,416 --> 00:09:01,977
+59
+00:08:36,640 --> 00:08:40,040
 Estoy trabajando en un caso
 muy importante. Mire esto.
 
-63
-00:09:02,220 --> 00:09:05,155
+60
+00:08:40,240 --> 00:08:42,960
 Mire eso. Es una paloma albina.
 
-64
-00:09:05,290 --> 00:09:08,726
+61
+00:08:43,200 --> 00:08:46,400
 Se fue a un ricachón
 y está ofreciendo $25,000.
 
-65
-00:09:08,893 --> 00:09:10,884
+62
+00:08:46,640 --> 00:08:48,520
 Tan pronto encuentre a este pájaro...
 
-66
-00:09:11,062 --> 00:09:12,051
+63
+00:08:48,760 --> 00:08:49,640
 ...le pago todo.
 
-67
-00:09:12,397 --> 00:09:14,797
+64
+00:08:49,960 --> 00:08:52,240
 Oí animales allá dentro.
 
-68
-00:09:14,999 --> 00:09:17,797
+65
+00:08:52,480 --> 00:08:55,160
 Los volví a oír esta mañana,
 rascando cosas.
 
-69
-00:09:18,002 --> 00:09:20,061
+66
+00:08:55,360 --> 00:08:57,320
 Yo jamás traigo el trabajo a mi casa.
 
-70
-00:09:21,739 --> 00:09:24,401
+67
+00:08:57,600 --> 00:08:58,790
+Oh, si?
+
+68
+00:08:59,080 --> 00:09:01,720
 ¿Para qué es toda esta comida
 de animales?
 
-71
-00:09:25,577 --> 00:09:26,566
+69
+00:09:02,640 --> 00:09:03,520
 Necesito fibra.
 
-72
-00:09:28,413 --> 00:09:30,506
+70
+00:09:05,320 --> 00:09:07,320
 ¿Quiere mirar adentro? ¡Vamos!
 
-73
-00:09:31,249 --> 00:09:32,511
+71
+00:09:08,040 --> 00:09:09,160
 ¡Vamos!
 
-74
-00:09:44,829 --> 00:09:46,820
+72
+00:09:21,080 --> 00:09:23,000
 Pase, eche un ojo.
 
-75
-00:09:59,944 --> 00:10:01,104
-¿Qué dice?
+73
+00:09:35,670 --> 00:09:36,640
+¿y bién?
 
-76
-00:10:01,279 --> 00:10:03,042
+74
+00:09:36,910 --> 00:09:38,550
 ¿Está satisfecho?
 
-77
-00:10:05,617 --> 00:10:09,951
+75
+00:09:41,000 --> 00:09:45,120
 Nada más que no te vaya a pillar
 con un animal aquí.
 
-78
-00:10:10,121 --> 00:10:11,452
+76
+00:09:45,360 --> 00:09:46,550
 Está bien.
 
-79
-00:10:11,623 --> 00:10:13,955
+77
+00:09:46,790 --> 00:09:49,000
 Cuídese. Adiosito, entonces.
 
-80
-00:10:15,860 --> 00:10:17,225
-Fracasado.
+78
+00:09:50,880 --> 00:09:52,080
+Tarugo!
 
-81
-00:10:44,589 --> 00:10:46,147
+79
+00:10:18,280 --> 00:10:19,880
 Vengan, amigos de la selva.
 
-82
-00:11:01,039 --> 00:11:03,530
-Déjame hacerte una pregunta.
+80
+00:10:34,360 --> 00:10:37,200
+Roger, déjame hacerte una pregunta.
 
-83
-00:11:04,409 --> 00:11:07,173
+81
+00:10:37,440 --> 00:10:40,000
 ¿Cómo diablos puede uno perder
 un pez de 225 Kg.?
 
-84
-00:11:09,914 --> 00:11:12,178
+82
+00:10:41,670 --> 00:10:42,480
+Qué?
+
+83
+00:10:42,670 --> 00:10:44,840
 Disculpe, yo sólo iba a decir...
 
-85
-00:11:12,350 --> 00:11:14,910
+84
+00:10:45,040 --> 00:10:47,760
 ...que no es un pez sino un mamífero.
 
-86
-00:11:15,353 --> 00:11:17,617
+85
+00:10:47,960 --> 00:10:50,040
 Gracias, Srta. Jacques Cousteau.
 
-87
-00:11:17,922 --> 00:11:19,787
+86
+00:10:50,440 --> 00:10:52,080
 No lo dijo para ofenderlo.
 
-88
-00:11:19,924 --> 00:11:23,291
+87
+00:10:52,320 --> 00:10:55,480
 Me importa un bledo ese maldito pez.
 
-89
-00:11:23,428 --> 00:11:25,862
+88
+00:10:55,680 --> 00:10:57,960
 hazlo filetes, si quieres.
 
-90
-00:11:26,130 --> 00:11:29,531
+89
+00:10:58,200 --> 00:11:01,440
 Lo único que me importa es ganar
 el Super Bowl.
 
-91
-00:11:29,701 --> 00:11:33,364
+90
+00:11:01,640 --> 00:11:05,160
 Necesito que mis jugadores tengan
 la cabeza en su lugar.
 
-92
-00:11:33,538 --> 00:11:36,939
+91
+00:11:05,360 --> 00:11:09,400
 Caray, tú llevas mucho tiempo
 en este negocio...
 
-93
-00:11:38,142 --> 00:11:41,043
+92
+00:11:09,760 --> 00:11:12,520
 ...sabes lo supersticiosos
 que son los jugadores.
 
-94
-00:11:41,713 --> 00:11:45,809
+93
+00:11:13,160 --> 00:11:17,040
 El "quarterback" se pone los calcetines
 al revés desde la secundaria.
 
-95
-00:11:45,950 --> 00:11:50,148
+94
+00:11:17,280 --> 00:11:21,200
 Un apoyador de línea no ha lavado
 su suspensorio en dos años...
 
-96
-00:11:50,321 --> 00:11:53,051
+95
+00:11:21,440 --> 00:11:24,040
 ...porque cree que las moscas
 dan buena suerte.
 
-97
-00:11:53,391 --> 00:11:57,054
+96
+00:11:24,360 --> 00:11:27,840
 Quiero a ese pez en el campo de juego
 el día del Super Bowl.
 
-98
-00:11:57,228 --> 00:11:58,820
-Encuentren al pez...
+97
+00:11:28,080 --> 00:11:29,520
+Encuentren al pez..
 
-99
-00:11:58,963 --> 00:12:00,726
+98
+00:11:29,760 --> 00:11:31,360
 ...o encuentren nuevos trabajos!
 
-100
-00:12:00,898 --> 00:12:03,833
+99
+00:11:31,600 --> 00:11:34,360
 ¿Por qué se lo roban dos semanas
 antes del Super Bowl?
 
-101
-00:12:03,968 --> 00:12:06,903
+100
+00:11:34,560 --> 00:11:37,400
 Fueron los grupos protectores
 de animales.
 
-102
-00:12:07,071 --> 00:12:08,971
+101
+00:11:37,600 --> 00:11:39,280
 Siempre andan con sus letreros:
 
-103
-00:12:09,173 --> 00:12:12,233
+102
+00:11:39,520 --> 00:11:42,320
 "Los animales nacen libres,
 no torturen a Snowflake".
 
-104
-00:12:12,410 --> 00:12:14,241
+103
+00:11:42,520 --> 00:11:44,520
 El vive mejor que nosotros.
 
-105
-00:12:14,412 --> 00:12:19,349
+104
+00:11:44,720 --> 00:11:49,200
 La policía investiga a los grupos
 protectores de animales. ¿Llamaron?
 
-106
-00:12:19,484 --> 00:12:22,851
+105
+00:11:49,400 --> 00:11:52,560
 No, pero cuando se extravió mi Cuddles,
 contraté a...
 
-107
-00:12:22,987 --> 00:12:24,852
+106
+00:11:52,800 --> 00:11:54,520
 ...un Detective de Mascotas.
 
-108
-00:12:25,423 --> 00:12:26,412
+107
+00:11:55,080 --> 00:11:56,040
 ¿A un qué?
 
-109
-00:12:26,858 --> 00:12:29,190
+108
+00:11:56,440 --> 00:11:58,680
 Un detective de mascotas.
 
-110
-00:12:30,595 --> 00:12:33,587
-Gracias, pero necesitamos
+109
+00:12:00,040 --> 00:12:02,880
+Gracias Marta, pero necesitamos
 a los profesionales.
 
-111
-00:12:33,865 --> 00:12:35,992
+110
+00:12:03,160 --> 00:12:05,200
 Pues, la verdad, era bastante bueno.
 
-112
-00:12:36,200 --> 00:12:40,694
+111
+00:12:05,440 --> 00:12:09,880
 La detección de mascotas es
 un proceso científico muy complicado.
 
-113
-00:13:35,259 --> 00:13:37,056
+112
+00:13:02,040 --> 00:13:03,800
 ¡Como mano en un guante!
 
-114
-00:13:47,271 --> 00:13:49,432
+113
+00:13:13,600 --> 00:13:15,640
 El Sr. Ventura te viene a ver.
 
+114
+00:13:16,560 --> 00:13:17,600
+Gracias, Martha.
+
 115
-00:13:50,341 --> 00:13:52,571
+00:13:17,840 --> 00:13:19,360
 Gracias. hola, soy Melissa Robinson.
 
 116
-00:13:53,511 --> 00:13:54,842
+00:13:19,560 --> 00:13:20,760
 Mucho gusto.
 
 117
-00:13:55,346 --> 00:13:56,938
+00:13:21,320 --> 00:13:22,840
 ¿Tuvo problemas para entrar?
 
 118
-00:13:57,281 --> 00:14:01,445
+00:13:23,160 --> 00:13:27,120
 No, el tipo de los guantes de hule
 me trató con asombrosa delicadeza.
 
 119
-00:14:02,019 --> 00:14:03,816
+00:13:27,480 --> 00:13:29,200
 Es el Super Bowl, se ponen duros.
 
 120
-00:14:04,789 --> 00:14:07,587
+00:13:30,400 --> 00:13:33,600
 Siéntese. Voy a ir directo al grano.
 
 121
-00:14:08,693 --> 00:14:11,025
+00:13:34,120 --> 00:13:38,720
 Alguien se robó nuestra mascota anoche.
-
-122
-00:14:11,129 --> 00:14:13,461
 ¿Conoce a Snowflake?
 
-123
-00:14:13,698 --> 00:14:14,960
+122
+00:13:38,960 --> 00:13:40,080
 Negativo.
 
-124
-00:14:15,099 --> 00:14:18,796
+123
+00:13:40,320 --> 00:13:43,800
 Lo conseguimos en el Acuario Marino
 de Miami. Es un delfín raro.
 
-125
-00:14:18,870 --> 00:14:21,998
+124
+00:13:44,000 --> 00:13:47,200
 iba a hacer este truco nuevo
 en el medio tempo.
 
-126
-00:14:22,473 --> 00:14:23,531
+125
+00:13:47,440 --> 00:13:48,360
 Vamos.
 
-127
-00:14:23,875 --> 00:14:25,638
+126
+00:13:48,680 --> 00:13:50,520
 Azul 42, azul 42.
 
-128
-00:14:30,548 --> 00:14:31,537
+127
+00:13:50,760 --> 00:13:51,880
 Eso es!
 
+128
+00:13:55,480 --> 00:13:56,360
+All right!
+
 129
-00:14:37,121 --> 00:14:38,816
+00:14:01,400 --> 00:14:03,000
 ¡Vamos, muévete!
 
 130
-00:14:43,394 --> 00:14:44,383
+00:14:07,640 --> 00:14:09,240
 ¡Así me gusta!
 
 131
-00:14:53,838 --> 00:14:55,237
+00:14:17,320 --> 00:14:18,720
 ¿Quiere un cenicero?
 
 132
-00:14:56,674 --> 00:14:57,971
+00:14:20,280 --> 00:14:21,560
 No fumo.
 
 133
-00:14:58,142 --> 00:15:00,201
+00:14:21,800 --> 00:14:23,800
 Es un vicio repugnante.
 
 134
-00:15:06,284 --> 00:15:07,683
+00:14:29,560 --> 00:14:30,880
 La policía vino hoy.
 
 135
-00:15:07,985 --> 00:15:10,510
+00:14:31,160 --> 00:14:34,160
 Los secuestradores entraron
 por la puerta trasera.
 
 136
-00:15:10,621 --> 00:15:11,781
-Dijeron, un tipo de...
+00:14:34,680 --> 00:14:37,440
+Una camioneta, dedoble tracción,
+puerta de atrás.
 
 137
-00:15:11,856 --> 00:15:14,757
-Una camioneta, tracción de
-cuatro llantas, puerta de atrás.
+00:14:38,800 --> 00:14:40,320
+Roger, ¿Cómo te sientes?
 
 138
-00:15:16,527 --> 00:15:18,017
-¿Cómo te sientes?
-
-139
-00:15:18,329 --> 00:15:22,095
+00:14:40,720 --> 00:14:44,400
 Si estoy caminando raro
 es por las ladillas de los reporteros.
 
-140
-00:15:22,166 --> 00:15:25,101
+139
+00:14:44,600 --> 00:14:47,560
 Llevan toda la mañana
 preguntándome sobre Snowflake.
 
-141
-00:15:28,372 --> 00:15:29,532
+140
+00:14:50,560 --> 00:14:51,600
 ¿Quién es él?
 
-142
-00:15:29,674 --> 00:15:32,165
+141
+00:14:51,880 --> 00:14:54,160
 Roger Podacter,
 te presento a Ace Ventura.
 
-143
-00:15:32,543 --> 00:15:34,101
+142
+00:14:54,560 --> 00:14:56,200
 Nuestro detective de mascotas.
 
-144
-00:15:35,546 --> 00:15:39,380
+143
+00:14:56,960 --> 00:15:01,080
 Mucho gusto, Martha Mertz
-lo recomendó mucho.
+lo recomendó mucho
 
-145
-00:15:39,450 --> 00:15:40,781
+144
+00:15:01,320 --> 00:15:02,640
 ¿Martha Mertz?
 
-146
-00:15:42,119 --> 00:15:43,882
+145
+00:15:03,760 --> 00:15:05,360
 Ah, sí, la perra.
 
-147
-00:15:45,456 --> 00:15:49,790
+146
+00:15:06,920 --> 00:15:11,040
 Una pequinesa, la perdió en el parque.
 La hallé medio muerta.
 
-148
-00:15:49,961 --> 00:15:51,292
+147
+00:15:11,280 --> 00:15:12,560
 ¿Ese es el tanque?
 
-149
-00:15:52,129 --> 00:15:53,391
+148
+00:15:13,320 --> 00:15:14,520
 Disculpe.
 
-150
-00:16:03,307 --> 00:16:05,798
+149
+00:15:24,040 --> 00:15:26,400
 -¿La policía lo vació?
 -Sí, esta mañana.
 
-151
-00:16:07,812 --> 00:16:09,905
+150
+00:15:28,360 --> 00:15:30,320
 Si no vuelvo en cinco minutos...
 
-152
-00:16:10,081 --> 00:16:11,571
+151
+00:15:30,560 --> 00:15:31,960
 ...esperen un poco más.
 
-153
-00:16:27,565 --> 00:16:32,502
+152
+00:15:47,480 --> 00:15:52,200
 Bitácora del Capitán,
 fecha estelar 23.9, redondéenla a 24.
 
-154
-00:16:32,837 --> 00:16:37,171
+153
+00:15:52,480 --> 00:15:57,400
 hemos regresado en el tiempo para
 evitar la extinción de una especie.
 
-155
-00:16:38,342 --> 00:16:39,502
+154
+00:15:57,800 --> 00:15:58,720
 hasta ahora...
 
-156
-00:16:39,677 --> 00:16:43,670
+155
+00:15:58,920 --> 00:16:03,040
 ...no hay rastros de vida acuática,
 pero la voy a encontrar...
 
-157
-00:16:44,115 --> 00:16:47,516
+156
+00:16:03,240 --> 00:16:06,360
 ...aunque tenga que abrir otro hoyo
 negro en este universo.
 
-158
-00:16:47,585 --> 00:16:50,247
+157
+00:16:06,560 --> 00:16:10,000
 ¡Tengo que hacerlo, señor!
 
-159
-00:17:02,767 --> 00:17:04,632
+158
+00:16:21,080 --> 00:16:22,840
 Qué maravilla.
 
-160
-00:17:05,269 --> 00:17:06,861
+159
+00:16:23,480 --> 00:16:24,960
 Trataré de atajarlos.
 
-161
-00:17:07,038 --> 00:17:09,029
+160
+00:16:25,200 --> 00:16:27,080
 Ace, sal del tanque.
 
-162
-00:17:09,206 --> 00:17:10,969
+161
+00:16:27,280 --> 00:16:28,880
 Simplemente no puedo, Capitán.
 
-163
-00:17:11,142 --> 00:17:13,133
+162
+00:16:29,120 --> 00:16:30,960
 No tengo la potencia.
 
-164
-00:17:15,780 --> 00:17:16,872
+163
+00:16:33,600 --> 00:16:34,560
 ¡Señores!
 
-165
-00:17:17,148 --> 00:17:19,480
+164
+00:16:34,880 --> 00:16:37,040
 ¡Que te salgas del tanque, digo!
 
-166
-00:17:19,650 --> 00:17:23,177
+165
+00:16:37,240 --> 00:16:40,760
 Por el amor de Dios, Jim.
 Soy doctor, no experto en piscinas.
 
-167
-00:17:23,487 --> 00:17:24,977
+166
+00:16:41,000 --> 00:16:42,360
 ¿Dónde está Snowflake?
 
-168
-00:17:25,156 --> 00:17:28,216
+167
+00:16:42,560 --> 00:16:45,440
 Snowflake no está disponible
 en este momento.
 
-169
-00:17:28,392 --> 00:17:32,886
-Llevo todo el día esperando.
+168
+00:16:45,640 --> 00:16:49,920
+Roger,llevo todo el día esperando.
 Necesito filmar su nuevo truco.
 
-170
-00:17:33,064 --> 00:17:34,497
+169
+00:16:50,160 --> 00:16:51,600
 ¿Está enfermo?
 
-171
-00:17:37,602 --> 00:17:39,092
+170
+00:17:07,520 --> 00:17:08,960
 Señores, señores.
 
+171
+00:17:43,720 --> 00:17:45,480
+Lassie debe estar perdido
+
 172
-00:17:39,937 --> 00:17:42,599
-¿Cómo puedo trabajar
-mit todo el griterío?
+00:17:50,080 --> 00:17:51,480
+Make any good collars lately?
 
 173
-00:17:43,341 --> 00:17:45,002
-¿Qué hay de malo mit el griterío?
+00:17:51,720 --> 00:17:53,350
+Or were they leashes?
 
 174
-00:17:46,043 --> 00:17:47,442
-¿Quién diablos es ese?
-
-175
-00:17:47,878 --> 00:17:48,606
-Ese es...
-
-176
-00:17:51,282 --> 00:17:54,774
-einz Gezwellwert,
-soy un entrenador de delfines.
-
-177
-00:17:54,885 --> 00:17:56,876
-Si quieren hablar con el delfín,
-hablan conmigo.
-
-178
-00:17:57,455 --> 00:17:59,116
-¿Qué le pasó al otro entrenador?
-
-179
-00:17:59,523 --> 00:18:01,787
-¿Qué le pasó a él?
-¿Qué me pasó a mí?
-
-180
-00:18:02,627 --> 00:18:04,720
-hace siete años que tengo éxito.
-
-181
-00:18:04,929 --> 00:18:07,727
-Los delfines desaparecen,
-und luego Roy llega...
-
-182
-00:18:07,898 --> 00:18:10,332
-...con el tigre "vlanco",
-und el relleno en los pantalones...
-
-183
-00:18:10,401 --> 00:18:11,368
-...und me despiden!
-
-184
-00:18:12,336 --> 00:18:13,963
-¿Dónde está Snowflake?
-
-185
-00:18:14,538 --> 00:18:17,268
-¿Por qué le interesa Snowflake?
-¿Lo conoce?
-
-186
-00:18:17,541 --> 00:18:20,806
-¿Lo llama a su casa?
-¿Tiene Ud. una aleta dorsal?
-
-187
-00:18:22,079 --> 00:18:24,639
-Para entrenar un delfín,
-hay que pensar como un delfín.
-
-188
-00:18:24,915 --> 00:18:28,817
-Se tiene que poner "undentro"
-la cabeza del delfín und comunicar.
-
-189
-00:18:28,919 --> 00:18:30,477
-Yo le digo a Snowflake...
-
-190
-00:18:31,922 --> 00:18:32,820
-Und él está diciendo...
-
-191
-00:18:33,658 --> 00:18:34,886
-Und Ud. lo puede citar!
-
-192
-00:18:39,063 --> 00:18:40,291
-Ya está por empezar la conferencia
-de prensa del entrenador Shula.
-
-193
-00:18:42,500 --> 00:18:44,934
-¿Por qué no los llevo hacia allá
-y dejamos que elnz...?
-
-194
-00:18:45,369 --> 00:18:48,805
-Vayan a la conferencia. Vayan.
-
-195
-00:19:30,681 --> 00:19:32,512
-Se ha de haber perdido Lassle.
-
-196
-00:19:37,254 --> 00:19:38,915
-¿Enjaulaste a alguien hoy?
-
-197
-00:19:39,090 --> 00:19:40,682
-¿O le pusiste correa?
-
-198
-00:19:50,367 --> 00:19:52,096
+00:18:02,590 --> 00:18:04,280
 homicidio, Ventura.
 
-199
-00:19:53,437 --> 00:19:55,701
+175
+00:18:05,560 --> 00:18:07,720
 ¿Cómo vas a resolver este caso?
 
-200
-00:19:59,043 --> 00:20:01,102
-Buena pregunta, Aguado.
+176
+00:18:10,920 --> 00:18:12,880
+Buena pregunta, Aguado!
 
-201
-00:20:01,278 --> 00:20:02,768
+177
+00:18:13,110 --> 00:18:14,480
 Primero establezco un móvil.
 
-202
-00:20:02,947 --> 00:20:07,714
+178
+00:18:14,720 --> 00:18:19,240
 Aquí, al asesino le dio mucha envidia
-el tamaño del pito del insecto.
+el tamaño del pene del insecto.
 
-203
-00:20:10,788 --> 00:20:12,847
-Después, bajaría 15 Kg. "tírándome"...
+179
+00:18:22,240 --> 00:18:26,000
+Después, bajaría 15 Kg. haciendole
+el amor a su esposa
 
-204
-00:20:13,357 --> 00:20:14,722
-...a su esposa.
+180
+00:18:27,080 --> 00:18:28,350
+Oye!
 
-205
-00:20:14,892 --> 00:20:15,620
-¡Oye!
-
-206
-00:20:15,793 --> 00:20:17,226
-Bueno.
-
-207
-00:20:18,395 --> 00:20:20,454
+181
+00:18:29,320 --> 00:18:32,160
 Dense un beso y hagan las paces.
 
-208
-00:20:25,636 --> 00:20:26,796
+182
+00:18:36,440 --> 00:18:37,480
 Disculpe...
 
-209
-00:20:26,971 --> 00:20:29,565
+183
+00:18:37,760 --> 00:18:40,110
 ...quisiera preguntarle algo.
 
-210
-00:20:30,007 --> 00:20:31,497
+184
+00:18:40,400 --> 00:18:42,110
 En este momento no, Ace.
 
-211
-00:20:31,742 --> 00:20:36,406
+185
+00:18:42,350 --> 00:18:46,760
 Si Elnhorn me ve hablando contigo
 o con tu trasero, estoy frito.
 
-212
-00:20:37,081 --> 00:20:41,814
+186
+00:18:47,400 --> 00:18:51,920
 Lo puedo controlar. Dime a quién
 pusieron en el caso de Snowflake.
 
-213
-00:20:42,086 --> 00:20:45,578
+187
+00:18:52,160 --> 00:18:55,440
 Ahí no te puedo ayudar.
-Tengo las manos atadas.
+Tengo las manos atadas..
 
-214
-00:20:45,656 --> 00:20:49,092
+188
+00:18:55,680 --> 00:18:58,880
+All right, that's it!
 Bueno, ya. Me toca a mí.
 
-215
-00:20:49,260 --> 00:20:51,751
+189
+00:18:59,110 --> 00:19:01,400
 Sólo necesito cinco minutos
 a solas contigo.
 
-216
-00:20:51,929 --> 00:20:54,659
+190
+00:19:01,680 --> 00:19:04,320
 haz como que estás ocupado.
 Ahí viene Elnhorn.
 
-217
-00:20:55,766 --> 00:20:57,495
+191
+00:19:05,320 --> 00:19:06,960
 Ya no hagas eso, por favor.
 
-218
-00:20:57,668 --> 00:21:01,001
+192
+00:19:07,200 --> 00:19:11,160
 ¿Qué te pasa?
 ¿Tienes miedo de que me ponga pedante?
 
-219
-00:21:01,172 --> 00:21:01,934
-Dime.
-
-220
-00:21:02,106 --> 00:21:04,438
+193
+00:19:11,400 --> 00:19:13,520
 Le asignaron el caso a Aguado, ¿ya?
 
-221
-00:21:04,608 --> 00:21:05,836
-Aguado.
+194
+00:19:13,830 --> 00:19:14,880
+Aguado!
 
-222
-00:21:07,011 --> 00:21:08,342
+195
+00:19:16,080 --> 00:19:17,280
 Qué buena decisión.
 
-223
-00:21:08,512 --> 00:21:10,503
+196
+00:19:17,560 --> 00:19:19,520
 Mira, estamos un poco ocupados...
 
-224
-00:21:10,681 --> 00:21:14,777
+197
+00:19:19,720 --> 00:19:23,400
 ...con asesinatos, robos,
-narcotraficantes y cosas por el estilo.
+narcotraficantes y cosas por el estil
 
-225
-00:21:14,952 --> 00:21:17,944
+198
+00:19:23,680 --> 00:19:26,520
 Un delfín desaparecido
-no tiene gran prioridad.
+no tiene gran prioridad
 
-226
-00:21:21,792 --> 00:21:23,521
-Ya hiciste que se encabronaran.
+199
+00:19:30,240 --> 00:19:31,880
+Ya hiciste que se enojaran.
 
-227
-00:21:24,795 --> 00:21:27,958
--Me vas a meter en líos.
--¡Ya no puedo tenerlas quietas!
+200
+00:19:33,110 --> 00:19:36,110
+-Me das un descanso?
+-No puedo soportarlo mas!
 
-228
-00:21:28,132 --> 00:21:29,190
+201
+00:19:36,350 --> 00:19:37,320
 Ahí viene mi jefe.
 
-229
-00:21:30,701 --> 00:21:32,362
+202
+00:19:38,760 --> 00:19:40,320
 Está bien, mira.
 
-230
-00:21:32,536 --> 00:21:35,300
+203
+00:19:40,640 --> 00:19:43,160
 investigamos los grupos
 de protección de animales.
 
-231
-00:21:35,472 --> 00:21:39,704
+204
+00:19:43,400 --> 00:19:47,350
 investigamos a los taxidermistas
 y a los que han rentado camionetas.
 
-232
-00:21:39,877 --> 00:21:43,142
+205
+00:19:47,590 --> 00:19:50,680
 hasta ahora, nada, nanai nada. ¿Ya?
 
-233
-00:21:44,048 --> 00:21:45,538
+206
+00:19:51,560 --> 00:19:53,080
 ¿Alguna apuesta anormal?
 
-234
-00:21:45,716 --> 00:21:47,877
+207
+00:19:53,320 --> 00:19:55,240
 Muchas, va a ser el Super Bowl.
 
-235
-00:21:48,052 --> 00:21:50,646
+208
+00:19:55,520 --> 00:19:57,960
 -¿Qué saben sobre el tanque?
 -Nada interesante.
 
-236
-00:21:51,055 --> 00:21:54,115
-ay unas marcas de llantas
+209
+00:19:58,160 --> 00:20:01,280
+Hay unas marcas de llantas
 y el guardia no vio nada.
 
-237
-00:21:55,226 --> 00:21:56,818
+210
+00:20:02,400 --> 00:20:03,920
 -¿Eso es todo?
--Es todo.
+- Es todo.
 
-238
-00:21:56,994 --> 00:22:00,395
+211
+00:20:04,110 --> 00:20:07,240
 Ahora vete, por favor antes
 de que me meta en problemas.
 
-239
-00:22:03,734 --> 00:22:05,565
+212
+00:20:10,440 --> 00:20:12,200
 Gracias por su cooperación.
 
-240
-00:22:06,170 --> 00:22:08,730
+213
+00:20:12,760 --> 00:20:15,280
 Por cierto, ¿no tiene
 una pastilla de menta?
 
-241
-00:22:09,240 --> 00:22:11,231
+214
+00:20:15,720 --> 00:20:17,640
 ¿O un poco de Binaca?
 
-242
-00:22:23,587 --> 00:22:25,350
-"Calzone mío.
+215
+00:20:29,480 --> 00:20:31,920
+"Calzone mío"
 
-243
-00:22:26,924 --> 00:22:28,585
+216
+00:20:32,880 --> 00:20:34,920
 "Oh, Sodomía."
 
-244
-00:22:32,529 --> 00:22:35,362
+217
+00:20:38,080 --> 00:20:41,240
 ¡Santo Martes de testículos!
 
-245
-00:22:36,600 --> 00:22:39,194
+218
+00:20:42,000 --> 00:20:44,440
 ¿Qué demonios hace él aquí!
 
-246
-00:22:39,603 --> 00:22:41,036
+219
+00:20:44,830 --> 00:20:46,200
 Vine a confesar.
 
-247
-00:22:41,605 --> 00:22:44,768
+220
+00:20:46,760 --> 00:20:49,800
 Yo fui el otro asesino de Kennedy.
 
-248
-00:22:45,542 --> 00:22:49,945
+221
+00:20:50,560 --> 00:20:54,760
 No hagas teatro, Ventura. Yo sé
 que estás en el caso de Snowflake.
 
-249
-00:22:50,281 --> 00:22:54,115
+222
+00:20:55,080 --> 00:20:58,760
 ¿Te puedo sugerir que le dejes
 este caso a los expertos?
 
-250
-00:22:54,385 --> 00:22:56,546
+223
+00:20:59,040 --> 00:21:01,110
 Nosotros encontraremos a la marsopa.
 
-251
-00:22:59,556 --> 00:23:01,046
+224
+00:21:04,000 --> 00:21:05,400
 Qué alivio siento.
 
-252
-00:23:01,959 --> 00:23:05,451
+225
+00:21:06,320 --> 00:21:09,590
 Aunque quizá eso no sirva de nada.
 
-253
-00:23:05,829 --> 00:23:09,265
+226
+00:21:09,800 --> 00:21:13,200
 No se ha perdido ninguna marsopa.
 Se robaron un delfín.
 
-254
-00:23:09,400 --> 00:23:11,300
+227
+00:21:13,440 --> 00:21:16,000
 La marsopa común tiene
 el hocico chato...
 
-255
-00:23:11,368 --> 00:23:15,532
+228
+00:21:16,200 --> 00:21:20,110
 ...y dientes puntiagudos.
 El delfín de nariz de botella...
 
-256
-00:23:16,473 --> 00:23:21,137
+229
+00:21:20,320 --> 00:21:24,640
 ...tiene una nariz larga, dientes curvos
-y una aleta dorsal serrada.
+y una aleta dorsal cerrada.
 
-257
-00:23:21,312 --> 00:23:24,076
+230
+00:21:24,880 --> 00:21:27,480
 Pero estoy seguro de que
 tú ya sabías eso.
 
-258
-00:23:24,415 --> 00:23:26,645
+231
+00:21:27,800 --> 00:21:29,960
 Eso es lo que me excita de ti...
 
-259
-00:23:26,817 --> 00:23:28,409
+232
+00:21:30,200 --> 00:21:31,720
 ...tu atención a los detalles.
 
-260
-00:23:29,253 --> 00:23:31,084
+233
+00:21:32,440 --> 00:21:34,200
 Mira, busca bichos.
 
-261
-00:23:31,655 --> 00:23:35,250
+234
+00:21:34,760 --> 00:21:38,240
 ¿Te gustaría que hiciera
 de tu vida un infierno?
 
-262
-00:23:36,093 --> 00:23:39,585
+235
+00:21:39,040 --> 00:21:42,400
 Pues, no estoy listo para tener
 una relación, Lois...
 
-263
-00:23:39,930 --> 00:23:41,830
+236
+00:21:42,680 --> 00:21:44,520
 ...pero gracias por pedírmelo.
 
-264
-00:23:46,270 --> 00:23:48,534
+237
+00:21:48,880 --> 00:21:50,800
 A ver si un día de estos te llamo.
 
-265
-00:23:48,605 --> 00:23:50,095
+238
+00:21:51,000 --> 00:21:52,320
 ¿Tu número sigue siendo
-E-M-E-R-G-E-N-C-l-A-S?
+9-1-1?
 
-266
-00:23:50,174 --> 00:23:52,005
+239
+00:21:52,560 --> 00:21:54,320
 Bueno, pues.
 
-267
-00:24:31,148 --> 00:24:33,480
+240
+00:22:32,000 --> 00:22:34,080
 Disculpa, ¿está Greg?
 
-268
-00:24:34,385 --> 00:24:35,716
+241
+00:22:35,040 --> 00:22:36,160
 Gracias.
 
-269
-00:24:56,573 --> 00:24:58,404
+242
+00:22:56,200 --> 00:22:57,960
 ¿Cuál es la contraseña?
 
-270
-00:24:58,575 --> 00:25:01,237
+243
+00:22:58,200 --> 00:23:00,640
 Sopa de almejas de Nueva Inglaterra.
 
-271
-00:25:01,745 --> 00:25:04,407
-¿La blanca o la roja?
+244
+00:23:01,160 --> 00:23:03,720
+¿La blanca o la roja
 
-272
-00:25:05,749 --> 00:25:07,580
-Nunca me acuerdo.
+245
+00:23:05,000 --> 00:23:06,760
+Nunca me acuerdo!
 
-273
-00:25:08,585 --> 00:25:09,745
+246
+00:23:07,720 --> 00:23:08,840
 ¿Blanca?
 
-274
-00:25:13,857 --> 00:25:14,846
-ola, Woodstock.
+247
+00:23:12,960 --> 00:23:13,760
+Hey, Woodstock.
 
-275
-00:25:15,025 --> 00:25:17,357
-ola, San  Francisco de Asís,
+248
+00:23:13,960 --> 00:23:16,120
 ¿cómo te va?
 
-276
-00:25:17,528 --> 00:25:21,089
+249
+00:23:16,360 --> 00:23:19,680
 Súper. Gracias por preguntar.
 Espero que pases un día divino.
 
-277
-00:25:21,265 --> 00:25:22,357
+250
+00:23:19,920 --> 00:23:20,880
 ¿De veras?
 
-278
-00:25:22,533 --> 00:25:23,761
+251
+00:23:21,120 --> 00:23:22,240
 ¿No?
 
-279
-00:25:24,701 --> 00:25:26,760
+252
+00:23:23,200 --> 00:23:25,160
 ¿Qué hay contigo?
 
-280
-00:25:26,937 --> 00:25:29,428
-Aquí, viendo peces, amigorrión.
+253
+00:23:25,400 --> 00:23:27,840
+Aquí, viendo peces.
 
-281
-00:25:29,606 --> 00:25:32,939
+254
+00:23:28,040 --> 00:23:31,120
 ¿Ves esas luces?
 Son pescadores de ballenas noruegas.
 
-282
-00:25:33,710 --> 00:25:37,043
+255
+00:23:31,800 --> 00:23:35,040
 Les estoy mandando nuevas
 coordenadas direccionales.
 
-283
-00:25:37,548 --> 00:25:39,106
+256
+00:23:35,480 --> 00:23:37,400
 Van a encontrar a Jimmy Hoffa...
 
-284
-00:25:39,183 --> 00:25:41,174
+257
+00:23:37,600 --> 00:23:39,360
 ...antes que a una sola ballena.
 
-285
-00:25:41,785 --> 00:25:43,616
-Fenomenalísimo. ¿Puedes intervenir...
+258
+00:23:39,600 --> 00:23:44,000
+¿Puedes intervenir...las computadoras
+de tiendas de cosas acuáticas?
 
-286
-00:25:43,787 --> 00:25:46,449
-...las computadoras de tiendas
-de cosas acuáticas?
-
-287
-00:25:46,623 --> 00:25:48,056
+259
+00:23:44,240 --> 00:23:45,520
 Por supuesto. ¿Por qué?
 
-288
-00:25:48,225 --> 00:25:50,455
+260
+00:23:45,760 --> 00:23:47,840
 Para rastrear alguna venta reciente...
 
-289
-00:25:50,627 --> 00:25:53,619
+261
+00:23:48,080 --> 00:23:50,880
 ...de equipo para transportar
 o alojar delfines.
 
-290
-00:25:53,797 --> 00:25:56,891
+262
+00:23:51,120 --> 00:23:54,080
 Por favor, yo pensé que
 me ibas a poner a pensar.
 
-291
-00:25:57,234 --> 00:26:01,796
+263
+00:23:54,360 --> 00:23:58,880
 Aquí hay un montacargas marino,
 un tanque de 80,000 litros...
 
-292
-00:26:02,906 --> 00:26:05,136
+264
+00:23:59,800 --> 00:24:02,040
 Un momento, mira esto.
 
-293
-00:26:06,076 --> 00:26:09,307
+265
+00:24:02,840 --> 00:24:06,000
 Es demasiado equipo para un civil.
 
-294
-00:26:09,646 --> 00:26:11,477
+266
+00:24:06,320 --> 00:24:08,040
 ¿Ronald Camp? ¿El multimillonario?
 
-295
-00:26:11,949 --> 00:26:14,281
+267
+00:24:08,280 --> 00:24:10,560
 Y coleccionista de peces raros.
 
-296
-00:26:14,418 --> 00:26:15,749
+268
+00:24:10,840 --> 00:24:14,440
 ¿De veras?
 
-297
-00:26:18,489 --> 00:26:20,480
+269
+00:24:15,040 --> 00:24:16,640
 Esa es la cara del enemigo.
 
-298
-00:26:21,158 --> 00:26:24,491
+270
+00:24:17,320 --> 00:24:20,480
 Siempre quiere conseguir especies
 en peligro de extinción.
 
-299
-00:26:24,561 --> 00:26:26,153
+271
+00:24:21,200 --> 00:24:22,160
 "Millonario Dona Terreno a delfines"
 
-300
-00:26:26,330 --> 00:26:28,389
+272
+00:24:22,360 --> 00:24:24,160
 ¿Camp tiene nexos con los delfines?
 
-301
-00:26:28,499 --> 00:26:32,094
+273
+00:24:24,400 --> 00:24:27,880
 Es un genio, les dio el terreno
 donde hicieron el estadio.
 
-302
-00:26:32,503 --> 00:26:37,338
+274
+00:24:28,200 --> 00:24:33,040
 Y va a hacer otra fiesta de
 "Soy el hombre más rico del universo".
 
-303
-00:26:40,177 --> 00:26:43,476
+275
+00:24:35,560 --> 00:24:38,840
 Parece que es hora de que consiga
-una muchacha para ir.
+una muchacha para ir. .
 
-304
-00:26:49,286 --> 00:26:51,584
+276
+00:24:44,280 --> 00:24:49,040
 Estoy jugándome el cuello.
-
-305
-00:26:51,822 --> 00:26:54,188
 A estas fiestas sólo viene la elite.
 
-306
-00:26:55,192 --> 00:26:59,959
+277
+00:24:49,320 --> 00:24:54,080
 La cita empezó bien, pero ella se puso
 tensa llegando a la fiesta.
 
-307
-00:27:00,030 --> 00:27:02,294
-Si haces algo vergonzoso...
+278
+00:24:54,600 --> 00:24:56,720
+Si haces algo que me averguenze...
 
-308
-00:27:02,466 --> 00:27:04,366
-¿Qué? ¿Algo como esto?
+279
+00:24:56,960 --> 00:24:58,760
+¿Que?, ¿Algo como esto?
 
-309
-00:27:10,807 --> 00:27:12,468
+280
+00:25:04,920 --> 00:25:06,480
 ola, Capitán  Stubing.
 
-310
-00:27:12,643 --> 00:27:14,201
+281
+00:25:06,720 --> 00:25:08,240
 ¿Cómo están Gopher y Doc?
 
-311
-00:27:14,978 --> 00:27:16,969
+282
+00:25:08,920 --> 00:25:10,840
 Solicito permiso para abordar, señor.
 
-312
-00:27:36,567 --> 00:27:37,898
+283
+00:25:29,640 --> 00:25:31,120
 Discúlpenme, señoritas.
 
-313
-00:27:38,035 --> 00:27:40,697
--Melissa.
--ola, Ron.
-
-314
-00:27:41,405 --> 00:27:42,838
+284
+00:25:34,280 --> 00:25:35,720
 Qué gusto que hayas venido.
 
-315
-00:27:43,173 --> 00:27:44,663
+285
+00:25:36,000 --> 00:25:37,400
 Gracias.
 
-316
-00:27:46,076 --> 00:27:47,168
+286
+00:25:38,760 --> 00:25:39,880
 Te ves preciosa.
 
-317
-00:27:49,413 --> 00:27:51,176
+287
+00:25:42,000 --> 00:25:43,720
 ¿Y él, es un amigo?
 
-318
-00:27:53,684 --> 00:27:55,413
+288
+00:25:45,160 --> 00:25:47,720
+No, this is--
 Es mi acompañante.
 
-319
-00:27:57,187 --> 00:27:58,916
+289
+00:25:49,440 --> 00:25:51,160
 Es abogado.
 
-320
-00:27:59,256 --> 00:28:02,248
+290
+00:25:51,400 --> 00:25:54,400
 ¿Tiene nombre o quieres
 que le diga "abogado"?
 
-321
-00:28:06,029 --> 00:28:08,259
-Disculpa. Te presento a Ace V...
+291
+00:25:58,080 --> 00:26:00,080
+Disculpa. Te presento a Ace V..
 
-322
-00:28:09,766 --> 00:28:11,256
+292
+00:26:01,480 --> 00:26:02,920
 Tom Ace.
 
-323
-00:28:12,269 --> 00:28:13,600
+293
+00:26:03,880 --> 00:26:05,240
 Mucho gusto.
 
-324
-00:28:13,770 --> 00:28:15,931
+294
+00:26:05,440 --> 00:26:07,360
 Felicidades por su gran éxito.
 
-325
-00:28:16,106 --> 00:28:17,539
+295
+00:26:07,600 --> 00:26:09,040
 huele fabuloso.
 
-326
-00:28:18,275 --> 00:28:20,709
+296
+00:26:09,640 --> 00:26:12,080
 Una de las primeras cosas
 que aprendimos...
 
-327
-00:28:21,311 --> 00:28:22,209
+297
+00:26:12,280 --> 00:26:13,320
 ...allá en Stanford...
 
-328
-00:28:22,379 --> 00:28:26,110
+298
+00:26:13,600 --> 00:26:18,520
 ...fue que hay muchas demandas
 contra ricachones por envenenamiento.
 
-329
-00:28:28,051 --> 00:28:31,145
+299
+00:26:18,800 --> 00:26:21,960
 Uno puede hacer una pequeña fortuna
 dedicándose...
 
-330
-00:28:31,221 --> 00:28:32,552
+300
+00:26:22,160 --> 00:26:23,360
 ...exclusivamente a eso.
 
-331
-00:28:34,791 --> 00:28:36,884
+301
+00:26:25,480 --> 00:26:27,480
 ¿Cómo se están sintiendo todos?
 
-332
-00:28:37,628 --> 00:28:39,619
+302
+00:26:28,240 --> 00:26:30,160
 Muy bien. Gracias.
 
-333
-00:28:40,831 --> 00:28:41,889
+303
+00:26:31,040 --> 00:26:32,160
 Mira, corazón...
 
-334
-00:28:41,965 --> 00:28:43,728
+304
+00:26:32,400 --> 00:26:34,080
 ...ahí están los canapés.
 
-335
-00:28:44,401 --> 00:28:45,732
-hasta luego.
-
-336
-00:28:50,974 --> 00:28:54,637
+305
+00:26:41,040 --> 00:26:44,520
 ¿Estás loco? Camp no se robó
 a Snowflake ni en sueños.
 
-337
-00:28:55,145 --> 00:28:56,806
+306
+00:26:45,040 --> 00:26:47,000
 ¿Qué estás tratando de hacer?
 
-338
-00:29:01,585 --> 00:29:04,986
+307
+00:26:51,240 --> 00:26:54,440
 Nada más mantenlo ocupado mientras
 yo hago mi magia.
 
-339
-00:29:10,827 --> 00:29:12,488
+308
+00:27:00,080 --> 00:27:01,640
 Gomosa, ¿verdad?
 
-340
-00:29:22,172 --> 00:29:25,164
+309
+00:27:10,920 --> 00:27:13,800
 Mi nuevo proveedor de París
-mandó varias cajas.
+mandó varias cajas
 
-341
-00:29:26,276 --> 00:29:27,766
-Disculpe...
+310
+00:27:14,840 --> 00:27:16,280
+Disculpe...Ron
 
-342
-00:29:27,944 --> 00:29:30,003
+311
+00:27:16,520 --> 00:27:18,440
 ...necesito usar el baño.
 
-343
-00:29:30,280 --> 00:29:32,510
+312
+00:27:18,680 --> 00:27:20,800
 Creo que fue el paté.
 
-344
-00:29:32,683 --> 00:29:34,446
+313
+00:27:21,040 --> 00:27:22,680
 Seguro, allá está.
 
-345
-00:29:35,519 --> 00:29:38,352
-Esa pasta se ha de ver mejor de salida.
+314
+00:27:23,720 --> 00:27:26,440
+Esa pasta se ha de ver mejor de salida..
 
-346
-00:29:45,862 --> 00:29:48,296
+315
+00:27:33,640 --> 00:27:36,000
 No se estaba sintiendo bien
 desde antes.
 
-347
-00:31:27,297 --> 00:31:28,628
+316
+00:29:11,080 --> 00:29:12,200
 Fenomenalísimo.
 
-348
-00:31:32,302 --> 00:31:33,963
+317
+00:29:15,720 --> 00:29:17,320
 No te preocupes, Snowflake.
 
-349
-00:31:34,237 --> 00:31:35,898
-Ace Ventura está aquí.
+318
+00:29:17,560 --> 00:29:19,200
+Ace Ventura está aquí..
 
-350
-00:31:39,242 --> 00:31:40,573
-Qué sabroso.
+319
+00:29:22,400 --> 00:29:23,600
+Qué sabroso!
 
-351
-00:31:59,763 --> 00:32:01,094
-Snowflake.
+320
+00:29:42,080 --> 00:29:43,280
+Snowflake!
 
-352
-00:32:02,666 --> 00:32:04,156
+321
+00:29:44,840 --> 00:29:46,360
 Toma, Snowflake.
 
-353
-00:32:05,602 --> 00:32:07,593
-Tengo un tentempié para ti.
+322
+00:29:47,640 --> 00:29:49,560
+Tengo una botanita para ti.
 
-354
-00:32:21,852 --> 00:32:23,786
+323
+00:30:03,440 --> 00:30:05,120
 Son maravillosos, ¿verdad?
 
-355
-00:32:24,521 --> 00:32:26,512
+324
+00:30:05,800 --> 00:30:07,720
 Sí, ya lo creo.
 
-356
-00:32:27,357 --> 00:32:29,621
+325
+00:30:08,520 --> 00:30:10,640
 No importa qué esté pasando
 en mi vida...
 
-357
-00:32:29,793 --> 00:32:31,852
+326
+00:30:10,880 --> 00:30:12,840
 ...si me pongo a contemplarlos...
 
-358
-00:32:32,195 --> 00:32:34,527
+327
+00:30:13,160 --> 00:30:15,400
 ...siento una paz completa.
 
-359
-00:32:41,972 --> 00:32:43,530
-No es Snowflake.
-
-360
-00:32:44,374 --> 00:32:45,966
-No es Snowflake.
-
-361
-00:32:47,310 --> 00:32:48,800
+328
+00:30:22,520 --> 00:30:24,040
 No es Snowflake!
 
-362
-00:33:08,999 --> 00:33:11,058
+329
+00:30:24,840 --> 00:30:26,400
+No es Snowflake!
+
+330
+00:30:27,840 --> 00:30:30,400
+No es Snowflake!
+
+331
+00:30:48,440 --> 00:30:50,440
 ¿Segura que tu acompañante está bien?
 
-363
-00:33:11,334 --> 00:33:13,234
+332
+00:30:50,680 --> 00:30:52,480
 Lleva mucho tiempo dentro.
 
-364
-00:33:13,403 --> 00:33:14,836
+333
+00:30:52,720 --> 00:30:54,000
 ¿Quién, Tom?
 
-365
-00:33:15,005 --> 00:33:17,166
+334
+00:30:54,240 --> 00:30:56,400
 Estoy segura de que está bien.
 
-366
-00:33:28,018 --> 00:33:30,009
+335
+00:31:06,680 --> 00:31:08,600
 No entren ahí.
 
-367
-00:33:43,867 --> 00:33:47,598
+336
+00:31:21,880 --> 00:31:25,400
 Lo siento. Llamaré al plomero
-de inmediato.
+de inmediato
 
-368
-00:33:47,771 --> 00:33:51,935
+337
+00:31:25,680 --> 00:31:29,600
 Llámelo. Si hubiera estado tomando agua
 del excusado, habría muerto.
 
-369
-00:33:52,108 --> 00:33:54,269
+338
+00:31:29,840 --> 00:31:31,880
 Otra vez le ofrezco mis disculpas.
 
-370
-00:34:00,116 --> 00:34:01,606
+339
+00:31:37,480 --> 00:31:38,880
 ¿Qué estás haciendo?
 
-371
-00:34:01,785 --> 00:34:03,377
+340
+00:31:39,120 --> 00:31:40,560
 Te pido disculpas, Ron.
 
-372
-00:34:03,553 --> 00:34:04,952
+341
+00:31:40,800 --> 00:31:42,080
 ¿Qué está haciendo?
 
-373
-00:34:05,121 --> 00:34:06,554
-¡Vámonos!
+342
+00:31:42,320 --> 00:31:43,640
+¿Qué está haciendo?
 
-374
-00:34:09,960 --> 00:34:11,393
-Ya basta.
+343
+00:31:46,920 --> 00:31:48,320
+Ya basta!
 
-375
-00:34:12,629 --> 00:34:15,723
+344
+00:31:49,480 --> 00:31:52,400
 ni siquiera quiero saber por qué
-no traes pantalones.
+no traes pantalones!
 
-376
-00:34:15,899 --> 00:34:17,594
-Podría perder mi empleo.
+345
+00:31:52,640 --> 00:31:54,360
+Podría perder mi empleo!
 
-377
-00:34:18,401 --> 00:34:22,064
+346
+00:31:55,040 --> 00:31:58,480
 hallaste un guijarro en el tanque.
 Llamaré a los noticieros.
 
-378
-00:34:22,238 --> 00:34:24,468
+347
+00:31:58,720 --> 00:32:00,800
 La hallé en el filtro, gracias.
 
-379
-00:34:24,641 --> 00:34:29,135
+348
+00:32:01,040 --> 00:32:05,320
 Y no es un guijarro. Es ámbar naranja,
-muy raro, de corte triangular.
+muy raro, de corte triangular..
 
-380
-00:34:30,814 --> 00:34:32,577
+349
+00:32:06,920 --> 00:32:08,560
 ¿De qué hablas?
 
-381
-00:34:32,749 --> 00:34:35,980
+350
+00:32:08,800 --> 00:32:11,880
 hoy vi la misma piedra
 en el anillo de Camp.
 
-382
-00:34:36,252 --> 00:34:38,413
+351
+00:32:12,160 --> 00:32:14,160
 ¿No dijiste que Camp no fue?
 
-383
-00:34:38,588 --> 00:34:41,148
+352
+00:32:14,400 --> 00:32:16,680
 No, a su anillo no le faltaba
 una piedra.
 
-384
-00:34:41,324 --> 00:34:44,259
+353
+00:32:16,920 --> 00:32:19,800
 Pero el que se metió al tanque
 tenía un anillo igual.
 
-385
-00:34:44,427 --> 00:34:46,327
+354
+00:32:20,000 --> 00:32:21,800
 ¿anillo? ¿Qué anillo?
 
-386
-00:34:48,999 --> 00:34:52,332
+355
+00:32:24,360 --> 00:32:27,560
 El anillo de campeones de la AFC,
 1984, de los delfines.
 
-387
-00:34:54,170 --> 00:34:56,104
-Encuentro el anillo...
+356
+00:32:29,280 --> 00:32:33,040
+Encuentro el anillo sin piedra,
+Encuentro a Snowflake.
 
-388
-00:34:56,272 --> 00:34:57,933
-...y encuentro a Snowflake.
-
-389
-00:34:59,175 --> 00:35:00,836
+357
+00:32:34,160 --> 00:32:35,840
 ¿Cómo lo vas a hacer?
 
-390
-00:35:03,013 --> 00:35:04,344
+358
+00:32:37,800 --> 00:32:39,080
 Es muy sencillo.
 
-391
-00:35:11,521 --> 00:35:12,453
-Fracasado!
+359
+00:32:46,160 --> 00:32:46,960
+Tarugo!
 
-392
-00:35:12,622 --> 00:35:15,022
+360
+00:32:47,160 --> 00:32:49,320
 ¿Por qué no aprendes a manejar, amigo?
 
-393
-00:35:17,027 --> 00:35:18,187
+361
+00:32:51,240 --> 00:32:52,440
 ¿quieres jugar?
 
-394
-00:35:28,204 --> 00:35:29,466
-Rayos.
+362
+00:33:02,000 --> 00:33:03,200
+Rayos!
 
-395
-00:37:52,782 --> 00:37:55,114
+363
+00:35:20,800 --> 00:35:22,800
 Esa piedra puede ser de otro lado.
 
-396
-00:37:55,285 --> 00:37:57,014
-Puede ser de...
+364
+00:35:23,040 --> 00:35:24,640
+Puede ser de..
 
-397
-00:37:57,187 --> 00:38:00,020
+365
+00:35:24,880 --> 00:35:27,710
 ...un collar o un pendiente, un arete.
 
-398
-00:38:00,456 --> 00:38:04,688
+366
+00:35:28,000 --> 00:35:32,080
 Es de un anillo de campeonato
 de la conferencia Americana de Fútbol.
 
-399
-00:38:08,798 --> 00:38:12,529
-Elnhorn sospecha de grupos
+367
+00:35:36,000 --> 00:35:40,670
+Einhorn sospecha de grupos
 protectores de animales.
 
-400
-00:38:12,735 --> 00:38:13,997
-¿Conoces el LAA?
-
-401
-00:38:14,137 --> 00:38:17,698
+368
+00:35:41,320 --> 00:35:45,880
 ¿"Liberen a los animales Ahora",
-fundado por Chelsea Gamble?
+fundado por Chelsea Gamble
 
-402
-00:38:19,209 --> 00:38:21,302
+369
+00:35:46,080 --> 00:35:48,040
 ¿Más de medio millón de miembros?
 
-403
-00:38:21,477 --> 00:38:23,377
-No. ¿Quiénes son?
+370
+00:35:48,230 --> 00:35:50,080
+¿Más de medio millón de miembros?
 
-404
-00:38:24,480 --> 00:38:27,540
-El año pasado enviaron
+371
+00:35:50,920 --> 00:35:51,880
+Sabias que el año pasado enviaron
 127 cartas amenazadoras...
 
-405
-00:38:27,717 --> 00:38:29,981
-...para que los equipos soltaran
-a sus mascotas.
+372
+00:35:52,160 --> 00:35:56,280
+...demandando que los equipos
+soltaran a sus mascotas?
 
-406
-00:38:30,153 --> 00:38:31,643
+373
+00:35:56,480 --> 00:35:57,960
 ¿Qué le das a tu perro?
 
-407
-00:38:33,489 --> 00:38:35,389
+374
+00:35:59,640 --> 00:36:01,600
 Comida para perro, ¿por qué?
 
-408
-00:38:35,558 --> 00:38:37,048
-Está sufriendo.
+375
+00:36:01,800 --> 00:36:03,190
+Está sufriendo!
 
-409
-00:38:37,827 --> 00:38:38,987
-¿Qué?
+376
+00:36:03,710 --> 00:36:05,080
+¿De que hablas?
 
-410
-00:38:39,162 --> 00:38:43,394
+377
+00:36:05,280 --> 00:36:09,120
 Es muy infeliz. Me da lástima.
 Mala dieta, aislamiento...
 
-411
-00:38:43,566 --> 00:38:45,557
+378
+00:36:09,360 --> 00:36:11,360
 ...es sorprendente que siga vivo.
 
-412
-00:38:47,570 --> 00:38:51,836
+379
+00:36:13,190 --> 00:36:17,360
 Estás enojado porque tu teoría
-del guijarro no sirvió para nada.
+del guijarro no sirvió para nada..
 
-413
-00:38:52,008 --> 00:38:53,498
+380
+00:36:17,560 --> 00:36:18,920
 No puedes expresar enojo.
 
-414
-00:38:54,344 --> 00:38:56,403
+381
+00:36:19,640 --> 00:36:21,640
 ¿Ah, sí? Y tú eres fea.
 
-415
-00:38:58,248 --> 00:39:01,183
+382
+00:36:23,360 --> 00:36:26,320
 ni siquiera voy a hablar contigo.
-Vete, por favor.
+Vete, por favor
 
-416
-00:39:01,417 --> 00:39:03,408
+383
+00:36:26,520 --> 00:36:28,320
 ¿Para que puedas pegarle a tu perro?
 
-417
-00:39:03,586 --> 00:39:04,575
+384
+00:36:28,560 --> 00:36:29,520
 Gorda.
 
-418
-00:39:05,521 --> 00:39:06,920
+385
+00:36:30,360 --> 00:36:31,670
 Eres increíble.
 
-419
-00:39:07,090 --> 00:39:09,251
-Contratarte fue un grave error.
+386
+00:36:31,920 --> 00:36:34,080
+Contratarte fue un grave error..
 
-420
-00:39:09,525 --> 00:39:12,426
+387
+00:36:34,280 --> 00:36:37,040
 ¿Por qué no lloras? Caderona.
 
-421
-00:39:17,433 --> 00:39:18,923
+388
+00:36:41,800 --> 00:36:43,280
 Le tienes afecto, ¿verdad?
 
-422
-00:39:19,769 --> 00:39:21,532
+389
+00:36:44,080 --> 00:36:45,710
 Sí, es buena persona.
 
-423
-00:39:30,914 --> 00:39:32,973
+390
+00:36:54,880 --> 00:36:56,880
 Mira, Melissa, yo...
 
-424
-00:39:36,653 --> 00:39:40,919
+391
+00:37:00,400 --> 00:37:04,440
 Estoy en las Torres de la Playa Norte,
 unos condominios de Miami...
 
-425
-00:39:41,090 --> 00:39:44,821
+392
+00:37:04,670 --> 00:37:08,190
 ...donde Roger Podacter,
 Jefe de Operaciones de los delfines...
 
-426
-00:39:44,994 --> 00:39:47,155
+393
+00:37:08,440 --> 00:37:10,440
 ...aparentemente se ha suicidado.
 
-427
-00:39:47,330 --> 00:39:51,664
+394
+00:37:10,670 --> 00:37:14,280
 El Sr. Podacter supuestamente saltó
 desde su departamento del piso 20...
 
-428
-00:40:00,176 --> 00:40:01,768
+395
+00:37:23,000 --> 00:37:24,400
 ¿Estás bien?
 
-429
-00:40:02,011 --> 00:40:04,605
+396
+00:37:24,760 --> 00:37:27,120
 Ya se lo dije. Estaba
 en mi departamento...
 
-430
-00:40:04,781 --> 00:40:06,009
+397
+00:37:27,320 --> 00:37:28,440
 ...al otro lado del pasillo.
 
-431
-00:40:06,516 --> 00:40:08,347
+398
+00:37:29,040 --> 00:37:30,760
 Oí un grito...
 
-432
-00:40:08,518 --> 00:40:10,509
+399
+00:37:31,000 --> 00:37:32,880
 ...así que llamé al administrador.
 
-433
-00:40:12,021 --> 00:40:14,512
+400
+00:37:33,400 --> 00:37:36,640
 No había nadie dentro,
 excepto el perro.
 
-434
-00:40:14,691 --> 00:40:17,285
+401
+00:37:36,840 --> 00:37:39,280
 Abrí la puerta del balcón y me asomé...
 
-435
-00:40:17,460 --> 00:40:19,621
+402
+00:37:39,480 --> 00:37:41,560
 ...zas, tortillitas de manteca.
 
-436
-00:40:19,796 --> 00:40:21,855
+403
+00:37:41,800 --> 00:37:43,800
 Bueno, muchas gracias.
 
-437
-00:40:27,203 --> 00:40:28,636
-ola.
+404
+00:37:48,880 --> 00:37:50,190
+Hola, fella.
 
-438
-00:40:28,805 --> 00:40:30,204
+405
+00:37:50,440 --> 00:37:51,800
 ¿Pasaste una mala noche?
 
-439
-00:40:41,150 --> 00:40:42,310
+406
+00:38:02,230 --> 00:38:03,360
 Como ves...
 
-440
-00:40:42,652 --> 00:40:44,813
+407
+00:38:03,710 --> 00:38:05,710
 ...los animales perciben el mal.
 
-441
-00:40:44,988 --> 00:40:46,888
+408
+00:38:05,960 --> 00:38:07,710
 ¿Cómo entró el Dr. Doolitle?
 
-442
-00:40:47,056 --> 00:40:49,650
+409
+00:38:07,960 --> 00:38:10,320
 Teniente, vino con la Srta. Robinson.
 
-443
-00:40:49,826 --> 00:40:54,729
+410
+00:38:10,600 --> 00:38:15,280
 Esto no te atañe. Si el forense
 encuentra una chinche, te avisaremos.
 
-444
-00:40:57,500 --> 00:40:58,558
+411
+00:38:17,960 --> 00:38:18,880
 Acéptalo...
 
-445
-00:40:59,168 --> 00:41:00,931
-Olvídalo, tiene razón.
+412
+00:38:19,080 --> 00:38:21,080
+Olvídalo, ella tiene razón.
 
-446
-00:41:01,004 --> 00:41:02,062
+413
+00:38:21,320 --> 00:38:22,280
 Además...
 
-447
-00:41:02,238 --> 00:41:06,732
+414
+00:38:22,520 --> 00:38:26,840
 ...me molestaría que alguien
 me siguiera y señalara mis errores.
 
-448
-00:41:21,357 --> 00:41:22,688
+415
+00:38:40,840 --> 00:38:42,040
 ¿Entonces, según tú...
 
-449
-00:41:22,859 --> 00:41:26,693
+416
+00:38:42,280 --> 00:38:45,880
 ...esto no es un suicidio obvio,
 Sr. detective de Mascotas?
 
-450
-00:41:27,263 --> 00:41:31,597
-Yo no diría eso. ay  evidencia
+417
+00:38:46,480 --> 00:38:50,600
+Yo no diría eso. Hay evidencia
 aquí que confirma tu teoría.
 
-451
-00:41:31,768 --> 00:41:34,862
+418
+00:38:50,840 --> 00:38:54,000
 Excepto, claro, esa mancha
 de sangre en el riel.
 
-452
-00:41:40,109 --> 00:41:42,270
+419
+00:38:58,670 --> 00:39:00,840
 Te voy a decir qué creo que pasó.
 
-453
-00:41:42,445 --> 00:41:44,709
+420
+00:39:01,080 --> 00:39:02,400
 Bueno. Roger Podacter
 tomó unas copas...
 
-454
-00:41:45,214 --> 00:41:47,774
+421
+00:39:02,600 --> 00:39:06,120
 ...después del trabajo
 y vino a su casa.
 
-455
-00:41:47,950 --> 00:41:51,886
+422
+00:39:06,360 --> 00:39:09,960
 Pero no vino solo. Estaba acompañado.
-hubo un forcejeo...
+hubo un forcejeo..
 
-456
-00:41:52,121 --> 00:41:54,715
+423
+00:39:10,190 --> 00:39:12,640
 ...y lo arrojaron por ese balcón.
 
-457
-00:41:54,891 --> 00:41:57,291
+424
+00:39:12,880 --> 00:39:15,230
 Roger Podacter no se suicidó.
 
-458
-00:41:57,627 --> 00:41:59,390
+425
+00:39:15,640 --> 00:39:17,190
 Fue asesinado.
 
-459
-00:42:01,064 --> 00:42:03,396
+426
+00:39:18,880 --> 00:39:21,080
 Qué historia tan entretenida, pero...
 
-460
-00:42:03,566 --> 00:42:07,798
+427
+00:39:21,320 --> 00:39:25,360
 ...los detectives de verdad tienen
 que preocuparse por algo llamado...
 
-461
-00:42:08,071 --> 00:42:09,561
+428
+00:39:25,640 --> 00:39:27,080
 ...evidencia.
 
-462
-00:42:11,908 --> 00:42:14,069
+429
+00:39:29,320 --> 00:39:31,320
 Oí que le jalaban a un excusado.
 
-463
-00:42:14,243 --> 00:42:16,575
+430
+00:39:31,560 --> 00:39:33,760
 quizá alguien perdió una tortuga.
 
-464
-00:42:20,149 --> 00:42:21,639
+431
+00:39:37,190 --> 00:39:38,670
 Bueno...
 
-465
-00:42:22,318 --> 00:42:24,650
+432
+00:39:39,280 --> 00:39:41,520
 ...supongo que yo soy un pobre idiota.
 
-466
-00:42:26,823 --> 00:42:28,313
+433
+00:39:43,640 --> 00:39:45,080
 Buen trabajo.
 
-467
-00:42:35,932 --> 00:42:39,595
+434
+00:39:52,320 --> 00:39:55,840
 Sólo hay una cosa más, teniente.
 
-468
-00:42:40,436 --> 00:42:43,428
+435
+00:39:56,640 --> 00:39:59,480
 Esta mujer vive al otro lado
 del pasillo.
 
-469
-00:42:43,606 --> 00:42:46,006
+436
+00:39:59,710 --> 00:40:01,920
 Dijo que oyó un grito, ¿verdad?
 
-470
-00:42:46,175 --> 00:42:49,167
+437
+00:40:02,120 --> 00:40:05,000
 ¿Y Ud. tuvo que abrir la puerta
 del balcón al llegar?
 
-471
-00:42:49,345 --> 00:42:52,940
+438
+00:40:05,230 --> 00:40:08,600
 -Así es.
 -¿Seguro que abrió la puerta?
 
-472
-00:42:53,116 --> 00:42:54,344
+439
+00:40:08,840 --> 00:40:09,800
 Estoy seguro.
 
-473
-00:42:54,517 --> 00:42:56,508
+440
+00:40:10,040 --> 00:40:11,960
 Ve al grano, Ventura.
 
-474
-00:42:57,120 --> 00:42:59,020
+441
+00:40:12,640 --> 00:40:14,480
 Se trata de esto.
 
-475
-00:43:11,868 --> 00:43:15,304
+442
+00:40:26,670 --> 00:40:29,920
 Este vidrio es de doble hoja,
 antisonoro. No es posible...
 
-476
-00:43:15,471 --> 00:43:19,134
+443
+00:40:30,160 --> 00:40:33,600
 ...que el grito de Podacter llegara
 a oídos de la vecina.
 
-477
-00:43:19,308 --> 00:43:21,708
+444
+00:40:33,840 --> 00:40:36,080
 Ella oyó gritos que salían
 de acá dentro...
 
-478
-00:43:21,878 --> 00:43:26,815
+445
+00:40:36,320 --> 00:40:41,000
 ...antes de que lo arrojaran.
-El asesino cerró la puerta al irse.
+El asesino cerró la puerta al irse...
 
-479
-00:43:29,886 --> 00:43:31,979
+446
+00:40:43,960 --> 00:40:45,960
 ¿No lo sientes, corazón?
 
-480
-00:43:34,056 --> 00:43:35,387
-e...
+447
+00:40:47,960 --> 00:40:52,040
+He exorcizado los demonios.
 
-481
-00:43:35,558 --> 00:43:38,322
-...exorcizado los demonios.
-
-482
-00:43:40,496 --> 00:43:42,987
+448
+00:40:54,120 --> 00:40:56,560
 Esta casa está limpia.
 
-483
-00:43:44,400 --> 00:43:46,061
+449
+00:40:57,920 --> 00:40:59,480
 -Fracasados.
 -¡Sáquenlo de aquí!
 
-484
-00:43:46,669 --> 00:43:49,832
+450
+00:41:00,040 --> 00:41:03,080
 -¡Fracasados! ¡Fracasados!
 - Vámonos, Ace.
 
-485
-00:43:50,406 --> 00:43:51,737
+451
+00:41:03,760 --> 00:41:04,880
 Fracasados.
 
-486
-00:43:54,343 --> 00:43:55,332
+452
+00:41:07,400 --> 00:41:08,360
 Vámonos.
 
-487
-00:43:55,511 --> 00:43:57,342
+453
+00:41:08,560 --> 00:41:10,280
 De regreso al zoológico.
 
-488
-00:44:00,583 --> 00:44:02,073
+454
+00:41:13,400 --> 00:41:14,840
 ¿Qué estás pensando?
 
-489
-00:44:02,852 --> 00:44:05,184
+455
+00:41:15,600 --> 00:41:17,800
 Que todo está relacionado.
 
-490
-00:44:05,855 --> 00:44:08,255
-quiero encontrar el otro anillo.
+456
+00:41:18,480 --> 00:41:20,760
+quiero encontrar el otro anillo
 
-491
-00:44:10,193 --> 00:44:12,423
+457
+00:41:22,640 --> 00:41:24,710
 Ace, ya viste todos los anillos.
 
-492
-00:44:12,595 --> 00:44:14,859
+458
+00:41:24,960 --> 00:41:27,040
 ¿Recibos? ¿Y los recibos?
 
-493
-00:44:15,031 --> 00:44:16,692
+459
+00:41:27,280 --> 00:41:28,880
 Tiene que haber recibos.
 
-494
-00:44:16,866 --> 00:44:20,529
-"Propiedades de la NFL 1990.
-Propiedades de la NFL 1991"
-
-495
-00:44:25,775 --> 00:44:29,211
+460
+00:41:37,600 --> 00:41:40,840
 Estuvo impresionante lo que hiciste
 en el departamento.
 
-496
-00:44:29,946 --> 00:44:31,607
+461
+00:41:41,560 --> 00:41:43,160
 No me lo tienes que decir.
 
-497
-00:44:32,048 --> 00:44:33,606
+462
+00:41:43,600 --> 00:41:45,080
 Estuve presente.
 
-498
-00:44:35,718 --> 00:44:39,552
+463
+00:41:47,080 --> 00:41:50,760
 quizá deberías volverte
 un detective de verdad.
 
-499
-00:44:39,789 --> 00:44:41,723
+464
+00:41:51,040 --> 00:41:52,880
 No investigo cosas de humanos.
 
-500
-00:44:44,060 --> 00:44:45,618
+465
+00:41:55,080 --> 00:41:56,640
 Tú amas a los animales.
 
-501
-00:44:47,463 --> 00:44:49,124
+466
+00:41:58,360 --> 00:42:00,000
 Si hace suficiente frío.
 
-502
-00:44:51,067 --> 00:44:53,729
-No, tengo un relación
+467
+00:42:01,840 --> 00:42:04,360
+No, tengo una relación
 muy especial con ellos.
 
-503
-00:44:53,970 --> 00:44:55,460
-Los entiendo.
+468
+00:42:04,600 --> 00:42:06,040
+Los entiendo...
 
-504
-00:44:57,473 --> 00:44:59,407
+469
+00:42:07,960 --> 00:42:09,800
 ¿Te cuento algo macabro?
 
-505
-00:45:03,579 --> 00:45:07,913
+470
+00:42:10,000 --> 00:42:11,190
+Seguro.
+
+471
+00:42:13,800 --> 00:42:17,960
 Una vez, cuando tenía 12 años,
 soñé que me seguía...
 
-506
-00:45:08,150 --> 00:45:09,981
+472
+00:42:18,190 --> 00:42:19,920
 ...un perro rabioso.
 
-507
-00:45:10,152 --> 00:45:12,086
+473
+00:42:20,160 --> 00:42:22,000
 Tenía los ojos inyectados...
 
-508
-00:45:12,255 --> 00:45:14,155
+474
+00:42:22,190 --> 00:42:23,960
 ...y echaba espuma por la boca.
 
-509
-00:45:14,590 --> 00:45:19,323
+475
+00:42:24,360 --> 00:42:29,080
 Y por más rápido que yo corría,
 me iba alcanzando.
 
-510
-00:45:21,764 --> 00:45:24,597
+476
+00:42:31,230 --> 00:42:33,960
 Justo antes de llegar
 a la puerta de mi casa...
 
-511
-00:45:24,934 --> 00:45:27,425
+477
+00:42:34,280 --> 00:42:36,640
 ...el perro saltó
 y me encajó los dientes.
 
-512
-00:45:29,438 --> 00:45:31,338
+478
+00:42:38,640 --> 00:42:40,440
 Entonces me desperté...
 
-513
-00:45:31,507 --> 00:45:34,442
-...y me toqué la nuca. Mira esto.
+479
+00:42:40,670 --> 00:42:43,640
+...y me toqué la nuca. Mira esto..
 
-514
-00:45:37,947 --> 00:45:39,278
+480
+00:42:46,760 --> 00:42:48,040
 idiota.
 
-515
-00:45:40,616 --> 00:45:43,278
+481
+00:42:49,320 --> 00:42:51,880
 Disculpa, no me pude
 aguantar las ganas.
 
-516
-00:45:44,186 --> 00:45:45,847
+482
+00:42:52,760 --> 00:42:54,360
 ¿Te digo por qué hago esto?
 
-517
-00:45:46,022 --> 00:45:47,785
-No sé si quiero.
+483
+00:42:54,560 --> 00:42:56,230
+No sé si quiero
 
-518
-00:45:47,957 --> 00:45:49,515
+484
+00:42:56,440 --> 00:42:57,880
 Más vale que quieras...
 
-519
-00:45:50,192 --> 00:45:52,456
+485
+00:42:58,560 --> 00:43:00,920
 ...porque ya que te metes
 en mi cabeza...
 
-520
-00:45:53,029 --> 00:45:54,690
+486
+00:43:01,230 --> 00:43:02,840
 ...no puedes echarte para atrás.
 
-521
-00:46:06,309 --> 00:46:07,298
+487
+00:43:13,960 --> 00:43:14,920
 Entonces...
 
-522
-00:46:09,312 --> 00:46:11,542
+488
+00:43:16,840 --> 00:43:18,960
 ...¿estos son todos los recibos?
 
-523
-00:46:11,714 --> 00:46:13,875
+489
+00:43:19,190 --> 00:43:21,190
 quizá esté en otro expediente.
 
-524
-00:46:14,050 --> 00:46:15,711
+490
+00:43:21,440 --> 00:43:23,000
 ¿Quién demonios es ese?
 
-525
-00:46:16,152 --> 00:46:17,380
+491
+00:43:23,400 --> 00:43:24,600
 ¿Qué?
 
-526
-00:46:21,390 --> 00:46:22,550
+492
+00:43:28,480 --> 00:43:29,670
 Ese.
 
-527
-00:46:23,326 --> 00:46:25,317
+493
+00:43:30,280 --> 00:43:32,190
 ¿Quién demonios es ese?
 
-528
-00:46:25,995 --> 00:46:29,396
+494
+00:43:32,840 --> 00:43:36,120
 Es Ray Finkle, el pateador.
 ¿No sabes quién es?
 
-529
-00:46:31,167 --> 00:46:32,896
+495
+00:43:37,840 --> 00:43:39,520
 ¿Por qué no está aquí?
 
-530
-00:46:37,340 --> 00:46:42,243
+496
+00:43:43,720 --> 00:43:48,440
 Esa foto es de principios de año.
-Ray entró a media temporada.
+Ray entró a media temporada..
 
-531
-00:46:47,583 --> 00:46:51,246
+497
+00:43:53,600 --> 00:43:57,040
 Falló el gol de campo final
 en el Super Bowl de ese año.
 
-532
-00:46:51,420 --> 00:46:53,081
+498
+00:43:57,280 --> 00:43:58,840
 Por él perdieron los delfines.
 
-533
-00:46:53,522 --> 00:46:55,752
+499
+00:43:59,240 --> 00:44:01,400
 Pero le dieron su anillo, ¿no?
 
-534
-00:46:57,026 --> 00:46:58,254
+500
+00:44:02,640 --> 00:44:03,840
 Sin duda alguna.
 
-535
-00:46:58,527 --> 00:47:01,428
+501
+00:44:04,040 --> 00:44:06,800
 "Pateador sustituto teniendo
 un año fantástico".
 
-536
-00:47:01,597 --> 00:47:04,361
+502
+00:44:07,040 --> 00:44:09,640
 "Pateador estrella: Listo
 para el Super Bowl´".
 
-537
-00:47:04,533 --> 00:47:07,934
+503
+00:44:09,840 --> 00:44:13,080
 "Patada de gol de campo se abre,
 los delfines pierden".
 
-538
-00:47:08,371 --> 00:47:11,033
+504
+00:44:13,520 --> 00:44:16,040
 "La patada que se escuchó en todo
 el mundo".
 
-539
-00:47:11,273 --> 00:47:14,606
+505
+00:44:16,280 --> 00:44:19,520
 Se refieren a Finkle.
 Los delfines perdieron por un punto.
 
-540
-00:47:15,778 --> 00:47:18,542
+506
+00:44:20,720 --> 00:44:23,280
 -"No renuevan contrato de Finkle".
--Pobre tipo.
+-Pobre tipo
 
-541
-00:47:18,714 --> 00:47:21,046
+507
+00:44:23,480 --> 00:44:25,680
 Un pobre tipo con un móvil, nena.
 
-542
-00:47:21,450 --> 00:47:22,940
+508
+00:44:26,040 --> 00:44:27,520
 ¿Dónde está ahora?
 
-543
-00:47:23,285 --> 00:47:26,448
-Volvió a su tierra,
+509
+00:44:27,840 --> 00:44:30,840
+Oi que volvió a su tierra,
 al Condado de Collier.
 
-544
-00:47:27,289 --> 00:47:28,722
+510
+00:44:31,680 --> 00:44:35,160
 ¿De veras?
 
-545
-00:47:33,129 --> 00:47:35,290
+511
+00:44:37,240 --> 00:44:39,320
 Me vas a dejar antes de ir, ¿no?
 
-546
-00:47:36,232 --> 00:47:38,962
+512
+00:44:40,200 --> 00:44:42,800
 De ninguna manera.
 No debes quedarte sola.
 
-547
-00:47:39,135 --> 00:47:41,729
+513
+00:44:43,040 --> 00:44:45,480
 Puedes no estar segura
 en tu departamento.
 
-548
-00:47:42,471 --> 00:47:44,302
+514
+00:44:46,200 --> 00:44:47,960
 ¿Qué sugieres?
 
-549
-00:48:28,684 --> 00:48:30,276
+515
+00:45:30,560 --> 00:45:32,040
 Dios mío.
 
-550
-00:48:31,187 --> 00:48:32,779
+516
+00:45:32,920 --> 00:45:34,480
 Dios mío.
 
-551
-00:48:34,290 --> 00:48:36,121
+517
+00:45:35,880 --> 00:45:37,640
 Tres veces.
 
-552
-00:48:36,692 --> 00:48:39,354
+518
+00:45:38,200 --> 00:45:40,800
 Lo siento, nunca me había pasado.
 
-553
-00:48:40,196 --> 00:48:41,959
+519
+00:45:41,560 --> 00:45:43,240
 Debo de estar cansado.
 
-554
-00:48:45,468 --> 00:48:47,197
+520
+00:45:46,600 --> 00:45:48,280
 Ya estoy listo otra vez.
 
-555
-00:49:07,723 --> 00:49:11,716
+521
+00:46:08,000 --> 00:46:11,000
 "Bienvenido al CONDADO DE COLLIER
-OGAR DE RAY  STINKLE"
+HOGAR DE RAY  STINKLE"
 
-556
-00:49:25,674 --> 00:49:27,904
-"STINKLE, ´LA MULA´ NO PATEA"
+522
+00:46:25,000 --> 00:46:26,400
+<i>STINKLE, "LA MULA" NO PATEA</i>
 
-557
-00:49:28,344 --> 00:49:29,675
-"FRACASÉ, FRACASÉ"
+523
+00:46:27,501 --> 00:46:29,001
+<i>"FRACASÉ, FRACASÉ"</i>
 
-558
-00:49:30,346 --> 00:49:32,337
-"FINKLE ES UN INEPTO"
+524
+00:46:29,802 --> 00:46:31,302
+<i>FINKLE ES UN INEPTO</i>
 
-559
-00:49:39,355 --> 00:49:41,255
+525
+00:46:37,279 --> 00:46:38,279
+¡Hola!
+
+526
+00:46:38,280 --> 00:46:40,120
 Estoy buscando a Ray Finkle...
 
-560
-00:49:42,424 --> 00:49:44,255
+527
+00:46:41,240 --> 00:46:43,040
 ...y unos calzones limpios.
 
-561
-00:49:44,527 --> 00:49:47,428
+528
+00:46:43,240 --> 00:46:46,040
 ¿Qué sabes de Ray Finkle?
 
-562
-00:49:49,532 --> 00:49:52,695
+529
+00:46:48,040 --> 00:46:51,040
 Pateador estilo soccer.
 Preparatoria Collier, 1976.
 
-563
-00:49:52,868 --> 00:49:56,702
+530
+00:46:51,280 --> 00:46:54,880
 Universidad Stetson, 1980.
 Tiene dos récords universitarios.
 
-564
-00:49:56,872 --> 00:49:58,430
+531
+00:46:55,120 --> 00:46:56,640
 Más puntos y distancia.
 
-565
-00:49:58,607 --> 00:50:01,542
+532
+00:46:56,840 --> 00:46:59,600
 Le decían "La Mula".
 Único atleta profesional de aquí.
 
-566
-00:50:01,710 --> 00:50:04,611
-Un norteamericano modelo, como pocos.
+533
+00:46:59,800 --> 00:47:02,560
+Un norteamericano modelo, como pocos..
 
-567
-00:50:10,452 --> 00:50:13,216
+534
+00:47:08,120 --> 00:47:10,760
 ¿Eres otro reportero de los noticiarios?
 
-568
-00:50:13,389 --> 00:50:14,378
+535
+00:47:11,000 --> 00:47:11,960
 No, señor.
 
-569
-00:50:14,557 --> 00:50:16,218
+536
+00:47:12,200 --> 00:47:13,640
 Soy un admirador de Finkle.
 
-570
-00:50:17,960 --> 00:50:20,224
+537
+00:47:15,320 --> 00:47:17,480
 Esto es mi Graceland, señor.
 
-571
-00:50:21,397 --> 00:50:23,126
+538
+00:47:18,280 --> 00:47:20,280
 Baja esa escopeta.
 
-572
-00:50:23,732 --> 00:50:25,393
+539
+00:47:20,840 --> 00:47:23,760
 El muchacho es un admirador.
 
-573
-00:50:27,970 --> 00:50:29,733
+540
+00:47:24,920 --> 00:47:26,600
 Gusto en conocerte.
 
-574
-00:50:29,905 --> 00:50:31,463
+541
+00:47:26,840 --> 00:47:28,240
 Yo soy la mamá de Ray...
 
-575
-00:50:31,640 --> 00:50:33,403
+542
+00:47:28,480 --> 00:47:30,120
 ...y este es su papá.
 
-576
-00:50:34,076 --> 00:50:35,907
-Es un verdadero honor.
+543
+00:47:30,800 --> 00:47:32,560
+Es un verdadero honor!
 
-577
-00:50:36,579 --> 00:50:39,480
-Es un honor tenerte aquí.
+544
+00:47:33,160 --> 00:47:36,000
+It's an honor to have you here.
 
-578
-00:50:41,150 --> 00:50:44,142
+545
+00:47:37,600 --> 00:47:40,400
 Mi Ray quiere tanto a sus admiradores.
 
-579
-00:50:44,320 --> 00:50:46,914
+546
+00:47:40,640 --> 00:47:43,000
 Le va a dar tanto gusto
 que hayas venido.
 
-580
-00:50:47,089 --> 00:50:49,319
+547
+00:47:43,280 --> 00:47:45,360
 ¿Esperan a Ray pronto?
 
-581
-00:50:49,491 --> 00:50:52,153
+548
+00:47:45,600 --> 00:47:48,120
 Sí, lo esperamos en cualquier momento.
 
-582
-00:50:52,828 --> 00:50:56,093
+549
+00:47:48,800 --> 00:47:51,920
 ¿No quieres unas galletas?
 Las acabo de hacer.
 
-583
-00:50:56,432 --> 00:50:57,990
-Qué rico.
+550
+00:47:52,200 --> 00:47:53,760
+Qué rico!
 
-584
-00:51:04,340 --> 00:51:06,501
+551
+00:47:59,800 --> 00:48:01,880
 La casa de Ray Finkle.
 
-585
-00:51:07,843 --> 00:51:09,435
+552
+00:48:03,160 --> 00:48:04,720
 Cómo quiero conocerlo.
 
-586
-00:51:12,014 --> 00:51:14,346
+553
+00:48:07,160 --> 00:48:09,400
 Ray no va a venir.
 
-587
-00:51:16,352 --> 00:51:18,343
+554
+00:48:11,080 --> 00:48:13,120
 Su esposa lo está esperando.
 
-588
-00:51:18,454 --> 00:51:21,116
+555
+00:48:13,320 --> 00:48:15,880
 Ella siempre lo espera
 en cualquier momento.
 
-589
-00:51:22,124 --> 00:51:25,958
+556
+00:48:16,880 --> 00:48:20,480
 Verás, el motor está funcionando
 pero no hay nadie tras el volante.
 
-590
-00:51:27,463 --> 00:51:28,623
+557
+00:48:21,960 --> 00:48:23,000
 hace ocho años...
 
-591
-00:51:28,797 --> 00:51:32,858
+558
+00:48:23,280 --> 00:48:27,200
 ...nuestro hijo escapó del hospital
 Psiquiátrico de Shady Acres.
 
-592
-00:51:33,035 --> 00:51:36,027
+559
+00:48:27,400 --> 00:48:30,160
 Y todavía nos llaman
 para que vayamos por sus cosas.
 
-593
-00:51:36,205 --> 00:51:39,868
-Todo fue culpa del tal Dan marino,
+560
+00:48:30,400 --> 00:48:33,880
+Todo fue culpa del tal Dan Marino,
 todo el mundo lo sabe.
 
-594
-00:51:40,209 --> 00:51:43,474
+561
+00:48:34,200 --> 00:48:37,280
 Si hubiera puesto el balón
 con las cintas para afuera...
 
-595
-00:51:43,646 --> 00:51:46,046
+562
+00:48:37,520 --> 00:48:39,800
 ...Ray no habría fallado la patada.
 
-596
-00:51:46,382 --> 00:51:50,648
-Ojalá que Dan marino muera de gonorrea
+563
+00:48:40,120 --> 00:48:44,160
+Ojalá que Dan Marino muera de gonorrea
 y se pudra en el infierno.
 
-597
-00:51:50,819 --> 00:51:52,810
+564
+00:48:44,400 --> 00:48:46,320
 ¿No quieres una galleta, hijo?
 
-598
-00:51:55,658 --> 00:51:57,057
+565
+00:48:49,000 --> 00:48:50,360
 Qué maravilla.
 
-599
-00:51:57,559 --> 00:51:59,390
+566
+00:48:50,880 --> 00:48:52,680
 Baloncitos de fútbol americano.
 
-600
-00:51:59,561 --> 00:52:01,051
-Con las cintas para afuera.
+567
+00:48:52,880 --> 00:48:54,200
+Laces out.
 
-601
-00:52:02,564 --> 00:52:05,499
+568
+00:48:55,680 --> 00:48:58,400
 Cuando Ray vuelva
 y empiece a patear de nuevo...
 
-602
-00:52:05,668 --> 00:52:08,068
+569
+00:48:58,640 --> 00:49:00,880
 ...va a sentir como que nunca se fue.
 
-603
-00:52:08,237 --> 00:52:11,172
+570
+00:49:01,120 --> 00:49:03,880
 Dejé su cuarto justo como lo dejó.
 
-604
-00:52:19,081 --> 00:52:22,414
-" ¡CINTAS PARA AFUERA!
-MUERETE, DAN"
+571
+00:49:11,479 --> 00:49:13,479
+<i>¡CINTAS PARA AFUERA!
+MUÉRETE, DAN</i>
 
-605
-00:52:33,696 --> 00:52:35,027
-Dios mío.
+572
+00:49:25,480 --> 00:49:26,760
+Oh, Chico!
 
-606
-00:52:35,597 --> 00:52:38,031
+573
+00:49:27,320 --> 00:49:29,680
 El deporte lo vuelve loco, ¿no?
 
-607
-00:52:49,878 --> 00:52:50,867
+574
+00:49:41,000 --> 00:49:41,920
 ¿Puedo?
 
-608
-00:52:51,046 --> 00:52:53,105
+575
+00:49:42,160 --> 00:49:44,120
 Sí, claro, por favor.
 
-609
-00:52:56,618 --> 00:52:59,951
+576
+00:49:47,520 --> 00:49:50,680
 Faltan cinco segundos en este,
 el Super Bowl XVll.
 
-610
-00:53:00,122 --> 00:53:01,953
+577
+00:49:50,920 --> 00:49:52,640
 Los delfines van abajo por...
 
-611
-00:53:02,124 --> 00:53:05,423
+578
+00:49:52,840 --> 00:49:56,440
 ...un punto.
 Con este gol de campo ganarán el juego.
 
-612
-00:53:06,228 --> 00:53:07,957
+579
+00:49:56,720 --> 00:49:58,320
 Y ahí viene el balón.
 
-613
-00:53:08,130 --> 00:53:09,392
-marino lo agarra.
+580
+00:49:58,560 --> 00:49:59,680
+Marino lo agarra.
 
-614
-00:53:09,565 --> 00:53:10,793
+581
+00:49:59,960 --> 00:50:01,080
 La patada...
 
-615
-00:53:11,400 --> 00:53:13,459
-...y es alta. No...
+582
+00:50:01,680 --> 00:50:03,680
+La patada...
 
-616
-00:53:13,635 --> 00:53:14,727
-...no es buena.
+583
+00:50:03,880 --> 00:50:04,760
+La patada...
 
-617
-00:53:14,837 --> 00:53:18,329
+584
+00:50:05,000 --> 00:50:08,760
 Ray Finkle falló un gol de campo
 de 24 metros.
 
-618
-00:53:18,807 --> 00:53:20,741
+585
+00:50:09,000 --> 00:50:10,800
 No lo puedo creer!
 
-619
-00:53:21,076 --> 00:53:22,907
+586
+00:50:11,000 --> 00:50:12,680
 Los delfines pierden.
 
-620
-00:53:23,979 --> 00:53:27,642
-Los delfines pierden.
-Los delfines pierden el Super Bowl.
+587
+00:50:12,880 --> 00:50:16,920
+Los delfines pierden!
+Los delfines pierden el Super Bowl!
 
-621
-00:53:28,917 --> 00:53:31,408
--Melissa, habla Ace.
+588
+00:50:18,480 --> 00:50:20,760
+-Melissa, habla Ace!
 -¿Dónde estás?
 
-622
-00:53:31,587 --> 00:53:35,148
+589
+00:50:21,040 --> 00:50:24,480
 Estoy en locolandia y Finkle
-es el alcalde. ¿Dónde está marino?
+es el alcalde. ¿Dónde está Marino?
 
-623
-00:53:35,858 --> 00:53:36,688
+590
+00:50:24,720 --> 00:50:25,840
 ¿Por qué?
 
-624
-00:53:36,759 --> 00:53:39,990
+591
+00:50:26,040 --> 00:50:29,080
 Porque se lo van a llevar
-con Snowflake. ¡Dónde está?
+con Snowflake. ¿Dónde está?
 
-625
-00:53:40,162 --> 00:53:44,428
+592
+00:50:29,280 --> 00:50:33,360
 Va a filmar un comercial
-en el Estudio Bogart.
+en el Estudio Bogart..
 
-626
-00:53:44,600 --> 00:53:47,763
+593
+00:50:33,560 --> 00:50:36,520
 Llama a la policía,
-manda muchos guardias para allá.
+manda muchos guardias para allá!
 
-627
-00:53:48,003 --> 00:53:49,937
+594
+00:50:36,760 --> 00:50:38,640
 ¿Qué pasa, Ace?
 
-628
-00:53:53,108 --> 00:53:54,166
+595
+00:50:41,640 --> 00:50:42,680
 ¿Creíste que me fui?
 
-629
-00:53:56,111 --> 00:53:58,011
+596
+00:50:44,640 --> 00:50:46,360
 Esta vez de veras me voy a ir.
 
-630
-00:54:05,120 --> 00:54:06,519
-GASOLINA - COMIDA 3.2 KM
-
-631
-00:54:06,622 --> 00:54:08,852
+597
+00:50:54,680 --> 00:50:56,760
 Vamos a empezar. Silencio.
 
-632
-00:54:09,024 --> 00:54:10,013
-Acción.
+598
+00:50:57,000 --> 00:50:57,840
+Acción!
 
-633
-00:54:10,626 --> 00:54:14,562
-Soy Dan marino y si alguien sabe
+599
+00:50:58,080 --> 00:51:01,960
+Soy Dan Marino y si alguien sabe
 el valor de la protección, soy yo.
 
-634
-00:54:20,469 --> 00:54:23,529
+600
+00:51:07,880 --> 00:51:10,880
 Así que yo cuido las manos
-que me cuidan...
+que me cuidan..
 
-635
-00:54:24,206 --> 00:54:25,537
+601
+00:51:11,520 --> 00:51:12,720
 ...con guantes isotoner.
 
-636
-00:54:25,707 --> 00:54:27,698
-Corte. Otra vez, desde el principio.
+602
+00:51:13,000 --> 00:51:14,840
+Corte! Otra vez, desde el principio.
 
-637
-00:54:27,876 --> 00:54:29,036
-dije que corte.
+603
+00:51:15,040 --> 00:51:16,080
+dije que corte!
 
-638
-00:54:29,211 --> 00:54:30,542
-Corte.
+604
+00:51:16,320 --> 00:51:17,520
+Chicos, Corte!
 
-639
-00:54:30,712 --> 00:54:33,146
+605
+00:51:17,760 --> 00:51:20,040
 ¿Qué diablos están haciendo?
 
-640
-00:54:33,382 --> 00:54:34,974
+606
+00:51:20,280 --> 00:51:21,840
 ¡Ya cortamos!
 
-641
-00:54:35,717 --> 00:54:36,706
-¡Vámonos!
-
-642
-00:54:40,055 --> 00:54:42,649
+607
+00:51:26,720 --> 00:51:29,160
 -¿Qué es esto, otra versión?
 -¡Cállate!
 
-643
-00:54:46,995 --> 00:54:48,553
+608
+00:51:33,320 --> 00:51:34,800
 -¿Dónde están?
 -¡Allá!
 
-644
-00:54:48,730 --> 00:54:49,719
+609
+00:51:35,040 --> 00:51:36,000
 ¡Vámonos!
 
-645
-00:54:57,105 --> 00:54:58,595
+610
+00:51:42,800 --> 00:51:44,320
 Con permiso, caballeros.
 
-646
-00:54:58,674 --> 00:54:59,834
-detective de mascotas.
+611
+00:51:44,560 --> 00:51:45,600
+detective de mascotas!
 
-647
-00:55:08,517 --> 00:55:09,506
+612
+00:51:53,960 --> 00:51:54,920
 ¡Vamos!
 
-648
-00:55:09,685 --> 00:55:11,016
+613
+00:51:55,120 --> 00:51:56,320
 ¿Qué te pasa?
 
-649
-00:55:11,186 --> 00:55:12,676
+614
+00:51:56,560 --> 00:51:58,000
 ¿Tan mal tino tienes?
 
-650
-00:55:40,449 --> 00:55:42,110
+615
+00:52:24,320 --> 00:52:26,200
 ¿han pedido rescate?
 
-651
-00:55:42,284 --> 00:55:44,775
+616
+00:52:26,440 --> 00:52:28,800
 No se han comunicado con nadie.
 
-652
-00:55:44,953 --> 00:55:46,944
+617
+00:52:29,000 --> 00:52:30,880
 ¿Van a posponer el Super Bowl?
 
-653
-00:55:47,389 --> 00:55:48,822
+618
+00:52:31,120 --> 00:52:32,560
 No ha habido ningún cambio.
 
-654
-00:55:48,891 --> 00:55:50,882
-¿Por qué no nos dijeron de Snowflake?
+619
+00:52:32,800 --> 00:52:34,640
+¿Por qué no nos dijeron del secuestro?
 
-655
-00:55:51,059 --> 00:55:54,119
+620
+00:52:34,840 --> 00:52:37,760
 No podíamos arriesgarnos
 a que interfiriera el público.
 
-656
-00:55:54,296 --> 00:55:58,392
+621
+00:52:37,960 --> 00:52:41,800
 -¿tienen relación los crímenes?
 -No puedo decir nada más.
 
-657
-00:55:58,834 --> 00:56:00,563
+622
+00:52:42,040 --> 00:52:43,880
 Con su permiso.
 
-658
-00:56:03,005 --> 00:56:04,905
-Tráeme la autopsia de Podacter.
+623
+00:52:45,720 --> 00:52:47,960
+Tráeme la autopsia de Podacter!
 
-659
-00:56:04,973 --> 00:56:08,136
+624
+00:52:48,200 --> 00:52:50,920
 Aguado, pasa esta orden:
-Que nadie hable con la prensa.
+Que nadie hable con la prensa!
 
-660
-00:56:08,577 --> 00:56:10,568
+625
+00:52:51,160 --> 00:52:53,600
 ¡A ver, tráiganme un café!
 
-661
-00:56:10,913 --> 00:56:14,906
+626
+00:52:53,880 --> 00:52:57,560
 hoy, en "Miami Vise",
 Crockett le trae un café al jefe!
 
-662
-00:56:16,318 --> 00:56:20,254
+627
+00:52:59,040 --> 00:53:02,800
 Cuando salga del baño,
 más vale que ya no estés aquí.
 
-663
-00:56:20,923 --> 00:56:22,982
+628
+00:53:03,440 --> 00:53:05,400
 ¿Vas a hacer del uno o del dos?
 
-664
-00:56:23,258 --> 00:56:25,488
+629
+00:53:05,680 --> 00:53:07,800
 quiero saber cuánto tiempo tengo.
 
-665
-00:56:27,496 --> 00:56:30,488
+630
+00:53:09,760 --> 00:53:12,640
 A propósito, me tomé la libertad
 de resolver...
 
-666
-00:56:30,766 --> 00:56:33,667
+631
+00:53:12,880 --> 00:53:15,720
 ...ese engorroso asunto
-de Snowflake-Podacter-marino.
+de Snowflake-Podacter-Marino.
 
-667
-00:56:34,436 --> 00:56:38,099
+632
+00:53:16,400 --> 00:53:19,920
 Sí. ¿habías oído de Ray Finkle,
 un ex pateador de los delfines?
 
-668
-00:56:44,913 --> 00:56:46,744
+633
+00:53:26,480 --> 00:53:28,200
 A ver, Ventura...
 
-669
-00:56:48,016 --> 00:56:49,347
+634
+00:53:29,400 --> 00:53:30,520
 ...que sea rápido.
 
-670
-00:56:49,584 --> 00:56:52,747
+635
+00:53:30,920 --> 00:53:33,920
 hallé una piedra rara en el tanque
 de Snowflake.
 
-671
-00:56:52,921 --> 00:56:55,913
+636
+00:53:34,160 --> 00:53:36,720
 Es de un anillo de Miami, 1984,
 Campeones de la AFC.
 
-672
-00:56:56,091 --> 00:56:59,083
+637
+00:53:36,960 --> 00:53:39,960
 El Super Bowl en que Finkle
-falló el gol de campo.
+falló el gol de campo
 
-673
-00:56:59,261 --> 00:57:01,252
-Le echa la culpa a marino.
+638
+00:53:40,160 --> 00:53:42,080
+Le echa la culpa a Marino.
 
-674
-00:57:01,430 --> 00:57:06,197
+639
+00:53:42,320 --> 00:53:46,760
 Estamos hablando de una psicósis
 paranoica. vi el cuarto del tipo...
 
-675
-00:57:06,368 --> 00:57:08,700
+640
+00:53:46,960 --> 00:53:49,120
 ...acogedor, si uno es Hannibal Lecter.
 
-676
-00:57:09,438 --> 00:57:11,872
+641
+00:53:49,960 --> 00:53:52,160
 ¿Y dónde encaja Roger Podacter?
 
-677
-00:57:12,274 --> 00:57:17,041
+642
+00:53:52,680 --> 00:53:57,160
 Yo creo que Finkle andaba husmeando,
 Podacter lo reconoció y adiós.
 
-678
-00:57:17,212 --> 00:57:21,945
+643
+00:53:57,360 --> 00:54:01,840
 A Snowflake le dieron el número
 de Finkle y le enseñaron a "patear".
 
-679
-00:57:22,117 --> 00:57:23,880
+644
+00:54:02,040 --> 00:54:03,800
 Finkle se ofendió.
 
-680
-00:57:26,221 --> 00:57:28,121
+645
+00:54:06,040 --> 00:54:07,760
 ¿Y dónde está Finkle ahora?
 
-681
-00:57:28,290 --> 00:57:32,727
+646
+00:54:07,960 --> 00:54:12,240
 huyó de un hospital psiquiátrico.
-Lleva años tramando su venganza.
+Lleva años tramando su venganza
 
-682
-00:57:32,894 --> 00:57:35,727
+647
+00:54:12,480 --> 00:54:15,040
 Esperando el momento justo
-para desquitarse...
+para desquitarse..
 
-683
-00:57:35,897 --> 00:57:37,797
+648
+00:54:15,240 --> 00:54:17,040
 ...el momento en que haría
 el mayor daño:
 
-684
-00:57:37,966 --> 00:57:40,059
+649
+00:54:17,240 --> 00:54:19,320
 En el Super Bowl.
 
-685
-00:57:40,302 --> 00:57:42,634
+650
+00:54:19,560 --> 00:54:21,840
 Dios mío, estoy cansado de acertar.
 
-686
-00:57:47,075 --> 00:57:48,633
+651
+00:54:26,040 --> 00:54:27,600
 Felicidades.
 
-687
-00:57:49,911 --> 00:57:52,744
+652
+00:54:28,760 --> 00:54:31,480
 haz realizado una buena labor
-detectivesca...
+detectivezca...
 
-688
-00:57:54,583 --> 00:57:55,914
-Ace.
+653
+00:54:33,280 --> 00:54:34,400
+...Ace.
 
-689
-00:57:57,486 --> 00:58:00,148
+654
+00:54:36,040 --> 00:54:38,560
 ¿Disculpa, me podrías hablar
 a mi oído bueno?
 
-690
-00:58:00,322 --> 00:58:02,586
+655
+00:54:38,800 --> 00:54:40,840
 Me pareció oír que me decías "Ace".
 
-691
-00:58:02,991 --> 00:58:07,758
+656
+00:54:41,360 --> 00:54:45,800
+Maybe I was wrong about you.
 quizá estaba equivocada, quizá seas
 algo más que un busca bichos.
 
-692
-00:58:15,837 --> 00:58:18,499
+657
+00:54:53,680 --> 00:54:56,200
 Tu pistola se me está encajando
 en la cadera.
 
-693
-00:58:18,774 --> 00:58:20,105
+658
+00:54:56,440 --> 00:54:57,840
 ¿Qué tienes?
 
-694
-00:58:20,275 --> 00:58:22,766
+659
+00:54:58,080 --> 00:55:00,440
 ¿quieres que te lea tus derechos?
 
-695
-00:58:23,845 --> 00:58:25,506
+660
+00:55:01,360 --> 00:55:02,920
 quizá luego.
 
-696
-00:58:28,683 --> 00:58:29,843
+661
+00:55:05,960 --> 00:55:07,000
 ¿Qué te pasa?
 
-697
-00:58:30,018 --> 00:58:31,679
+662
+00:55:07,280 --> 00:55:08,800
 ¿Es por la perra huesuda...
 
-698
-00:58:31,853 --> 00:58:33,616
+663
+00:55:09,040 --> 00:55:10,680
 ...de Mellssa Roblnson?
 
-699
-00:58:34,289 --> 00:58:36,348
-Lo único es que tú no me excitas.
+664
+00:55:11,360 --> 00:55:13,360
+Lo único es que tú no me excitas..
 
-700
-00:58:37,859 --> 00:58:39,121
+665
+00:55:14,760 --> 00:55:15,960
 ¡Abajo, muchacho!
 
-701
-00:58:41,196 --> 00:58:44,029
+666
+00:55:17,960 --> 00:55:20,560
 ¿Está todo bien? Escuché una conmoción.
 
-702
-00:58:44,366 --> 00:58:46,027
+667
+00:55:21,000 --> 00:55:22,520
 Todo está perfectamente.
 
-703
-00:58:46,468 --> 00:58:48,197
+668
+00:55:22,880 --> 00:55:24,560
 ¿Lo echo de aquí?
 
-704
-00:58:48,870 --> 00:58:51,532
+669
+00:55:25,360 --> 00:55:27,720
 ¿Por qué no se echa Ud. de aquí?
 
-705
-00:58:53,375 --> 00:58:54,706
+670
+00:55:29,680 --> 00:55:30,880
 Sí, señora.
 
-706
-00:58:57,879 --> 00:59:00,871
+671
+00:55:33,960 --> 00:55:36,800
 Ace, quiero que dejes todo
 en nuestras manos.
 
-707
-00:59:01,049 --> 00:59:04,382
+672
+00:55:37,040 --> 00:55:40,160
 No puedo, me contrataron
 para hallar a Snowflake.
 
-708
-00:59:04,553 --> 00:59:06,316
-Cuando encontremos a marino...
+673
+00:55:40,400 --> 00:55:42,000
+Cuando encontremos a Marino...
 
-709
-00:59:06,488 --> 00:59:08,547
+674
+00:55:42,240 --> 00:55:44,200
 ...les entregaremos a Snowflake.
 
-710
-00:59:08,824 --> 00:59:10,883
+675
+00:55:44,440 --> 00:55:46,440
 Cuando encuentre a Snowflake...
 
-711
-00:59:12,327 --> 00:59:14,056
-...les entregaré a marino.
+676
+00:55:47,800 --> 00:55:49,520
+...les entregaré a Marino.
 
-712
-00:59:25,907 --> 00:59:27,169
+677
+00:56:01,160 --> 00:56:02,280
 Melissa, soy yo, Ace.
 
-713
-00:59:28,009 --> 00:59:30,671
+678
+00:56:02,560 --> 00:56:05,320
 ¿Qué haces aquí en plena noche?
 
-714
-00:59:31,346 --> 00:59:33,405
+679
+00:56:06,040 --> 00:56:07,960
 Tienes que meterme
 a un hospital psiquiátrico.
 
-715
-00:59:34,416 --> 00:59:38,113
+680
+00:56:09,080 --> 00:56:12,400
 Finkle escapó de Shady Acres.
 Todavía tienen cosas de él.
 
-716
-00:59:38,186 --> 00:59:40,518
+681
+00:56:12,640 --> 00:56:14,800
 No nos dejarían echar un ojo.
 
-717
-00:59:40,689 --> 00:59:41,849
+682
+00:56:15,040 --> 00:56:16,080
 Ya lo sé.
 
-718
-00:59:41,957 --> 00:59:45,017
+683
+00:56:16,320 --> 00:56:19,040
 Lo bueno es que soy un maestro
 de los disfraces.
 
-719
-00:59:45,093 --> 00:59:46,253
+684
+00:56:19,280 --> 00:56:20,240
 Sra. Robinson...
 
-720
-00:59:46,528 --> 00:59:48,519
--...soy el Dr. andly. ola.
--ola.
+685
+00:56:20,600 --> 00:56:22,560
+-...soy el Dr. Handly. Hola.
 
-721
-00:59:48,763 --> 00:59:51,254
+686
+00:56:22,800 --> 00:56:25,080
 ¿A quién quiere que examinemos?
 
-722
-00:59:51,433 --> 00:59:52,695
+687
+00:56:25,360 --> 00:56:26,560
 A mi hermano...
 
-723
-00:59:53,368 --> 00:59:54,528
+688
+00:56:27,160 --> 00:56:28,280
 ...Larry.
 
-724
-00:59:58,707 --> 01:00:01,540
+689
+00:56:32,320 --> 00:56:34,760
 Estoy listo para entrar,
-deme una oportunidad.
+deme una oportunidad!
 
-725
-01:00:01,776 --> 01:00:04,643
+690
+00:56:34,960 --> 00:56:37,800
 Sí, es un juego importante,
 pero todo es mental.
 
-726
-01:00:04,713 --> 01:00:06,544
+691
+00:56:38,080 --> 00:56:39,720
 Sólo tengo que ser positivo.
 
-727
-01:00:08,617 --> 01:00:11,780
+692
+00:56:41,800 --> 00:56:44,840
 Ejecutaré una ruta "de gancho"
 en súper cámara lenta.
 
-728
-01:00:39,814 --> 01:00:41,145
+693
+00:57:11,720 --> 00:57:12,920
 Veamos eso...
 
-729
-01:00:41,316 --> 01:00:42,977
+694
+00:57:13,200 --> 00:57:14,760
 ...en la repetición instantánea.
 
-730
-01:00:58,433 --> 01:01:01,664
+695
+00:57:29,480 --> 00:57:32,640
 Su hermano no será el primer futbolista
 que atendemos.
 
-731
-01:01:01,836 --> 01:01:04,600
+696
+00:57:32,880 --> 00:57:35,480
 -¿De veras?
 -Sí, somos muy conscientes del...
 
-732
-01:01:04,773 --> 01:01:07,333
+697
+00:57:35,720 --> 00:57:38,080
 ...estrés al que están sujetos
 los atletas.
 
-733
-01:01:07,509 --> 01:01:09,500
-Estoy desmarcado! ¡Estoy desmarcado!
+698
+00:57:38,320 --> 00:57:40,200
+stoy desmarcado! ¡Estoy desmarcado!
 
-734
-01:01:10,345 --> 01:01:12,006
+699
+00:57:41,000 --> 00:57:42,640
 Estoy desmarcado!
 
-735
-01:01:12,847 --> 01:01:15,441
-aremos unas  evaluaciones
+700
+00:57:43,440 --> 00:57:45,800
+haremos unas evaluaciones
 preliminares...
 
-736
-01:01:15,617 --> 01:01:17,847
+701
+00:57:46,080 --> 00:57:48,160
 ...pero creo que
 encajará muy bien aquí.
 
-737
-01:01:18,019 --> 01:01:19,782
+702
+00:57:48,400 --> 00:57:49,920
 ¡Aquí estoy!
 
-738
-01:01:21,856 --> 01:01:23,517
-¡3-50-1 !
+703
+00:57:52,040 --> 00:57:53,680
+351 !
 
-739
-01:01:24,025 --> 01:01:25,856
-¡3-50-1 !
+704
+00:57:54,120 --> 00:57:55,840
+351 !
 
-740
-01:01:26,027 --> 01:01:28,018
-Rover, siéntate. ut.
+705
+00:57:56,080 --> 00:57:57,960
+Rover, siéntate. ut!
 
-741
-01:01:31,299 --> 01:01:34,200
+706
+00:58:01,080 --> 00:58:03,920
 Parece que le cuesta trabajo
 dejar el juego.
 
-742
-01:01:34,703 --> 01:01:36,967
+707
+00:58:04,400 --> 00:58:06,400
 ¿Tiene historial de enfermedades
 mentales?
 
-743
-01:01:38,306 --> 01:01:40,035
+708
+00:58:07,800 --> 00:58:09,520
 Desde que lo conozco.
 
-744
-01:01:42,611 --> 01:01:44,772
+709
+00:58:11,360 --> 00:58:13,880
 Este es un cuarto de terapia.
 
-745
-01:01:45,380 --> 01:01:48,975
+710
+00:58:14,640 --> 00:58:18,000
 Y hacemos artesanías aquí afuera,
 en el patio.
 
-746
-01:01:49,150 --> 01:01:53,143
+711
+00:58:18,240 --> 00:58:22,000
 Y este es un cuarto de almacenaje.
 En este mismo corredor hay...
 
-747
-01:01:53,321 --> 01:01:54,811
+712
+00:58:22,240 --> 00:58:23,680
 ¡medio tiempo!
 
-748
-01:02:08,837 --> 01:02:12,739
+713
+00:58:37,080 --> 00:58:40,840
 Ahí va a estar bien, durante
 los próximos 20 minutos, sin atención.
 
-749
-01:02:14,843 --> 01:02:16,834
+714
+00:58:42,360 --> 00:58:44,600
 Entonces le enseñaré los dormitorios.
 
-750
-01:02:31,192 --> 01:02:32,523
+715
+00:59:08,000 --> 00:59:09,359
 "PRIVADO"
 
-751
-01:03:28,316 --> 01:03:30,147
+716
+00:59:53,360 --> 00:59:55,080
 Guantes isotoner.
 
-752
-01:03:32,087 --> 01:03:33,418
+717
+00:59:58,000 --> 00:59:59,300
 "MUERE, DAN"
 
-753
-01:03:43,598 --> 01:03:45,589
+718
+01:00:08,400 --> 01:00:10,679
+"CINTAS PARA AFUERA"
 "CINTAS PARA AFUERA"
 
-754
-01:03:49,504 --> 01:03:51,995
+719
+01:00:13,680 --> 01:00:15,920
 ¿Estamos muy obsesionados?
 
-755
-01:03:53,508 --> 01:03:55,169
+720
+01:00:17,480 --> 01:00:19,040
 ¿Adónde vas?
 
-756
-01:03:55,343 --> 01:03:58,437
+721
+01:00:19,280 --> 01:00:22,160
 -A limplar el cuarto de almacenaje.
 -limpia la cafetería.
 
-757
-01:03:58,613 --> 01:04:00,672
+722
+01:00:22,360 --> 01:00:24,360
 No te digo cómo debes
 hacer tu trabajo.
 
-758
-01:04:00,849 --> 01:04:02,612
+723
+01:00:24,600 --> 01:00:26,160
 El horario dice...
 
-759
-01:04:02,684 --> 01:04:05,448
+724
+01:00:26,400 --> 01:00:28,680
 -...limpiar la cafetería.
 -Yo sé lo que hago.
 
-760
-01:04:05,520 --> 01:04:06,885
+725
+01:00:28,960 --> 01:00:30,160
 Y debería estar limpia.
 
-761
-01:04:07,021 --> 01:04:10,354
+726
+01:00:30,400 --> 01:00:33,520
 Qué cafetería ni que nada.
 Voy a limpiar aquí dentro.
 
-762
-01:04:10,458 --> 01:04:11,948
+727
+01:00:33,720 --> 01:00:35,720
 Te tomas descansos muy largos.
 
-763
-01:04:12,861 --> 01:04:15,022
+728
+01:00:35,960 --> 01:00:38,120
 Pero qué latoso eres.
 
-764
-01:04:37,819 --> 01:04:40,379
+729
+01:00:59,960 --> 01:01:02,320
 "Se suspende búsqueda
 de caminante extraviada".
 
-765
-01:04:40,989 --> 01:04:43,480
+730
+01:01:03,000 --> 01:01:05,360
 "La búsqueda terminó
 cuando los rescatadores...
 
-766
-01:04:43,658 --> 01:04:47,321
+731
+01:01:05,640 --> 01:01:09,080
 ...no pudieron encontrar el cuerpo
-de Lols Elnhorn".
+de Lois Einhorn".
 
-767
-01:04:48,897 --> 01:04:51,161
+732
+01:01:10,640 --> 01:01:12,720
 ¿Una caminante que
 se extravió el viernes?
 
-768
-01:04:51,332 --> 01:04:52,890
-¿Lois Elnhorn?
+733
+01:01:12,960 --> 01:01:14,480
+Lois Einhorn?
 
-769
-01:04:54,335 --> 01:04:56,895
-Santas cacabolas.
+734
+01:01:15,800 --> 01:01:18,320
+Chispas!
 
-770
-01:05:10,685 --> 01:05:13,415
-¿Qué hacen aquí? Pónganse a trabajar.
+735
+01:01:31,560 --> 01:01:34,200
+¿Qué hacen aquí? Pónganse a trabajar!
 
-771
-01:05:39,447 --> 01:05:42,541
+736
+01:02:02,160 --> 01:02:03,360
 "Lois: Gracias por tan bella velada.
 Con amor, Roger".
 
-772
-01:05:42,717 --> 01:05:44,207
-¿"Con amor, Roger"?
-
-773
-01:05:52,393 --> 01:05:53,724
+737
+01:02:11,600 --> 01:02:12,800
 Ace, habla E.
 
-774
-01:05:53,895 --> 01:05:57,160
+738
+01:02:13,000 --> 01:02:16,000
 ¿Crees que el artículo que hallaste
 es importante?
 
-775
-01:05:57,232 --> 01:05:59,792
-Tengo una nota de Podacter a Elnhorn...
+739
+01:02:16,240 --> 01:02:18,600
+Tengo una nota de Roger para Einhorn...
 
-776
-01:05:59,868 --> 01:06:02,564
+740
+01:02:18,880 --> 01:02:21,120
 ...dándole las gracias
 por una bella velada.
 
-777
-01:06:02,637 --> 01:06:05,299
+741
+01:02:21,360 --> 01:02:23,800
 Aquí algo anda muy chueco, viejo.
 
-778
-01:06:05,406 --> 01:06:07,306
+742
+01:02:24,080 --> 01:02:25,880
 Regrésale, Meneos.
 
-779
-01:06:11,479 --> 01:06:15,074
+743
+01:02:29,880 --> 01:02:33,120
 ¿Qué demonios tiene que ver
-Lois Elnhorn con Ray Finkle?
+Lois Einhorn con Ray Finkle?
 
-780
-01:06:16,651 --> 01:06:18,414
+744
+01:02:34,840 --> 01:02:36,360
 ¡Vamos, piensa!
 
-781
-01:06:18,586 --> 01:06:21,578
-Finkle y Elnhorn trabajando juntos.
+745
+01:02:36,560 --> 01:02:39,600
+Finkle y Einhorn trabajando juntos.
 ¿Cómo? ¿Por qué?
 
-782
-01:06:28,830 --> 01:06:30,320
+746
+01:02:46,440 --> 01:02:47,920
 Bueno. Allá vamos.
 
-783
-01:06:30,498 --> 01:06:33,763
+747
+01:02:48,160 --> 01:02:51,240
 ¡Ahí está la respuesta!
 Necesito oxigenar el cerebro.
 
-784
-01:06:34,335 --> 01:06:37,168
-Finkle y Elnhorn. Finkle y Elnhorn.
+748
+01:02:51,800 --> 01:02:54,360
+Finkle y Einhorn! Finkle y Einhorn!
 
-785
-01:06:53,688 --> 01:06:55,019
-Qué poco aguantas.
+749
+01:02:54,560 --> 01:02:56,840
+Finkle and Einhorn! Finkle and Einhorn!
 
-786
-01:06:57,191 --> 01:06:59,125
+750
+01:03:10,400 --> 01:03:11,680
+Qué poco aguantas!
+
+751
+01:03:13,760 --> 01:03:15,600
 ¿Qué quieres?
 
-787
-01:07:00,695 --> 01:07:03,186
+752
+01:03:17,080 --> 01:03:19,520
 No tengo comida para ti.
 
-788
-01:07:03,698 --> 01:07:06,360
+753
+01:03:19,960 --> 01:03:22,520
 Necesito tener dinero
 para comprar comida.
 
-789
-01:07:06,534 --> 01:07:10,197
+754
+01:03:22,760 --> 01:03:26,000
 Necesito un delfín para tener dinero.
 ¿Ves algún delfín aquí?
 
-790
-01:07:18,479 --> 01:07:19,707
+755
+01:03:34,120 --> 01:03:35,320
 La verdad es...
 
-791
-01:07:19,881 --> 01:07:22,213
+756
+01:03:35,560 --> 01:03:37,520
 ...que tu amo es un fracasado.
 
-792
-01:07:39,167 --> 01:07:41,067
+757
+01:03:53,920 --> 01:03:55,800
 ¿Qué de...?
 
-793
-01:07:43,004 --> 01:07:44,904
+758
+01:03:57,680 --> 01:03:59,520
 Eso es.
 
-794
-01:07:47,075 --> 01:07:48,667
+759
+01:04:01,600 --> 01:04:03,080
 Eso es!
 
-795
-01:07:48,910 --> 01:07:51,504
-Elnhorn es Finkle.
+760
+01:04:03,360 --> 01:04:05,720
+Einhorn is Finkle.
 
-796
-01:07:51,679 --> 01:07:54,079
-Finkle es Elnhorn.
+761
+01:04:06,000 --> 01:04:08,280
+Finkle es Einhorn!
 
-797
-01:07:54,349 --> 01:07:56,749
+762
+01:04:08,560 --> 01:04:10,840
+Einhorn es un hombre!
+
+763
+01:04:12,280 --> 01:04:14,200
+Oh, Dios mío!
+
+764
+01:04:14,600 --> 01:04:17,040
 Elnhorn es un hombre!
 
-798
-01:07:58,252 --> 01:08:00,243
-Dios mío!
-
-799
-01:08:00,688 --> 01:08:03,248
-Elnhorn es un hombre!
-
-800
-01:08:59,814 --> 01:09:02,248
+765
+01:05:11,360 --> 01:05:13,640
 Tu pistola se me clava en la cadera.
 
-801
-01:09:03,151 --> 01:09:04,584
-Dios mío.
+766
+01:05:14,560 --> 01:05:15,880
+Dios mío!
 
-802
-01:09:07,255 --> 01:09:11,021
+767
+01:05:17,400 --> 01:05:21,800
 Y la gran noticia en este Super Bowl
 es el secuestro...
 
-803
-01:09:11,092 --> 01:09:14,152
+768
+01:05:22,000 --> 01:05:24,960
 ...del quarterback titular de Miami,
-Dan marino.
+Dan Marino.
 
-804
-01:09:14,262 --> 01:09:17,425
+769
+01:05:25,200 --> 01:05:28,200
 El equipo de Miami debe de estar
 muy tenso, Bob.
 
-805
-01:09:55,970 --> 01:09:58,370
+770
+01:06:04,960 --> 01:06:08,320
 ¿Qué te pasa? ¿No te estás divirtiendo?
 
-806
-01:09:59,540 --> 01:10:03,306
+771
+01:06:08,520 --> 01:06:12,200
 A mí me encanta el domingo
 del Super Bowl. ¿A ti no, Dan?
 
-807
-01:10:03,544 --> 01:10:05,808
+772
+01:06:12,440 --> 01:06:14,640
 Una tarde mágica...
 
-808
-01:10:06,214 --> 01:10:08,478
+773
+01:06:15,000 --> 01:06:17,160
 ...en que los sueños
 se hacen realidad...
 
-809
-01:10:09,550 --> 01:10:11,040
+774
+01:06:18,200 --> 01:06:19,640
 ...o son aplastados.
 
-810
-01:10:12,220 --> 01:10:15,212
+775
+01:06:19,960 --> 01:06:23,320
 Si quiere boletos, esta no es
 la manera de conseguirlos.
 
-811
-01:10:16,491 --> 01:10:20,222
+776
+01:06:24,800 --> 01:06:28,240
 ¿No me reconoces?
 ¿No te da la impresión de que...
 
-812
-01:10:20,394 --> 01:10:22,555
+777
+01:06:28,440 --> 01:06:30,520
 ...ya nos conocemos de antes?
 
-813
-01:10:22,830 --> 01:10:25,560
+778
+01:06:30,920 --> 01:06:33,360
 No lo sé. Me dan muchos golpes
 en la cabeza.
 
-814
-01:10:25,900 --> 01:10:28,061
+779
+01:06:33,880 --> 01:06:35,960
 Y ahora, echan la moneda al aire.
 
-815
-01:10:28,836 --> 01:10:30,235
+780
+01:06:36,680 --> 01:06:37,880
 viene la patada inicial.
 
-816
-01:10:31,072 --> 01:10:32,664
+781
+01:06:38,840 --> 01:06:40,400
 Mi parte favorita.
 
-817
-01:10:39,347 --> 01:10:40,905
+782
+01:06:46,800 --> 01:06:48,280
 Las cintas para afuera!
 
-818
-01:11:00,434 --> 01:11:02,994
+783
+01:07:06,760 --> 01:07:10,120
 Preparé unas bebidas, Dan.
 
-819
-01:11:04,939 --> 01:11:07,430
-¿No quieres unas bebidas?
+784
+01:07:11,360 --> 01:07:13,720
+¿No quieres unas bebidas, Dan?
 
-820
-01:11:08,709 --> 01:11:11,701
-Enseguida vuelvo.
+785
+01:07:14,920 --> 01:07:16,840
+Enseguida vuelvo, Dan.
 
-821
-01:11:41,342 --> 01:11:45,176
+786
+01:07:45,760 --> 01:07:49,760
 No sé cuánto les pague la psicótica
 pero les doy el doble.
 
-822
-01:11:45,246 --> 01:11:48,477
-Lo siento. La psicótica evita que
+787
+01:07:50,000 --> 01:07:53,080
+Lo siento. "La psicótica" evita que
 nos metan a la cárcel.
 
-823
-01:11:49,584 --> 01:11:51,643
+788
+01:07:54,120 --> 01:07:55,920
 Snowflake, toma. Vamos.
 
-824
-01:11:51,819 --> 01:11:53,582
-Echa ojo, marino.
+789
+01:07:56,120 --> 01:07:57,760
+Echa un ojo, Marino.
 
-825
-01:11:53,754 --> 01:11:55,915
+790
+01:07:57,960 --> 01:08:00,200
 El tiro un pase a un delfín.
 
-826
-01:12:06,334 --> 01:12:07,323
-Rayos.
+791
+01:08:10,200 --> 01:08:11,000
+Rayos!
 
-827
-01:12:07,501 --> 01:12:09,162
-Ve por más pescados.
+792
+01:08:11,200 --> 01:08:12,920
+Ve por más pescados!
 
-828
-01:12:09,837 --> 01:12:11,270
+793
+01:08:13,240 --> 01:08:14,720
 Me dan ganas de matarlo.
 
-829
-01:12:12,340 --> 01:12:13,932
+794
+01:08:15,960 --> 01:08:17,520
 Qué hermosa fiesta.
 
-830
-01:12:14,175 --> 01:12:15,938
+795
+01:08:17,760 --> 01:08:19,430
 lástima que no me invitaran.
 
-831
-01:12:28,456 --> 01:12:30,515
+796
+01:08:31,430 --> 01:08:33,430
 ¿Dónde diablos están los eperlanos?
 
-832
-01:12:38,199 --> 01:12:39,359
-inconsciente.
+797
+01:08:40,800 --> 01:08:43,960
+inconsciente, Justo como lo planeé.
 
-833
-01:12:39,533 --> 01:12:41,524
-Justo como lo planeé.
-
-834
-01:12:49,210 --> 01:12:50,700
+798
+01:08:51,350 --> 01:08:52,760
 ¿Qué demonios fue eso?
 
-835
-01:13:01,889 --> 01:13:02,878
+799
+01:09:03,430 --> 01:09:04,470
 ¡Carajo!
 
-836
-01:13:08,496 --> 01:13:09,690
+800
+01:09:10,000 --> 01:09:12,880
 ¿Qué pasó?
 
-837
-01:13:10,464 --> 01:13:11,431
-¿Qué está pasando?
-
-838
-01:13:11,899 --> 01:13:12,888
+801
+01:09:13,120 --> 01:09:14,040
 ¿Estás bien?
 
-839
-01:13:13,401 --> 01:13:14,663
+802
+01:09:14,560 --> 01:09:15,520
 ¿Adivinen qué?
 
-840
-01:13:14,902 --> 01:13:16,164
+803
+01:09:15,960 --> 01:09:16,920
 Es hora de la siesta.
 
-841
-01:13:19,073 --> 01:13:20,563
+804
+01:09:19,520 --> 01:09:20,920
 ¡Y qué golpazo!
 
-842
-01:13:23,010 --> 01:13:24,341
+805
+01:09:23,720 --> 01:09:25,000
 ¡Cuidado!
 
-843
-01:13:30,851 --> 01:13:32,011
+806
+01:09:31,080 --> 01:09:32,120
 ¿Quién eres tú?
 
-844
-01:13:33,087 --> 01:13:36,523
+807
+01:09:33,350 --> 01:09:36,640
 Ace Ventura, detective de Mascotas.
 Traje una jugada especial:
 
-845
-01:13:36,691 --> 01:13:38,352
+808
+01:09:36,880 --> 01:09:38,430
 El escape del quarterback.
 
-846
-01:13:39,427 --> 01:13:40,416
-Un castigo.
+809
+01:09:39,470 --> 01:09:40,280
+Penalty!
 
-847
-01:13:41,095 --> 01:13:43,256
+810
+01:09:40,800 --> 01:09:43,520
 Demasiados hombres en la cancha.
 
-848
-01:13:44,265 --> 01:13:46,426
+811
+01:09:44,120 --> 01:09:46,040
 Te lo advertí, Ventura.
 
-849
-01:13:47,034 --> 01:13:48,695
+812
+01:09:46,760 --> 01:09:48,200
 ¿Qué pasó con el "Ace"?
 
-850
-01:13:48,869 --> 01:13:50,530
+813
+01:09:48,390 --> 01:09:50,120
 Buena pregunta.
 
-851
-01:13:51,105 --> 01:13:55,599
+814
+01:09:50,680 --> 01:09:55,000
 Cuidado con ese teléfono.
 Con el tiempo, te puede salir un tumor.
 
-852
-01:13:56,210 --> 01:13:58,610
-Aguado, habla la Teniente Elnhorn.
+815
+01:09:55,600 --> 01:09:57,840
+Aguado, habla la Teniente Einhorn.
 
-853
-01:13:58,779 --> 01:14:02,613
+816
+01:09:58,080 --> 01:10:01,680
 Manda unos hombres al dique
 de yates de allandale.
 
-854
-01:14:02,783 --> 01:14:05,445
+817
+01:10:01,920 --> 01:10:04,200
 Tengo al secuestrador atrapado
 en la bodega.
 
-855
-01:14:05,786 --> 01:14:08,380
+818
+01:10:04,760 --> 01:10:07,200
 Es Ace Ventura, detective de Mascotas.
 
-856
-01:14:09,690 --> 01:14:12,022
-"DEPTO. DE POLICIA DE DADE SUR"
-
-857
-01:14:12,193 --> 01:14:15,458
-Código 11 teniendo lugar,
+819
+01:10:10,760 --> 01:10:13,800
+Código 1 1 teniendo lugar,
 Calle Victorville 343...
 
-858
-01:14:15,629 --> 01:14:17,187
+820
+01:10:14,040 --> 01:10:15,560
 ...en la cuenca de Palmdale.
 
-859
-01:14:17,264 --> 01:14:20,893
+821
+01:10:15,760 --> 01:10:18,920
 Oficial necesita apoyo.
 Nombre del sospechoso: Ace Ventura.
 
-860
-01:14:20,968 --> 01:14:23,698
+822
+01:10:19,160 --> 01:10:21,600
 Considérenlo armado y peligroso.
 
-861
-01:14:24,305 --> 01:14:26,967
+823
+01:10:22,320 --> 01:10:24,880
 Es Ace. Nos tenemos que ir de aquí.
 
-862
-01:14:29,543 --> 01:14:30,976
+824
+01:10:27,390 --> 01:10:28,680
 ¿Está en un aprieto?
 
-863
-01:14:31,145 --> 01:14:33,636
+825
+01:10:28,920 --> 01:10:31,200
 No te preocupes. Si algo sé es que...
 
-864
-01:14:33,814 --> 01:14:36,044
+826
+01:10:31,470 --> 01:10:33,600
 ...Ace puede hacerle frente
 a lo que sea.
 
-865
-01:14:36,650 --> 01:14:38,982
-No me mates.
+827
+01:10:34,200 --> 01:10:36,390
+No me mates!
 
-866
-01:14:40,554 --> 01:14:42,215
-Por favor.
+828
+01:10:37,920 --> 01:10:39,560
+Por favor!
 
-867
-01:14:42,723 --> 01:14:45,055
+829
+01:10:40,000 --> 01:10:42,200
 Jamás se lo diré a nadie. Te lo juro.
 
-868
-01:14:45,226 --> 01:14:47,660
+830
+01:10:42,430 --> 01:10:44,680
 -¡El es el culpable! ¡Mátalo a él!
--¡A él!
+-¡A él
 
-869
-01:14:47,828 --> 01:14:50,661
+831
+01:10:44,920 --> 01:10:47,560
 -El acomodó el balón.
 -Mátalo, él es el detective.
 
-870
-01:14:50,831 --> 01:14:52,492
+832
+01:10:47,800 --> 01:10:49,320
 Vamos. Míralo.
 
-871
-01:14:52,666 --> 01:14:53,997
--Llorón.
--Gorilón.
+833
+01:10:49,560 --> 01:10:50,760
+-Llorón!
+-Gorilón!
 
-872
-01:14:54,168 --> 01:14:55,157
+834
+01:10:51,000 --> 01:10:51,880
 -Gallina.
 -Sin sesos.
 
-873
-01:14:55,336 --> 01:14:56,894
+835
+01:10:52,120 --> 01:10:53,560
 ¡Cállense la boca!
 
-874
-01:14:57,071 --> 01:15:01,508
+836
+01:10:53,800 --> 01:10:58,000
 Primero, voy a matar al delfín.
 No quiero que te pierdas eso.
 
-875
-01:15:02,076 --> 01:15:03,839
+837
+01:10:58,560 --> 01:11:00,280
 Y empieza la jugada.
 
-876
-01:15:04,011 --> 01:15:05,000
+838
+01:11:00,470 --> 01:11:01,350
 La patada!
 
-877
-01:15:05,246 --> 01:15:07,237
+839
+01:11:01,600 --> 01:11:03,560
 ¡Y es buena!
 
-878
-01:15:07,415 --> 01:15:10,248
+840
+01:11:03,760 --> 01:11:06,560
 Qué gusto da ver a alguien
 que resiste la presión.
 
-879
-01:15:15,356 --> 01:15:16,846
-¿Qué sabes tú...
+841
+01:11:11,320 --> 01:11:15,560
+¿Qué sabes tú de presión?
 
-880
-01:15:18,092 --> 01:15:19,753
-...de presión?
-
-881
-01:15:20,094 --> 01:15:22,585
+842
+01:11:15,840 --> 01:11:18,280
 Pues, he besado a un hombre.
 
-882
-01:15:23,531 --> 01:15:28,025
+843
+01:11:19,160 --> 01:11:23,390
 Claro que nunca ha habido una patada
 tan crucial en un Super Bowl...
 
-883
-01:15:28,202 --> 01:15:30,534
+844
+01:11:23,680 --> 01:11:25,840
 ...como la que se oyó en todo el mundo.
 
-884
-01:15:31,038 --> 01:15:35,941
-Yo vi claramente que marino
+845
+01:11:26,320 --> 01:11:31,160
+Yo vi claramente que Marino
 la agarró bien. Finkle la pateó mal.
 
-885
-01:15:37,211 --> 01:15:38,701
+846
+01:11:32,240 --> 01:11:33,680
 Las cintas estaban mal!
 
-886
-01:15:39,113 --> 01:15:40,774
+847
+01:11:34,120 --> 01:11:35,680
 Estaban hacia dentro!
 
-887
-01:16:01,068 --> 01:16:02,729
+848
+01:11:55,120 --> 01:11:56,680
 ¿Te gusta eso?
 
-888
-01:16:02,903 --> 01:16:04,063
+849
+01:11:56,920 --> 01:11:58,040
 ¿Te gusta eso?
 
-889
-01:16:09,577 --> 01:16:11,477
+850
+01:12:03,320 --> 01:12:05,120
 ¡Y eso! ¡Y eso!
 
-890
-01:16:21,989 --> 01:16:24,423
+851
+01:12:15,240 --> 01:12:17,520
 ¿Estás teniendo problemas con la dama?
 
-891
-01:16:24,825 --> 01:16:26,315
+852
+01:12:17,920 --> 01:12:19,320
 Es que no entiendes...
 
-892
-01:16:26,494 --> 01:16:27,756
+853
+01:12:19,560 --> 01:12:20,680
 ...ella es un...
 
-893
-01:16:30,764 --> 01:16:32,664
+854
+01:12:23,600 --> 01:12:25,430
 Dale, Lois! ¡Dale!
 
-894
-01:16:36,504 --> 01:16:37,994
+855
+01:12:29,200 --> 01:12:30,560
 Dale!
 
-895
-01:16:41,275 --> 01:16:42,207
-Dale!
+856
+01:12:36,960 --> 01:12:37,920
+Disparale!
 
-896
-01:16:44,678 --> 01:16:45,667
-¡Mátalo!
-
-897
-01:16:47,781 --> 01:16:49,772
+857
+01:12:39,920 --> 01:12:41,880
 -¡Mátalo!
 -¡No disparen!
 
-898
-01:16:51,619 --> 01:16:52,677
+858
+01:12:43,600 --> 01:12:44,720
 No disparen!
 
-899
-01:16:52,853 --> 01:16:55,185
+859
+01:12:44,920 --> 01:12:47,080
 Bajen sus armas o mato a este policía.
 
-900
-01:16:56,023 --> 01:16:57,456
-¡Va en serlo!
+860
+01:12:47,840 --> 01:12:49,240
+¡Va en serio!
 
-901
-01:16:58,792 --> 01:17:00,123
+861
+01:12:49,680 --> 01:12:51,800
 No está bromeando!
 
-902
-01:17:00,294 --> 01:17:01,955
+862
+01:12:52,000 --> 01:12:53,470
 El secuestró a Snowflake!
 
-903
-01:17:02,129 --> 01:17:05,462
-El mató a Roger Podactor
-y nos iba a matar a marino y...
+863
+01:12:53,720 --> 01:12:58,120
+El mató a Roger Podacter y
+nos iba a matar a Marino y a mi
 
-904
-01:17:05,633 --> 01:17:06,691
-...a mí!
-
-905
-01:17:09,637 --> 01:17:12,128
+864
+01:13:00,880 --> 01:13:03,240
 La ficción llega a ser divertida.
 
-906
-01:17:12,306 --> 01:17:15,298
+865
+01:13:03,520 --> 01:13:06,320
 Pero la sección de referencia
 es más instructiva.
 
-907
-01:17:15,543 --> 01:17:16,976
+866
+01:13:06,560 --> 01:13:07,880
 Por ejemplo...
 
-908
-01:17:17,144 --> 01:17:18,475
+867
+01:13:08,120 --> 01:13:09,320
 ...si buscaran...
 
-909
-01:17:18,646 --> 01:17:23,140
+868
+01:13:09,560 --> 01:13:13,840
 ...las jugadas más estúpidas
 en la historia del fútbol americano...
 
-910
-01:17:23,651 --> 01:17:27,143
+869
+01:13:14,350 --> 01:13:17,640
 ...leerían que un pateador
 de Miami llamado Ray Finkle...
 
-911
-01:17:27,321 --> 01:17:31,985
+870
+01:13:17,880 --> 01:13:22,320
 ...falló un gol de campo de 24 m
-al final del Super Bowl XVll.
+al final del Super Bowl XVll
 
-912
-01:17:34,828 --> 01:17:38,730
+871
+01:13:25,080 --> 01:13:28,760
 Lo que no leerían es que luego
 metieron a Finkle a un manicomio...
 
-913
-01:17:38,866 --> 01:17:42,324
+872
+01:13:29,000 --> 01:13:32,160
 ...se escapó y se volvió policía usando
 el nombre de una...
 
-914
-01:17:42,403 --> 01:17:45,839
+873
+01:13:32,390 --> 01:13:35,470
 ...caminante perdida,
-planeando su venganza contra marino...
+planeando su venganza contra Marino...
 
-915
-01:17:45,906 --> 01:17:48,067
+874
+01:13:35,720 --> 01:13:37,760
 ...a quien culpaba de todo!
 
-916
-01:17:49,510 --> 01:17:51,239
+875
+01:13:39,160 --> 01:13:40,840
 ¿De qué estás hablando?
 
-917
-01:17:51,412 --> 01:17:55,678
-Ella no es Lois Elnhorn!
+876
+01:13:41,040 --> 01:13:45,040
+Ella no es Lois Einhorn!
 Es Ray Finkle! ¡Ella es un hombre!
 
-918
-01:17:55,849 --> 01:17:57,009
+877
+01:13:45,240 --> 01:13:46,280
 Está mintiendo!
 
-919
-01:17:57,184 --> 01:17:58,515
+878
+01:13:46,520 --> 01:13:47,720
 ¡Mátenlo!
 
-920
-01:18:01,689 --> 01:18:04,749
+879
+01:13:50,800 --> 01:13:53,760
 Veamos quién está mintiendo, ¿sí?
 
-921
-01:18:05,025 --> 01:18:09,018
+880
+01:13:54,000 --> 01:13:57,840
 ¿Una mujer de verdad tendría
 que usar una de estas cosas?
 
-922
-01:18:15,035 --> 01:18:17,094
+881
+01:14:03,600 --> 01:14:05,600
 Eso está bien pegado.
 
-923
-01:18:17,605 --> 01:18:19,197
+882
+01:14:06,120 --> 01:14:07,760
 Pero díganme esto:
 
-924
-01:18:19,440 --> 01:18:21,203
-¿A una mujer de verdad...
+883
+01:14:07,960 --> 01:14:09,470
+Would a real woman...
 
-925
-01:18:21,375 --> 01:18:23,605
+884
+01:14:09,720 --> 01:14:11,840
+¿A una mujer de verdad
 ...le faltaría esto?
 
-926
-01:18:29,116 --> 01:18:31,949
+885
+01:14:17,160 --> 01:14:19,840
 Esa cirugía se hace
 en un fin de semana.
 
-927
-01:18:32,453 --> 01:18:34,284
+886
+01:14:20,350 --> 01:14:22,120
 Pero dudo mucho...
 
-928
-01:18:34,888 --> 01:18:38,619
+887
+01:14:22,640 --> 01:14:26,160
 ...que él pudiera darse el tiempo,
 con lo ocupado que está...
 
-929
-01:18:38,792 --> 01:18:40,225
+888
+01:14:26,430 --> 01:14:27,720
 ...para deshacerse...
 
-930
-01:18:40,394 --> 01:18:41,452
+889
+01:14:27,960 --> 01:14:28,920
 ...del viejo...
 
-931
-01:18:41,629 --> 01:18:43,290
+890
+01:14:29,160 --> 01:14:30,720
 ...Sr. Salchicha!
 
-932
-01:18:51,238 --> 01:18:52,637
-Ah, caray.
+891
+01:14:38,320 --> 01:14:39,680
+Oh, Muchacho!
 
-933
-01:18:55,809 --> 01:18:56,901
+892
+01:14:42,720 --> 01:14:43,760
 Ven acá.
 
-934
-01:18:57,745 --> 01:19:00,578
+893
+01:14:44,560 --> 01:14:47,280
 ¿Me permiten un segundo?
 
-935
-01:19:08,922 --> 01:19:10,583
+894
+01:14:55,320 --> 01:14:56,880
 Damas y caballeros...
 
-936
-01:19:11,258 --> 01:19:14,091
-...mi estimado colega, el Sr. marino...
+895
+01:14:57,520 --> 01:15:00,240
+...mi estimado colega, el Sr. Marino...
 
-937
-01:19:14,995 --> 01:19:17,088
+896
+01:15:01,160 --> 01:15:03,080
 ...me ha señalado evidencia nueva.
 
-938
-01:19:17,264 --> 01:19:18,253
+897
+01:15:03,320 --> 01:15:04,280
 Ahora...
 
-939
-01:19:18,666 --> 01:19:22,602
+898
+01:15:04,640 --> 01:15:08,320
 ...la historia ha demostrado
 que aun el más intuitivo...
 
-940
-01:19:22,770 --> 01:19:25,603
+899
+01:15:08,600 --> 01:15:11,320
 ...investigador se equivoca
 ocasionalmente.
 
-941
-01:19:25,839 --> 01:19:27,932
+900
+01:15:11,560 --> 01:15:13,520
 Pero, si estoy en un error...
 
-942
-01:19:28,275 --> 01:19:31,267
+901
+01:15:13,840 --> 01:15:16,720
 ...si la teniente es,
 en verdad, una mujer...
 
-943
-01:19:31,512 --> 01:19:33,844
-...como ella dice serlo...
+902
+01:15:16,960 --> 01:15:19,160
+...como ella dice serlo..
 
-944
-01:19:34,014 --> 01:19:35,276
+903
+01:15:19,390 --> 01:15:20,520
 ...entonces, amigos míos...
 
-945
-01:19:35,449 --> 01:19:40,352
+904
+01:15:20,760 --> 01:15:25,160
 ...¡sufre del caso de hemorroides
 más severo que he visto en mi vida!
 
-946
-01:19:41,622 --> 01:19:43,852
+905
+01:15:26,640 --> 01:15:28,840
 Por eso murió Roger Podacter!
 
-947
-01:19:44,024 --> 01:19:46,515
+906
+01:15:29,040 --> 01:15:31,390
 Encontró al Capitán Pitín!
 
-948
-01:19:55,803 --> 01:19:56,861
+907
+01:15:40,280 --> 01:15:41,320
 Buenas noches!
 
-949
-01:19:57,037 --> 01:20:00,370
+908
+01:15:41,520 --> 01:15:44,920
 han sido un público maravilloso!
 No olviden dejar propina.
 
-950
-01:20:05,646 --> 01:20:08,046
+909
+01:15:49,680 --> 01:15:51,680
 ¡Muere, ama animales!
 
-951
-01:20:08,482 --> 01:20:09,813
+910
+01:15:52,430 --> 01:15:53,720
 Una decisión rápida.
 
-952
-01:20:31,672 --> 01:20:33,333
+911
+01:16:13,680 --> 01:16:16,320
 Fracasado!
 
-953
-01:20:40,414 --> 01:20:41,847
+912
+01:16:23,080 --> 01:16:24,350
 ¿No tienes más chicle?
 
-954
-01:20:42,015 --> 01:20:46,349
+913
+01:16:24,600 --> 01:16:28,720
 Eso no es asunto tuyo.
 No te metas en mis cosas personales.
 
-955
-01:20:47,087 --> 01:20:49,749
+914
+01:16:29,470 --> 01:16:32,000
 Eres un tipo raro, Ace. Un tipo raro.
 
-956
-01:20:51,258 --> 01:20:53,692
+915
+01:16:33,470 --> 01:16:35,760
 Damas y caballeros...
 
-957
-01:20:53,861 --> 01:20:55,761
+916
+01:16:35,960 --> 01:16:37,720
 ...los delfines se enorgullecen...
 
-958
-01:20:55,829 --> 01:20:58,957
+917
+01:16:37,920 --> 01:16:40,640
 ...en dar la bienvenida
 al Estadio Joe Robble...
 
-959
-01:20:59,032 --> 01:21:00,693
+918
+01:16:40,840 --> 01:16:42,430
 ...a nuestra amada mascota...
 
-960
-01:21:00,768 --> 01:21:03,601
+919
+01:16:42,640 --> 01:16:45,350
 ...y estrella del show
 de medio tiempo:
 
-961
-01:21:03,771 --> 01:21:05,602
-¡Snowflake!
+920
+01:16:45,560 --> 01:16:47,240
+Snowflake!
 
-962
-01:21:12,613 --> 01:21:13,773
+921
+01:16:53,920 --> 01:16:55,470
 ¡Y ahora...
 
-963
-01:21:13,847 --> 01:21:18,511
+922
+01:16:55,680 --> 01:16:59,200
 ...regresando para la 2da. mitad,
 el jugador estrella de Miami...
 
-964
-01:21:18,786 --> 01:21:20,947
-Dan marino!
+923
+01:16:59,840 --> 01:17:01,960
+...Dan Marino!
 
-965
-01:22:07,000 --> 01:22:07,830
-idiota!
+924
+01:17:46,080 --> 01:17:46,880
+ldiota!
 
-966
-01:22:08,936 --> 01:22:13,771
+925
+01:17:47,920 --> 01:17:52,640
 ¿Sabes lo que hiciste?
 Me acabas de costar $25,000, Perico.
 
-967
-01:22:13,941 --> 01:22:16,000
-¿Sí? Bésame el culo.
+926
+01:17:52,840 --> 01:17:54,760
+¿Sí?, Bésame el trasero.
 
-968
-01:22:17,778 --> 01:22:19,109
+927
+01:17:56,390 --> 01:17:57,680
 ¿De veras?
 
-969
-01:22:34,361 --> 01:22:36,090
+928
+01:18:12,430 --> 01:18:13,960
 La Liga Nacional de Fútbol...
 
-970
-01:22:36,196 --> 01:22:41,031
+929
+01:18:14,160 --> 01:18:18,720
 ...quisiera dar las gracias al hombre
-que rescató a Dan marino...
+que rescató a Dan Marino...
 
-971
-01:22:41,201 --> 01:22:42,862
+930
+01:18:18,920 --> 01:18:20,320
 ...y a nuestro amado Snowflake.
 
-972
-01:22:43,303 --> 01:22:44,964
+931
+01:18:20,880 --> 01:18:22,430
 Un gran filántropo y...
 
-973
-01:22:45,138 --> 01:22:47,299
-...amante de todos los animales:
+932
+01:18:22,680 --> 01:18:24,680
+...protector de todos los animales:
 
-974
-01:22:47,474 --> 01:22:48,372
-El señor...
+933
+01:18:25,040 --> 01:18:27,920
+Sr. Ace Ventura!
 
-975
-01:22:48,542 --> 01:22:50,635
-Ace Ventura!
-
-976
-01:22:52,646 --> 01:22:54,136
+934
+01:18:29,840 --> 01:18:31,280
 ¡Con permiso!
 
-977
-01:22:55,482 --> 01:22:57,040
-¡Quítateme de encima!
+935
+01:18:32,560 --> 01:18:34,120
+¡Con permiso!
 
-978
-01:23:01,221 --> 01:23:06,056
+936
+01:18:38,200 --> 01:18:43,120
 Tone, ponte el 13 para nalgotas
-y dale la patada final al asunto.
+y dale la patada final al asunto..
