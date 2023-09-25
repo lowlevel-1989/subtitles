@@ -1,7 +1,6 @@
 1
 00:00:06,000 --> 00:00:12,074
-Utilice el CÃ³digo gratuito JOINNOW en 
-â€¨www.playships.eu
+_
 
 2
 00:00:50,342 --> 00:00:52,415
@@ -3756,7 +3755,3 @@ Creo que dice que no es virgen.
 899
 01:26:27,620 --> 01:26:29,321
 ¿Pueden darse cuenta?
-
-900
-01:26:30,305 --> 01:27:30,289
-Por favor califica este subtitulo en www.osdb.link/w7dj Ayuda a otros a elegir el mejor
