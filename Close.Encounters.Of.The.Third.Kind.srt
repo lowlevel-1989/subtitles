@@ -1,4377 +1,4510 @@
-﻿1
-00:00:34,828 --> 00:00:39,833
-ENCUENTROS CERCANOS DEL TERCER TIPO
+1
+00:00:32,000 --> 00:00:39,300
+<b>ENCUENTROS CERCANOS
+DEL TERCER TIPO</b>
 
 2
-00:01:56,368 --> 00:02:00,539
+00:01:56,249 --> 00:02:00,208
 Desierto de Sonora, México
 
 3
-00:02:02,207 --> 00:02:05,002
-En la actualidad
+00:02:02,255 --> 00:02:04,951
+Día Presente
 
 4
-00:02:25,063 --> 00:02:27,232
+00:02:25,043 --> 00:02:26,977
 ¿Somos los primeros?
 
 5
-00:02:29,860 --> 00:02:32,863
-¿Somos los primeros en llegar?
+00:02:29,848 --> 00:02:32,247
+¿Somos los primeros
+en llegar?
 
 6
-00:03:13,403 --> 00:03:15,489
-¿Está el intérprete con usted?
+00:03:13,390 --> 00:03:15,415
+¿El intérprete está con Ud.?
 
 7
-00:03:16,448 --> 00:03:21,828
+00:03:16,593 --> 00:03:21,586
 No soy intérprete profesional.
 Mi profesión es cartógrafo.
 
 8
-00:03:21,995 --> 00:03:23,580
+00:03:22,198 --> 00:03:23,597
 Hago mapas.
 
 9
-00:03:23,789 --> 00:03:26,708
-¿Puede traducir del francés al inglés?
+00:03:23,799 --> 00:03:26,700
+¿Puede traducir
+del francés al inglés?
 
 10
-00:03:26,917 --> 00:03:30,087
-Sí, se lo dije al jefe en Villa Hermosa.
+00:03:26,936 --> 00:03:30,064
+Sí, se lo dije al jefe
+en Villa Hermosa.
 
 11
-00:03:30,295 --> 00:03:32,714
+00:03:30,272 --> 00:03:32,502
 Me ha tomado de sorpresa.
 
 12
-00:03:37,886 --> 00:03:41,223
-¿Cuánto lleva en el proyecto?
+00:03:32,708 --> 00:03:35,905
+<i>- Monsieur Loglin?
+- Laughlin, oui.</i>
 
 13
-00:03:41,890 --> 00:03:45,894
-Formo parte del equipo
-estadounidense desde el principio.
+00:03:36,145 --> 00:03:37,544
+<i>Laughlin... Pardon.</i>
 
 14
-00:03:46,228 --> 00:03:49,689
-Lo vi en la conferencia de Montsoreau,
-que acabó bien.
+00:03:37,880 --> 00:03:41,213
+¿Cuánto lleva en el proyecto?
 
 15
-00:03:51,900 --> 00:03:55,904
-Sobre todo para los franceses.
-Un poco tarde, pero felicitaciones.
+00:03:41,884 --> 00:03:45,876
+Formo parte del equipo
+norteamericano desde el principio.
 
 16
-00:03:58,281 --> 00:04:01,284
-¡Están todos ahí! ¡Están todos!
+00:03:46,221 --> 00:03:50,885
+Lo vi en la conferencia de
+Montsoreau, que acabó bien.
 
 17
-00:04:12,629 --> 00:04:15,090
-¡Busque huellas de aterrizaje!
+00:03:51,893 --> 00:03:55,886
+Sobre todo para los franceses.
+Un poco tarde, pero felicitaciones
 
 18
-00:04:39,614 --> 00:04:43,452
-El señor Lacombe quiere los números de motor.
+00:03:58,233 --> 00:04:01,293
+¡Están todos ahí!
+¡Están todos!
 
 19
-00:04:46,663 --> 00:04:49,666
-¡M-447148!
+00:04:12,646 --> 00:04:14,841
+¡Busque huellas de aterrizaje!
 
 20
-00:04:49,875 --> 00:04:54,212
-¡W-445529!
+00:04:39,772 --> 00:04:43,435
+El Sr. Lacombe quiere
+los números de motor.
 
 21
-00:04:54,379 --> 00:04:57,924
-¡Número 445529, bien!
+00:04:46,712 --> 00:04:49,647
+¡M-447148!
 
 22
-00:04:58,133 --> 00:05:02,679
-Aproximadamente 200 litros en el tanque derecho.
+00:04:49,849 --> 00:04:54,217
+¡W-445529!
 
 23
-00:05:02,888 --> 00:05:04,973
-¡447149, bien!
+00:04:54,519 --> 00:04:57,886
+¡Número 445529, bien!
 
 24
-00:05:05,140 --> 00:05:07,225
-Dime, ¿qué está pasando aquí?
+00:04:58,123 --> 00:05:02,651
+Aproximadamente 200 litros
+en el tanque derecho.
 
 25
-00:05:07,392 --> 00:05:09,811
-- ¡Es el vuelo número 19!
-- ¿19 qué?
+00:05:02,861 --> 00:05:04,692
+¡447149, bien!
 
 26
-00:05:09,978 --> 00:05:14,024
-La misión de entrenamiento de Fort Lauderdale.
+00:05:04,896 --> 00:05:07,228
+Dime, ¿qué está pasando aquí?
 
 27
-00:05:14,191 --> 00:05:17,152
-Hacían diana en un casco de barco.
+00:05:07,499 --> 00:05:09,865
+- ¡Es el vuelo N° 19!
+- ¿19 qué?
 
 28
-00:05:17,360 --> 00:05:19,696
-¿Quién vuela en estos trastos?
+00:05:10,135 --> 00:05:13,832
+La misión de entrenamiento
+de Fort Lauderdale.
 
 29
-00:05:19,863 --> 00:05:25,327
-¡Nadie! ¡Estos aviones desaparecieron en 1945!
+00:05:14,306 --> 00:05:17,172
+Hacían diana
+en un casco de barco.
 
 30
-00:05:29,789 --> 00:05:31,500
-¡Si parece nuevo!
+00:05:17,374 --> 00:05:19,740
+¿Quién vuela en estos trastos?
 
 31
-00:05:35,837 --> 00:05:37,714
-¿Dónde está el piloto?
+00:05:20,010 --> 00:05:24,743
+¡Nadie! ¡Estos aviones
+desaparecieron en 1945!
 
 32
-00:05:38,340 --> 00:05:40,800
-¡No lo comprendo!
+00:05:29,853 --> 00:05:31,480
+¡Si parece nuevo!
 
 33
-00:05:41,468 --> 00:05:43,553
-¿Y la tripulación? ¡Oye!
+00:05:35,926 --> 00:05:37,689
+¿Dónde está el piloto?
 
 34
-00:05:47,557 --> 00:05:50,769
-¿Cómo diablos llegaron hasta aquí?
+00:05:38,529 --> 00:05:40,758
+¡No lo comprendo!
 
 35
-00:06:23,385 --> 00:06:24,552
-Él es de aquí.
+00:05:41,464 --> 00:05:43,625
+¿Y la tripulación?
 
 36
-00:06:24,719 --> 00:06:26,805
-Estaba anoche. Vio lo que pasó.
+00:05:47,637 --> 00:05:50,504
+¿Cómo diablos
+llegaron hasta aquí?
 
 37
-00:06:50,328 --> 00:06:52,122
-¿Quemaduras solares?
+00:06:23,205 --> 00:06:24,672
+Él es de aquí.
 
 38
-00:07:08,054 --> 00:07:11,308
-Dice que anoche salió el sol.
+00:06:24,873 --> 00:06:27,500
+Estaba anoche.
+Vio lo que pasó.
 
 39
-00:07:12,225 --> 00:07:14,936
-Y que cantó para él.
+00:06:50,297 --> 00:06:51,854
+¿Quemaduras solares?
 
 40
-00:07:42,088 --> 00:07:46,134
-Control del Tráfico Aéreo Centro de Indianápolis
+00:07:08,047 --> 00:07:10,914
+Dice que anoche salió el sol.
 
 41
-00:07:50,930 --> 00:07:53,141
-Ernie, vigila ese punto.
+00:07:12,318 --> 00:07:14,683
+Y que cantó para él.
 
 42
-00:07:53,308 --> 00:07:55,477
-Está en 122,5.
+00:07:42,046 --> 00:07:46,244
+Control del Tráfico Aéreo
+Centro de Indianápolis
 
 43
-00:07:55,643 --> 00:07:57,520
-Ahora vuelvo.
+00:07:50,955 --> 00:07:53,185
+Ernie, vigila ese punto.
 
 44
-00:07:58,897 --> 00:08:02,817
-<i>Indianápolis, ¿tienen tráfico en Air East 31?</i>
+00:07:53,424 --> 00:07:55,415
+Está en 122,5.
 
 45
-00:08:04,361 --> 00:08:05,612
-Air East 31, negativo.
+00:07:55,626 --> 00:07:57,116
+Ahora vuelvo.
 
 46
-00:08:05,779 --> 00:08:10,742
-Solo el vuelo L-1011 de TWA
-en la posición de las 6:00...
+00:07:58,930 --> 00:08:02,421
+<i>Indianápolis, ¿tienen
+tráfico en Air East 31?</i>
 
 47
-00:08:11,076 --> 00:08:13,495
-...alcance 24 kilómetros...
+00:08:04,434 --> 00:08:05,560
+Air East 31, negativo.
 
 48
-00:08:13,661 --> 00:08:17,499
-...y un DC-9 a las 12:00, alcance 80 kilómetros.
+00:08:05,869 --> 00:08:10,738
+Sólo el vuelo L-1011 de TWA
+en la posición de las 6:00...
 
 49
-00:08:17,665 --> 00:08:20,835
-Espere, miraré el panel. Cambio.
+00:08:11,041 --> 00:08:13,271
+...alcance 15 millas...
 
 50
-00:08:21,461 --> 00:08:24,506
-<i>Tengo un objeto encima y descendiendo.</i>
+00:08:13,743 --> 00:08:17,440
+...y un DC-9 a las 12:00,
+alcance 50 millas.
 
 51
-00:08:25,215 --> 00:08:26,633
-Air East 31, cambio.
+00:08:17,647 --> 00:08:20,582
+Espere, miraré el panel.
+Cambio.
 
 52
-00:08:26,800 --> 00:08:29,886
-Ahora tengo algo en esa posición.
+00:08:20,951 --> 00:08:24,512
+<i>Tengo un objeto
+encima y descendiendo.</i>
 
 53
-00:08:30,053 --> 00:08:32,138
-No es tráfico conocido.
+00:08:25,354 --> 00:08:26,719
+Air East 31, cambio.
 
 54
-00:08:32,305 --> 00:08:34,099
-Espere, lo comprobaré.
+00:08:26,956 --> 00:08:30,016
+Ahora tengo algo
+en esa posición.
 
 55
-00:08:34,849 --> 00:08:36,976
-A ver si saben qué es esto.
+00:08:30,226 --> 00:08:31,887
+No es tráfico conocido.
 
 56
-00:08:37,143 --> 00:08:38,812
-<i>Aquí Air East 31.</i>
+00:08:32,094 --> 00:08:34,153
+Espere, lo comprobaré.
 
 57
-00:08:39,020 --> 00:08:41,022
-<i>El tráfico no está debajo.</i>
+00:08:34,930 --> 00:08:37,160
+A ver si saben qué es esto.
 
 58
-00:08:41,272 --> 00:08:44,692
-<i>Está en 1:00, encima y descendiendo.</i>
+00:08:37,366 --> 00:08:38,799
+<i>Aquí Air East 31.</i>
 
 59
-00:08:45,402 --> 00:08:48,405
-Air East 31, ¿ve qué avión es?
+00:08:39,001 --> 00:08:40,935
+<i>El tráfico no está debajo.</i>
 
 60
-00:08:48,947 --> 00:08:53,118
-<i>Negativo, no se distingue la forma.</i>
+00:08:41,170 --> 00:08:44,628
+<i>Está en 1:00,
+encima y descendiendo.</i>
 
 61
-00:08:54,035 --> 00:08:56,830
-<i>La verdad es que brilla mucho.</i>
+00:08:45,374 --> 00:08:48,138
+Air East 31, ¿ve qué avión es?
 
 62
-00:08:56,996 --> 00:09:01,000
-<i>Son las luces antichoque más fuertes que he visto.</i>
+00:08:49,010 --> 00:08:52,673
+<i>Negativo, no se distingue
+la forma.</i>
 
 63
-00:09:01,167 --> 00:09:03,586
-<i>Alternando blanco y rojo.</i>
+00:08:54,148 --> 00:08:56,844
+<i>La verdad es que brilla mucho.</i>
 
 64
-00:09:03,753 --> 00:09:05,463
-<i>Colores llamativos.</i>
+00:08:57,051 --> 00:09:01,010
+<i>Son las luces anti-choque
+más fuertes que he visto.</i>
 
 65
-00:09:05,630 --> 00:09:08,883
-<i>Aquí el vuelo TWA 517.</i>
+00:09:01,289 --> 00:09:03,382
+<i>Alternando blanco y rojo.</i>
 
 66
-00:09:09,050 --> 00:09:12,303
-<i>Parece como unas luces de aterrizaje.</i>
+00:09:03,825 --> 00:09:05,452
+<i>Colores llamativos.</i>
 
 67
-00:09:12,470 --> 00:09:15,974
-<i>Pensaba que Air East las había encendido.</i>
+00:09:05,660 --> 00:09:08,891
+<i>Aquí el vuelo TWA 517.</i>
 
 68
-00:09:17,016 --> 00:09:18,518
-¿Podrá ser un satélite?
+00:09:09,163 --> 00:09:12,359
+<i>Parece como unas
+luces de aterrizaje.</i>
 
 69
-00:09:18,685 --> 00:09:21,729
-Ahora tengo el objeto en 10:00...
+00:09:12,633 --> 00:09:15,693
+<i>Pensaba que Air East
+las había encendido.</i>
 
 70
-00:09:21,896 --> 00:09:22,939
-...a ocho kilómetros, cambio.
+00:09:17,004 --> 00:09:18,471
+¿Será un satélite?
 
 71
-00:09:23,106 --> 00:09:25,358
-- Nunca he visto nada así. Afirmativo, 31.
+00:09:18,705 --> 00:09:21,503
+Ahora tengo el objeto en 10:00...
 
 72
-00:09:25,525 --> 00:09:28,903
-Se desplaza al Noroeste. No puedo darte altura.
+00:09:21,742 --> 00:09:23,004
+...a 8 Km., cambio.
 
 73
-00:09:29,070 --> 00:09:31,990
-<i>Recibido. No parece un problema.</i>
+00:09:23,243 --> 00:09:24,710
+<i>Afirmativo, 31.</i>
 
 74
-00:09:32,157 --> 00:09:35,660
-<i>Está bajando a 500 metros por debajo de mí.</i>
+00:09:25,412 --> 00:09:28,848
+Se desplaza al Noroeste.
+No puedo darte altura.
 
 75
-00:09:35,827 --> 00:09:37,579
-<i>¡Un momento!</i>
+00:09:29,049 --> 00:09:31,984
+<i>Recibido.
+No parece un problema.</i>
 
 76
-00:09:37,745 --> 00:09:38,955
-<i>Atención.</i>
+00:09:32,219 --> 00:09:35,551
+<i>Está bajando a 500 m
+por debajo de mí.</i>
 
 77
-00:09:39,581 --> 00:09:42,417
-<i>Air East 31. Ha dado la vuelta.</i>
+00:09:35,755 --> 00:09:37,347
+<i>¡Un momento!</i>
 
 78
-00:09:42,584 --> 00:09:46,129
-<i>Viene hacia el parabrisas. Vamos a girar.</i>
+00:09:37,590 --> 00:09:38,852
+<i>Atención.</i>
 
 79
-00:09:46,463 --> 00:09:47,714
-AVISO DE CONFLICTO
+00:09:39,692 --> 00:09:42,388
+<i>Air East 31.
+Ha dado la vuelta.</i>
 
 80
-00:09:47,922 --> 00:09:50,258
-Air East 31, descienda
-y mantenga el vuelo a nivel 310.
+00:09:42,595 --> 00:09:46,053
+<i>Viene hacia el parabrisas.
+Vamos a girar.</i>
 
 81
-00:09:50,425 --> 00:09:52,218
-Break Allegheny, gire a la derecha 30 grados.
+00:09:46,399 --> 00:09:47,764
+AVISO DE CONFLICTO
 
 82
-00:09:52,385 --> 00:09:57,098
+00:09:48,000 --> 00:09:50,093
+Descienda al nivel 310.
+
+83
+00:09:50,336 --> 00:09:52,201
+DC-9, a la derecha 30°.
+
+84
+00:09:52,405 --> 00:09:57,035
 Pregunta en Reconocimiento
 qué están probando ahí arriba.
 
-83
-00:09:57,265 --> 00:10:01,269
-¿Están haciendo pruebas en la zona 2508?
-
-84
-00:10:01,478 --> 00:10:03,021
-<i>Air East 31, cambio.</i>
-
 85
-00:10:03,188 --> 00:10:07,358
-<i>El tráfico es luminoso y con movimiento no balístico.</i>
+00:09:57,276 --> 00:10:01,177
+¿Están haciendo pruebas
+en la zona 2508?
 
 86
-00:10:07,525 --> 00:10:10,153
-Siga descendiendo a discreción.
+00:10:01,513 --> 00:10:03,105
+<i>Air East 31, cambio.</i>
 
 87
-00:10:10,320 --> 00:10:13,406
-<i>De acuerdo. A discreción del piloto.</i>
+00:10:03,315 --> 00:10:07,376
+<i>El tráfico es luminoso y
+con movimiento no balístico.</i>
 
 88
-00:10:13,573 --> 00:10:16,784
-<i>Viene derecho, es luminoso y muy veloz.</i>
+00:10:07,586 --> 00:10:10,316
+Siga descendiendo a discreción.
 
 89
-00:10:16,951 --> 00:10:20,497
-<i>¡Ha pasado a nuestro lado! ¡Nos ha rozado!</i>
+00:10:10,522 --> 00:10:13,389
+<i>De acuerdo.
+A discreción del piloto.</i>
 
 90
-00:10:20,663 --> 00:10:23,708
-<i>Air East 31, estoy fuera de 340...</i>
+00:10:13,592 --> 00:10:16,755
+<i>Viene derecho, es
+luminoso y muy veloz.</i>
 
 91
-00:10:23,917 --> 00:10:26,044
-Pregunta si quieren informar.
+00:10:16,995 --> 00:10:20,487
+<i>¡Ha pasado a nuestro lado!
+¡Nos ha rozado!</i>
 
 92
-00:10:26,461 --> 00:10:30,340
-TWA 517, ¿quieren comunicar presencia ovni?
+00:10:20,699 --> 00:10:23,496
+<i>Air East 31, estoy fuera de 340...</i>
 
 93
-00:10:34,636 --> 00:10:38,765
-TWA 517, ¿quieren comunicar presencia ovni? Cambio.
+00:10:23,834 --> 00:10:25,995
+Pregunta si quieren informar.
 
 94
-00:10:40,391 --> 00:10:43,520
-<i>Negativo. No queremos comunicarlo.</i>
+00:10:26,637 --> 00:10:30,164
+TWA 517, ¿quieren
+comunicar presencia ovni?
 
 95
-00:10:43,686 --> 00:10:47,232
-Air East 31, ¿comunican presencia ovni?
+00:10:34,645 --> 00:10:38,274
+TWA 517, ¿quieren comunicar
+presencia ovni? Cambio.
 
 96
-00:10:48,816 --> 00:10:51,486
-<i>Negativo. Tampoco lo comunicaremos.</i>
+00:10:40,484 --> 00:10:43,578
+<i>Negativo.
+No queremos comunicarlo.</i>
 
 97
-00:10:51,861 --> 00:10:55,949
-Air East 31, ¿quieren hacer algún tipo de informe?
+00:10:43,787 --> 00:10:46,949
+Air East 31,
+¿comunican presencia ovni?
 
 98
-00:10:56,407 --> 00:10:59,369
-<i>No sabría qué tipo de informe.</i>
+00:10:48,658 --> 00:10:51,422
+<i>Negativo.
+Tampoco lo comunicaremos.</i>
 
 99
-00:10:59,536 --> 00:11:01,621
-Air East 31, yo tampoco.
+00:10:51,995 --> 00:10:55,692
+Air East 31, ¿quieren hacer
+algún tipo de informe?
 
 100
-00:11:01,788 --> 00:11:04,290
-Intentaré seguirlo a destino.
+00:10:56,466 --> 00:10:59,435
+<i>No sabría qué tipo de informe.</i>
 
 101
-00:13:51,374 --> 00:13:53,084
-¿Barry?
+00:10:59,669 --> 00:11:01,660
+Air East 31, yo tampoco.
 
 102
-00:14:03,803 --> 00:14:05,430
-¿Cariño?
+00:11:01,871 --> 00:11:04,203
+Intentaré seguirlo a destino.
 
 103
-00:14:20,778 --> 00:14:22,655
-¡Barry!
+00:13:51,433 --> 00:13:52,798
+¿Barry?
 
 104
-00:14:42,550 --> 00:14:45,636
-Papá, hazme los problemas.
+00:14:03,945 --> 00:14:05,173
+¿Cariño?
 
 105
-00:14:47,013 --> 00:14:51,184
-Yo no tengo que hacértelos. Haz tú tus problemas.
+00:14:20,894 --> 00:14:22,486
+¡Barry!
 
 106
-00:14:51,392 --> 00:14:55,021
-Para eso me gradué, para no hacer problemas.
+00:14:42,548 --> 00:14:45,574
+<i>Papá, hazme los problemas.</i>
 
 107
-00:14:55,480 --> 00:14:58,065
-No entiendo las fracciones.
+00:14:46,986 --> 00:14:51,150
+Yo no tengo que hacértelos.
+Hazte tú tus problemas.
 
 108
-00:14:58,274 --> 00:15:01,527
-Bien. ¿Qué es un tercio de 60?
+00:14:51,357 --> 00:14:54,986
+Para eso me gradué,
+para no hacer problemas.
 
 109
-00:15:02,278 --> 00:15:04,322
-Una fracción. No entiendo.
+00:14:55,428 --> 00:14:58,022
+No entiendo las fracciones.
 
 110
-00:15:04,530 --> 00:15:05,907
-Bueno, mira.
+00:14:58,231 --> 00:15:01,496
+Bien. ¿Qué es un tercio de 60?
 
 111
-00:15:06,282 --> 00:15:07,784
-Digamos que...
+00:15:02,235 --> 00:15:04,294
+Una fracción. No entiendo.
 
 112
-00:15:08,826 --> 00:15:12,705
-- ...este vagón tiene 20 metros de largo.
-- Muy bien.
+00:15:04,503 --> 00:15:05,867
+Bueno, mira.
 
 113
-00:15:13,206 --> 00:15:16,334
-Y que un tercio está en el cruce de vías.
+00:15:06,238 --> 00:15:07,728
+Digamos que...
 
 114
-00:15:19,796 --> 00:15:23,800
-Y ahora viene otro tren.
+00:15:08,874 --> 00:15:12,332
+...este vagón tiene
+20 m de largo.
 
 115
-00:15:25,259 --> 00:15:28,930
-¿A qué distancia hay que mover el vagón...
+00:15:13,345 --> 00:15:16,712
+Y que un tercio está
+en el cruce de vías.
 
 116
-00:15:29,096 --> 00:15:31,641
-...para evitar que los trenes choquen?
+00:15:19,918 --> 00:15:22,250
+Y ahora viene otro tren.
 
 117
-00:15:31,808 --> 00:15:34,685
-Rápido, Brad, hay vidas en juego.
+00:15:26,024 --> 00:15:29,015
+¿A qué distancia hay
+que mover el vagón...
 
 118
-00:15:35,353 --> 00:15:37,438
-Brad, di algo.
+00:15:29,226 --> 00:15:31,717
+...para evitar el otro tren?
 
 119
-00:15:37,730 --> 00:15:38,773
-¿Cariño?
+00:15:31,929 --> 00:15:34,625
+Rápido, Brad,
+hay vidas en juego.
 
 120
-00:15:39,732 --> 00:15:41,818
-¿Te acuerdas el fin de semana pasado...
+00:15:35,432 --> 00:15:37,229
+Brad, di algo.
 
 121
-00:15:42,235 --> 00:15:45,738
-...nos prometiste que iríamos al cine?
+00:15:39,703 --> 00:15:41,762
+El fin de semana pasado...
 
 122
-00:15:47,824 --> 00:15:49,116
-¿Cariño?
+00:15:42,206 --> 00:15:45,698
+...nos prometiste
+que iríamos al cine.
 
 123
-00:15:51,702 --> 00:15:55,623
-- También prometiste ir al minigolf.
-- Ah, sí.
+00:15:47,778 --> 00:15:49,075
+¿Cariño?
 
 124
-00:16:00,378 --> 00:16:04,382
-Roy, ¿qué hace todo esto encima de mi mesa?
+00:15:51,815 --> 00:15:54,806
+También prometiste
+ir al minigolf.
 
 125
-00:16:04,549 --> 00:16:07,051
-Te dije que era para mis cosas, esta mesa.
+00:16:00,556 --> 00:16:04,151
+Roy, ¿qué hace todo esto
+encima de mi mesa?
 
 126
-00:16:07,218 --> 00:16:09,136
-Tú puedes quedarte con esa.
+00:16:04,661 --> 00:16:07,061
+Te dije que era la mía.
 
 127
-00:16:09,303 --> 00:16:10,972
-No quiero esto ahí.
+00:16:07,263 --> 00:16:09,231
+Tú puedes quedarte con ésa.
 
 128
-00:16:11,138 --> 00:16:13,432
-¡Puede provocar el tétanos!
+00:16:09,432 --> 00:16:10,990
+No quiero esto ahí.
 
 129
-00:16:13,641 --> 00:16:16,185
-- ¿Qué es esto?
-- ¿Sabes qué pasan en el cine?
+00:16:11,234 --> 00:16:13,327
+¡Puede provocar el tétanos!
 
 130
-00:16:16,352 --> 00:16:19,188
-<i>¡Pinocho! Los niños no</i> la <i>han visto.</i>
+00:16:13,770 --> 00:16:16,169
+- ¿Qué es esto?
+- ¿Sabes qué pasan?
 
 131
-00:16:19,355 --> 00:16:22,149
-No la han visto. Les encantará.
+00:16:16,438 --> 00:16:19,271
+¡Pinocho!
+Los niños no la han visto.
 
 132
-00:16:22,316 --> 00:16:23,442
-No lo puedo creer.
+00:16:19,474 --> 00:16:22,102
+No la han visto.
+Les encantará.
 
 133
-00:16:23,609 --> 00:16:28,406
-¿Quién quiere ir a ver dibujos animados para niños?
+00:16:22,344 --> 00:16:23,572
+No lo puedo creer.
 
 134
-00:16:28,573 --> 00:16:30,491
-- ¿Cuántos años tienes?
-- Ocho.
+00:16:23,779 --> 00:16:28,409
+¿Quién quiere ver
+dibujos animados para niños?
 
 135
-00:16:30,658 --> 00:16:32,410
-- ¿Quieres tener nueve?
-- Sí.
+00:16:28,650 --> 00:16:30,515
+- ¿Cuántos años tienes?
+-8.
 
 136
-00:16:32,577 --> 00:16:35,204
-Pues mañana vas a ir a ver <i>Pinocho.</i>
+00:16:30,752 --> 00:16:32,447
+- ¿Quieres tener 9?
+- Sí.
 
 137
-00:16:36,330 --> 00:16:38,666
-Vaya manera de convencer a nuestro hijos.
+00:16:32,688 --> 00:16:35,316
+Pues mañana
+ve a ver Pinocho.
 
 138
-00:16:38,833 --> 00:16:42,837
-No hablo en serio. Pero yo crecí con Pinocho.
+00:16:36,458 --> 00:16:38,688
+Vaya manera de convencer.
 
 139
-00:16:43,004 --> 00:16:46,299
-Si son niños, les va gustar.
+00:16:38,994 --> 00:16:42,986
+No hablo en serio.
+Pero yo crecí con Pinocho.
 
 140
-00:16:48,843 --> 00:16:51,345
-¡De acuerdo, me he equivocado!
-Soy Roy Equivocado, ¿está bien?
+00:16:43,197 --> 00:16:46,098
+Si son niños, les va gustar.
 
 141
-00:16:51,512 --> 00:16:55,474
-¡Toby! ¡Te juegas la vida! ¡Ven aquí!
+00:16:48,769 --> 00:16:51,169
+¡De acuerdo, me he equivocado!
 
 142
-00:17:00,187 --> 00:17:04,901
+00:16:51,372 --> 00:16:55,206
+¡Toby! ¡Te juegas la vida!
+¡Ven aquí!
+
+143
+00:17:00,181 --> 00:17:05,015
 Ustedes lo decidirán.
 No haré nada para influenciarlos.
 
-143
-00:17:05,067 --> 00:17:09,363
-Pueden ir al minigolf a hacer cola
+144
+00:17:05,285 --> 00:17:09,346
+Vamos al minigolf a hacer cola
 y sufrir empujones...
 
-144
-00:17:09,530 --> 00:17:11,866
-<i>...o pueden Ver Pinocho...</i>
-
 145
-00:17:12,033 --> 00:17:16,370
-...con muchos animalitos,
-magia y diversión. ¿Está bien?
+00:17:09,556 --> 00:17:11,956
+...o vamos a ver Pinocho...
 
 146
-00:17:16,537 --> 00:17:18,456
-- Ahora, votemos.
-- ¡Golf!
+00:17:12,192 --> 00:17:15,855
+...con muchos animalitos,
+magia y diversión.
 
 147
-00:17:18,664 --> 00:17:20,249
-Muy bien, ¡todos a la cama!
+00:17:16,663 --> 00:17:18,358
+- Vamos a votar.
+- ¡Golf!
 
 148
-00:17:20,416 --> 00:17:24,795
-<i>¡No!</i> ¡Papá <i>dijo que podíamos
-ver Los Diez Mandamientos!</i>
+00:17:18,565 --> 00:17:20,192
+¡Todos a la cama!
 
 149
-00:17:25,588 --> 00:17:28,090
-Roy, esa película dura cuatro horas.
+00:17:20,467 --> 00:17:24,528
+¡No! ¡Papá dijo que podíamos
+ver Los 10 Mandamientos!
 
 150
-00:17:28,257 --> 00:17:30,426
-Que vean solo cinco mandamientos.
+00:17:25,505 --> 00:17:28,098
+Roy, esa película dura 4 horas.
 
 151
-00:17:30,593 --> 00:17:32,386
-<i>- Ronnie, soy Earl.
-- Hola, Earl.</i>
+00:17:28,307 --> 00:17:30,798
+Que vean sólo 5 mandamientos.
 
 152
-00:17:32,720 --> 00:17:34,388
-<i>Tenemos un gran problema y se dirige hacia ustedes.</i>
+00:17:31,043 --> 00:17:32,476
+<i>Ronnie, soy Earl.</i>
 
 153
-00:17:34,597 --> 00:17:35,848
-<i>Necesito a tu marido en el campo.</i>
+00:17:32,678 --> 00:17:35,909
+<i>Tenemos problemas.
+Necesito a tu marido.</i>
 
 154
-00:17:36,015 --> 00:17:38,059
+00:17:36,148 --> 00:17:38,139
 Roy no sale de noche sin mí.
 
 155
-00:17:38,225 --> 00:17:40,478
+00:17:38,384 --> 00:17:40,545
 <i>¡Habrá un apagón general!</i>
 
 156
-00:17:40,645 --> 00:17:44,148
-Espera, no puedo... Oye, ¡cariño!
+00:17:40,819 --> 00:17:43,720
+Espera, no puedo...
+¡Cariño!
 
 157
-00:17:44,315 --> 00:17:48,110
-¡Jiminy Cricket! Ponte, es Earl al teléfono.
+00:17:44,390 --> 00:17:47,985
+Ponte, es Earl al teléfono.
 
 158
-00:17:53,908 --> 00:17:57,203
-<i>Súbete a tu camioneta y ve a la línea 10 en Tolono.</i>
+00:17:53,364 --> 00:17:57,266
+<i>Toma el camión y
+ve a la línea N en Tolono.</i>
 
 159
-00:17:57,370 --> 00:18:01,582
-<i>Está bajando la corriente. ¿Les ha llegado el apagón?</i>
+00:17:57,502 --> 00:18:01,438
+<i>Está bajando la corriente.
+¿Tienen luz?</i>
 
 160
-00:18:01,749 --> 00:18:06,212
-<i>¿NearY? ¿Neary? ¿Neary?</i>
-
-161
-00:18:06,420 --> 00:18:07,922
-McDonald's SERVIMOS MÁS DE 24 MIL MILLONES
-
-162
-00:18:14,053 --> 00:18:15,096
+00:18:14,017 --> 00:18:15,006
 ¡La luz!
 
-163
-00:18:17,264 --> 00:18:18,516
-- ¡La luz!
-- Cielos.
-
-164
-00:18:41,038 --> 00:18:43,791
+161
+00:18:41,143 --> 00:18:43,577
 ¡Barry!
 
-165
-00:18:51,048 --> 00:18:53,342
-¡Barry!
-
-166
-00:19:05,980 --> 00:19:08,107
+162
+00:19:05,967 --> 00:19:07,992
 ¡Socorro, me he perdido!
 
-167
-00:19:08,315 --> 00:19:10,693
-<i>- Habla, Ed.
-- Respondiendo a ese 10-16...</i>
+163
+00:19:10,738 --> 00:19:13,502
+A ver si encontramos Tolono.
 
-168
-00:19:10,860 --> 00:19:13,738
-Espera. A ver si encontramos Tolono.
-
-169
-00:19:13,904 --> 00:19:17,074
+164
+00:19:13,975 --> 00:19:17,138
 Hay que tomar la Interestatal 90.
 
+165
+00:19:17,345 --> 00:19:19,836
+Esta indicación me es familiar.
+
+166
+00:19:20,248 --> 00:19:22,944
+<i>- Cornbread, al sur de la 20.
+- ¿Cornbread?</i>
+
+167
+00:19:23,418 --> 00:19:25,078
+<i>Habrá vuelto la luz.</i>
+
+168
+00:19:25,285 --> 00:19:28,482
+<i>Estos vecinos creen
+que estamos de fiesta.</i>
+
+169
+00:19:28,689 --> 00:19:29,815
+<i>Aquí el 411.</i>
+
 170
-00:19:17,241 --> 00:19:19,785
-Algún punto de referencia que sea familiar.
-
-171
-00:19:20,244 --> 00:19:22,329
-<i>- Calle Cornbread, al sur de la 20. ¿Combread?</i>
-
-172
-00:19:22,496 --> 00:19:25,249
-<i>Las farolas de vapor de sodio. Habrá vuelto la luz.</i>
-
-173
-00:19:25,416 --> 00:19:28,669
-<i>Estos vecinos en sus pijamas
-creen que estamos de fiesta.</i>
-
-174
-00:19:28,836 --> 00:19:29,837
-<i>Mensaje, aquí el 411.</i>
-
-175
-00:19:30,004 --> 00:19:33,132
+00:19:30,090 --> 00:19:32,854
 <i>¿Ignoro la llamada de Tolono?</i>
 
-176
-00:19:36,218 --> 00:19:38,429
-¡Estás en medio del camino, cretino!
+171
+00:19:36,296 --> 00:19:38,321
+¡Estás en medio, cretino!
 
-177
-00:19:38,929 --> 00:19:42,308
-¿Sabe dónde está Cornbread? ¡Idiota!
+172
+00:19:38,966 --> 00:19:41,992
+¿Sabe dónde está Cornbread?
+¡Idiota!
 
-178
-00:20:10,085 --> 00:20:13,506
-A-34... A-34... F-27.
+173
+00:20:10,163 --> 00:20:13,393
+834... 834...
+F-27.
 
-179
-00:20:14,632 --> 00:20:17,968
-M-Mary-10 hasta M-Mary-12. De acuerdo.
+174
+00:20:14,699 --> 00:20:17,862
+M- Mary-10 hasta M-Mary-12.
+De acuerdo.
 
-180
-00:20:25,810 --> 00:20:30,314
-Muy bien. Esta parada te llevará
+175
+00:20:25,911 --> 00:20:29,813
+Esta parada te llevará
 directo a ningún sitio.
 
-181
-00:20:32,608 --> 00:20:34,235
-M-Mary-10.
+176
+00:20:32,584 --> 00:20:34,142
+M- Mary-10.
 
-182
-00:21:04,598 --> 00:21:09,270
-<i>Unidad 211, 10-30, cinco, sie...</i>
-
-183
-00:21:40,593 --> 00:21:42,303
+177
+00:21:41,149 --> 00:21:42,173
 ¡Diablos!
 
-184
-00:22:22,092 --> 00:22:25,596
-PASO A NIVEL
+178
+00:23:34,491 --> 00:23:36,550
+<i>¿Qué es eso de ahí fuera?</i>
 
-185
-00:23:26,740 --> 00:23:29,410
-<i>Cielos. ¿Estás viendo esto?</i>
-
-186
-00:23:29,576 --> 00:23:31,954
-<i>No los veas, son como bombillas de flash.</i>
-
-187
-00:23:32,121 --> 00:23:36,625
-<i>Unidad 211, estoy en la calle.
-¿Qué es eso de ahí fuera?</i>
-
-188
-00:23:37,209 --> 00:23:39,545
+179
+00:23:37,227 --> 00:23:39,058
 <i>¡No puedo creerlo!</i>
 
-189
-00:23:39,753 --> 00:23:42,214
-<i>¡Dios mío! ¡Tiene el tamaño de una casa!</i>
+180
+00:23:39,763 --> 00:23:41,856
+<i>Tiene el tamaño de una casa.</i>
 
-190
-00:23:43,799 --> 00:23:45,092
-<i>Esta como un granero.</i>
+181
+00:23:44,100 --> 00:23:45,192
+<i>Como un granero.</i>
 
-191
-00:23:46,677 --> 00:23:49,513
+182
+00:23:46,769 --> 00:23:49,169
 <i>¡Esto es una locura!</i>
 
-192
-00:23:53,559 --> 00:23:57,312
-<i>Fuera de la autopista, al este hacía el Valle Harper.</i>
+183
+00:23:53,542 --> 00:23:57,239
+<i>Fuera de la autopista,
+al este del Valle Harper.</i>
 
-193
-00:24:18,125 --> 00:24:19,293
-Este Valle Harper 4,8 km
-
-194
-00:25:04,004 --> 00:25:05,839
-Barry.
-
-195
-00:25:06,965 --> 00:25:08,217
+184
+00:25:06,846 --> 00:25:07,938
 ¡No!
 
-196
-00:25:08,425 --> 00:25:09,676
+185
+00:25:08,314 --> 00:25:09,576
 ¡Cuidado!
 
-197
-00:25:14,973 --> 00:25:17,851
+186
+00:25:14,987 --> 00:25:17,080
 ¡Dios mío! ¡Señora!
 
-198
-00:25:18,060 --> 00:25:19,895
-¿Está bien? Perdone.
+187
+00:25:17,956 --> 00:25:19,821
+¿Está bien? ¡Perdone!
 
-199
-00:25:20,062 --> 00:25:22,606
-No lo vi. Estaba en medio de la carretera.
+188
+00:25:20,091 --> 00:25:23,583
+No la vi. Estaba
+en medio de la carretera.
 
-200
-00:25:25,943 --> 00:25:30,114
-- ¡Hola! ¡Aquí! '¿Qué te pasa?
+189
+00:25:25,864 --> 00:25:27,764
+¡Hola! ¡Aquí!
 
-201
-00:25:30,405 --> 00:25:34,243
-Barry, vuelve. Vamos, ahora.
+190
+00:25:27,966 --> 00:25:29,365
+¿Qué te pasa?
 
-202
-00:26:04,523 --> 00:26:05,440
+191
+00:25:30,402 --> 00:25:32,302
+Barry, vuelve.
+
+192
+00:26:04,502 --> 00:26:06,059
 ¡Un helado!
 
-203
-00:26:26,128 --> 00:26:28,297
+193
+00:26:26,222 --> 00:26:27,883
 Esto es de locos.
 
-204
-00:26:29,172 --> 00:26:30,465
-No.
+194
+00:26:40,435 --> 00:26:43,268
+OHIO-FRONTERA DEL ESTADO
 
-205
-00:26:40,559 --> 00:26:41,935
-FRONTERA DEL ESTADO DE OHIO
-
-206
-00:27:03,707 --> 00:27:05,751
-ALTO
-
-207
-00:27:11,089 --> 00:27:13,133
+195
+00:27:11,132 --> 00:27:12,759
 ¡Esperen un momento!
 
-208
-00:27:13,634 --> 00:27:16,053
-¿Qué están haciendo? ¡Oye!
+196
+00:27:13,534 --> 00:27:15,933
+¿Qué están haciendo?
 
-209
-00:27:16,261 --> 00:27:19,014
-¡Esto es Ohio! ¡Hay que pagar!
+197
+00:27:16,136 --> 00:27:18,866
+¡Esto es Ohio!
+¡Hay que pagar!
 
-210
-00:27:23,894 --> 00:27:27,814
-¡Cielos, míralos! ¡Van pegados a la carretera!
+198
+00:27:23,777 --> 00:27:27,736
+¡Cielos, míralos!
+¡Van pegados a la carretera!
 
-211
-00:28:15,362 --> 00:28:17,406
+199
+00:28:15,259 --> 00:28:17,124
 ¡Cariño, despierta!
 
-212
-00:28:17,823 --> 00:28:20,993
-¡Ronnie! ¡No vas a creer lo que he visto!
+200
+00:28:17,862 --> 00:28:20,990
+¡Ronnie! ¡No vas a creer
+lo que he visto!
 
-213
-00:28:21,159 --> 00:28:22,911
-- ¿Ronnie?
-- No... Ahora no.
+201
+00:28:21,199 --> 00:28:22,826
+No... Ahora no.
 
-214
-00:28:23,078 --> 00:28:25,831
-¡No, escucha! ¡Era increíble!
+202
+00:28:23,101 --> 00:28:25,797
+¡No, escucha!
+¡Era increíble!
 
-215
-00:28:25,998 --> 00:28:28,625
-Había... En la furgoneta, había...
+203
+00:28:26,003 --> 00:28:28,494
+Era como... En la furgoneta...
 
-216
-00:28:28,792 --> 00:28:31,378
-Fue... Era... Hubo un resplandor rojo y...
+204
+00:28:28,705 --> 00:28:31,367
+Fue...
+Hubo un resplandor rojo y...
 
-217
-00:28:33,255 --> 00:28:34,631
-Roy
+205
+00:28:33,210 --> 00:28:34,541
+Roy.
 
-218
-00:28:34,798 --> 00:28:36,216
+206
+00:28:34,745 --> 00:28:35,905
 Te llamó Ike.
 
-219
-00:28:36,383 --> 00:28:38,468
-- Buscaré que ponerme.
-- Y McGovern.
+207
+00:28:36,713 --> 00:28:38,442
+Y McGovern.
 
-220
-00:28:38,635 --> 00:28:41,304
-Quieren que les llames de inmediato.
+208
+00:28:38,782 --> 00:28:41,182
+Llámalos.
 No pudieron dar contigo.
 
-221
-00:28:41,722 --> 00:28:43,015
+209
+00:28:41,785 --> 00:28:43,013
 Apagué la radio.
 
-222
-00:28:43,181 --> 00:28:45,559
-No hagas eso. El teléfono no dejó de sonar.
+210
+00:28:43,286 --> 00:28:45,447
+El teléfono no dejó de sonar.
 
-223
-00:28:45,767 --> 00:28:49,396
-Sylvia se ha despertado dos veces.
-Creo que deberías llamarlos.
+211
+00:28:45,689 --> 00:28:49,284
+Sylvia se ha despertado
+dos veces. Llámalos.
 
-224
-00:28:49,604 --> 00:28:52,774
-¿Recuerdas las fotos de la aurora boreal?
+212
+00:28:49,492 --> 00:28:52,723
+¿Recuerdas las fotos
+de la aurora boreal?
 
-225
-00:28:52,941 --> 00:28:55,694
-Pues esto es mejor que eso.
-Esto es realmente... ¡Vamos!
+213
+00:28:52,962 --> 00:28:55,556
+¡Pues esto es mejor!
+¡Vamos!
 
-226
-00:28:55,902 --> 00:28:57,738
+214
+00:28:55,798 --> 00:28:57,732
 Ven, Ronnie, levántate.
 
-227
-00:28:57,904 --> 00:29:00,115
+215
+00:28:57,967 --> 00:29:00,128
 - ¿Ocurre algo?
-- Nada. No lo sé.
+- No. No lo sé.
 
-228
-00:29:00,282 --> 00:29:02,659
-- ¡Levántate! No bromeo.
+216
+00:29:00,369 --> 00:29:02,735
+- ¡Levántate!
 - ¿Es un accidente?
 
-229
-00:29:02,826 --> 00:29:05,829
-No fue un accidente. ¿No querías salir de la casa?
+217
+00:29:02,972 --> 00:29:05,839
+No. ¿No querías salir
+esta noche?
 
-230
-00:29:05,996 --> 00:29:07,706
-Pero no a las cuatro de la mañana.
+218
+00:29:06,042 --> 00:29:07,634
+Pero no a las 4:00.
 
-231
-00:29:07,873 --> 00:29:11,460
-Ronnie, necesito que veas una cosa conmigo.
+219
+00:29:07,910 --> 00:29:11,368
+Ronnie, necesito que veas
+una cosa conmigo.
 
-232
-00:29:11,626 --> 00:29:13,420
+220
+00:29:11,580 --> 00:29:13,376
 Es muy importante.
 
-233
-00:29:13,587 --> 00:29:16,173
-De acuerdo. Pero ¿y los niños?
+221
+00:29:13,581 --> 00:29:16,175
+De acuerdo.
+Pero, ¿y los niños?
 
-234
-00:29:16,339 --> 00:29:18,258
-¿Qué? ¡Ah, los niños! Voy por ellos.
+222
+00:29:16,384 --> 00:29:18,147
+¡Voy por ellos!
 
-235
-00:29:18,467 --> 00:29:20,510
+223
+00:29:18,420 --> 00:29:20,411
 Sylvia, vamos de aventuras.
 
-236
-00:29:20,886 --> 00:29:23,555
-¡Toby! ¡Brad! ¡Vamos, arriba!
+224
+00:29:20,822 --> 00:29:23,382
+¡Toby! ¡Brad!
+¡Vamos, arriba!
 
-237
-00:29:23,764 --> 00:29:25,307
-¡Será más divertido que Goofy Golf!
+225
+00:29:23,725 --> 00:29:25,317
+¡Será divertido!
 
-238
-00:29:28,643 --> 00:29:32,522
-- Ve más rápido.
-- ¡Voy tan rápido como puedo!
+226
+00:29:29,698 --> 00:29:32,064
+¡Voy tan rápido como puedo!
 
-239
-00:29:32,898 --> 00:29:34,483
+227
+00:29:33,068 --> 00:29:34,194
 Vamos.
 
-240
-00:29:35,817 --> 00:29:39,237
-Muy bien. Muy bien. Hola, señora Harris.
+228
+00:29:37,538 --> 00:29:39,369
+Hola, Sra. Harris.
 
-241
-00:29:39,404 --> 00:29:41,073
-Roy, mira, la señora Harris.
+229
+00:29:39,640 --> 00:29:41,267
+Mira, la Sra. Harris.
 
-242
-00:29:41,239 --> 00:29:43,283
-Tendrás una buena razón para que hagamos esto...
+230
+00:29:41,475 --> 00:29:43,340
+Tendrás una buena razón...
 
-243
-00:29:43,450 --> 00:29:44,993
-...porque no tiene ningún sentido.
+231
+00:29:43,544 --> 00:29:45,011
+...porque es de locos.
 
-244
-00:29:46,286 --> 00:29:50,248
-Muy bien, Roy, ya te has salido con la tuya.
+232
+00:29:46,413 --> 00:29:50,315
+Muy bien, Roy, ya
+te has salido con la tuya.
 
-245
-00:29:50,540 --> 00:29:53,293
-Roy. ROY-
+233
+00:29:53,721 --> 00:29:56,019
+Estás quemado. Mírate.
 
-246
-00:29:53,460 --> 00:29:56,213
-Roy, estás quemado. Mírate.
+234
+00:30:02,095 --> 00:30:03,926
+¿Qué te ha pasado?
 
-247
-00:30:01,885 --> 00:30:04,054
-Cariño, ¿qué es eso?
+235
+00:30:08,901 --> 00:30:10,926
+Roy, ¿qué aspecto tenía?
 
-248
-00:30:08,892 --> 00:30:11,186
-ROY, ¿cómo era?
-
-249
-00:30:11,770 --> 00:30:14,189
+236
+00:30:11,938 --> 00:30:14,168
 Como un cono de helado.
 
-250
-00:30:15,899 --> 00:30:17,359
+237
+00:30:16,075 --> 00:30:17,508
 ¿De qué sabor?
 
-251
-00:30:17,526 --> 00:30:19,277
+238
+00:30:17,710 --> 00:30:19,007
 De naranja.
 
-252
-00:30:19,736 --> 00:30:22,405
-Era de naranja. Y no era como un cono.
+239
+00:30:19,912 --> 00:30:22,403
+Y no era como un cono.
 
-253
-00:30:22,572 --> 00:30:24,866
+240
+00:30:22,749 --> 00:30:24,943
 Era más bien como una concha.
 
-254
-00:30:25,033 --> 00:30:26,660
-¿Cómo un taco?
+241
+00:30:25,250 --> 00:30:26,581
+¿Como un taco?
 
-255
-00:30:26,827 --> 00:30:31,331
-¿O como las galletas Sara Lee con forma de luna?
+242
+00:30:26,852 --> 00:30:31,516
+¿O como las galletas Sara Lee
+con forma de luna?
 
-256
-00:30:31,498 --> 00:30:34,376
-¿Las que son como media luna?
+243
+00:30:31,723 --> 00:30:34,248
+Las que son como media luna.
 
-257
-00:30:42,759 --> 00:30:45,637
-¿Crees que lo estoy tomando bien?
+244
+00:30:42,934 --> 00:30:45,425
+¿Crees que lo estoy
+tomando bien?
 
-258
-00:30:48,890 --> 00:30:53,145
-Antes veníamos a sitios así a mirarnos a los ojos.
+245
+00:30:48,973 --> 00:30:52,932
+Antes veníamos a sitios así
+a mirarnos a los ojos.
 
-259
-00:30:57,482 --> 00:30:59,151
+246
+00:30:57,481 --> 00:30:58,971
 Abrázame.
 
-260
-00:31:33,476 --> 00:31:37,439
+247
+00:31:33,416 --> 00:31:37,374
 Desierto de Gobi, Mongolia.
 
-261
-00:33:24,713 --> 00:33:28,758
-¡No lo puedo creer! ¡No lo puedo creer!
+248
+00:33:24,689 --> 00:33:28,455
+¡No lo puedo creer!
+¡No lo puedo creer!
 
-262
-00:33:29,217 --> 00:33:30,802
-No lo puedo creer.
+249
+00:33:29,227 --> 00:33:30,626
+¡Es increíble!
 
-263
-00:33:30,969 --> 00:33:31,970
-Es el <i>Cotopaxi.</i>
+250
+00:33:30,828 --> 00:33:31,852
+Es el Cotopaxi.
 
-264
-00:33:32,137 --> 00:33:35,390
+251
+00:33:32,062 --> 00:33:35,156
 - ¿Qué hace aquí?
 - Ni la más mínima idea.
 
-265
-00:33:45,233 --> 00:33:47,736
-La Policía Estatal También Vio las Luces
+252
+00:33:45,008 --> 00:33:48,375
+La Policía Estatal
+también vio las luces
 
-266
-00:33:47,902 --> 00:33:50,405
-Un OVNI Cruza Cinco Condados Rumores en Indiana
+253
+00:33:48,578 --> 00:33:51,445
+Un OVNI cruza 5 condados
+Rumores en Indiana
 
-267
-00:34:09,924 --> 00:34:12,260
-¿Es el baño?
+254
+00:34:09,832 --> 00:34:11,823
+¿Está en el baño?
 
-268
-00:34:29,944 --> 00:34:33,239
-¡Esto no es uno de tus juguetes!
+255
+00:34:29,851 --> 00:34:33,218
+¡Esto no es
+uno de tus juguetes!
 
-269
-00:34:33,406 --> 00:34:35,366
-Parece de dos sabores.
+256
+00:34:33,488 --> 00:34:35,251
+Parece de 2 sabores.
 
-270
-00:34:35,575 --> 00:34:39,120
-Ya está bien, salgan. Todos. Fuera de casa.
+257
+00:34:35,490 --> 00:34:39,085
+Ya está bien, salgan.
+Todos. Fuera de casa.
 
-271
-00:34:39,287 --> 00:34:41,623
-Lo siento, pero con esto no se juega.
+258
+00:34:39,394 --> 00:34:41,692
+¡Con esto no se juega!
 
-272
-00:34:41,790 --> 00:34:44,626
+259
+00:34:41,896 --> 00:34:44,557
 ¡Salgan mientras recojo eso!
 
-273
-00:34:44,793 --> 00:34:46,586
+260
+00:34:44,865 --> 00:34:46,730
 Muchas gracias.
 
-274
-00:35:05,188 --> 00:35:07,732
-Roy, encontré esta crema autobronceadora.
+261
+00:35:05,252 --> 00:35:07,515
+Tengo crema
+autobronceadora.
 
-275
-00:35:07,899 --> 00:35:11,528
+262
+00:35:07,720 --> 00:35:11,679
 Póntela en la mitad de la cara y
 quedará de un solo color.
 
-276
-00:35:11,694 --> 00:35:15,115
-Sí, hace que mi cara parezca amarilla.
-¿A qué te recuerda esto?
+263
+00:35:11,891 --> 00:35:14,917
+Sí, amarilla.
+¿Qué te recuerda esto?
 
-277
-00:35:15,698 --> 00:35:17,951
-Les diremos a todos que te dormiste...
+264
+00:35:15,728 --> 00:35:17,923
+Diremos que te dormiste...
 
-278
-00:35:18,118 --> 00:35:20,036
-...bajo la lámpara de sol sobre tu lado derecho.
+265
+00:35:18,197 --> 00:35:20,028
+...bajo los rayos UVA.
 
-279
-00:35:20,203 --> 00:35:21,746
+266
+00:35:20,366 --> 00:35:21,594
 ¿Y por qué?
 
-280
-00:35:23,081 --> 00:35:25,750
-'Papá . ' ¿puedo “¿Qué? preguntarte algo?
+267
+00:35:23,202 --> 00:35:25,602
+Papá,
+¿puedo preguntarte algo?
 
-281
-00:35:25,917 --> 00:35:27,293
+268
+00:35:25,805 --> 00:35:27,295
 ¿Son de verdad?
 
-282
-00:35:27,460 --> 00:35:30,588
-Ya ves por qué. No son de verdad.
+269
+00:35:27,540 --> 00:35:29,030
+Ya ves por qué.
 
-283
-00:35:30,755 --> 00:35:33,091
-Ve afuera y cómprate un perro caliente.
+270
+00:35:29,242 --> 00:35:30,606
+No son de verdad.
 
-284
-00:35:33,258 --> 00:35:35,343
+271
+00:35:30,876 --> 00:35:33,140
+Ve a comprarte un perro caliente.
+
+272
+00:35:33,445 --> 00:35:34,969
 No le digas eso.
 
-285
-00:35:35,510 --> 00:35:38,763
-No hables de eso hasta que sepas de qué hablas.
+273
+00:35:35,213 --> 00:35:38,910
+No hables de eso hasta
+que sepas de qué hablas.
 
-286
-00:35:39,222 --> 00:35:43,101
-Si no puedo hablar de ello, ¿cómo sabré qué ocurre?
+274
+00:35:39,117 --> 00:35:43,144
+Si no puedo hablar de ello,
+¿cómo sabré qué ocurre?
 
-287
-00:35:43,268 --> 00:35:46,146
-- ¿Qué?
-- Mamá, yo creo en ellos.
+275
+00:35:43,388 --> 00:35:44,480
+¿Qué?
 
-288
-00:35:46,312 --> 00:35:49,816
-- Yo también creo.
-- Tú no lo crees.
+276
+00:35:44,923 --> 00:35:46,254
+Yo creo en ellos.
 
-289
-00:35:49,983 --> 00:35:51,693
+277
+00:35:46,458 --> 00:35:48,255
+Yo también creo.
+
+278
+00:35:48,460 --> 00:35:49,825
+Tú no lo crees.
+
+279
+00:35:50,128 --> 00:35:51,720
 Papá dice que sí.
 
-290
-00:35:51,860 --> 00:35:53,611
+280
+00:35:51,963 --> 00:35:53,759
 No, no lo dice.
 
-291
-00:35:54,445 --> 00:35:55,905
-- ¿Verdad, Roy?
-- Ronnie.
+281
+00:35:54,598 --> 00:35:55,826
+¿Verdad, Roy?
 
-292
-00:35:57,073 --> 00:36:00,493
-Yo solo quiero saber qué está pasando.
+282
+00:35:57,134 --> 00:36:00,570
+Yo sólo quiero saber
+qué está pasando.
 
-293
-00:36:00,660 --> 00:36:03,913
-¡No pasa nada! ¡Es una de tantas cosas!
+283
+00:36:00,838 --> 00:36:03,932
+¡No pasa nada!
+¡Es una de tantas cosas!
 
-294
-00:36:04,080 --> 00:36:06,040
-¿Qué cosas? ¿Qué cosas?
+284
+00:36:04,175 --> 00:36:05,938
+¿Qué cosas?
+¿Qué cosas?
 
-295
-00:36:06,708 --> 00:36:09,335
-- Déjalo ya. '¡Es muy importante!
+285
+00:36:06,844 --> 00:36:09,312
+- Déjalo ya.
+- ¡Es muy importante!
 
-296
-00:36:09,502 --> 00:36:12,547
-¡No lo dejaré! ¡Voy a llamar a alguien!
+286
+00:36:09,580 --> 00:36:12,413
+¡No lo dejaré!
+¡Voy a llamar a alguien!
 
-297
-00:36:12,714 --> 00:36:14,883
-- No te oigo. No te oigo.
-- Ronnie.
+287
+00:36:12,616 --> 00:36:14,777
+No te oigo. No te oigo.
 
-298
-00:36:15,091 --> 00:36:17,802
+288
+00:36:14,985 --> 00:36:17,680
 Anoche vi algo inexplicable.
 
-299
-00:36:19,596 --> 00:36:22,682
+289
+00:36:19,656 --> 00:36:22,352
 Anoche vi algo inexplicable.
 
-300
-00:36:24,267 --> 00:36:26,936
+290
+00:36:24,327 --> 00:36:26,625
 Esta noche voy a volver.
 
-301
-00:36:28,730 --> 00:36:32,317
-- No, no irás.
-- Sí que iré.
+291
+00:36:28,832 --> 00:36:30,094
+No, no irás.
 
-302
-00:36:32,483 --> 00:36:35,695
-- No irás.
-- Sí que iré.
+292
+00:36:30,767 --> 00:36:32,098
+Sí que iré.
 
-303
-00:36:37,906 --> 00:36:39,532
+293
+00:36:32,502 --> 00:36:33,867
 No irás.
 
-304
-00:36:39,699 --> 00:36:40,867
+294
+00:36:34,104 --> 00:36:35,366
+Sí que iré.
+
+295
+00:36:37,941 --> 00:36:39,238
+No irás.
+
+296
+00:36:39,442 --> 00:36:40,806
 ¿Viven en la luna?
 
-305
-00:36:41,034 --> 00:36:45,205
-Ahí tienen bases para poder entrar por la ventana.
+297
+00:36:41,043 --> 00:36:45,275
+Ahí tienen bases para poder
+entrar por la ventana.
 
-306
-00:36:45,371 --> 00:36:48,541
-- ¡Esto no me lo quemó la luna!
-- Vives en la luna.
+298
+00:36:45,547 --> 00:36:48,607
+¡Esto no me lo quemó la luna!
 
-307
-00:36:48,708 --> 00:36:51,711
+299
+00:36:48,851 --> 00:36:51,786
 - Entraste por la ventana.
 - Me lastimaste.
 
-308
-00:36:51,878 --> 00:36:54,714
+300
+00:36:51,987 --> 00:36:54,615
 - Tomaste mi manta.
 - Roy no es así.
 
-309
-00:36:54,881 --> 00:36:57,383
-Él ama su trabajo. No digas eso.
+301
+00:36:54,857 --> 00:36:57,382
+Él ama su trabajo.
+No diga eso.
 
-310
-00:36:57,550 --> 00:37:00,136
-¿Qué hizo? ¡Estuvo conmigo toda la noche!
+302
+00:36:57,626 --> 00:37:00,060
+¡Estuvo conmigo
+toda la noche!
 
-311
-00:37:00,303 --> 00:37:01,804
+303
+00:37:00,329 --> 00:37:01,796
 Esta noche no iré.
 
-312
-00:37:01,971 --> 00:37:04,933
-- ¡ÉI no es capaz de hacer eso!
-- No lo puedo creer.
+304
+00:37:02,030 --> 00:37:04,725
+¡Él no es capaz de hacer eso!
 
-313
-00:37:05,099 --> 00:37:07,518
-- ¡Dejen de gritar!
-- ¡Tú fuiste!
+305
+00:37:05,333 --> 00:37:07,324
+¡Dejen de gritar!
 
-314
-00:37:07,685 --> 00:37:09,812
-- ¡Tú fuiste!
-- ¿No van a decírselo a él?
+306
+00:37:07,802 --> 00:37:09,793
+¿No van a decírselo a él?
 
-315
-00:37:09,979 --> 00:37:11,606
+307
+00:37:10,004 --> 00:37:11,301
 ¿Oiga?
 
-316
-00:37:11,773 --> 00:37:13,316
+308
+00:37:11,739 --> 00:37:13,366
 No puedo creerlo.
 
-317
-00:37:13,483 --> 00:37:14,734
-Roy».
+309
+00:37:13,641 --> 00:37:14,903
+Roy...
 
-318
-00:37:15,151 --> 00:37:17,320
+310
+00:37:15,209 --> 00:37:16,904
 ...te han despedido.
 
-319
-00:37:17,904 --> 00:37:20,031
+311
+00:37:17,879 --> 00:37:19,904
 Ni quieren hablar contigo.
 
-320
-00:37:47,558 --> 00:37:51,396
+312
+00:37:47,207 --> 00:37:51,336
 Dharmsala, Norte de la India
 
-321
-00:38:25,346 --> 00:38:29,350
-Quiero saber... ¿de qué dirección su gente oyó algo?
+313
+00:38:25,243 --> 00:38:29,270
+Quiero saber... de que dirección
+¿Su gente oyó algo?
 
-322
-00:38:34,522 --> 00:38:37,275
+314
+00:38:34,419 --> 00:38:36,614
 ¿De dónde venía el sonido?
 
-323
-00:39:03,051 --> 00:39:06,471
-¿De dónde venían esos sonidos? Conteste.
+315
+00:39:02,979 --> 00:39:06,415
+¿De dónde venían
+esos sonidos? Conteste.
 
-324
-00:39:15,563 --> 00:39:18,983
+316
+00:39:15,458 --> 00:39:18,894
 ¿De dónde venían esos sonidos?
 
-325
-00:39:33,498 --> 00:39:36,125
-Buenas noches, damas y caballeros.
+317
+00:39:33,475 --> 00:39:35,943
+Buenas noches,
+damas y caballeros.
 
-326
-00:39:40,463 --> 00:39:44,717
-Lo siento, pero mi inglés no es bueno también.
+318
+00:39:40,315 --> 00:39:44,308
+Lo siento, pero mi inglés
+no es bueno también.
 
-327
-00:39:47,220 --> 00:39:48,888
+319
+00:39:47,155 --> 00:39:48,713
 Quiero mostrarles...
 
-328
-00:39:49,055 --> 00:39:52,850
-...el fenómeno que ocurrió en la India.
+320
+00:39:49,023 --> 00:39:52,288
+...el fenómeno que
+ocurrió en la India.
 
-329
-00:39:53,226 --> 00:39:55,895
+321
+00:39:52,660 --> 00:39:55,686
 Creemos que significa algo.
 
-330
-00:39:56,979 --> 00:40:00,108
+322
+00:39:56,830 --> 00:39:59,628
 Creemos que es importante.
 
-331
-00:40:00,400 --> 00:40:04,946
+323
+00:40:00,234 --> 00:40:05,001
 Para su comprensión, usaré los
 signos manuales de Zoltán Kodály.
 
-332
-00:40:06,656 --> 00:40:09,909
-Kodály los creó para enseñar música a niños sordos.
+324
+00:40:07,174 --> 00:40:11,577
+Kodály los creó para enseñar
+música a niños sordos.
 
-333
-00:40:10,076 --> 00:40:11,661
-ZOLTAN KODALY UN APRENDIZAJE VISUAL
-
-334
-00:40:51,075 --> 00:40:53,202
-Y ahora...
-
-335
-00:41:25,902 --> 00:41:27,487
-No he recibido ayuda en toda la noche.
-
-336
-00:41:36,787 --> 00:41:38,623
+325
+00:41:36,760 --> 00:41:38,227
 ¡Hola!
 
-337
-00:41:39,165 --> 00:41:40,208
+326
+00:41:39,129 --> 00:41:40,096
 Hola.
 
-338
-00:41:40,416 --> 00:41:42,752
-¿Qué tal? ¿También ha venido?
+327
+00:41:40,296 --> 00:41:42,696
+¿Qué tal?
+¿También ha venido?
 
-339
-00:41:42,919 --> 00:41:44,545
+328
+00:41:42,899 --> 00:41:44,457
 Sí. Jillian Guiler.
 
-340
-00:41:44,712 --> 00:41:47,006
-Roy Neary. Siento lo que pasó.
+329
+00:41:44,667 --> 00:41:46,896
+Roy Neary.
+Siento lo que pasó.
 
-341
-00:41:47,256 --> 00:41:50,676
-'¡Vaya nochel '¿Qué? '
+330
+00:41:47,136 --> 00:41:50,162
+- ¡Vaya noche!
+- ¿Qué?
 
-342
-00:41:51,844 --> 00:41:54,222
+331
+00:41:51,907 --> 00:41:54,068
 Mire su cara.
 
-343
-00:41:56,891 --> 00:41:59,393
+332
+00:41:56,912 --> 00:41:59,244
 Son las mismas quemaduras.
 
-344
-00:41:59,560 --> 00:42:03,523
-Sí, pero a usted le queda mejor. Todo parejo.
+333
+00:41:59,481 --> 00:42:03,315
+Sí, pero a Ud. le queda mejor.
+Todo parejo.
 
-345
-00:42:03,689 --> 00:42:06,317
-Esta noche pondré el otro lado.
+334
+00:42:03,585 --> 00:42:06,019
+Esta noche
+pondré el otro lado.
 
-346
-00:42:06,692 --> 00:42:08,945
-¿Cómo está el niño? Lo lamento.
+335
+00:42:06,655 --> 00:42:08,748
+¿Cómo está el niño?
+Lamento...
 
-347
-00:42:09,111 --> 00:42:10,530
+336
+00:42:08,957 --> 00:42:10,423
 Enseguida vuelvo.
 
-348
-00:42:10,738 --> 00:42:13,741
-Levanta la cabeza y sonríe. Vamos, hijo.
+337
+00:42:10,625 --> 00:42:12,923
+Levanta la cabeza y sonríe.
 
-349
-00:42:13,908 --> 00:42:17,537
-Es un poco joven para eso, ¿no cree?
+338
+00:42:13,861 --> 00:42:16,989
+Es un poco joven
+para eso, ¿no cree?
 
-350
-00:42:37,014 --> 00:42:38,641
+339
+00:42:36,883 --> 00:42:38,145
 Curioso.
 
-351
-00:42:40,101 --> 00:42:45,106
-Parece una locura, pero desde ayer en la carretera...
+340
+00:42:40,020 --> 00:42:44,548
+Parece una locura, pero
+desde ayer en la carretera...
 
-352
-00:42:45,398 --> 00:42:47,775
+341
+00:42:45,358 --> 00:42:47,292
 ...estoy viendo esta forma.
 
-353
-00:42:49,694 --> 00:42:52,738
-En la espuma de afeitar, las almohadas...
+342
+00:42:49,629 --> 00:42:52,655
+En la espuma de afeitar,
+las almohadas...
 
-354
-00:43:05,084 --> 00:43:08,963
-¡Conozco esto! ¡Sé lo que es!
+343
+00:43:05,010 --> 00:43:07,342
+¡Conozco esto!
+¡Sé lo que es!
 
-355
-00:43:14,677 --> 00:43:16,971
+344
+00:43:14,653 --> 00:43:16,382
 Significa algo.
 
-356
-00:43:22,727 --> 00:43:24,562
+345
+00:43:22,861 --> 00:43:24,692
 Y es importante.
 
-357
-00:43:25,605 --> 00:43:27,732
-- ¡Ya vienen!
-- ¡Saca la cámara!
+346
+00:43:25,530 --> 00:43:26,929
+¡Ya vienen!
 
-358
-00:43:28,691 --> 00:43:32,028
-- ¡Por el Noroeste!
-- Jimmy, ven aquí.
+347
+00:43:27,131 --> 00:43:28,393
+¡Saca la cámara!
 
-359
-00:43:46,083 --> 00:43:49,253
-Es como un Halloween para adultos.
+348
+00:43:28,600 --> 00:43:30,431
+¡Por el Noroeste!
 
-360
-00:43:50,588 --> 00:43:52,048
+349
+00:43:45,916 --> 00:43:48,783
+Es como un Halloween
+para adultos.
+
+350
+00:43:50,454 --> 00:43:51,944
 Truco o regalo.
 
-361
-00:44:19,367 --> 00:44:20,701
+351
+00:44:18,781 --> 00:44:20,806
 PAREN Y SEAN AMABLES
 
-362
-00:44:23,079 --> 00:44:24,372
+352
+00:44:22,985 --> 00:44:24,247
 ¡Un momento!
 
-363
-00:45:17,550 --> 00:45:18,551
-Este es el ritmo.
+353
+00:45:17,538 --> 00:45:18,436
+El ritmo es:
 
-364
-00:45:18,801 --> 00:45:22,430
+354
+00:45:18,705 --> 00:45:22,141
 - Dos grabaciones en 15 minutos.
 - ¿Siguen un orden?
 
-365
-00:45:22,596 --> 00:45:26,308
-104 tonos, cinco segundos de intervalo y 40 tonos.
+355
+00:45:22,375 --> 00:45:26,106
+104 tonos, 5 segundos
+de intervalo y 40 tonos.
 
-366
-00:45:26,475 --> 00:45:28,853
-Otros cinco segundos y 30 tonos.
+356
+00:45:26,346 --> 00:45:28,780
+Otros 5 segundos y 30 tonos.
 
-367
-00:45:29,019 --> 00:45:31,439
-60 segundos de silencio y una serie de números.
+357
+00:45:28,982 --> 00:45:31,280
+60 segundos de silencio
+y una serie de números.
 
-368
-00:45:31,605 --> 00:45:32,982
-Radio Telescopio Goldstone Estación 14
+358
+00:45:31,484 --> 00:45:33,315
+Radio Telescopio Goldstone
+Estación 14
 
-369
-00:45:33,149 --> 00:45:35,860
-40, intervalo de cinco. 36, intervalo de cinco. Diez.
+359
+00:45:33,519 --> 00:45:35,714
+40, intervalo de 5.
+36, intervalo de 5. 10.
 
-370
-00:45:36,068 --> 00:45:38,320
+360
+00:45:35,955 --> 00:45:38,150
 - 104 tonos rápidos.
 - ¡Dios!
 
-371
-00:45:38,487 --> 00:45:42,283
-Una pausa de 60 segundos y todo se repite.
+361
+00:45:38,391 --> 00:45:42,054
+Una pausa de 60 segundos
+y todo se repite.
 
-372
-00:45:42,741 --> 00:45:45,744
+362
+00:45:42,694 --> 00:45:45,492
 - ¿Procedencia de la señal?
-- En la zona residencial.
+- A 7 s...
 
-373
-00:45:45,911 --> 00:45:47,746
-La velocidad de la luz a siete segundos.
+363
+00:45:45,697 --> 00:45:47,631
+...a velocidad de la luz.
 
-374
-00:45:47,913 --> 00:45:50,207
+364
+00:45:47,866 --> 00:45:49,959
 En el plano de la eclíptica.
 
-375
-00:45:50,374 --> 00:45:55,379
+365
+00:45:50,235 --> 00:45:55,138
 ¿Estas señales ordenadas, 40,
 36, 10, son la respuesta a eso?
 
-376
-00:45:55,546 --> 00:45:58,799
-No. Hace semanas que enviamos esta combinación.
+366
+00:45:55,340 --> 00:45:59,003
+No. Hace semanas que
+enviamos esta combinación.
 
-377
-00:45:58,966 --> 00:46:01,051
-Pero solo recibimos números.
+367
+00:45:59,211 --> 00:46:01,577
+Pero sólo recibimos números.
 
-378
-00:46:06,515 --> 00:46:10,352
-Y los sonidos de la India no significarían nada.
+368
+00:46:06,484 --> 00:46:10,181
+Y los sonidos de la India
+no significarían nada.
 
-379
-00:46:10,519 --> 00:46:11,937
+369
+00:46:10,521 --> 00:46:11,818
 No son nada.
 
-380
-00:46:12,146 --> 00:46:14,190
+370
+00:46:12,023 --> 00:46:14,048
 Ignoramos muchas cosas.
 
-381
-00:46:14,398 --> 00:46:17,109
-Como de dónde vienen las señales.
+371
+00:46:14,258 --> 00:46:16,920
+Como de dónde vienen
+las señales.
 
-382
-00:46:20,029 --> 00:46:22,615
-- Disculpen.
-- A lo mejor son letras.
-
-383
-00:46:23,616 --> 00:46:25,201
-¿Qué letra es el 104?
-
-384
-00:46:28,120 --> 00:46:29,455
+372
+00:46:19,897 --> 00:46:21,228
 Disculpen.
 
-385
-00:46:32,583 --> 00:46:36,378
-Antes de que me pagaran por hablar francés...
+373
+00:46:23,567 --> 00:46:25,558
+¿Qué letra es el 104?
 
-386
-00:46:37,046 --> 00:46:40,382
+374
+00:46:28,005 --> 00:46:29,335
+Disculpen.
+
+375
+00:46:32,542 --> 00:46:35,670
+Antes de que me pagaran
+por hablar francés...
+
+376
+00:46:38,782 --> 00:46:40,340
 ...yo leía mapas.
 
-387
-00:46:42,510 --> 00:46:45,346
-El primer número es una longitud.
+377
+00:46:42,519 --> 00:46:44,851
+El primer número: la longitud.
 
-388
-00:46:49,183 --> 00:46:51,977
-Dos grupos, tres números.
+378
+00:46:50,360 --> 00:46:51,884
+2 grupos, 3 números.
 
-389
-00:46:52,144 --> 00:46:55,189
+379
+00:46:52,128 --> 00:46:55,062
 Grados, minutos y segundos.
 
-390
-00:46:55,397 --> 00:46:59,610
-El primero son tres dígitos y
+380
+00:46:55,264 --> 00:46:59,530
+El primero son 3 dígitos y
 los otros son menores de 60.
 
-391
-00:47:00,486 --> 00:47:03,781
-No es una ascensión o descenso del cielo.
+381
+00:47:00,436 --> 00:47:03,633
+No es una ascensión
+o descenso del cielo.
 
-392
-00:47:05,241 --> 00:47:07,660
+382
+00:47:05,074 --> 00:47:07,406
 Son coordenadas terrestres.
 
-393
-00:47:07,826 --> 00:47:09,745
+383
+00:47:07,609 --> 00:47:09,600
 Veamos un globo terráqueo.
 
-394
-00:47:13,207 --> 00:47:14,542
+384
+00:47:13,115 --> 00:47:14,446
 Esto nos servirá.
 
-395
-00:47:14,708 --> 00:47:17,419
+385
+00:47:14,650 --> 00:47:17,140
 Quizá haya una tuerca debajo.
 
-396
-00:47:17,586 --> 00:47:19,964
-¡Vale 2500 dólares! ¿Qué están haciendo?
+386
+00:47:17,585 --> 00:47:21,112
+¡Vale 2.500 dólares!
+¿Qué están haciendo?
 
-397
-00:47:20,130 --> 00:47:22,967
-- Esta pesado, cuidado con los pies.
-- Deja le pego...
+387
+00:47:38,139 --> 00:47:41,938
+¡Muy bien, con cuidado!
+¡Apoyémoslo!
 
-398
-00:47:38,065 --> 00:47:41,986
-¡Muy bien, con cuidado! ¡Apoyémoslo!
-
-399
-00:47:46,615 --> 00:47:49,159
+388
+00:47:46,646 --> 00:47:49,012
 La antena. ¡Qué tonto!
 
-400
-00:47:49,368 --> 00:47:51,036
+389
+00:47:49,249 --> 00:47:50,978
 - ¿Qué dirección?
 - Noreste.
 
-401
-00:47:51,203 --> 00:47:53,038
+390
+00:47:51,184 --> 00:47:52,674
 Eso es en Wyoming.
 
-402
-00:47:59,587 --> 00:48:02,089
-Necesitaremos un mapa geodésico de Wyoming.
+391
+00:47:59,526 --> 00:48:01,994
+¡Un mapa geodésico de Wyoming!
 
-403
-00:48:02,256 --> 00:48:04,216
+392
+00:48:02,295 --> 00:48:04,091
 A pequeña escala.
 
-404
-00:48:04,425 --> 00:48:07,553
-La milicia tiene un mapa así de Wyoming.
+393
+00:48:04,296 --> 00:48:07,697
+La milicia tiene un mapa
+así de Wyoming.
 
-405
-00:48:07,720 --> 00:48:09,805
-No solo necesitaremos...
-
-406
-00:49:59,289 --> 00:50:01,417
+394
+00:49:59,241 --> 00:50:00,868
 ¡Juguetes!
 
-407
-00:50:02,042 --> 00:50:04,169
+395
+00:50:01,976 --> 00:50:03,910
 ¡Juguetes!
 
-408
-00:50:35,909 --> 00:50:37,661
-Vamos, vamos.
-
-409
-00:51:21,205 --> 00:51:22,748
+396
+00:51:21,118 --> 00:51:22,608
 ¡Dios mío!
 
-410
-00:51:51,360 --> 00:51:53,779
+397
+00:51:51,381 --> 00:51:53,747
 Ahora pueden entrar a jugar.
 
-411
-00:51:54,029 --> 00:51:55,864
+398
+00:51:53,984 --> 00:51:55,815
 Pueden entrar a jugar.
 
-412
-00:52:01,161 --> 00:52:04,081
+399
+00:52:01,090 --> 00:52:03,718
 Entren por la puerta.
 
-413
-00:52:05,791 --> 00:52:09,002
-Uno, dos, tres...
+400
+00:52:05,594 --> 00:52:08,927
+Uno... dos... tres...
 
-414
-00:52:17,886 --> 00:52:19,221
-Ay, cariño.
+401
+00:52:19,274 --> 00:52:21,401
+Mamá, mira.
+El Sol está aquí.
 
-415
-00:52:19,429 --> 00:52:21,557
-Mamá, mira. El sol está aquí.
-
-416
-00:52:24,643 --> 00:52:26,770
-Ay, cariño.
-
-417
-00:52:27,312 --> 00:52:29,231
+402
+00:52:27,281 --> 00:52:29,181
 ¡Dios mío!
 
-418
-00:53:07,227 --> 00:53:08,896
+403
+00:53:07,154 --> 00:53:08,781
 ¡Márchense!
 
-419
-00:53:33,045 --> 00:53:34,546
+404
+00:53:32,978 --> 00:53:34,410
 ¡Límpialo todo!
 
-420
-00:53:50,729 --> 00:53:52,731
-- Mamá, déjame escuchar.
+405
+00:53:50,662 --> 00:53:52,789
+- Déjame escuchar.
 - ¡Espera!
 
-421
-00:54:10,582 --> 00:54:12,125
-- ¡Mamá, mira!
-- Dios mío.
+406
+00:54:10,447 --> 00:54:11,971
+¡Mamá, mira!
 
-422
-00:54:20,676 --> 00:54:23,553
+407
+00:54:20,690 --> 00:54:23,056
 Entren por la puerta.
 
-423
-00:54:45,033 --> 00:54:49,079
+408
+00:54:44,980 --> 00:54:46,811
 ¡Barry!
 
-424
-00:54:57,337 --> 00:54:59,047
-FUERZA AÉREA DE EE.UU.
+409
+00:54:57,225 --> 00:54:58,886
+FUERZAAÉREA DE EE.UU.
 
-425
-00:54:59,256 --> 00:55:00,632
-Jillian. Jillian
-
-426
-00:55:03,593 --> 00:55:04,928
+410
+00:55:03,565 --> 00:55:04,759
 ¿Una declaración?
 
-427
-00:55:05,095 --> 00:55:07,973
+411
+00:55:05,000 --> 00:55:07,832
 Lo que dijo era espectacular.
 
-428
-00:55:08,140 --> 00:55:10,350
-Lo necesitamos para noticias a las seis.
+412
+00:55:08,102 --> 00:55:10,195
+Para Noticias a las 6:00.
 
-429
-00:55:12,936 --> 00:55:14,312
+413
+00:55:12,907 --> 00:55:14,169
 Se lo llevaron.
 
-430
-00:55:14,479 --> 00:55:15,522
+414
+00:55:14,375 --> 00:55:15,364
 ¿Qué?
 
-431
-00:55:15,731 --> 00:55:18,233
+415
+00:55:15,576 --> 00:55:18,204
 ¿Se va a buscar a su hijo?
 
-432
-00:55:18,400 --> 00:55:22,029
+416
+00:55:18,412 --> 00:55:21,609
 - ¿Hay nota de rescate?
 - ¿Por dónde empezará?
 
-433
-00:55:24,322 --> 00:55:26,283
+417
+00:55:24,285 --> 00:55:26,116
 Se llama Barry.
 
-434
-00:55:27,034 --> 00:55:29,244
-¿Y su marido, el señor Guiler?
+418
+00:55:27,021 --> 00:55:29,080
+¿Y su marido, el Sr. Guiler?
 
-435
-00:55:30,662 --> 00:55:34,499
-¿Tiene usted relación con la parapsicología?
+419
+00:55:30,624 --> 00:55:34,115
+¿Tiene Ud. relación
+con la parapsicología?
 
-436
-00:55:35,292 --> 00:55:37,711
+420
+00:55:35,128 --> 00:55:37,187
 ¡Gírese, por favor!
 
-437
-00:55:39,421 --> 00:55:43,383
-¿Puede repetir el informe de la policía?
+421
+00:55:39,399 --> 00:55:42,630
+¿Puede repetir
+el informe de la policía?
 
-438
-00:55:46,678 --> 00:55:49,931
-Ya pueden subir. Habitación 3655.
+422
+00:55:46,639 --> 00:55:49,767
+Ya pueden subir.
+Habitación 3655.
 
-439
-00:55:50,223 --> 00:55:53,602
-Señores, esto es un platillo volador.
+423
+00:55:50,243 --> 00:55:53,576
+Señores, esto es
+un platillo volador.
 
-440
-00:55:53,769 --> 00:55:55,062
-¡A que yo vi!
+424
+00:55:53,780 --> 00:55:54,905
+¡El que yo vi!
 
-441
-00:55:57,856 --> 00:56:01,568
-¡Juro que es el mismo! ¡Es el que vi!
+425
+00:55:57,816 --> 00:56:01,081
+¡Juro que es el mismo!
+¡Es el que vi!
 
-442
-00:56:02,360 --> 00:56:05,113
+426
+00:56:02,421 --> 00:56:04,946
 Es de estaño, hecho en Japón...
 
-443
-00:56:05,280 --> 00:56:08,617
-...y lanzado por mis hijos alcésped.
+427
+00:56:05,157 --> 00:56:08,285
+...y lanzado por mis hijos
+al césped.
 
-444
-00:56:10,160 --> 00:56:14,498
-Quería resaltar que no todo lo que reluce es oro.
+428
+00:56:10,095 --> 00:56:14,293
+Quería resaltar que
+no todo lo que reluce es oro.
 
-445
-00:56:14,706 --> 00:56:17,626
-Y que el año pasado, los norteamericanos...
+429
+00:56:14,499 --> 00:56:17,468
+Y que el año pasado,
+los norteamericanos...
 
-446
-00:56:17,834 --> 00:56:20,796
-...tomaron más de siete mil millones de fotos...
+430
+00:56:17,669 --> 00:56:20,694
+...tomaron más de
+7 billones de fotos...
 
-447
-00:56:20,962 --> 00:56:26,009
-...lo que significó 6,6 mil millones
+431
+00:56:20,905 --> 00:56:25,638
+...lo que significó 6,6 billones
 de dólares en materiales.
 
-448
-00:56:26,176 --> 00:56:28,178
-Con tantas fotos tomadas...
+432
+00:56:26,143 --> 00:56:27,974
+Con tantas instantáneas...
 
-449
-00:56:28,345 --> 00:56:31,139
-...¿dónde está la prueba indiscutible?
+433
+00:56:28,179 --> 00:56:30,977
+...¿dónde está
+la prueba indiscutible?
 
-450
-00:56:31,348 --> 00:56:34,601
-Llevo mucho tiempo en el periodismo.
+434
+00:56:31,182 --> 00:56:34,583
+Llevo mucho tiempo
+en el periodismo.
 
-451
-00:56:34,768 --> 00:56:38,897
-Nunca se ha fotografiado un accidente aéreo...
+435
+00:56:34,819 --> 00:56:38,687
+Nunca se ha fotografiado
+un accidente aéreo...
 
-452
-00:56:39,064 --> 00:56:42,984
-...o de coche y ha salido en las noticias.
+436
+00:56:38,956 --> 00:56:42,516
+...o de coche y ha salido
+en las noticias.
 
-453
-00:56:43,360 --> 00:56:45,570
-- He visto las luces.
-- Claro que sí.
+437
+00:56:50,700 --> 00:56:54,101
+Hay muchas cosas divertidas
+en las que creer.
 
-454
-00:56:46,530 --> 00:56:48,281
-Chicos...
-
-455
-00:56:50,700 --> 00:56:54,246
-Hay muchas cosas en las que sería divertido creer.
-
-456
-00:56:54,412 --> 00:56:56,164
+438
+00:56:54,437 --> 00:56:56,132
 Telepatía mental...
 
-457
-00:56:56,331 --> 00:56:58,166
+439
+00:56:56,339 --> 00:56:57,829
 ...viajes en el tiempo...
 
-458
-00:56:58,333 --> 00:57:00,043
+440
+00:56:58,275 --> 00:56:59,867
 ...inmortalidad...
 
-459
-00:57:00,585 --> 00:57:02,629
+441
+00:57:00,510 --> 00:57:02,444
 ...incluso Santa Claus.
 
-460
-00:57:02,963 --> 00:57:07,259
-No tiene gracia explicar: «¿Sabes qué ha pasado?
+442
+00:57:03,013 --> 00:57:07,176
+No tiene gracia explicar:
+"¿Sabes qué ha pasado?
 
-461
-00:57:07,425 --> 00:57:11,179
-Fui de compras y vi una luz muy brillante...
+443
+00:57:07,449 --> 00:57:11,112
+Fui de compras y vi
+una luz muy brillante...
 
-462
-00:57:11,346 --> 00:57:13,932
+444
+00:57:11,353 --> 00:57:13,548
 ...y corrí afuera...
 
-463
-00:57:14,558 --> 00:57:15,934
-...y era un avión».
+445
+00:57:13,789 --> 00:57:15,780
+...y era un avión".
 
-464
-00:57:16,143 --> 00:57:19,146
-Disculpe, pero yo no quería verlo.
+446
+00:57:16,058 --> 00:57:19,027
+Disculpe, pero
+yo no quería verlo.
 
-465
-00:57:20,313 --> 00:57:21,731
+447
+00:57:20,329 --> 00:57:21,626
 Pues yo sí.
 
-466
-00:57:21,898 --> 00:57:23,900
+448
+00:57:21,864 --> 00:57:23,798
 Hace 15 años que busco...
 
-467
-00:57:24,067 --> 00:57:27,320
-...esas malditas luces en el cielo.
+449
+00:57:24,066 --> 00:57:27,035
+...esas malditas luces
+en el cielo.
 
-468
-00:57:27,487 --> 00:57:29,030
+450
+00:57:27,536 --> 00:57:28,900
 Nunca las he visto.
 
-469
-00:57:29,197 --> 00:57:32,200
+451
+00:57:29,170 --> 00:57:32,037
 Y eso que creo hay otras vidas.
 
-470
-00:57:32,492 --> 00:57:33,952
+452
+00:57:32,507 --> 00:57:33,804
 Admita que están...
 
-471
-00:57:34,161 --> 00:57:37,789
-...haciendo pruebas secretas en Foothills.
+453
+00:57:34,008 --> 00:57:37,705
+...haciendo pruebas
+secretas en Foothills.
 
-472
-00:57:37,956 --> 00:57:40,959
+454
+00:57:37,912 --> 00:57:40,642
 Sería muy fácil decirle que sí.
 
-473
-00:57:41,376 --> 00:57:45,297
-Pero no voy a engañarlo. No se trata de eso.
+455
+00:57:41,349 --> 00:57:45,012
+Pero no voy a engañarlo.
+No se trata de eso.
 
-474
-00:57:45,672 --> 00:57:47,757
+456
+00:57:45,586 --> 00:57:47,577
 Yo no sé lo que vio.
 
-475
-00:57:47,966 --> 00:57:50,260
+457
+00:57:47,855 --> 00:57:50,187
 No conseguirá confundirnos.
 
-476
-00:57:50,427 --> 00:57:51,845
+458
+00:57:50,391 --> 00:57:51,790
 ¡No, vamos!
 
-477
-00:57:52,262 --> 00:57:54,306
+459
+00:57:52,160 --> 00:57:54,059
 Yo una vez vi al Yeti.
 
-478
-00:57:58,935 --> 00:58:03,315
-1951. En el Parque Nacional de las Secoyas.
+460
+00:57:58,899 --> 00:58:03,063
+1951. En el Parque
+Nacional de las Secoyas.
 
-479
-00:58:03,523 --> 00:58:07,777
-Su pie medía un metro. Del talón al dedo.
+461
+00:58:03,370 --> 00:58:07,602
+Su pie medía 1 metro.
+Del talón al dedo.
 
-480
-00:58:11,489 --> 00:58:15,202
-Emitía un sonido que no quiero volver a oír.
+462
+00:58:11,545 --> 00:58:15,037
+Emitía un sonido que
+no quiero volver a oír.
 
-481
-00:58:19,956 --> 00:58:22,959
-Yo también conozco a ese caballero.
+463
+00:58:19,952 --> 00:58:22,785
+Yo también conozco
+a ese caballero.
 
-482
-00:58:24,085 --> 00:58:26,588
+464
+00:58:24,056 --> 00:58:26,547
 Me senté en el porche y vi...
 
-483
-00:58:26,755 --> 00:58:29,299
-...ese punto blanco en el cielo.
+465
+00:58:26,792 --> 00:58:29,124
+...ese punto blanco
+en el cielo.
 
-484
-00:58:29,507 --> 00:58:31,801
+466
+00:58:29,362 --> 00:58:31,626
 Iba del rojo al azul y verde.
 
-485
-00:58:31,968 --> 00:58:33,261
+467
+00:58:31,897 --> 00:58:36,197
 SECUESTRO CÓSMICO
 
-486
-00:58:33,428 --> 00:58:36,223
-...solo seguía pulsando más y más y más
-
-487
-00:58:36,431 --> 00:58:41,728
+468
+00:58:36,402 --> 00:58:41,100
 Los ovnis no son una amenaza
 directa a la seguridad nacional.
 
-488
-00:58:42,479 --> 00:58:46,524
-No los respaldamos, y pedimos que ustedes tampoco.
+469
+00:58:42,540 --> 00:58:46,101
+No los respaldamos,
+y pedimos que Uds. tampoco.
 
-489
-00:59:24,938 --> 00:59:27,065
+470
+00:59:24,815 --> 00:59:26,975
 Llamen al servicio forestal...
 
-490
-00:59:27,232 --> 00:59:31,152
-...o toda la zona se va a llenar de tráfico.
+471
+00:59:27,183 --> 00:59:30,914
+...o toda la zona
+se va a llenar de tráfico.
 
-491
-00:59:31,319 --> 00:59:35,532
-Y eso no les va a gustar a los de Wyoming.
+472
+00:59:31,287 --> 00:59:35,087
+Y eso no les va a gustar
+a los de Wyoming.
 
-492
-00:59:41,579 --> 00:59:44,541
+473
+00:59:41,497 --> 00:59:44,022
 Si la misión llega a término...
 
-493
-00:59:45,125 --> 00:59:50,338
-...no quiero ni pensar qué puede pasarle a esa gente.
+474
+00:59:45,101 --> 00:59:49,969
+...no quiero ni pensar
+qué puede pasarle a esa gente.
 
-494
-00:59:51,047 --> 00:59:53,008
-Su vuelo es a las ocho de la noche.
+475
+00:59:51,106 --> 00:59:52,937
+Su vuelo es a las 20:00 hs.
 
-495
-00:59:53,174 --> 00:59:57,220
-Un coche los llevará al helipuerto.
+476
+00:59:53,141 --> 00:59:56,804
+Un coche los llevará
+al helipuerto.
 
-496
-00:59:57,387 --> 01:00:01,224
+477
+00:59:57,345 --> 01:00:00,872
 Y los recogerán a la llegada.
 
-497
-01:00:03,560 --> 01:00:07,147
+478
+01:00:03,685 --> 01:00:07,143
 - Inundar es buena idea.
 - ¿De dónde sacará el agua?
 
-498
-01:00:08,106 --> 01:00:11,776
-Diremos que un depósito ha explotado.
+479
+01:00:07,889 --> 01:00:11,655
+Diremos que un depósito
+ha explotado.
 
-499
-01:00:12,944 --> 01:00:14,487
+480
+01:00:12,894 --> 01:00:14,451
 Contienen poca agua.
 
-500
-01:00:14,654 --> 01:00:18,158
-El agua contaminada los afecta a todos.
+481
+01:00:14,662 --> 01:00:17,995
+El agua contaminada
+los afecta a todos.
 
-501
-01:00:18,366 --> 01:00:19,451
+482
+01:00:18,299 --> 01:00:19,391
 Enfermedades.
 
-502
-01:00:19,617 --> 01:00:20,618
-3. VIRUS.
-- A. Difteria. - B. CEPAS DESCONOCIDAS
-
-503
-01:00:20,785 --> 01:00:22,412
+483
+01:00:19,633 --> 01:00:22,329
 - Sí, y epidemias.
 - ¿Qué enfermedades?
 
-504
-01:00:22,579 --> 01:00:24,873
-- Una plaga.
-- Nadie creerá en una plaga.
+484
+01:00:22,570 --> 01:00:23,594
+Una plaga.
 
-505
-01:00:26,583 --> 01:00:28,209
+485
+01:00:23,804 --> 01:00:25,897
+Nadie creerá en una plaga.
+
+486
+01:00:26,540 --> 01:00:28,508
 - Ántrax.
 - Por aquí hay ganado.
 
-506
-01:00:28,376 --> 01:00:30,754
-- Sí.
-- Hay montones de ovejas.
+487
+01:00:28,709 --> 01:00:31,041
+Hay montones de ovejas.
 
-507
-01:00:30,920 --> 01:00:32,630
-Espera. Sí, me gusta.
+488
+01:00:31,245 --> 01:00:32,507
+Sí, me gusta.
 
-508
-01:00:32,839 --> 01:00:35,842
+489
+01:00:32,713 --> 01:00:35,739
 - Creará pánico.
 - Quizá no se vayan todos.
 
-509
-01:00:36,009 --> 01:00:39,304
-Siempre hay alguno que se cree inmune.
+490
+01:00:36,016 --> 01:00:38,984
+Siempre hay alguno
+que se cree inmune.
 
-510
-01:00:41,056 --> 01:00:45,268
-Necesito algo tan serio que asuste a todos...
+491
+01:00:40,987 --> 01:00:45,151
+Necesito algo tan serio
+que asuste a todos...
 
-511
-01:00:45,477 --> 01:00:48,396
-...en 500 kilómetros a la redonda.
+492
+01:00:45,358 --> 01:00:48,225
+...en 500 kilómetros
+a la redonda.
 
-512
-01:01:19,594 --> 01:01:21,387
+493
+01:01:19,458 --> 01:01:21,187
 Sírvete tú mismo.
 
-513
-01:01:23,348 --> 01:01:28,812
-Odio estas papas. Y hay una mosca muerta.
+494
+01:01:24,195 --> 01:01:28,723
+Odio estas papas.
+Y hay una mosca muerta.
 
-514
-01:01:28,978 --> 01:01:30,647
+495
+01:01:28,966 --> 01:01:30,263
 Está bien.
 
-515
-01:03:16,711 --> 01:03:19,047
+496
+01:03:16,703 --> 01:03:18,637
 Ya habrán notado...
 
-516
-01:03:19,547 --> 01:03:24,385
-...que a papá le pasa algo extraño.
+497
+01:03:19,406 --> 01:03:23,967
+...que a papá le pasa
+algo extraño.
 
-517
-01:03:27,222 --> 01:03:29,140
+498
+01:03:27,179 --> 01:03:28,874
 Pero todo va bien.
 
-518
-01:03:31,309 --> 01:03:33,311
+499
+01:03:31,217 --> 01:03:32,844
 Sigo siendo papá.
 
-519
-01:03:37,941 --> 01:03:42,111
-No puedo describir lo que siento...
+500
+01:03:37,890 --> 01:03:41,917
+No puedo describir
+lo que siento...
 
-520
-01:03:42,320 --> 01:03:44,530
+501
+01:03:42,194 --> 01:03:44,526
 ...ni lo que pienso.
 
-521
-01:03:47,242 --> 01:03:49,827
+502
+01:03:47,165 --> 01:03:49,360
 Esto significa algo.
 
-522
-01:03:50,745 --> 01:03:53,122
+503
+01:03:50,602 --> 01:03:52,900
 Y es importante.
 
-523
-01:04:04,092 --> 01:04:06,219
+504
+01:04:04,049 --> 01:04:05,846
 Esto no es así.
 
-524
-01:04:09,722 --> 01:04:11,557
+505
+01:04:09,620 --> 01:04:11,110
 No es así.
 
-525
-01:04:13,309 --> 01:04:15,311
+506
+01:04:13,257 --> 01:04:15,088
 Esto no es así.
 
-526
-01:04:33,997 --> 01:04:37,542
-¡Esto no es así!
+507
+01:04:43,386 --> 01:04:45,217
+¿Qué es?
 
-527
-01:04:43,464 --> 01:04:45,591
-¿QUÉ es?
+508
+01:04:46,723 --> 01:04:49,055
+¿Qué es?
 
-528
-01:04:46,801 --> 01:04:49,304
-¿QUÉ es?
-
-529
-01:04:56,561 --> 01:04:58,604
+509
+01:04:56,465 --> 01:04:58,160
 Esto no es justo.
 
-530
-01:05:03,735 --> 01:05:05,653
+510
+01:05:03,672 --> 01:05:05,230
 Díganmelo.
 
-531
-01:05:30,178 --> 01:05:31,763
-¿Roy?
-
-532
-01:05:32,555 --> 01:05:34,098
-Roy
-
-533
-01:05:35,058 --> 01:05:37,226
+511
+01:05:34,969 --> 01:05:36,766
 Abre la puerta.
 
-534
-01:05:37,977 --> 01:05:42,106
-Por favor. Roy, Roy.
+512
+01:05:37,838 --> 01:05:39,032
+Por favor.
 
-535
-01:05:42,273 --> 01:05:44,067
+513
+01:05:42,209 --> 01:05:43,869
 ¡Abre la puerta!
 
-536
-01:05:44,275 --> 01:05:46,527
+514
+01:05:44,144 --> 01:05:46,044
 ¡Abre la puerta!
 
-537
-01:05:51,824 --> 01:05:53,409
-Está bien.
-
-538
-01:06:14,514 --> 01:06:16,849
+515
+01:06:14,506 --> 01:06:17,407
 No sé lo que me está pasando.
 
-539
-01:06:23,439 --> 01:06:28,277
-Mira, Roy, esto es cosa de terapia familiar.
+516
+01:06:23,482 --> 01:06:28,044
+Mira, Roy, esto es cosa
+de terapia familiar.
 
-540
-01:06:28,444 --> 01:06:31,155
+517
+01:06:28,253 --> 01:06:30,982
 Vamos todos. Y hablamos.
 
-541
-01:06:31,364 --> 01:06:35,326
-No señalan a nadie. Y quizá tú no tengas la culpa.
+518
+01:06:31,222 --> 01:06:35,181
+No señalan a nadie.
+Y quizá tú no tengas la culpa.
 
-542
-01:06:35,493 --> 01:06:40,248
-- Es sumergible, aún funciona.
-- ¡Promete que irás!
+519
+01:06:35,393 --> 01:06:38,021
+Es sumergible, aún funciona.
 
-543
-01:06:40,456 --> 01:06:43,876
-- ¡Por favor!
-- ¡Llorona! ¡Llorona!
+520
+01:06:38,763 --> 01:06:40,162
+¡Promete que irás!
 
-544
-01:06:44,085 --> 01:06:45,962
+521
+01:06:40,665 --> 01:06:43,691
+¡Llorona! ¡Llorona!
+
+522
+01:06:44,001 --> 01:06:45,764
 - ¡Llorona!
 - ¡Vete de aquí!
 
-545
-01:06:46,170 --> 01:06:50,007
+523
+01:06:46,070 --> 01:06:47,230
 ¡Vete!
-- Vamos, chicos.
 
-546
-01:06:50,174 --> 01:06:51,926
+524
+01:06:47,438 --> 01:06:49,269
+Vamos, chicos...
+
+525
+01:06:49,941 --> 01:06:51,738
 ¡Llorona!
 
-547
-01:06:52,135 --> 01:06:53,719
+526
+01:06:52,009 --> 01:06:53,567
 - ¡Cállate!
 - ¡Basta!
 
-548
-01:06:53,928 --> 01:06:55,596
+527
+01:06:53,778 --> 01:06:55,369
 ¡No entiendo nada!
 
-549
-01:06:55,763 --> 01:06:58,182
+528
+01:06:55,612 --> 01:06:58,080
 - Ni yo.
 - ¡Fuera!
 
-550
-01:06:58,349 --> 01:07:01,602
-¡Vete a tu cuarto y cierra la puerta!
+529
+01:06:58,348 --> 01:07:01,249
+¡Vete a tu cuarto
+y cierra la puerta!
 
-551
-01:07:04,355 --> 01:07:05,440
+530
+01:07:04,287 --> 01:07:05,276
 - ¿Ronnie?
 - Sí.
 
-552
-01:07:05,606 --> 01:07:09,819
-Estoy muy asustado. Quiero que me ayudes.
+531
+01:07:05,555 --> 01:07:09,719
+Estoy muy asustado.
+Quiero que me ayudes.
 
-553
-01:07:10,111 --> 01:07:13,239
-¡Esto es absurdo! ¡Y acabará con nosotros!
+532
+01:07:10,060 --> 01:07:13,052
+¡Esto es absurdo!
+¡Y acabará con nosotros!
 
-554
-01:07:13,406 --> 01:07:15,741
-- Ronnie, solo...
-- ¡Te odio! ¡Eso es!
+533
+01:07:13,897 --> 01:07:15,626
+¡Te odio! ¡Eso es!
 
-555
-01:07:15,908 --> 01:07:17,577
-- ¡No!
-- Ronnie. Ronnie.
+534
+01:07:15,899 --> 01:07:17,093
+¡No!
 
-556
-01:07:17,743 --> 01:07:21,289
-Eso me ayudaría. Solo pon tus brazos
-alrededor de mí. Eso me ayudaría.
-
-557
-01:07:21,497 --> 01:07:22,498
+535
+01:07:17,733 --> 01:07:21,100
 Eso me ayudaría.
 
-558
-01:07:22,665 --> 01:07:25,960
-¡Escucha! ¿No ves lo que nos está pasando?
+536
+01:07:21,370 --> 01:07:22,530
+Eso me ayudaría.
 
-559
-01:07:26,127 --> 01:07:28,212
-- ¡Los amigos ya no nos llaman!
-- Ronnie.
+537
+01:07:22,771 --> 01:07:25,467
+¿No ves lo que nos
+está pasando?
 
-560
-01:07:28,379 --> 01:07:30,465
+538
+01:07:26,041 --> 01:07:28,032
+¡Los amigos no llaman!
+
+539
+01:07:28,244 --> 01:07:30,439
 ¡Sin trabajo y te da igual!
 
-561
-01:07:30,631 --> 01:07:33,551
-¡Nos estás destrozando! ¡Nos estás arruinando!
+540
+01:07:30,646 --> 01:07:33,308
+¡Nos estás destrozando!
 
-562
-01:07:33,718 --> 01:07:36,304
+541
+01:07:33,749 --> 01:07:36,240
 - Ronnie, espera.
 - ¡No!
 
-563
-01:07:36,471 --> 01:07:37,722
-- Espera. ¡No!
+542
+01:07:36,452 --> 01:07:37,714
+Espera.
 
-564
-01:07:39,891 --> 01:07:41,726
-Ronnie.
+543
+01:07:45,293 --> 01:07:48,319
+Ronnie, abre la puerta.
+Vamos.
 
-565
-01:07:42,351 --> 01:07:44,061
-¿Ronnie?
+544
+01:08:23,664 --> 01:08:26,690
+<i>¿Qué te parece?
+Se ha desintegrado.</i>
 
-566
-01:07:45,354 --> 01:07:48,733
-Ronnie, abre la puerta. Vamos.
+545
+01:08:29,835 --> 01:08:33,771
+<i>Feliz cumpleaños,
+cosa del otro mundo.</i>
 
-567
-01:08:23,726 --> 01:08:27,021
-<i>¿Qué te parece? Se ha desintegrado.</i>
-
-568
-01:08:29,941 --> 01:08:34,111
-<i>Feliz cumpleaños, cosa del otro mundo.</i>
-
-569
-01:08:34,403 --> 01:08:36,447
+546
+01:08:34,273 --> 01:08:35,831
 <i>¡Gracias!</i>
 
-570
-01:08:43,037 --> 01:08:45,164
+547
+01:08:42,949 --> 01:08:44,849
 <i>Creo que es suficiente.</i>
 
-571
-01:08:47,375 --> 01:08:49,961
+548
+01:08:47,353 --> 01:08:49,651
 ¿Vas a gritarme?
 
-572
-01:08:56,759 --> 01:08:58,219
-OVNIS VER ES CREER
+549
+01:08:56,628 --> 01:08:59,791
+OVNIS
+VER ES CREER
 
-573
-01:09:03,432 --> 01:09:05,351
-Canadá: ¿Un Refugio para OVNIS?
+550
+01:09:03,368 --> 01:09:06,201
+Canadá:
+¿Un Refugio para OVNIS?
 
-574
-01:09:05,518 --> 01:09:08,437
-¿Ronnie? Todo va bien.
+551
+01:09:06,805 --> 01:09:08,238
+Todo va bien.
 
-575
-01:09:10,898 --> 01:09:12,108
+552
+01:09:08,506 --> 01:09:09,564
+RUMORES DE OVNIS
+
+553
+01:09:10,675 --> 01:09:12,540
 PLATILLOS VOLADORES
 
-576
-01:09:18,614 --> 01:09:21,075
+554
+01:09:18,482 --> 01:09:20,541
 Esto se ha terminado.
 
-577
-01:09:25,663 --> 01:09:28,958
-Todo volverá a estar como estaba.
+555
+01:09:25,522 --> 01:09:28,252
+Todo volverá a estar
+como estaba.
 
-578
-01:09:36,465 --> 01:09:42,013
-<i>¡Esto es el colmo! ¡Ahora usaré mi arma secreta!</i>
+556
+01:09:36,433 --> 01:09:41,563
+<i>¡Esto es el colmo!
+¡Ahora usaré mi arma secreta!</i>
 
-579
-01:10:12,918 --> 01:10:17,173
-Roy, siento lo de anoche. ¡Roy!
-
-580
-01:10:18,090 --> 01:10:22,178
-Roy, ¿qué estás haciendo?
-
-581
-01:10:22,887 --> 01:10:24,680
-¡Dios mío!
-
-582
-01:10:33,773 --> 01:10:35,066
-Deja las plantas.
-
-583
-01:10:36,359 --> 01:10:37,651
-¿Me oyes?
-
-584
-01:10:38,277 --> 01:10:39,487
-¡Espera!
-
-585
-01:10:39,653 --> 01:10:41,697
-¡Espera! ¿Qué haces?
-
-586
-01:10:41,906 --> 01:10:43,115
-¡Te encantará!
-
-587
-01:10:43,282 --> 01:10:45,743
-- ¡Qué quieres decir!
-- Te va a encantar.
-
-588
-01:10:45,910 --> 01:10:48,996
-Roy, ¿qué estás haciendo?
-
-589
-01:10:54,001 --> 01:10:56,462
+557
+01:10:12,768 --> 01:10:16,431
+Roy, siento lo de anoche.
 ¡Roy!
 
-590
-01:10:56,629 --> 01:10:57,671
+558
+01:10:19,474 --> 01:10:21,738
+Roy, ¿qué estás haciendo?
+
+559
+01:10:22,778 --> 01:10:24,268
 ¡Dios mío!
 
-591
-01:10:59,256 --> 01:11:01,092
+560
+01:10:33,621 --> 01:10:34,883
+Deja las plantas.
+
+561
+01:10:36,290 --> 01:10:37,552
+¿Me oyes?
+
+562
+01:10:38,159 --> 01:10:39,319
+¡Espera!
+
+563
+01:10:39,593 --> 01:10:41,561
+¡Espera! ¿Qué haces?
+
+564
+01:10:41,762 --> 01:10:42,922
+¡Te encantará!
+
+565
+01:10:43,130 --> 01:10:45,564
+- ¿Qué quieres decir?
+- Te va a encantar.
+
+566
+01:10:45,766 --> 01:10:48,462
+Roy, ¿qué estás haciendo?
+
+567
+01:10:53,940 --> 01:10:55,635
+¡Roy!
+
+568
+01:10:56,643 --> 01:10:57,507
+¡Dios mío!
+
+569
+01:10:59,145 --> 01:11:00,612
 ¡Vamos allá!
 
-592
-01:11:02,218 --> 01:11:06,847
-Después de esto, ¿podremos ensuciar mi ventana?
+570
+01:11:02,115 --> 01:11:06,313
+Después de esto, ¿podremos
+ensuciar mi ventana?
 
-593
-01:11:10,017 --> 01:11:11,685
+571
+01:11:09,923 --> 01:11:11,254
 Déjalo.
 
-594
-01:11:12,645 --> 01:11:14,438
+572
+01:11:12,492 --> 01:11:14,254
 Déjalo. Déjalo ya.
 
-595
-01:11:14,605 --> 01:11:16,023
+573
+01:11:14,460 --> 01:11:15,859
 ¡Cariño!
 
-596
-01:11:16,649 --> 01:11:21,278
-Si no hago esto, entonces sí necesitaré un médico.
+574
+01:11:16,495 --> 01:11:20,829
+Si no hago esto, entonces
+sí necesitaré un médico.
 
-597
-01:11:24,281 --> 01:11:25,699
+575
+01:11:24,670 --> 01:11:25,534
 ¿Qué haces?
 
-598
-01:11:25,908 --> 01:11:27,743
+576
+01:11:25,963 --> 01:11:27,590
 - Lo tengo.
 - ¿Qué haces?
 
-599
-01:11:27,910 --> 01:11:31,247
-Ya lo he entendido. ¿Vas a escucharme?
+577
+01:11:27,832 --> 01:11:31,269
+Ya lo he entendido.
+¿Vas a escucharme?
 
-600
-01:11:31,414 --> 01:11:36,419
+578
+01:11:31,504 --> 01:11:36,304
 ¿Nunca has mirado una locura de
 otra manera y ha dejado de serlo?
 
-601
-01:11:36,585 --> 01:11:37,628
+579
+01:11:36,708 --> 01:11:37,640
 No, nunca.
 
-602
-01:11:37,795 --> 01:11:39,755
+580
+01:11:37,843 --> 01:11:39,868
 Vamos, Ronnie. Escucha.
 
-603
-01:11:39,922 --> 01:11:42,216
+581
+01:11:40,112 --> 01:11:42,444
 - No sé qué haces.
 - Cierra los ojos.
 
-604
-01:11:42,383 --> 01:11:45,678
-Cierra los ojos y enseguida estará listo.
+582
+01:11:42,682 --> 01:11:45,810
+Cierra los ojos y
+enseguida estará listo.
 
-605
-01:11:47,263 --> 01:11:48,305
+583
+01:11:47,287 --> 01:11:48,311
 Nos asustas.
 
-606
-01:11:48,472 --> 01:11:51,642
-No se asusten. Me siento muy bien.
+584
+01:11:48,521 --> 01:11:51,615
+No se asusten.
+Me siento muy bien.
 
-607
-01:11:51,851 --> 01:11:53,561
+585
+01:11:51,891 --> 01:11:53,621
 Todo irá bien.
 
-608
-01:11:53,727 --> 01:11:55,980
+586
+01:11:53,860 --> 01:11:55,954
 Hace años que no estoy así.
 
-609
-01:11:56,147 --> 01:11:58,399
+587
+01:11:56,196 --> 01:11:58,357
 Todo irá bien. Lo sé.
 
-610
-01:12:01,777 --> 01:12:05,239
+588
+01:12:01,735 --> 01:12:04,568
 - ¿Y ahora, qué más?
 - ¿Esto?
 
-611
-01:12:05,823 --> 01:12:07,324
+589
+01:12:05,873 --> 01:12:07,135
 Eso es.
 
-612
-01:12:46,030 --> 01:12:47,781
+590
+01:12:46,117 --> 01:12:47,414
 ¿Y eso?
 
-613
-01:12:50,201 --> 01:12:51,702
+591
+01:12:50,288 --> 01:12:51,687
 Tela metálica.
 
-614
-01:13:02,129 --> 01:13:04,131
+592
+01:13:02,235 --> 01:13:04,203
 ¡Eso va contra la ley!
 
-615
-01:13:04,298 --> 01:13:06,050
+593
+01:13:04,403 --> 01:13:06,064
 Se lo devolverá.
 
-616
-01:13:06,217 --> 01:13:07,259
+594
+01:13:06,271 --> 01:13:07,398
 Se lo pagaré.
 
-617
-01:13:07,426 --> 01:13:08,469
+595
+01:13:07,606 --> 01:13:08,574
 Lléveselo.
 
-618
-01:13:08,636 --> 01:13:10,596
+596
+01:13:08,774 --> 01:13:10,571
 Estoy perfectamente.
 
-619
-01:13:10,804 --> 01:13:12,806
+597
+01:13:10,809 --> 01:13:12,903
 Deja la valla y ven conmigo.
 
-620
-01:13:12,973 --> 01:13:15,893
-¿Tengo que pegarte? ¡Deja la valla!
+598
+01:13:13,146 --> 01:13:15,979
+¿Tengo que pegarte?
+¡Deja la valla!
 
-621
-01:13:16,060 --> 01:13:18,729
+599
+01:13:16,216 --> 01:13:18,582
 ¡Toby! ¡Escúchame!
 
-622
-01:13:19,063 --> 01:13:20,481
+600
+01:13:18,786 --> 01:13:20,549
 Ven. Nos vamos.
 
-623
-01:13:20,898 --> 01:13:23,901
+601
+01:13:20,755 --> 01:13:23,884
 - ¡Quiero quedarme!
 - ¡Deja la valla! ¡Vamos!
 
-624
-01:13:42,127 --> 01:13:43,295
+602
+01:13:42,144 --> 01:13:43,340
 ¡Quietos!
 
-625
-01:13:48,259 --> 01:13:50,761
+603
+01:13:48,284 --> 01:13:50,752
 - ¿Adónde vamos?
 - ¿Adónde vamos?
 
-626
-01:13:50,928 --> 01:13:52,596
+604
+01:13:50,953 --> 01:13:52,443
 - ¿Adónde vamos?
 - Al coche.
 
-627
-01:13:52,763 --> 01:13:55,766
+605
+01:13:52,790 --> 01:13:55,758
 - ¿Adónde vamos?
 - Calladitos y adentro.
 
-628
-01:13:55,933 --> 01:13:57,560
+606
+01:13:56,160 --> 01:13:57,354
 Entra, Toby.
 
-629
-01:13:57,726 --> 01:13:59,353
+607
+01:13:57,929 --> 01:13:58,860
 Rápido.
 
-630
-01:14:01,814 --> 01:14:04,358
+608
+01:14:01,999 --> 01:14:04,467
 - ¡Papá necesita ayuda!
 - ¡El seguro!
 
-631
-01:14:04,525 --> 01:14:05,943
+609
+01:14:04,668 --> 01:14:06,000
 Papá necesita ayuda.
 
-632
-01:14:06,110 --> 01:14:09,613
-Silencio. Pongan el seguro. Cierren las ventanas.
+610
+01:14:06,204 --> 01:14:08,138
+Silencio.
+Pongan el seguro.
 
-633
-01:14:09,780 --> 01:14:12,449
+611
+01:14:08,339 --> 01:14:09,671
+Cierren las ventanas.
+
+612
+01:14:09,942 --> 01:14:12,432
 ¡Papá necesita ayuda!
 
-634
-01:14:12,658 --> 01:14:14,159
+613
+01:14:12,710 --> 01:14:14,269
 Cariño, ¿adónde vas?
 
-635
-01:14:14,326 --> 01:14:16,579
+614
+01:14:14,512 --> 01:14:16,377
 - ¿Qué?
 - ¿Adónde vas?
 
-636
-01:14:17,037 --> 01:14:19,623
-Llevo los niños a casa de mi hermana.
+615
+01:14:17,216 --> 01:14:19,616
+Llevo los niños a mi hermana.
 
-637
-01:14:20,874 --> 01:14:22,668
+616
+01:14:21,053 --> 01:14:23,282
 Qué locura, no estás vestida.
 
-638
-01:14:24,253 --> 01:14:25,546
+617
+01:14:24,390 --> 01:14:25,482
 ¿Cómo?
 
-639
-01:14:25,713 --> 01:14:27,548
+618
+01:14:25,858 --> 01:14:27,292
 ¿Qué has dicho?
 
-640
-01:14:32,219 --> 01:14:33,929
+619
+01:14:32,233 --> 01:14:33,893
 ¡Ronnie, espera!
 
-641
-01:14:34,138 --> 01:14:36,265
+620
+01:14:34,167 --> 01:14:36,157
 Ronnie, para.
 
-642
-01:14:36,432 --> 01:14:39,101
+621
+01:14:37,671 --> 01:14:39,070
 ¡Para un momento!
 
-643
-01:15:06,337 --> 01:15:07,379
+622
+01:15:06,502 --> 01:15:07,367
 Hola.
 
-644
-01:15:46,710 --> 01:15:50,214
+623
+01:15:46,913 --> 01:15:50,077
 <i>¿Qué me pasa hoy?</i>
 
-645
-01:15:56,053 --> 01:15:57,304
+624
+01:15:56,156 --> 01:15:57,418
 <i>¿Quién es?</i>
 
-646
-01:15:57,471 --> 01:16:02,059
-<i>El cartero. Un paquete para Julie Anderson.</i>
+625
+01:15:57,792 --> 01:16:02,092
+<i>El cartero. Un paquete
+para Julie Anderson.</i>
 
-647
-01:16:04,978 --> 01:16:08,315
+626
+01:16:05,132 --> 01:16:08,158
 <i>¡Déjelo en la puerta!</i>
 
-648
-01:16:09,733 --> 01:16:14,029
-<i>No puedo hacerlo. Es contra reembolso.</i>
+627
+01:16:09,837 --> 01:16:14,171
+<i>No puedo hacerlo.
+Es contra reembolso.</i>
 
-649
-01:16:14,196 --> 01:16:15,989
+628
+01:16:14,409 --> 01:16:15,740
 <i>Además...</i>
 
-650
-01:16:16,573 --> 01:16:19,243
-<i>...usted y yo tenemos que hablar...</i>
+629
+01:16:16,744 --> 01:16:19,144
+<i>...Ud. y yo tenemos
+que hablar...</i>
 
-651
-01:16:19,993 --> 01:16:21,870
+630
+01:16:20,149 --> 01:16:21,740
 <i>...de Kim.</i>
 
-652
-01:16:41,181 --> 01:16:44,101
+631
+01:16:41,204 --> 01:16:44,174
 <i>Como arena en el reloj...</i>
 
-653
-01:16:44,268 --> 01:16:47,521
-...son Days of Our Lives.
+632
+01:16:44,375 --> 01:16:46,969
+<i>...son los Days of Our Lives.</i>
 
-654
-01:17:13,005 --> 01:17:16,967
-<i>Buenas noches. Ha habido un accidente ferroviario.</i>
+633
+01:16:49,280 --> 01:16:52,443
+<i>Ya viene el rey
+El número uno</i>
 
-655
-01:17:17,134 --> 01:17:19,052
+634
+01:16:53,818 --> 01:16:56,981
+<i>Cerveza Budweiser
+El rey es el mejor</i>
+
+635
+01:16:57,188 --> 01:17:00,521
+<i>Cuando dices Bud
+Llega el rey</i>
+
+636
+01:17:00,726 --> 01:17:02,318
+<i>Prestemos atención</i>
+
+637
+01:17:02,860 --> 01:17:04,852
+<i>Cuando dices Bud
+Ya lo has dicho todo</i>
+
+638
+01:17:05,063 --> 01:17:08,032
+<i>Cuando dices Bud
+Ya lo has dicho todo</i>
+
+639
+01:17:09,469 --> 01:17:11,334
+Budweiser
+EL REY DE LAS CERVEZAS
+
+640
+01:17:13,138 --> 01:17:16,905
+<i>Buenas noches. Ha habido
+un accidente ferroviario.</i>
+
+641
+01:17:17,143 --> 01:17:19,009
 <i>En Devil's Tower, Wyoming...</i>
 
-656
-01:17:19,219 --> 01:17:22,639
-<i>...ha descarrilado un tren cargado de gas...</i>
+642
+01:17:19,213 --> 01:17:22,649
+<i>...ha descarrilado
+un tren cargado de gas...</i>
 
-657
-01:17:22,806 --> 01:17:25,476
+643
+01:17:22,883 --> 01:17:25,545
 <i>...forzando la mayor evacuación...</i>
 
-658
-01:17:25,642 --> 01:17:28,937
-...en <i>la historia de este polémico transporte.</i>
+644
+01:17:25,753 --> 01:17:28,985
+<i>...en la historia de
+este polémico transporte.</i>
 
-659
-01:17:29,104 --> 01:17:32,566
-Cuando quieras. Mañana está bien.
+645
+01:17:29,189 --> 01:17:32,522
+Cuando quieras.
+Mañana está bien.
 
-660
-01:17:32,733 --> 01:17:34,067
-<i>...al público por tres semanas.</i>
+646
+01:17:34,496 --> 01:17:36,589
+Puedo hacer otras cosas.
 
-661
-01:17:34,234 --> 01:17:36,904
-<i>- Puedo 'nacer otras cosas.
-- ...para renovar el parque nacional.</i>
+647
+01:17:37,332 --> 01:17:39,562
+Ya intento serlo.
 
-662
-01:17:37,154 --> 01:17:40,699
-<i>- Ya intento serlo.
-- Y nos informa Charles McDonald.</i>
-
-663
-01:17:40,866 --> 01:17:41,950
+648
+01:17:41,037 --> 01:17:41,935
 Sí, lo soy.
 
-664
-01:17:42,159 --> 01:17:45,245
-<i>El Ejército supervisa la evacuación.</i>
+649
+01:17:42,204 --> 01:17:45,105
+<i>El Ejército supervisa
+la evacuación.</i>
 
-665
-01:17:45,412 --> 01:17:49,917
-Soy un adulto, ¿de acuerdo? Aunque eso no exista.
+650
+01:17:45,573 --> 01:17:50,011
+Soy un adulto, ¿de acuerdo?
+Aunque eso no exista.
 
-666
-01:17:50,083 --> 01:17:51,835
-¡Era una broma!
+651
+01:17:50,213 --> 01:17:51,839
+¡Es una broma!
 
-667
-01:17:52,002 --> 01:17:55,088
-<i>...el peligro pasará en 72 horas.</i>
+652
+01:17:52,048 --> 01:17:54,846
+<i>...el peligro pasará
+en 72 horas.</i>
 
-668
-01:17:55,255 --> 01:17:58,258
+653
+01:17:55,451 --> 01:17:58,250
 Ronnie, lo que tú quieras.
 
-669
-01:17:58,425 --> 01:18:01,303
+654
+01:17:58,588 --> 01:18:01,216
 Yo haré lo que tú quieras.
 
-670
-01:18:04,014 --> 01:18:05,891
+655
+01:18:04,228 --> 01:18:05,695
 ¿Cuánto tiempo?
 
-671
-01:18:07,809 --> 01:18:09,561
-MARCADOR HISTÓRICO
+656
+01:18:11,703 --> 01:18:13,295
+¿Todos ustedes?
 
-672
-01:18:10,687 --> 01:18:14,358
-<i>- Una vez que el nivel tóxico baje...
-- ¿Todos ustedes?</i>
+657
+01:18:14,639 --> 01:18:19,201
+No. Ronnie, quiero que
+lo hablemos personalmente.
 
-673
-01:18:14,525 --> 01:18:19,905
-No. Ronnie, quiero que lo hablemos personalmente.
+658
+01:18:20,279 --> 01:18:23,806
+Esto... No podemos
+hablarlo por teléfono.
 
-674
-01:18:20,072 --> 01:18:24,826
-Esto... No podemos hablarlo por teléfono.
+659
+01:18:25,250 --> 01:18:29,311
+¡Ronnie! ¡No cuelgues!
+¡No me...!
 
-675
-01:18:24,993 --> 01:18:27,913
-¡Ronnie! ¡No cuelgues! ¡No me...!
+660
+01:18:34,394 --> 01:18:37,521
+<i>Devil's Tower fue
+el primer monumento...</i>
 
-676
-01:18:28,080 --> 01:18:34,044
-...la <i>carne no debería ser afectada.
-Así que ordene su carne bien hecha.</i>
+661
+01:18:37,731 --> 01:18:41,497
+<i>...erigido en el país
+por Roosevelt en 1915.</i>
 
-677
-01:18:34,211 --> 01:18:37,172
-<i>Devil's Tower fue el primer monumento...</i>
+662
+01:18:41,768 --> 01:18:45,226
+<i>Miles de civiles huyen
+de ahí ante los rumores...</i>
 
-678
-01:18:37,339 --> 01:18:41,510
-<i>...erigido en el país por Roosevelt en 1915.</i>
+663
+01:18:45,439 --> 01:18:48,897
+<i>...de que los tanques
+descarrilados...</i>
 
-679
-01:18:41,718 --> 01:18:45,264
-<i>Miles de civiles huyen de ahí ante los rumores...</i>
+664
+01:18:49,144 --> 01:18:53,604
+<i>...en Walkashi estaban
+llenos de gas paralizante.</i>
 
-680
-01:18:45,430 --> 01:18:48,892
-<i>...de que los tanques descarrilados...</i>
+665
+01:18:59,354 --> 01:19:02,346
+<i>Afortunadamente,
+no hay víctimas.</i>
 
-681
-01:18:49,101 --> 01:18:53,647
-<i>...en Walkashi estaban llenos de gas paralizante.</i>
-
-682
-01:18:53,814 --> 01:18:55,482
-<i>En unos minutos, estaremos...</i>
-
-683
-01:18:55,649 --> 01:18:58,986
-<i>...sube a 400000 vacacionados.</i>
-
-684
-01:18:59,152 --> 01:19:02,114
-<i>Afortunadamente, no hay víctimas.</i>
-
-685
-01:19:02,364 --> 01:19:04,866
+666
+01:19:02,591 --> 01:19:04,821
 <i>...esa región se convertirá...</i>
 
-686
-01:19:05,075 --> 01:19:08,579
-<i>...en una «zona caliente», dependiendo del viento.</i>
+667
+01:19:05,093 --> 01:19:08,756
+<i>...en una "zona caliente",
+dependiendo del viento.</i>
 
-687
-01:19:08,745 --> 01:19:12,791
-<i>No nos han permitido acercarnos más al desastre...</i>
+668
+01:19:08,997 --> 01:19:12,763
+<i>No nos han permitido
+acercarnos más al desastre...</i>
 
-688
-01:19:13,000 --> 01:19:15,752
-<i>...debido al viento norteño dominante.</i>
+669
+01:19:13,034 --> 01:19:15,662
+<i>...debido al viento
+norteño dominante.</i>
 
-689
-01:19:15,919 --> 01:19:18,755
-<i>Los ingenieros y la Guardia Nacional...</i>
+670
+01:19:15,871 --> 01:19:18,670
+<i>Los ingenieros y
+la Guardia Nacional...</i>
 
-690
-01:19:18,922 --> 01:19:22,426
-<i>...se esfuerzan en contener las toxinas...</i>
+671
+01:19:18,875 --> 01:19:22,436
+<i>...se esfuerzan en
+contener las toxinas...</i>
 
-691
-01:19:22,634 --> 01:19:25,887
-<i>...y en evacuar esos 350 kilómetros cuadrados.</i>
+672
+01:19:22,645 --> 01:19:25,775
+<i>...y en evacuar esos
+350 Km. cuadrados.</i>
 
-692
-01:19:26,054 --> 01:19:29,433
-<i>Todos han sido avisados: Abandonen la zona.</i>
+673
+01:19:25,983 --> 01:19:29,351
+<i>Todos han sido avisados:
+Abandonen la zona.</i>
 
-693
-01:19:29,600 --> 01:19:32,477
-<i>Por favor, evacuen todos la zona.</i>
+674
+01:19:29,653 --> 01:19:32,452
+<i>Por favor,
+evacuen todos la zona.</i>
 
-694
-01:19:32,686 --> 01:19:34,980
+675
+01:19:32,823 --> 01:19:34,849
 <i>...miles de ellos sin hogar.</i>
 
-695
-01:19:35,147 --> 01:19:39,484
-<i>El ejército ha dictado las siguientes restricciones:</i>
+676
+01:19:35,059 --> 01:19:39,497
+<i>El ejército ha dictado
+las siguientes restricciones:</i>
 
-696
-01:19:39,651 --> 01:19:41,903
-<i>Todas las rutas de Crowheart sobre la 25.</i>
+677
+01:19:39,731 --> 01:19:43,133
+<i>Todas las rutas de Crowheart
+sobre la 25.</i>
 
-697
-01:19:42,070 --> 01:19:43,196
-Mierda.
+678
+01:19:43,334 --> 01:19:46,702
+<i>Las de Grand Tetons,
+al oeste de Meteste.</i>
 
-698
-01:19:43,363 --> 01:19:46,825
-<i>Las de Grand Tetons, al oeste de Meeteeste.</i>
+679
+01:19:46,906 --> 01:19:49,840
+<i>Y todas las carreteras
+nacionales...</i>
 
-699
-01:19:46,992 --> 01:19:49,953
-<i>Y todas las carreteras nacionales...</i>
+680
+01:19:50,042 --> 01:19:54,001
+<i>...regionales, locales e
+históricas al sur de Cody.</i>
 
-700
-01:19:50,120 --> 01:19:54,041
-<i>...regionales, locales e históricas al sur de Cody.</i>
+681
+01:20:04,325 --> 01:20:07,226
+¿Por qué no hay
+líneas gruesas aquí?
 
-701
-01:20:04,301 --> 01:20:07,387
-¿Por qué no hay líneas gruesas aquí?
+682
+01:20:11,732 --> 01:20:13,666
+¡Va en dirección contraria!
 
-702
-01:20:11,725 --> 01:20:13,644
-- Santos cielos.
-- ¡Va en dirección contraria!
+683
+01:20:15,703 --> 01:20:18,935
+Dé la vuelta.
+Vuelva hacia atrás.
 
-703
-01:20:14,436 --> 01:20:19,274
-Dé la vuelta. Vuelva hacia atrás.
+684
+01:20:19,607 --> 01:20:21,098
+¿Pero qué le pasa?
 
-704
-01:20:19,441 --> 01:20:21,151
-¿Qué le pasa?
-
-705
-01:20:21,401 --> 01:20:22,986
+685
+01:20:21,409 --> 01:20:23,001
 Sí, señor. Lo siento.
 
-706
-01:20:23,195 --> 01:20:26,031
-Es un coche de alquiler.
+686
+01:20:23,212 --> 01:20:26,045
+Es un auto de alquiler.
 
-707
-01:20:26,865 --> 01:20:28,200
+687
+01:20:26,849 --> 01:20:28,180
 ¡Es culpa mía!
 
-708
-01:20:28,408 --> 01:20:30,702
-<i>Desde la «F» de «Frank»...</i>
+688
+01:20:28,418 --> 01:20:30,716
+<i>Desde la "F" de "Frank"...</i>
 
-709
-01:20:30,952 --> 01:20:33,121
-<i>...hasta la «J» de «Jack»...</i>
+689
+01:20:31,019 --> 01:20:33,112
+<i>...hasta la "J" de "Jack"...</i>
 
-710
-01:20:33,330 --> 01:20:38,168
-<i>...vayan al andén para su embarque inmediato.</i>
+690
+01:20:33,355 --> 01:20:37,725
+<i>...vayan al andén para
+su embarque inmediato.</i>
 
-711
-01:20:41,338 --> 01:20:43,715
+691
+01:20:41,364 --> 01:20:43,696
 Se arrepentirán...
 
-712
-01:20:43,882 --> 01:20:48,387
-...si no llevan un pájaro o una máscara antigás.
+692
+01:20:43,900 --> 01:20:48,395
+...si no llevan un pájaro
+o una máscara antigás.
 
-713
-01:20:48,553 --> 01:20:50,847
+693
+01:20:48,606 --> 01:20:50,733
 Incluso el perro tiene una.
 
-714
-01:20:51,014 --> 01:20:53,642
-Y ustedes valen más que un perro.
+694
+01:20:50,975 --> 01:20:53,603
+Y Uds. valen más que un perro.
 
-715
-01:21:25,215 --> 01:21:26,716
+695
+01:21:25,312 --> 01:21:26,836
 ¡Roy!
 
-716
-01:21:32,556 --> 01:21:35,684
-- ¡Roy!
-- Ven aquí arriba.
+696
+01:21:38,660 --> 01:21:41,653
+¡Bien, pero quédese
+detrás de la valla!
 
-717
-01:21:38,645 --> 01:21:42,607
-¡Bien, pero quédese detrás de la valla!
+697
+01:22:08,526 --> 01:22:09,549
+¿Por qué aquí?
 
-718
-01:21:42,816 --> 01:21:45,026
-¡No hay salida!
+698
+01:22:09,793 --> 01:22:13,161
+Iremos a través del campo.
+Rompiendo vallas.
 
-719
-01:22:08,341 --> 01:22:09,342
-¿Qué estamos haciendo?
-
-720
-01:22:09,509 --> 01:22:12,971
-Iremos a través del campo. Rompiendo vallas.
-
-721
-01:22:13,138 --> 01:22:15,223
+699
+01:22:13,364 --> 01:22:15,194
 - Vamos.
-- Vale, agárrate.
+- Bien, agárrate.
 
-722
-01:22:30,405 --> 01:22:31,698
-¡Cuidado!
-
-723
-01:22:39,206 --> 01:22:41,625
+700
+01:22:39,325 --> 01:22:41,657
 La policía lo buscó en el río.
 
-724
-01:22:41,791 --> 01:22:44,794
-Yo ya les dije que no estaba ahí.
+701
+01:22:41,862 --> 01:22:44,831
+Yo ya les dije
+que no estaba ahí.
 
-725
-01:22:45,003 --> 01:22:50,008
+702
+01:22:45,031 --> 01:22:49,731
 Entonces registraron cada casa
-en ocho kilómetros a la redonda...
+en 8 Km. a la redonda...
 
-726
-01:22:50,675 --> 01:22:55,180
-...mirando incluso en las neveras.
+703
+01:22:50,703 --> 01:22:54,766
+...mirando incluso
+en las neveras.
 
-727
-01:22:56,181 --> 01:22:58,099
+704
+01:22:55,876 --> 01:22:58,208
 CARRETERA CERRADA
 
-728
-01:22:58,683 --> 01:23:02,395
-Preguntaron si había visto a algún extraño.
+705
+01:22:58,847 --> 01:23:02,214
+Preguntaron si había visto
+a algún extraño.
 
-729
-01:24:10,255 --> 01:24:12,882
+706
+01:24:10,323 --> 01:24:12,588
 No puedo creer que exista.
 
-730
-01:24:14,676 --> 01:24:17,137
+707
+01:24:14,695 --> 01:24:16,754
 ¡No puedo creer que exista!
 
-731
-01:24:17,971 --> 01:24:19,723
+708
+01:24:17,998 --> 01:24:19,465
 Es real.
 
-732
-01:24:25,979 --> 01:24:29,316
-Vamos para allá. Necesitaremos gasolina.
+709
+01:24:26,041 --> 01:24:29,306
+Vamos para allá.
+Necesitaremos gasolina.
 
-733
-01:24:32,402 --> 01:24:33,570
+710
+01:24:32,547 --> 01:24:33,537
 ¿Qué es eso?
 
-734
-01:24:33,778 --> 01:24:34,821
-CARRETERA CERRADA
+711
+01:24:58,042 --> 01:25:02,171
+Te lo aseguro, todo
+esto es una comedia.
 
-735
-01:24:57,802 --> 01:25:02,349
-Te lo aseguro, todo esto es una comedia.
-
-736
-01:25:37,842 --> 01:25:39,094
-¡Rayos!
-
-737
-01:25:47,060 --> 01:25:48,812
-- Esto es por nuestra seguridad.
-- Está bien.
-
-738
-01:25:48,978 --> 01:25:51,398
+712
+01:25:49,096 --> 01:25:51,428
 ¿Qué quieren? ¡Suélteme!
 
-739
-01:25:53,566 --> 01:25:56,444
+713
+01:25:53,702 --> 01:25:56,102
 - ¿Cómo se encuentra?
 - ¡Muy bien!
 
-740
-01:25:56,695 --> 01:26:00,156
-Según mis pájaros, el único gas son los pedos.
+714
+01:25:56,804 --> 01:26:00,138
+Según mis pájaros,
+el único gas son los pedos.
 
-741
-01:26:11,126 --> 01:26:12,961
+715
+01:26:11,322 --> 01:26:13,221
 - ¡Llévenselos!
 - ¿Qué ocurre?
 
-742
-01:26:13,128 --> 01:26:15,630
-- ¿Adónde vamos?
-- Ve a la camioneta.
+716
+01:26:13,423 --> 01:26:15,221
+¿Adónde vamos?
 
-743
-01:26:15,797 --> 01:26:17,132
+717
+01:26:15,892 --> 01:26:17,292
 ¿Dónde la llevan?
 
-744
-01:26:17,298 --> 01:26:19,259
-¡Esperen! ¿No vamos juntos?
+718
+01:26:17,493 --> 01:26:19,724
+¡Esperen!
+¿No vamos juntos?
 
-745
-01:26:19,676 --> 01:26:20,760
+719
+01:26:19,931 --> 01:26:20,760
 Cuidado.
 
-746
-01:26:38,862 --> 01:26:42,115
-Señor Neary, tenemos poco tiempo. El señor Lacombe.
+720
+01:26:39,085 --> 01:26:42,953
+Sr. Neary, tenemos poco
+tiempo. El Sr. Lacombe.
 
-747
-01:26:42,282 --> 01:26:44,492
-- Hola.
-- Necesitamos respuestas...
+721
+01:26:43,189 --> 01:26:46,785
+Conteste honradamente
+y de manera concreta.
 
-748
-01:26:44,659 --> 01:26:46,828
-que sean honestas, y de manera concreta.
-
-749
-01:26:46,995 --> 01:26:48,121
+722
+01:26:46,994 --> 01:26:48,120
 ¿Dónde está Jillian?
 
-750
-01:26:50,290 --> 01:26:53,501
-¿Se dan cuenta del peligro que corren?
+723
+01:26:50,429 --> 01:26:53,524
+¿Se dan cuenta
+del peligro que corren?
 
-751
-01:26:54,502 --> 01:26:57,714
-Viniendo aquí se exponen al gas tóxico.
+724
+01:26:54,601 --> 01:26:57,866
+Viniendo aquí
+se exponen al gas tóxico.
 
-752
-01:26:57,881 --> 01:26:59,758
+725
+01:26:58,138 --> 01:26:59,663
 Pues estoy vivo.
 
-753
-01:26:59,924 --> 01:27:01,801
+726
+01:26:59,874 --> 01:27:01,273
 Y hablamos.
 
-754
-01:27:02,260 --> 01:27:04,471
-Eso es cierto, señor Neary.
+727
+01:27:02,309 --> 01:27:04,335
+Eso es cierto, Sr. Neary.
 
-755
-01:27:05,096 --> 01:27:08,600
-Pero de haber soplado el viento del sur...
+728
+01:27:05,213 --> 01:27:08,614
+Pero de haber soplado
+el viento del sur...
 
-756
-01:27:10,059 --> 01:27:12,187
-...ahora no estaríamos hablando.
+729
+01:27:10,019 --> 01:27:12,214
+...ahora no estaríamos
+hablando.
 
-757
-01:27:12,395 --> 01:27:14,522
+730
+01:27:12,454 --> 01:27:14,319
 Al aire no le pasa nada.
 
-758
-01:27:15,648 --> 01:27:17,400
+731
+01:27:15,823 --> 01:27:17,382
 ¿Por qué dice eso?
 
-759
-01:27:17,567 --> 01:27:20,153
+732
+01:27:17,660 --> 01:27:19,890
 Lo sé. No le pasa nada.
 
-760
-01:27:20,320 --> 01:27:22,906
+733
+01:27:20,462 --> 01:27:22,657
 Salga y llámeme mentiroso.
 
-761
-01:27:26,701 --> 01:27:29,329
+734
+01:27:26,870 --> 01:27:29,304
 Quiero hablar con el jefe.
 
-762
-01:27:29,496 --> 01:27:31,956
+735
+01:27:29,539 --> 01:27:31,871
 Él es la máxima autoridad.
 
-763
-01:27:32,123 --> 01:27:34,083
-Ni siquiera es estadounidense.
+736
+01:27:32,242 --> 01:27:34,072
+Ni siquiera es norteamericano.
 
-764
-01:27:36,336 --> 01:27:39,714
-Señor Neary, ¿es usted artista o pintor?
+737
+01:27:36,479 --> 01:27:39,415
+Sr. Neary, ¿es Ud.
+artista o pintor?
 
-765
-01:27:40,548 --> 01:27:41,633
+738
+01:27:40,717 --> 01:27:41,650
 No.
 
-766
-01:27:45,136 --> 01:27:48,306
+739
+01:27:45,256 --> 01:27:48,351
 ¿Ha oído un sonido persistente?
 
-767
-01:27:48,473 --> 01:27:50,308
+740
+01:27:48,560 --> 01:27:50,391
 ¿Casi una suave melodía?
 
-768
-01:27:50,475 --> 01:27:51,976
+741
+01:27:50,595 --> 01:27:51,653
 No.
 
-769
-01:27:53,019 --> 01:27:55,522
+742
+01:27:53,065 --> 01:27:55,225
 ¿Dolor de cabeza, jaqueca?
 
-770
-01:27:55,688 --> 01:27:57,148
+743
+01:27:55,734 --> 01:27:56,827
 Sí.
 
-771
-01:27:58,024 --> 01:28:00,026
+744
+01:27:58,071 --> 01:28:00,095
 ¿Ojos irritados, sinusitis?
 
-772
-01:28:00,193 --> 01:28:01,444
+745
+01:28:00,373 --> 01:28:01,532
 Sí.
 
-773
-01:28:02,612 --> 01:28:06,115
+746
+01:28:02,608 --> 01:28:05,838
 ¿Tiene sarpullidos, alergias?
 
-774
-01:28:07,826 --> 01:28:09,953
+747
+01:28:07,914 --> 01:28:10,178
 ¿Quemaduras en cara y cuerpo?
 
-775
-01:28:10,119 --> 01:28:12,956
-- Sí. ¿Quiénes son ustedes?
+748
+01:28:10,384 --> 01:28:12,944
+- Sí. ¿Quiénes son Uds.?
 - Mire esto.
 
-776
-01:28:13,122 --> 01:28:16,209
-Tengo uno igual. ¿Quiénes son ustedes?
+749
+01:28:13,220 --> 01:28:16,246
+Tengo uno igual.
+¿Quiénes son Uds.?
 
-777
-01:28:21,965 --> 01:28:24,884
+750
+01:28:22,096 --> 01:28:24,588
 Monsieur Neary, otra pregunta.
 
-778
-01:28:26,219 --> 01:28:28,888
-¿Tuvo recientemente un encuentro?
+751
+01:28:26,368 --> 01:28:28,963
+¿Tuvo recientemente
+un encuentro?
 
-779
-01:28:30,181 --> 01:28:33,393
-¿Un encuentro muy poco habitual?
+752
+01:28:30,106 --> 01:28:33,200
+¿Un encuentro
+muy poco habitual?
 
-780
-01:28:35,937 --> 01:28:38,064
+753
+01:28:36,144 --> 01:28:38,114
 ¿Quiénes son ustedes?
 
-781
-01:28:44,654 --> 01:28:47,031
-¿Estas personas le son desconocidas?
+754
+01:28:44,787 --> 01:28:48,780
+- ¿Estas personas le son desconocidas?
+- Sí. Excepto ella.
 
-782
-01:28:47,198 --> 01:28:49,117
-Sí. Excepto ella.
+755
+01:28:50,961 --> 01:28:53,794
+¿Los dos tuvieron
+el impulso de venir?
 
-783
-01:28:50,785 --> 01:28:54,122
-¿Los dos tuvieron el impulso de venir?
-
-784
-01:28:54,831 --> 01:28:56,916
+756
+01:28:54,965 --> 01:28:56,830
 Sí, puede decirse así.
 
-785
-01:28:57,208 --> 01:29:00,795
+757
+01:28:57,299 --> 01:29:00,565
 - ¿Y qué esperaban encontrar?
 - Una respuesta.
 
-786
-01:29:02,130 --> 01:29:04,340
+758
+01:29:02,239 --> 01:29:04,140
 No es una locura, ¿verdad?
 
-787
-01:29:20,231 --> 01:29:23,318
+759
+01:29:20,359 --> 01:29:23,351
 Esperen, esperen.
 
-788
-01:29:23,484 --> 01:29:25,111
+760
+01:29:23,629 --> 01:29:24,823
 ¿Eso es todo?
 
-789
-01:29:25,695 --> 01:29:28,281
-¿No va a preguntarme nada más?
+761
+01:29:25,799 --> 01:29:28,267
+¿No va a preguntarme
+nada más?
 
-790
-01:29:28,990 --> 01:29:31,576
+762
+01:29:29,135 --> 01:29:31,625
 Pues yo tengo mil preguntas.
 
-791
-01:29:31,743 --> 01:29:36,122
-Quiero hablar con un jefe. Y hacer un reclamo.
+763
+01:29:31,838 --> 01:29:36,036
+Quiero hablar con un jefe.
+Y hacer un reclamo.
 
-792
-01:29:36,289 --> 01:29:38,625
-No tienen derecho a hacer esto.
+764
+01:29:36,444 --> 01:29:38,707
+No tienen derecho
+a hacer esto.
 
-793
-01:29:38,791 --> 01:29:42,962
+765
+01:29:38,945 --> 01:29:43,143
 ¿Creen que yo investigo
-cada noticia de la televisión?
+cada noticia de la tele?
 
-794
-01:29:43,504 --> 01:29:47,050
-Si eso es gas, ¿cómo sabría tantos detalles?
+766
+01:29:43,551 --> 01:29:47,215
+Si eso es gas, ¿cómo
+sabría tantos detalles?
 
-795
-01:29:47,216 --> 01:29:49,385
+767
+01:29:47,456 --> 01:29:49,218
 Nunca antes estuve aquí.
 
-796
-01:29:49,969 --> 01:29:52,013
+768
+01:29:50,191 --> 01:29:52,056
 ¿Cómo es que sé tanto?
 
-797
-01:29:52,180 --> 01:29:54,182
+769
+01:29:52,394 --> 01:29:54,294
 ¿Qué está pasando aquí?
 
-798
-01:29:54,349 --> 01:29:56,768
+770
+01:29:54,497 --> 01:29:56,555
 ¿Quiénes son ustedes?
 
-799
-01:30:21,334 --> 01:30:23,711
+771
+01:30:21,390 --> 01:30:23,484
 ¿Qué pasa? ¡Respondan!
 
-800
-01:30:24,170 --> 01:30:27,882
-¡No he venido para que me manden a casa!
+772
+01:30:24,228 --> 01:30:27,665
+¡No he venido para
+que me manden a casa!
 
-801
-01:30:50,154 --> 01:30:52,573
+773
+01:30:50,223 --> 01:30:52,281
 Cinco minutos. ¡Cinco!
 
-802
-01:30:52,865 --> 01:30:55,284
+774
+01:30:52,958 --> 01:30:55,189
 Esperaremos unos minutos.
 
-803
-01:31:29,068 --> 01:31:32,572
-Trae 12 personas a descontaminar, en vez...
+775
+01:31:29,165 --> 01:31:32,464
+Trae 12 personas a
+descontaminar, en vez...
 
-804
-01:31:32,739 --> 01:31:37,243
-...de llevarlas al centro de evacuación. ¿Por qué?
+776
+01:31:32,668 --> 01:31:37,106
+...de llevarlas al centro
+de evacuación. ¿Por qué?
 
-805
-01:31:37,410 --> 01:31:40,663
+777
+01:31:37,307 --> 01:31:40,141
 - Porque significa algo.
 - Significa algo.
 
-806
-01:31:42,040 --> 01:31:45,626
-Esas personas han venido de todo el país...
+778
+01:31:42,012 --> 01:31:45,277
+Esas personas han venido
+de todo el país...
 
-807
-01:31:47,003 --> 01:31:50,506
-...a pesar de saber que corrían peligro.
+779
+01:31:47,085 --> 01:31:50,451
+...a pesar de saber
+que corrían peligro.
 
-808
-01:31:50,673 --> 01:31:51,758
-- ¿Por qué?
-- ¿Por qué?
+780
+01:31:50,654 --> 01:31:51,780
+¿Por qué?
 
-809
-01:31:51,966 --> 01:31:55,678
-Porque alguien quiere que fracase esta operación...
+781
+01:31:52,023 --> 01:31:55,754
+Porque alguien quiere
+que fracase esta operación...
 
-810
-01:31:55,928 --> 01:31:59,432
-...enviando fanáticos y gente así.
+782
+01:31:55,995 --> 01:31:59,452
+...enviando fanáticos
+y gentes así.
 
-811
-01:32:07,065 --> 01:32:09,984
+783
+01:32:07,039 --> 01:32:09,507
 Se trata de un pequeño grupo...
 
-812
-01:32:11,069 --> 01:32:14,739
-...que tuvo a la vez la misma visión.
+784
+01:32:11,010 --> 01:32:14,173
+...que tuvo a la vez
+la misma visión.
 
-813
-01:32:14,906 --> 01:32:15,907
+785
+01:32:14,848 --> 01:32:16,008
 Mire.
 
-814
-01:32:19,202 --> 01:32:22,205
-Es un misterio el por qué están aquí.
+786
+01:32:19,186 --> 01:32:22,212
+Es un misterio
+el porqué están aquí.
 
-815
-01:32:22,413 --> 01:32:24,457
+787
+01:32:22,522 --> 01:32:24,514
 No lo saben ni ellos.
 
-816
-01:32:43,142 --> 01:32:44,769
-¡Jillian!
+788
+01:32:46,749 --> 01:32:47,908
+¡Se intoxicará!
 
-817
-01:32:45,895 --> 01:32:48,064
-- Jillian.
-- ¡Se intoxicará!
+789
+01:32:48,384 --> 01:32:51,581
+Al aire de aquí
+no le pasa nada.
 
-818
-01:32:48,231 --> 01:32:51,776
-Al aire de aquí no le pasa nada.
+790
+01:32:51,821 --> 01:32:55,848
+Nos sacan de aquí
+para que no haya testigos.
 
-819
-01:32:51,943 --> 01:32:55,780
-Nos sacan de aquí para que no haya testigos.
-
-820
-01:32:56,447 --> 01:32:59,784
+791
+01:32:56,493 --> 01:32:59,860
 Eso no es asunto nuestro.
 
-821
-01:32:59,992 --> 01:33:03,579
-Queríamos ver la montaña. Pintarla fue casual.
+792
+01:33:00,097 --> 01:33:03,588
+Queríamos ver la montaña.
+Pintarla fue casual.
 
-822
-01:33:03,788 --> 01:33:05,498
+793
+01:33:03,867 --> 01:33:05,426
 ¡Pueden quitársela!
 
-823
-01:33:05,665 --> 01:33:09,210
-Es mejor que el aire de Los Ángeles.
+794
+01:33:05,669 --> 01:33:08,435
+Es mejor que el aire
+de Los Ángeles.
 
-824
-01:33:09,377 --> 01:33:13,172
-¿Cuántos de ustedes quieren salir de aquí?
+795
+01:33:09,440 --> 01:33:13,207
+¿Cuántos de ustedes
+quieren salir de aquí?
 
-825
-01:33:18,719 --> 01:33:22,682
-Yo tampoco sé qué pasa. Quisiera averiguarlo.
+796
+01:33:18,783 --> 01:33:22,242
+Yo tampoco sé qué pasa.
+Quisiera averiguarlo.
 
-826
-01:33:27,019 --> 01:33:32,024
+797
+01:33:27,026 --> 01:33:31,725
 Por cada persona angustiada
 que ha llegado hasta aquí...
 
-827
-01:33:34,235 --> 01:33:39,323
+798
+01:33:34,233 --> 01:33:38,967
 ...habrá cientos con la misma
 visión que no han venido.
 
-828
-01:33:39,991 --> 01:33:43,077
+799
+01:33:39,972 --> 01:33:42,908
 Porque no ven la televisión.
 
-829
-01:33:44,495 --> 01:33:47,832
-O la han visto y no lo han relacionado.
+800
+01:33:44,611 --> 01:33:47,910
+O la han visto y
+no lo han relacionado.
 
-830
-01:33:48,040 --> 01:33:51,878
-Es una coincidencia. No es científico.
+801
+01:33:48,116 --> 01:33:51,949
+Es una coincidencia.
+No es científico.
 
-831
-01:33:54,380 --> 01:33:56,257
-Créame, mayor Walsh...
+802
+01:33:54,389 --> 01:33:56,324
+Créame, Mayor Walsh, es...
 
-832
-01:33:56,424 --> 01:33:59,302
-...es un acontecimiento sociológico.
+803
+01:33:56,558 --> 01:33:59,118
+...un acontecimiento sociológico.
 
-833
-01:34:17,820 --> 01:34:20,031
-¡Oye! ¡Esperen!
+804
+01:34:18,749 --> 01:34:20,148
+¡Esperen!
 
-834
-01:34:36,047 --> 01:34:37,882
+805
+01:34:36,134 --> 01:34:38,194
 - ¡Me llamo Neary!
 - ¡Larry Butler!
 
-835
-01:34:38,049 --> 01:34:40,009
+806
+01:34:38,437 --> 01:34:40,132
 - ¿Cómo está?
-- Muy bien, ¿y usted?
+- Muy bien, ¿y Ud.?
 
-836
-01:34:40,176 --> 01:34:42,094
+807
+01:34:40,339 --> 01:34:42,171
 - ¡Bien, bien!
 - ¡Estupendo!
 
-837
-01:34:42,595 --> 01:34:47,099
+808
+01:34:42,775 --> 01:34:47,269
 Mantengan las máscaras hasta
 que estén fuera de peligro.
 
-838
-01:34:47,266 --> 01:34:51,437
-¡Queremos irnos de aquí! ¿Qué diablos le pasa?
+809
+01:34:47,479 --> 01:34:51,678
+¡Queremos irnos de aquí!
+¿Qué diablos le pasa?
 
-839
-01:35:10,331 --> 01:35:12,875
-Estarán fuera de la montaña en una hora.
+810
+01:35:09,704 --> 01:35:13,002
+Estarán fuera de
+la montaña en una hora.
 
-840
-01:35:13,042 --> 01:35:15,795
-<i>Utilice el infrarrojo y hágame...</i>
+811
+01:35:13,240 --> 01:35:15,970
+<i>Utilice el infrarrojo
+y hágame...</i>
 
-841
-01:35:15,962 --> 01:35:18,589
-<i>...un foto análisis de la cara norte.</i>
+812
+01:35:16,177 --> 01:35:18,703
+<i>...un foto-análisis
+de la cara norte.</i>
 
-842
-01:35:18,756 --> 01:35:20,883
+813
+01:35:18,914 --> 01:35:20,973
 Sí, señor, está pedido.
 
-843
-01:35:21,050 --> 01:35:23,135
-<i>Oiga, mayor Walsh...</i>
+814
+01:35:21,216 --> 01:35:23,241
+<i>Oiga, Mayor Walsh...</i>
 
-844
-01:35:23,302 --> 01:35:26,973
-<i>...odio hacer esto. Ya tengo bastantes problemas.</i>
+815
+01:35:23,485 --> 01:35:27,012
+<i>...odio hacer esto.
+Ya tengo bastantes problemas.</i>
 
-845
-01:35:27,139 --> 01:35:30,851
-<i>Pero si a las ocho de la noche
+816
+01:35:27,255 --> 01:35:31,158
+<i>Pero si a las 20:00
 no han salido de la zona...</i>
 
-846
-01:35:31,018 --> 01:35:34,063
+817
+01:35:31,394 --> 01:35:33,692
 <i>...empiece a fumigar el EZ-4.</i>
 
-847
-01:35:34,230 --> 01:35:35,481
+818
+01:35:34,363 --> 01:35:35,557
 ¿Qué es el EZ-4?
 
-848
-01:35:35,648 --> 01:35:39,026
-Es un adormecedor como el usado con animales.
+819
+01:35:35,832 --> 01:35:39,233
+Es un adormecedor como
+el usado con animales.
 
-849
-01:35:39,193 --> 01:35:40,695
+820
+01:35:39,435 --> 01:35:40,869
 Control de motines.
 
-850
-01:35:40,861 --> 01:35:44,740
-Dormirán seis horas y despertarán
+821
+01:35:41,070 --> 01:35:45,007
+Dormirán 6 horas y despertarán
 con jaqueca, es todo.
 
-851
-01:35:44,907 --> 01:35:48,786
-No escogimos este lugar. Ni a estas gentes.
+822
+01:35:45,209 --> 01:35:48,940
+No escogimos este lugar.
+Ni a estas gentes.
 
-852
-01:35:48,953 --> 01:35:51,706
+823
+01:35:49,180 --> 01:35:51,238
 ¡Fueron invitados!
 
-853
-01:35:57,211 --> 01:35:59,463
+824
+01:35:57,355 --> 01:35:59,550
 Con más derecho que nosotros.
 
-854
-01:36:07,304 --> 01:36:08,931
+825
+01:36:07,399 --> 01:36:09,060
 Estoy desentrenado.
 
-855
-01:36:09,098 --> 01:36:12,309
-¿Ve la brecha de la montaña? Ya llegamos.
+826
+01:36:09,267 --> 01:36:12,704
+¿Ve la brecha de la montaña?
+Ya llegamos.
 
-856
-01:36:12,476 --> 01:36:14,645
+827
+01:36:12,906 --> 01:36:14,429
 Vienen tres más.
 
-857
-01:36:17,273 --> 01:36:19,233
+828
+01:36:17,410 --> 01:36:19,377
 <i>El control del parque...</i>
 
-858
-01:36:19,400 --> 01:36:23,070
-...ha <i>sido transferido al gobierno de EE. UU.</i>
+829
+01:36:19,578 --> 01:36:23,106
+<i>...ha sido transferido
+al Gobierno de EE.UU.</i>
 
-859
-01:36:23,237 --> 01:36:25,948
+830
+01:36:23,451 --> 01:36:25,975
 Arriba hay un desfiladero.
 
-860
-01:36:26,115 --> 01:36:29,118
+831
+01:36:26,219 --> 01:36:29,121
 - La subida es más fácil.
 - Es inútil.
 
-861
-01:36:29,285 --> 01:36:32,913
-Hay 100 metros de caída vertical. ¡Agáchate!
+832
+01:36:29,390 --> 01:36:32,951
+Hay 100 metros de caída
+vertical. ¡Agáchate!
 
-862
-01:36:33,080 --> 01:36:36,083
+833
+01:36:33,160 --> 01:36:35,755
 ¿Qué hay al otro lado?
 
-863
-01:36:36,333 --> 01:36:39,378
-Un cañón con gargantas y senderos...
+834
+01:36:36,464 --> 01:36:39,592
+Un cañón con gargantas
+y senderos...
 
-864
-01:36:39,545 --> 01:36:42,006
+835
+01:36:39,801 --> 01:36:42,031
 ...por la ladera derecha.
 
-865
-01:36:42,173 --> 01:36:44,842
-No lo sabía. Solo pinté un lado.
+836
+01:36:42,236 --> 01:36:45,000
+No lo sabía.
+Sólo pinté un lado.
 
-866
-01:36:45,009 --> 01:36:48,137
+837
+01:36:45,240 --> 01:36:48,175
 - Yo no dibujé un cañón.
 - Debió esculpir.
 
-867
-01:36:48,304 --> 01:36:51,223
-Vaya. Subir nos tomará una hora.
+838
+01:36:48,410 --> 01:36:51,311
+Vaya... Subir
+nos costará una hora.
 
-868
-01:36:51,390 --> 01:36:52,600
-Venga, vamos.
+839
+01:36:51,514 --> 01:36:52,640
+Vamos, vamos.
 
-869
-01:36:58,105 --> 01:37:00,691
+840
+01:36:58,187 --> 01:37:00,781
 <i>El control del parque...</i>
 
-870
-01:37:00,858 --> 01:37:05,112
-...ha <i>sido transferido al gobierno de los EE. UU.</i>
+841
+01:37:00,990 --> 01:37:05,290
+<i>...ha sido transferido
+al Gobierno de los EE.UU.</i>
 
-871
-01:37:05,279 --> 01:37:09,992
-<i>Están entrando en una reserva militar...</i>
+842
+01:37:05,495 --> 01:37:10,092
+<i>Están entrando en
+una reserva militar...</i>
 
-872
-01:37:10,201 --> 01:37:12,953
-<i>...sometida</i> a <i>leyes militares.</i>
+843
+01:37:10,334 --> 01:37:12,962
+<i>...sometida a leyes militares.</i>
 
-873
-01:37:13,120 --> 01:37:15,164
+844
+01:37:13,170 --> 01:37:14,762
 Llama al cerdo.
 
-874
-01:37:18,542 --> 01:37:20,669
-Bahama, aquí Pirámide. Cambio.
+845
+01:37:18,678 --> 01:37:20,668
+Bahama, aquí Pirámide.
+Cambio.
 
-875
-01:37:20,836 --> 01:37:22,004
+846
+01:37:20,879 --> 01:37:22,039
 <i>Adelante.</i>
 
-876
-01:37:22,171 --> 01:37:24,548
+847
+01:37:22,280 --> 01:37:24,612
 Nada que informar en medio.
 
-877
-01:37:24,715 --> 01:37:27,676
-Arriba hay mil sitios para esconderse.
+848
+01:37:24,849 --> 01:37:27,682
+Arriba hay mil sitios
+para esconderse.
 
-878
-01:37:27,843 --> 01:37:31,972
-Necesitaríamos más hombres para cubrirlo en una hora.
+849
+01:37:27,953 --> 01:37:31,890
+Necesitaríamos más hombres
+para cubrirlo en una hora.
 
-879
-01:37:32,139 --> 01:37:35,142
-<i>Que se retiren todos y dígales que...</i>
+850
+01:37:32,223 --> 01:37:35,387
+<i>Que se retiren todos
+y dígales que...</i>
 
-880
-01:37:35,309 --> 01:37:37,228
+851
+01:37:35,628 --> 01:37:37,357
 <i>...vamos a fumigar.</i>
 
-881
-01:38:04,004 --> 01:38:05,714
+852
+01:38:04,059 --> 01:38:05,492
 ¡Al suelo!
 
-882
-01:38:06,382 --> 01:38:09,176
-<i>Están entrando en una reserva militar...</i>
+853
+01:38:06,428 --> 01:38:09,226
+<i>Están entrando en
+una reserva militar...</i>
 
-883
-01:38:09,385 --> 01:38:13,389
-<i>...sometida</i> a <i>leyes militares.</i>
+854
+01:38:09,531 --> 01:38:13,059
+<i>...sometida a leyes militares.</i>
 
-884
-01:38:42,501 --> 01:38:45,838
+855
+01:38:42,700 --> 01:38:45,602
 ¡Larry! ¡Larry, vamos!
 
-885
-01:39:03,022 --> 01:39:06,192
-¡Larry! ¡Que no lo vean! ¡Agáchese!
+856
+01:39:03,122 --> 01:39:06,285
+¡Larry! ¡Que no lo vean!
+¡Agáchese!
 
-886
-01:39:41,977 --> 01:39:45,981
-¡Están fumigando! ¡Los Ángeles!
+857
+01:39:42,164 --> 01:39:46,032
+¡Están fumigando!
+¡Los Ángeles!
 
-887
-01:39:50,027 --> 01:39:53,155
-'¿Larry? «¡NO Pares!
+858
+01:39:51,641 --> 01:39:53,006
+¡No te pares!
 
-888
-01:39:53,447 --> 01:39:55,282
-¡No mires atrás! ¡Vamos!
+859
+01:39:53,444 --> 01:39:55,377
+¡No mires atrás!
+¡Vamos!
 
-889
-01:40:26,772 --> 01:40:29,608
-¡Rápido! ¡La cima está a solo tres metros!
+860
+01:40:26,846 --> 01:40:29,644
+¡Rápido!
+¡La cima está a sólo 3 m!
 
-890
-01:40:29,817 --> 01:40:32,861
-Un poco más. Bajaremos por el otro lado.
+861
+01:40:29,883 --> 01:40:32,876
+Un poco más.
+Bajaremos por el otro lado.
 
-891
-01:40:37,574 --> 01:40:38,867
-¡No!
-
-892
-01:40:40,035 --> 01:40:42,663
+862
+01:40:40,227 --> 01:40:42,856
 Vamos, rápido. Ya bajo.
 
-893
-01:40:42,830 --> 01:40:43,914
+863
+01:40:43,063 --> 01:40:43,962
 No bajes.
 
-894
-01:40:44,832 --> 01:40:46,709
+864
+01:40:45,033 --> 01:40:46,694
 ¡Vamos, vamos! ¡Vamos!
 
-895
-01:40:46,875 --> 01:40:49,003
-- Calma. Lo conseguiremos.
-- Roy.
+865
+01:40:46,968 --> 01:40:48,696
+Calma. Lo conseguiremos.
 
-896
-01:40:49,169 --> 01:40:51,297
+866
+01:40:49,870 --> 01:40:51,338
 ¡Vamos, muévete!
 
-897
-01:40:51,505 --> 01:40:52,923
-Vamos.
-
-898
-01:40:57,594 --> 01:41:01,307
+867
+01:40:57,679 --> 01:40:59,807
 ¡Vamos! ¡Por favor!
 
-899
-01:41:02,433 --> 01:41:04,101
+868
+01:41:02,518 --> 01:41:03,678
 ¡Rápido!
 
-900
-01:41:05,853 --> 01:41:06,937
+869
+01:41:05,922 --> 01:41:07,014
 ¡Agárrate!
 
-901
-01:41:11,066 --> 01:41:12,234
+870
+01:41:11,195 --> 01:41:12,252
 ¡Salta! ¡Salta!
 
-902
-01:41:25,247 --> 01:41:28,542
+871
+01:41:25,343 --> 01:41:28,370
 - ¿Tú ves eso?
 - Sí.
 
-903
-01:41:29,001 --> 01:41:30,169
+872
+01:41:29,080 --> 01:41:30,207
 Bien.
 
-904
-01:41:31,128 --> 01:41:33,797
-<i>¿Está conectado? Revisen los altavoces.</i>
+873
+01:41:31,217 --> 01:41:33,777
+<i>¿Conectado?
+Revisen los altavoces.</i>
 
-905
-01:41:33,964 --> 01:41:37,843
-<i>- Quiero que funcionen.
-- ¿Estamos en directo?</i>
+874
+01:41:34,019 --> 01:41:35,610
+<i>Quiero que funcionen.</i>
 
-906
-01:41:39,094 --> 01:41:41,138
-<i>¿Me oyes por este?</i>
+875
+01:41:39,225 --> 01:41:40,715
+<i>¿Me oyes por éste?</i>
 
-907
-01:41:41,430 --> 01:41:42,473
-<i>¿Y por este?</i>
+876
+01:41:41,461 --> 01:41:42,791
+<i>¿Y por éste?</i>
 
-908
-01:41:44,933 --> 01:41:49,480
+877
+01:41:45,064 --> 01:41:49,298
 <i>- Probando. Probando.
-- L¡sto, uno, dos, tres, cuatro.</i>
+- Listo, uno, dos, tres, cuatro.</i>
 
-909
-01:41:50,147 --> 01:41:51,899
+878
+01:41:50,237 --> 01:41:51,966
 <i>Probando. Probando.</i>
 
-910
-01:41:52,066 --> 01:41:55,778
+879
+01:41:52,205 --> 01:41:55,299
 <i>Uno, dos, tres, probando.</i>
 
-911
-01:42:02,576 --> 01:42:06,872
-<i>Señoras y señores. A sus puestos, por favor.</i>
+880
+01:42:02,582 --> 01:42:06,485
+<i>Señoras y señores.
+A sus puestos, por favor.</i>
 
-912
-01:42:07,581 --> 01:42:09,666
-<i>Esto no es un simulacro.</i>
+881
+01:42:07,655 --> 01:42:09,623
+<i>Esto no son maniobras.</i>
 
-913
-01:42:09,833 --> 01:42:13,587
-<i>Repito, esto no es un simulacro.</i>
+882
+01:42:09,825 --> 01:42:13,318
+<i>Repito, esto no son maniobras.</i>
 
-914
-01:42:14,254 --> 01:42:18,258
+883
+01:42:14,329 --> 01:42:17,992
 <i>¿Pueden bajar la luz
-de la plataforma un 60 por ciento?</i>
+de la plataforma un 60%?</i>
 
-915
-01:42:18,425 --> 01:42:20,344
-<i>60 por ciento.</i>
+884
+01:42:18,434 --> 01:42:20,094
+<i>60%.</i>
 
-916
-01:42:24,306 --> 01:42:27,309
-<i>No podíamos pedir una noche más bonita, ¿verdad?</i>
+885
+01:42:24,440 --> 01:42:28,240
+<i>No podíamos pedir
+una noche más bonita, ¿verdad?</i>
 
-917
-01:42:36,985 --> 01:42:39,780
+886
+01:42:37,086 --> 01:42:39,453
 <i>Vigilen el cielo, por favor.</i>
 
-918
-01:42:40,030 --> 01:42:45,369
-<i>Por el Noroeste se aproximan objetos diversos.</i>
+887
+01:42:40,157 --> 01:42:45,094
+<i>Por el Noroeste se aproximan
+objetos diversos.</i>
 
-919
-01:43:34,918 --> 01:43:38,088
-Somos los únicos en saberlo. Los únicos.
+888
+01:43:35,084 --> 01:43:38,144
+Somos los únicos en saberlo.
+Los únicos.
 
-920
-01:43:47,681 --> 01:43:49,349
+889
+01:43:47,763 --> 01:43:49,356
 ¿Tú ves eso?
 
-921
-01:43:51,185 --> 01:43:52,895
+890
+01:43:51,401 --> 01:43:52,561
 Sí.
 
-922
-01:43:53,187 --> 01:43:54,313
+891
+01:43:53,336 --> 01:43:54,360
 Bien.
 
-923
-01:44:42,694 --> 01:44:47,324
-<i>Todo el personal de tierra que no sea de clase D...</i>
+892
+01:44:42,823 --> 01:44:47,283
+<i>Todo el personal de tierra
+que no sea de clase D...</i>
 
-924
-01:44:47,491 --> 01:44:51,620
-<i>...que evacuen el centro de la plataforma.</i>
+893
+01:44:47,495 --> 01:44:51,328
+<i>...que evacuen el centro
+de la plataforma.</i>
 
-925
-01:44:51,787 --> 01:44:56,500
-<i>Los de análisis sonoro, detrás de la línea amarilla.</i>
+894
+01:44:51,966 --> 01:44:56,403
+<i>Los de análisis sonoro,
+detrás de la línea amarilla.</i>
 
-926
-01:45:02,339 --> 01:45:05,259
+895
+01:45:02,478 --> 01:45:04,912
 ITC, hora y resistencia.
 
-927
-01:45:05,467 --> 01:45:07,261
+896
+01:45:05,581 --> 01:45:06,980
 ¿Auto preparado?
 
-928
-01:45:07,594 --> 01:45:10,180
-- Interpolación de tono en interlock.
+897
+01:45:07,650 --> 01:45:10,449
+Interpolación de tono
+en interlock.
+
+898
+01:45:10,654 --> 01:45:12,645
 Activen ARP e interlock.
 
-929
-01:45:13,141 --> 01:45:15,686
+899
+01:45:13,190 --> 01:45:15,681
 Velocidad aplicada a 7,5.
 
-930
-01:45:15,852 --> 01:45:19,398
+900
+01:45:15,959 --> 01:45:19,190
 Funciones positivas preparadas.
 
-931
-01:45:25,654 --> 01:45:29,908
-Equipos especiales ARP
-con la C de «Capitán», F de «Frank».
+901
+01:45:43,622 --> 01:45:44,850
+<i>Adelante.</i>
 
-932
-01:45:30,075 --> 01:45:32,494
-...hablando a la plataforma.
-
-933
-01:45:42,462 --> 01:45:44,881
-<i>- Seis-dos.
-- Adelante.</i>
-
-934
-01:45:45,048 --> 01:45:46,091
+902
+01:45:45,225 --> 01:45:46,316
 - Ocaso.
 - Ya.
 
-935
-01:45:47,384 --> 01:45:50,053
+903
+01:45:47,528 --> 01:45:50,122
 Muy bien. Dé el tono.
 
-936
-01:45:57,060 --> 01:45:58,270
+904
+01:45:57,171 --> 01:45:58,332
 - Tang.
 - Siga.
 
-937
-01:45:59,229 --> 01:46:01,273
+905
+01:45:59,373 --> 01:46:01,135
 Suba un tono completo.
 
-938
-01:46:04,234 --> 01:46:06,069
+906
+01:46:04,378 --> 01:46:06,209
 Abajo un tercero mayor.
 
-939
-01:46:06,486 --> 01:46:08,488
+907
+01:46:06,513 --> 01:46:08,379
 Ahora baje una octava.
 
-940
-01:46:13,410 --> 01:46:14,703
+908
+01:46:13,555 --> 01:46:14,749
 - Azul frío.
 - Siga.
 
-941
-01:46:14,911 --> 01:46:16,955
+909
+01:46:15,024 --> 01:46:17,014
 Un quinto perfecto arriba.
 
-942
-01:46:19,458 --> 01:46:21,418
+910
+01:46:19,595 --> 01:46:21,494
 Nada. Nada de nada.
 
-943
-01:46:21,627 --> 01:46:26,089
-<i>Tenemos la posibilidad de una anomalía
-desde más de 5 miligaies a menos 50...</i>
+911
+01:46:26,435 --> 01:46:27,662
+Déme un tono.
 
-944
-01:46:26,256 --> 01:46:27,758
-Dame un tono.
-
-945
-01:46:27,924 --> 01:46:30,177
-- «Re» al segundo.
+912
+01:46:28,170 --> 01:46:30,332
+- "Re" al segundo.
 - Suba un tono.
 
-946
-01:46:30,344 --> 01:46:32,387
-- «Mi» al tercero.
+913
+01:46:30,540 --> 01:46:32,406
+- "Mi" al tercero.
 - Baje un tercero mayor.
 
-947
-01:46:32,554 --> 01:46:34,640
-- «Do» al primero.
+914
+01:46:32,608 --> 01:46:34,702
+- "Do" al primero.
 - Baje una octava.
 
-948
-01:46:34,806 --> 01:46:36,516
-«Do» arriba un quinto.
+915
+01:46:34,911 --> 01:46:36,607
+"Do" arriba un quinto.
 
-949
-01:46:36,683 --> 01:46:38,644
-«Sol» al quinto.
+916
+01:46:36,846 --> 01:46:38,507
+"Sol" al quinto.
 
-950
-01:46:54,534 --> 01:46:55,827
+917
+01:46:54,632 --> 01:46:55,930
 Yo conozco eso.
 
-951
-01:46:58,538 --> 01:47:00,123
+918
+01:46:58,703 --> 01:46:59,863
 Más rápido.
 
-952
-01:47:15,555 --> 01:47:16,723
+919
+01:47:15,589 --> 01:47:16,783
 ¡Más deprisa!
 
-953
-01:47:20,894 --> 01:47:22,562
+920
+01:47:21,062 --> 01:47:22,495
 ¡Vamos!
 
-954
-01:48:04,104 --> 01:48:05,856
-Estoy muy feliz esta noche.
+921
+01:48:04,308 --> 01:48:05,775
+Soy muy feliz.
 
-955
-01:48:06,022 --> 01:48:07,899
-- Felicitaciones.
+922
+01:48:06,211 --> 01:48:07,940
+- Enhorabuena.
 - Gracias.
 
-956
-01:48:08,066 --> 01:48:11,778
+923
+01:48:08,646 --> 01:48:11,844
 Ha sido estupendo.
 
-957
-01:48:31,256 --> 01:48:33,133
-¿Señor Lacombe?
+924
+01:48:31,503 --> 01:48:32,870
+¿Sr. Lacombe?
 
-958
-01:48:39,222 --> 01:48:42,392
+925
+01:48:39,512 --> 01:48:42,176
 ¿Qué es? ¿Qué está pasando?
 
-959
-01:49:37,739 --> 01:49:40,826
+926
+01:49:37,776 --> 01:49:40,370
 Vamos. Ven, vámonos.
 
-960
-01:49:41,827 --> 01:49:43,370
+927
+01:49:41,980 --> 01:49:43,447
 Sigue agachada.
 
-961
-01:49:49,084 --> 01:49:50,752
+928
+01:49:49,287 --> 01:49:50,880
 Ahí arriba hablan.
 
-962
-01:51:00,322 --> 01:51:02,282
-- Mierda.
-- ¡Agáchate!
+929
+01:51:01,200 --> 01:51:02,394
+¡Agáchate!
 
-963
-01:51:38,318 --> 01:51:39,694
+930
+01:51:38,506 --> 01:51:39,837
 <i>Foto uno.</i>
 
-964
-01:51:39,861 --> 01:51:43,198
-<i>¡Fantástico! Que traigan más recargas.</i>
+931
+01:51:40,040 --> 01:51:43,375
+<i>¡Fantástico!
+Que traigan más recargas.</i>
 
-965
-01:51:43,365 --> 01:51:45,033
+932
+01:51:43,578 --> 01:51:45,170
 <i>¡Fantástico!</i>
 
-966
-01:51:51,539 --> 01:51:53,792
+933
+01:51:51,786 --> 01:51:53,880
 - ¿Quieres verlo mejor?
 - Lo veo bien.
 
-967
-01:51:54,000 --> 01:51:57,128
+934
+01:51:54,123 --> 01:51:57,218
 - No podemos quedarnos aquí.
 - Yo sí.
 
-968
-01:51:57,963 --> 01:52:01,675
+935
+01:51:58,195 --> 01:52:01,790
 - ¿Por qué?
 - Porque Barry no está aquí.
 
-969
-01:52:02,467 --> 01:52:04,552
+936
+01:52:02,699 --> 01:52:04,689
 No estoy preparada.
 
-970
-01:52:08,306 --> 01:52:10,558
+937
+01:52:08,539 --> 01:52:10,631
 Yo no me quedo. Debo bajar.
 
-971
-01:52:10,767 --> 01:52:12,560
+938
+01:52:10,941 --> 01:52:12,408
 Lo sé.
 
-972
-01:52:45,719 --> 01:52:50,181
-<i>Control de datos a todo el personal.</i>
+939
+01:52:45,947 --> 01:52:50,111
+<i>Control de datos
+a todo el personal.</i>
 
-973
-01:52:50,348 --> 01:52:53,727
+940
+01:52:50,517 --> 01:52:53,782
 <i>No hay riesgos biológicos.</i>
 
-974
-01:52:53,893 --> 01:52:56,187
+941
+01:52:53,988 --> 01:52:56,286
 <i>Dejen margen de seguridad.</i>
 
-975
-01:54:03,797 --> 01:54:06,633
-Dios mío.
+942
+01:54:03,863 --> 01:54:06,560
+Dios mío...
 
-976
-01:54:59,936 --> 01:55:02,355
+943
+01:55:00,125 --> 01:55:02,285
 ¡Dios mío!
 
-977
-01:55:26,045 --> 01:55:27,463
+944
+01:55:26,319 --> 01:55:27,582
 Santo Cielo.
 
-978
-01:57:19,492 --> 01:57:21,786
+945
+01:57:19,641 --> 01:57:21,906
 <i>La zona de seguridad...</i>
 
-979
-01:57:21,953 --> 01:57:26,040
-...se <i>extiende a 25 metros de la nave.</i>
+946
+01:57:22,111 --> 01:57:26,048
+<i>...se extiende a
+25 metros de la nave.</i>
 
-980
-01:57:26,291 --> 01:57:31,129
+947
+01:57:26,415 --> 01:57:31,285
 <i>Que los equipos especiales
 vigilen el bajo nivel de gravedad.</i>
 
-981
-01:57:31,337 --> 01:57:35,633
-<i>Pueden sentir mareos y sufrir carga estática.</i>
+948
+01:57:31,489 --> 01:57:35,755
+<i>Pueden sentir mareos
+y sufrir carga estática.</i>
 
-982
-01:57:38,052 --> 01:57:41,931
-<i>Que todos los servicios operativos en esta fase...</i>
+949
+01:57:38,228 --> 01:57:42,063
+<i>Que todos los servicios
+operativos en esta fase...</i>
 
-983
-01:57:42,140 --> 01:57:44,350
+950
+01:57:42,300 --> 01:57:44,461
 <i>...hagan dos señales.</i>
 
-984
-01:57:44,517 --> 01:57:47,812
-Si todo está listo aquí
-en el lado oscuro de la luna...
+951
+01:57:44,736 --> 01:57:47,728
+Si el lado oscuro de
+la luna está listo...
 
-985
-01:57:47,979 --> 01:57:49,605
-...toque las cinco notas.
+952
+01:57:48,139 --> 01:57:49,731
+...toque las 5 notas.
 
-986
-01:58:59,008 --> 01:59:02,053
-Envíe seis corcheas y luego pausa.
+953
+01:58:59,249 --> 01:59:01,877
+Envíe 6 corcheas y luego pausa.
 
-987
-01:59:02,720 --> 01:59:04,222
+954
+01:59:03,053 --> 01:59:04,351
 Nos ha enviado...
 
-988
-01:59:04,389 --> 01:59:07,725
-...cuatro corcheas, cinco corcheas
-y cuatro semicorcheas.
+955
+01:59:04,555 --> 01:59:07,855
+...4 corcheas, 5 corcheas
+y 4 semicorcheas.
 
-989
-01:59:22,115 --> 01:59:24,409
-Tienen cinco señales en común.
+956
+01:59:22,341 --> 01:59:24,366
+Tienen 5 señales en común.
 
-990
-01:59:24,575 --> 01:59:27,912
+957
+01:59:24,610 --> 01:59:28,047
 - Que alguien tome nota.
 - ¿Qué nos está diciendo?
 
-991
-01:59:28,079 --> 01:59:30,915
-Nos enseñan vocabulario tonal básico.
+958
+01:59:28,248 --> 01:59:31,012
+Nos enseñan
+vocabulario tonal básico.
 
-992
-01:59:31,082 --> 01:59:32,458
+959
+01:59:31,218 --> 01:59:32,583
 Empieza el colegio.
 
-993
-01:59:40,758 --> 01:59:43,803
+960
+01:59:40,928 --> 01:59:43,920
 Repítanlo todo nota por nota.
 
-994
-02:00:00,570 --> 02:00:03,072
+961
+02:00:00,750 --> 02:00:03,310
 Ya tenemos la traducción.
 
-995
-02:00:03,239 --> 02:00:05,533
-Ahora hablamos nosotros.
+962
+02:00:03,586 --> 02:00:04,917
+Hablamos nosotros.
 
-996
-02:01:07,512 --> 02:01:09,347
+963
+02:01:07,689 --> 02:01:09,519
 ¡Adelante! ¡Vamos!
 
-997
-02:02:45,985 --> 02:02:48,237
+964
+02:02:46,294 --> 02:02:48,092
 Yo soy Claude Lacombe.
 
-998
-02:02:51,282 --> 02:02:52,700
+965
+02:02:51,500 --> 02:02:52,933
 Frank Taylor...
 
-999
-02:02:52,867 --> 02:02:55,453
-...teniente de navío de EEUU...
+966
+02:02:53,169 --> 02:02:55,729
+...teniente de navío de EE.UU...
 
-1000
-02:02:55,620 --> 02:02:57,580
-...O64199.
+967
+02:02:55,938 --> 02:02:57,839
+...064199.
 
-1001
-02:02:57,747 --> 02:03:00,416
+968
+02:02:58,075 --> 02:03:00,339
 Teniente, bienvenido a casa.
 
-1002
-02:03:00,583 --> 02:03:02,543
+969
+02:03:00,811 --> 02:03:02,573
 Por aquí para informar.
 
-1003
-02:03:02,710 --> 02:03:03,794
+970
+02:03:02,981 --> 02:03:03,969
 Harry Ward Craig...
 
-1004
-02:03:04,003 --> 02:03:06,172
+971
+02:03:04,181 --> 02:03:06,240
 ...capitán de navío de EE.UU...
 
-1005
-02:03:06,339 --> 02:03:08,633
-<i>...043431 .</i>
+972
+02:03:06,483 --> 02:03:08,781
+...043431.
 
-1006
-02:03:08,799 --> 02:03:12,178
-Capitán, ¿quiere venir por aquí?
+973
+02:03:09,021 --> 02:03:12,251
+Capitán,
+¿quiere venir por aquí?
 
-1007
-02:03:13,888 --> 02:03:16,807
-Bienvenido, marino. Bienvenido.
+974
+02:03:14,126 --> 02:03:16,616
+Bienvenido, marino.
+Bienvenido.
 
-1008
-02:03:18,309 --> 02:03:21,520
-«Craig, Harry Ward. Capitán de navío de EE.UU...
+975
+02:03:18,528 --> 02:03:21,657
+- Craig, Harry Ward.
+- "Capitán de navío de EE.UU...
 
-1009
-02:03:21,687 --> 02:03:23,814
-...O434311».
+976
+02:03:21,867 --> 02:03:23,925
+...0434311".
 
-1010
-02:03:23,981 --> 02:03:27,610
-Desaparecido en Chicken Shoals, vuelo 19.
+977
+02:03:24,203 --> 02:03:27,366
+Desaparecido en
+Chicken Shoals, vuelo 19.
 
-1011
-02:03:29,153 --> 02:03:32,907
-Matthew McMichael, teniente de la reserva naval...
+978
+02:03:29,242 --> 02:03:33,178
+Matthew McMichael,
+teniente de la reserva naval...
 
-1012
-02:03:33,366 --> 02:03:35,868
-- ...O909411.
-- Teniente.
+979
+02:03:33,545 --> 02:03:35,878
+...0909411.
 
-1013
-02:03:36,035 --> 02:03:37,870
+980
+02:03:36,082 --> 02:03:37,709
 Me alegra verlo.
 
-1014
-02:03:38,537 --> 02:03:40,706
+981
+02:03:38,685 --> 02:03:40,880
 <i>Furlow, Otis B...</i>
 
-1015
-02:03:40,873 --> 02:03:44,001
-<i>...teniente de la marina de los EE.UU.</i>
+982
+02:03:41,154 --> 02:03:44,056
+<i>...teniente de la marina
+de los EE.UU.</i>
 
-1016
-02:03:44,168 --> 02:03:47,046
-No han envejecido. Einstein tenía razón.
+983
+02:03:44,324 --> 02:03:47,352
+No han envejecido.
+Einstein tenía razón.
 
-1017
-02:03:47,213 --> 02:03:49,674
+984
+02:03:47,595 --> 02:03:49,722
 Quizá era uno de ellos.
 
-1018
-02:03:50,132 --> 02:03:52,259
+985
+02:03:50,264 --> 02:03:52,528
 <i>Erickson, David A...</i>
 
-1019
-02:03:52,426 --> 02:03:55,805
-<i>...teniente de la marina de los EEUU...</i>
+986
+02:03:52,734 --> 02:03:55,828
+<i>...teniente de la marina
+de los EE.UU...</i>
 
-1020
-02:03:55,971 --> 02:04:00,351
+987
+02:03:56,071 --> 02:04:00,064
 <i>...0639552.</i>
 
-1021
-02:04:01,018 --> 02:04:03,312
+988
+02:04:01,243 --> 02:04:03,575
 <i>Henkle, Robert F...</i>
 
-1022
-02:04:03,479 --> 02:04:06,982
-<i>...teniente de la marina de los EEUU...</i>
+989
+02:04:03,779 --> 02:04:07,216
+<i>...teniente de la marina
+de los EE.UU.</i>
 
-1023
-02:04:34,385 --> 02:04:39,473
-<i>Desaparecida en julio de 1965. Pensacola, Florida.</i>
-
-1024
-02:04:39,640 --> 02:04:41,434
+990
+02:04:39,919 --> 02:04:41,215
 Monsieur Neary...
 
-1025
-02:04:41,809 --> 02:04:43,477
-u-¿qué quiere?
+991
+02:04:42,020 --> 02:04:43,613
+...¿qué quiere?
 
-1026
-02:04:46,313 --> 02:04:49,525
-Quiero asegurarme de que esto está pasando.
+992
+02:04:46,526 --> 02:04:49,688
+Quiero asegurarme de
+que esto está pasando.
 
-1027
-02:04:52,737 --> 02:04:57,742
-Subí por el aire y vi nuestra casa.
+993
+02:04:52,965 --> 02:04:57,869
+Subí por el aire
+y vi nuestra casa.
 
-1028
-02:04:57,908 --> 02:05:00,911
-Yo te vi. ¿Me viste correr detrás de ti?
+994
+02:04:58,070 --> 02:05:01,802
+Ya te vi. ¿Me viste
+correr detrás de ti?
 
-1029
-02:05:01,078 --> 02:05:03,164
-- Sí.
-- Sí.
-
-1030
-02:05:07,334 --> 02:05:09,795
+995
+02:05:07,448 --> 02:05:09,541
 Tenemos que hablar.
 
-1031
-02:05:12,173 --> 02:05:14,258
-Es del caso del señor Neary.
+996
+02:05:12,386 --> 02:05:14,446
+Es del caso del Sr. Neary.
 
-1032
-02:05:14,467 --> 02:05:17,178
+997
+02:05:14,723 --> 02:05:17,317
 <i>Swensen, Matthew Daniel...</i>
 
-1033
-02:05:17,344 --> 02:05:20,931
+998
+02:05:17,559 --> 02:05:21,086
 <i>...desaparecido en abril de 1976.</i>
 
-1034
-02:05:21,640 --> 02:05:24,977
+999
+02:05:21,930 --> 02:05:24,798
 - ¿Se van a marchar?
 - Sí.
 
-1035
-02:05:28,689 --> 02:05:30,024
+1000
+02:05:29,072 --> 02:05:30,163
 Un momento.
 
-1036
-02:05:30,191 --> 02:05:34,320
-Son gente normal en circunstancias extraordinarias.
+1001
+02:05:30,405 --> 02:05:34,467
+Son gente normal en
+circunstancias extraordinarias.
 
-1037
-02:05:35,446 --> 02:05:38,657
+1002
+02:05:35,678 --> 02:05:38,910
 <i>Delores, Rudolph E...</i>
 
-1038
-02:05:38,824 --> 02:05:42,495
-<i>...desaparecida en diciembre del 51 en Bisbee...</i>
+1003
+02:05:39,149 --> 02:05:42,677
+<i>...desaparecida en diciembre
+del 51 en Bisbee...</i>
 
-1039
-02:05:42,995 --> 02:05:44,914
+1004
+02:05:43,253 --> 02:05:44,743
 <i>...Arizona.</i>
 
-1040
-02:05:48,459 --> 02:05:50,503
+1005
+02:05:48,759 --> 02:05:50,590
 Adiós.
 
-1041
-02:06:00,805 --> 02:06:01,847
+1006
+02:06:00,972 --> 02:06:01,961
 Monsieur Neary...
 
-1042
-02:06:03,849 --> 02:06:05,768
+1007
+02:06:04,142 --> 02:06:05,632
 ...lo envidio.
 
-1043
-02:08:03,802 --> 02:08:06,639
-Contamos con su total cooperación.
+1008
+02:08:04,072 --> 02:08:06,836
+Contamos con
+su total cooperación.
 
-1044
-02:08:06,889 --> 02:08:09,308
+1009
+02:08:07,108 --> 02:08:09,600
 - ¿Su grupo sanguíneo?
 - No lo sé.
 
-1045
-02:08:09,475 --> 02:08:12,227
+1010
+02:08:09,812 --> 02:08:12,508
 - ¿Fecha de nacimiento?
-- Cuatro de diciembre de 1944.
+- 4 de diciembre del 44.
 
-1046
-02:08:12,394 --> 02:08:14,897
-¿Vacunado de viruela y difteria?
+1011
+02:08:12,782 --> 02:08:15,147
+¿Vacunado de
+viruela y difteria?
 
-1047
-02:08:15,064 --> 02:08:18,359
-¿Enfermedades hepáticas en la familia?
+1012
+02:08:15,418 --> 02:08:18,410
+¿Enfermedades hepáticas
+en la familia?
 
-1048
-02:09:17,292 --> 02:09:19,878
+1013
+02:09:17,518 --> 02:09:20,078
 Alabado sea Dios eternamente.
 
-1049
-02:09:20,045 --> 02:09:22,798
+1014
+02:09:20,321 --> 02:09:22,983
 Concédenos un viaje feliz.
 
-1050
-02:09:23,007 --> 02:09:24,341
+1015
+02:09:23,224 --> 02:09:24,522
 Enséñanos.
 
-1051
-02:09:24,508 --> 02:09:26,427
+1016
+02:09:24,725 --> 02:09:26,591
 Muéstranos tus caminos.
 
-1052
-02:09:26,635 --> 02:09:30,222
-Dios ha enviado a sus ángeles para protegerlos.
+1017
+02:09:26,863 --> 02:09:30,390
+Dios ha enviado a sus ángeles
+para protegerlos.
 
-1053
-02:09:30,431 --> 02:09:34,018
-Concede a estos peregrinos un viaje feliz...
+1018
+02:09:30,665 --> 02:09:34,193
+Concede a estos peregrinos
+un viaje feliz...
 
-1054
-02:09:34,226 --> 02:09:39,148
-<i>...y días de paz, para que guiados por su arcángel...</i>
+1019
+02:09:34,436 --> 02:09:39,340
+<i>...y días de paz, para que
+guiados por su arcángel...</i>
 
-1055
-02:09:39,314 --> 02:09:43,152
-<i>...lleguen sanos y salvos a su destino.</i>
+1020
+02:09:39,575 --> 02:09:43,068
+<i>...lleguen sanos y salvos
+a su destino.</i>
 
-1056
-02:13:24,081 --> 02:13:25,832
+1021
+02:13:24,451 --> 02:13:25,782
 ¡Adiós!
-
