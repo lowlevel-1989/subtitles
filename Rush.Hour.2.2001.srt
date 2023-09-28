@@ -1,4461 +1,4459 @@
-1
+﻿1
 00:00:06,000 --> 00:00:12,074
 _
 
 2
-00:00:40,113 --> 00:00:43,909
+00:00:43,030 --> 00:00:46,993
 UNA PAREJA EXPLOSIVA 2
 
 3
-00:00:44,913 --> 00:00:46,800
+00:00:48,035 --> 00:00:49,996
 CONSULADO DE
 LOS ESTADOS UNIDOS DE AMÉRICA
 
 4
-00:02:15,483 --> 00:02:17,337
+00:02:23,089 --> 00:02:25,007
 Alguien necesita llamar a la policía.
 
 5
-00:02:30,747 --> 00:02:34,544
--Los Beach Boys son geniales.
--Me encantan los Beach Boys.
+00:02:39,021 --> 00:02:42,984
+- Los Beach Boys son geniales.
+- Me encantan los Beach Boys.
 
 6
-00:02:35,547 --> 00:02:37,435
+00:02:44,026 --> 00:02:45,987
 Hola, señoritas. ¿Cómo están?
 
 7
-00:02:37,467 --> 00:02:39,354
+00:02:46,028 --> 00:02:47,989
 Un momento.
 
 8
-00:02:44,187 --> 00:02:47,034
+00:02:53,035 --> 00:02:55,997
 ¿Adónde vas? Vamos a comer sushi.
 
 9
-00:02:47,067 --> 00:02:48,954
+00:02:56,038 --> 00:02:57,999
 ¡Oye! ¡Oye, preciosa!
 
 10
-00:02:54,683 --> 00:02:58,480
+00:03:03,963 --> 00:03:07,925
 ¡Oye, ese CD era mío!
 ¡Nunca se toca el CD de un chino!
 
 11
-00:02:58,523 --> 00:03:00,411
+00:03:07,967 --> 00:03:09,927
 ¿Viste cómo se fueron?
 
 12
-00:03:00,444 --> 00:03:03,290
--Se rieron de nosotros.
--Se fueron por tu culpa.
+00:03:09,969 --> 00:03:12,930
+- Se rieron de nosotros.
+- Se fueron por tu culpa.
 
 13
-00:03:03,323 --> 00:03:08,080
--Yo sólo las invité a tomar una copa.
--Las invitaste a desnudarse y...
+00:03:12,972 --> 00:03:17,935
+- Yo sólo las invité a tomar una copa.
+- Las invitaste a desnudarse y...
 
 14
-00:03:08,123 --> 00:03:10,010
+00:03:17,977 --> 00:03:19,937
 a sacrificar un cabrito.
 
 15
-00:03:12,363 --> 00:03:15,211
+00:03:21,981 --> 00:03:24,942
 Me debes "Los Más Grandes Hits
 de Los Beach Boys".
 
 16
-00:03:15,244 --> 00:03:20,000
+00:03:24,984 --> 00:03:29,947
 No te me pongas pesado, Lee. Llevo
 3 días aquí y nada he trabajado.
 
 17
-00:03:20,043 --> 00:03:24,800
+00:03:29,989 --> 00:03:34,952
 Sólo vine a Hong Kong porque dijiste
 que me iba a divertir. Estoy de...
 
 18
-00:03:24,843 --> 00:03:27,691
--vacaciones y quiero un poco de "mu shu".
--¿Mu shu? ¿Tienes hambre?
+00:03:34,994 --> 00:03:37,955
+- vacaciones y quiero un poco de "mu shu".
+- ¿Mu shu? ¿Tienes hambre?
 
 19
-00:03:27,724 --> 00:03:31,520
+00:03:37,997 --> 00:03:41,959
 No, Lee, no de ese mu shu. Quiero
 "mu shu". Quiero mujeres, amigo.
 
 20
-00:03:31,563 --> 00:03:34,411
+00:03:42,001 --> 00:03:44,962
 No te hagas el tonto y
 llévame con el "shu".
 
 21
-00:03:38,315 --> 00:03:39,973
+00:03:49,050 --> 00:03:50,760
 Hubo un bombardeo en la embajada.
 
 22
-00:03:41,036 --> 00:03:42,859
+00:03:51,886 --> 00:03:53,763
 Murieron dos traductores.
 
 23
-00:03:43,404 --> 00:03:44,419
+00:03:54,347 --> 00:03:55,389
 ¿Hay pistas?
 
 24
-00:03:46,092 --> 00:03:47,336
+00:03:57,141 --> 00:03:58,434
 Puede ser Ricky Tan.
 
 25
-00:03:47,884 --> 00:03:50,950
+00:03:59,018 --> 00:04:02,230
 Toda su banda de Triadas estará
 en el club esta noche.
 
 26
-00:03:52,683 --> 00:03:56,262
+00:04:04,023 --> 00:04:07,777
 Si no quieres aceptar el caso,
 yo entiendo.
 
 27
-00:03:56,364 --> 00:03:57,062
+00:04:07,860 --> 00:04:08,860
 No, está bien.
 
 28
-00:04:01,772 --> 00:04:02,917
+00:04:13,491 --> 00:04:14,700
 ¿Qué fue eso?
 
 29
-00:04:02,956 --> 00:04:06,023
+00:04:14,742 --> 00:04:17,954
 ¿Aceptaste otro maldito caso
 en mis vacaciones?
 
 30
-00:04:06,060 --> 00:04:09,857
+00:04:17,995 --> 00:04:21,916
 Claro que no. Mi superintendente
 nos invitó a un club.
 
 31
-00:04:09,900 --> 00:04:12,748
--Hay una fiestota hoy.
--No juegues conmigo.
+00:04:21,999 --> 00:04:24,961
+- Hay una fiestota hoy.
+- No juegues conmigo.
 
 32
-00:04:12,780 --> 00:04:15,627
+00:04:25,002 --> 00:04:27,963
 Un par de golpes y
 acabarás en la dinastía Ming.
 
 33
-00:04:15,660 --> 00:04:18,507
+00:04:27,964 --> 00:04:30,967
 De veras.
 Te mando a Bangkok a trompadas.
 
 34
-00:04:18,540 --> 00:04:21,387
--¿Un fiestón?
--Grande.
+00:04:31,008 --> 00:04:33,970
+- ¿Un fiestón?
+- Grande.
 
 35
-00:04:21,420 --> 00:04:24,267
+00:04:34,011 --> 00:04:36,973
 Bueno, está bien,
 vamos a la fiesta, entonces.
 
 36
-00:04:27,180 --> 00:04:30,027
+00:04:40,017 --> 00:04:42,979
 Oye, esto es bonito. Hola, preciosa.
 
 37
-00:04:30,060 --> 00:04:32,908
+00:04:43,020 --> 00:04:45,982
 Aquí no les gustan los turistas,
 mézclate.
 
 38
-00:04:32,940 --> 00:04:35,787
+00:04:46,023 --> 00:04:48,985
 ¿Que me mezcle?
 Mido 50 cm. más que todos.
 
 39
-00:04:39,660 --> 00:04:41,548
--Espérame aquí.
--¿Adónde vas?
+00:04:52,989 --> 00:04:54,991
+- Espérame aquí.
+- ¿Adónde vas?
 
 40
-00:04:41,581 --> 00:04:43,467
--AI baño.
--Pues regresa rápido...
+00:04:55,032 --> 00:04:56,993
+- AI baño.
+- Pues regresa rápido...
 
 41
-00:04:43,500 --> 00:04:47,297
+00:04:57,034 --> 00:05:00,955
 porque vamos a festejar. ¡A festejar!
 
 42
-00:04:57,837 --> 00:04:59,724
+00:05:11,966 --> 00:05:13,926
 ¿Cómo estás?
 
 43
-00:04:59,757 --> 00:05:03,554
+00:05:13,968 --> 00:05:17,930
 ¿Vienes aquí seguido?
 Es un lugar bonito.
 
 44
-00:05:08,397 --> 00:05:12,194
+00:05:22,977 --> 00:05:26,939
 ¿Qué es lo que está pasando aquí?
 
 45
-00:05:12,237 --> 00:05:15,085
+00:05:26,981 --> 00:05:29,942
 ¿Yo soy el único que está oyendo esto?
 
 46
-00:05:15,117 --> 00:05:17,965
+00:05:29,984 --> 00:05:32,945
 Está destruyendo una canción clásica.
 
 47
-00:05:30,478 --> 00:05:32,366
+00:05:46,000 --> 00:05:47,960
 Ya no aguanto más.
 
 48
-00:06:37,615 --> 00:06:39,501
+00:06:55,987 --> 00:06:57,988
 ¡Vamos, muchachas!¡Vamos!
 
 49
-00:06:39,534 --> 00:06:41,422
+00:06:57,989 --> 00:06:59,990
 No pares hasta...
 Vamos.
 
 50
-00:06:41,454 --> 00:06:44,302
+00:06:59,991 --> 00:07:02,994
 No lo puedo creer.
 
 51
-00:06:47,150 --> 00:06:49,998
+00:07:05,955 --> 00:07:08,916
 ¡Vamos! No paren.
 Están sintiendo la fuerza.
 
 52
-00:06:54,830 --> 00:06:56,718
+00:07:13,963 --> 00:07:15,923
 ¡Siento la fuerza!
 
 53
-00:06:58,671 --> 00:07:00,557
--¡Vamos, Lee!
--Carter...
+00:07:17,967 --> 00:07:19,927
+- ¡Vamos, Lee!
+- Carter...
 
 54
-00:07:06,351 --> 00:07:08,237
+00:07:25,975 --> 00:07:27,935
 Volveré en un segundo.
 
 55
-00:07:10,190 --> 00:07:12,078
+00:07:29,979 --> 00:07:31,939
 Volveré en un segundo.
 
 56
-00:07:13,071 --> 00:07:15,918
--Lee, les encanto a esta gente. Ven acá.
--Deja el escenario.
+00:07:32,982 --> 00:07:35,943
+- Lee, les encanto a esta gente. Ven aquí.
+- Deja el escenario.
 
 57
-00:07:15,950 --> 00:07:19,748
+00:07:35,985 --> 00:07:39,947
 ¿Estás loco? Soy una estrella,
 un dios para ellos. Ven a ver.
 
 58
-00:07:19,791 --> 00:07:23,587
+00:07:39,989 --> 00:07:43,951
 Este es un bar de gángsters,
 venimos en secreto.
 
 59
-00:07:24,590 --> 00:07:29,347
--Ya sabía que estabas mintiendo.
--Perdóname, Carter.
+00:07:44,994 --> 00:07:49,957
+- Ya sabía que estabas mintiendo.
+- Perdóname, Carter.
 
 60
-00:07:29,390 --> 00:07:31,278
--Eres un mentiroso.
--Buscamos a Ricky Tan.
+00:07:49,999 --> 00:07:51,959
+- Eres un mentiroso.
+- Buscamos a Ricky Tan.
 
 61
-00:07:31,311 --> 00:07:34,158
--Debemos caminar con sigilo.
--¿Caminar con sigilo?
+00:07:52,001 --> 00:07:54,962
+- Debemos caminar con sigilo.
+- ¿Caminar con sigilo?
 
 62
-00:07:34,191 --> 00:07:37,987
+00:07:55,004 --> 00:07:58,966
 ¿De qué hablas? ¿Quién te enseñó
 a hacer redadas en bares?
 
 63
-00:07:38,031 --> 00:07:41,828
+00:07:59,008 --> 00:08:02,970
 Estos hombres son de las Triadas,
 una pandilla de china.
 
 64
-00:07:41,871 --> 00:07:46,573
+00:08:03,012 --> 00:08:07,892
 ¿Crees que me asustan? En Los Ángeles
 inventamos las pandillas. Dame la placa.
 
 65
-00:07:46,607 --> 00:07:49,454
+00:08:07,934 --> 00:08:10,895
 ¡No, tú eres un civil!
 Aquí yo soy Michael Jackson...
 
 66
-00:07:49,487 --> 00:07:51,374
--y tú, Toto.
--¡Tito, dirás!
+00:08:10,937 --> 00:08:12,897
+- y tú, Toto.
+- ¡Tito, dirás!
 
 67
-00:07:51,406 --> 00:07:55,204
+00:08:12,939 --> 00:08:16,901
 Toto es lo que cenamos anoche.
 Dame esa placa. Dámela.
 
 68
-00:08:00,047 --> 00:08:01,934
+00:08:21,948 --> 00:08:23,908
 ¡Bueno, escuchen!
 
 69
-00:08:08,687 --> 00:08:11,535
+00:08:30,957 --> 00:08:33,918
 ¡Ahora mismo!
 
 70
-00:08:20,207 --> 00:08:22,094
+00:08:42,969 --> 00:08:44,929
 ¿Qué dije?
 
 71
-00:08:22,127 --> 00:08:24,975
+00:08:44,971 --> 00:08:47,932
 Les dijiste a todos que agarren
 sus espadas de samurai...
 
 72
-00:08:25,007 --> 00:08:27,854
+00:08:47,974 --> 00:08:50,935
 y te afeiten las nalgas.
 
 73
-00:08:27,887 --> 00:08:29,775
--¿Eso dije?
--Sí.
+00:08:50,977 --> 00:08:52,937
+- ¿Eso dije?
+- Sí.
 
 74
-00:08:30,767 --> 00:08:33,615
+00:08:53,980 --> 00:08:56,941
 Ven y tradúceme esto. Ven.
 
 75
-00:08:34,607 --> 00:08:36,495
+00:08:57,984 --> 00:08:59,944
 ¡Bueno, pongan atención!
 
 76
-00:08:36,527 --> 00:08:39,375
+00:08:59,986 --> 00:09:02,947
 ¡Las Triadas y
 las mujeres feas de este lado...
 
 77
-00:08:39,408 --> 00:08:42,189
+00:09:02,989 --> 00:09:05,908
 y todas las mujeres atractivas
 de este lado, ya mismo!
 
 78
-00:08:42,224 --> 00:08:43,882
+00:09:05,950 --> 00:09:07,660
 Tradúcelo.
 
 79
-00:08:43,920 --> 00:08:47,019
+00:09:07,702 --> 00:09:10,913
 Quiere a los hombres a la derecha,
 mujeres, a la izquierda.
 
 80
-00:08:49,904 --> 00:08:52,752
+00:09:13,958 --> 00:09:16,919
 Están portándose como si no me oyeran.
 
 81
-00:08:52,784 --> 00:08:55,632
+00:09:16,961 --> 00:09:19,922
 ¿Quiénes de aquí conocen a Ricky Tan?
 ¡Levanten las manos!
 
 82
-00:08:55,665 --> 00:08:57,551
+00:09:19,964 --> 00:09:21,924
 Traduce.
 
 83
-00:08:58,736 --> 00:09:01,420
+00:09:23,134 --> 00:09:25,970
 Les pido disculpas.
 Mi amigo está muy borracho.
 
 84
-00:09:05,264 --> 00:09:07,152
+00:09:29,974 --> 00:09:31,934
 Ya veo lo que está pasando aquí.
 
 85
-00:09:07,184 --> 00:09:10,981
+00:09:31,976 --> 00:09:35,938
 ¡No tengo tiempo para jugar juegos!
 
 86
-00:09:11,024 --> 00:09:12,912
+00:09:35,980 --> 00:09:37,940
 ¡Hu Li!
 
 87
-00:09:27,345 --> 00:09:29,232
+00:09:52,997 --> 00:09:54,957
 ¡Quítense! ¡Policía de Los Ángeles!
 
 88
-00:09:56,145 --> 00:09:58,993
+00:10:23,027 --> 00:10:25,988
 ¡Espera!
 
 89
-00:10:03,825 --> 00:10:05,713
+00:10:31,035 --> 00:10:32,995
 Ay, demonios. No.
 
 90
-00:10:07,666 --> 00:10:10,512
+00:10:35,039 --> 00:10:38,000
 ¡Voy a ir por las escaleras!
 
 91
-00:10:57,650 --> 00:10:59,788
+00:11:27,133 --> 00:11:29,385
 Apártate, Kobe.
 
 92
-00:11:15,378 --> 00:11:17,647
+00:11:45,610 --> 00:11:47,987
 Perdón por interrumpirle
 su comida, señor.
 
 93
-00:11:54,098 --> 00:11:55,986
+00:12:25,983 --> 00:12:27,985
 ¡Aquí estoy!
 
 94
-00:11:56,979 --> 00:11:58,865
--¿Lee?
--¡Ayúdame!
+00:12:28,986 --> 00:12:30,988
+- ¿Lee?
+- ¡Ayúdame!
 
 95
-00:11:59,858 --> 00:12:02,706
--¿Cómo llegaste allá?
--¡Apúrate!
+00:12:31,989 --> 00:12:34,992
+- ¿Cómo llegaste allá?
+- ¡Apúrate!
 
 96
-00:12:03,699 --> 00:12:04,625
+00:12:35,993 --> 00:12:36,993
 Agárrate bien.
 
 97
-00:12:04,658 --> 00:12:06,546
+00:12:36,994 --> 00:12:38,996
 No te sueltes.
 
 98
-00:12:07,538 --> 00:12:09,426
+00:12:39,997 --> 00:12:41,998
 ¡Cuidado, atrás de ti!
 
 99
-00:12:09,459 --> 00:12:11,346
--¡Atrás de ti!
--¿Qué?
+00:12:41,999 --> 00:12:44,001
+- ¡Atrás de ti!
+- ¿Qué?
 
 100
-00:12:18,099 --> 00:12:19,986
+00:12:51,008 --> 00:12:53,010
 ¿Quién diablos fue eso?
 
 101
-00:12:20,978 --> 00:12:23,826
+00:12:54,011 --> 00:12:57,013
 Jesús santo, ¡no me quiero morir!
 
 102
-00:12:23,859 --> 00:12:25,746
+00:12:57,014 --> 00:12:59,015
 ¡Lee, ayúdame!
 
 103
-00:12:25,779 --> 00:12:29,576
+00:12:59,016 --> 00:13:02,979
 No te preocupes.
 EI bambú chino es muy fuerte.
 
 104
-00:12:32,435 --> 00:12:34,322
--¿Estás seguro?
--Estoy seguro.
+00:13:05,982 --> 00:13:07,942
+- ¿Estás seguro?
+- Estoy seguro.
 
 105
-00:12:48,754 --> 00:12:50,642
+00:13:22,999 --> 00:13:24,959
 ¡Suéltate!
 
 106
-00:12:50,675 --> 00:12:53,522
+00:13:25,001 --> 00:13:27,962
 ¡No puedo creer que viajé
 15,000 km. para esto!
 
 107
-00:13:05,075 --> 00:13:07,923
+00:13:40,016 --> 00:13:42,977
 No puedo creer que me hayas mentido.
 
 108
-00:13:07,955 --> 00:13:09,842
--Lo lamento.
--¿Lo lamentas?
+00:13:43,019 --> 00:13:44,979
+- Lo lamento.
+- ¿Lo lamentas?
 
 109
-00:13:09,875 --> 00:13:12,722
+00:13:45,021 --> 00:13:47,982
 ¿Me metieron unos palitos chinos
 por el culo...
 
 110
-00:13:12,755 --> 00:13:15,603
+00:13:48,024 --> 00:13:50,985
 y tú crees que con pedir perdón basta?
 
 111
-00:13:15,635 --> 00:13:18,482
--Hubo una explosión.
--Me importa poco.
+00:13:51,027 --> 00:13:53,988
+- Hubo una explosión.
+- Me importa poco.
 
 112
-00:13:18,515 --> 00:13:21,363
+00:13:54,030 --> 00:13:56,991
 En tu embajada,
 murieron dos norteamericanos.
 
 113
-00:13:22,355 --> 00:13:25,202
+00:13:58,034 --> 00:14:00,995
 ¿Tú crees que el tal Ricky Tan la voló?
 
 114
-00:13:25,235 --> 00:13:28,017
--No lo sé.
--Entonces, ¿por qué lo buscas?
+00:14:01,037 --> 00:14:03,915
+- No lo sé.
+- Entonces, ¿por qué lo buscas?
 
 115
-00:13:28,052 --> 00:13:30,900
--Vamos a averiguarlo.
--No, tú vas a averiguarlo.
+00:14:03,956 --> 00:14:06,918
+- Vamos a averiguarlo.
+- No, tú vas a averiguarlo.
 
 116
-00:13:30,932 --> 00:13:34,729
+00:14:06,959 --> 00:14:10,922
 Aquí hay dos mil millones de chinos.
 Búscate otro compañero.
 
 117
-00:13:38,613 --> 00:13:41,459
--¿Dónde estamos?
--En un salón de masajes.
+00:14:14,967 --> 00:14:17,929
+- ¿Dónde estamos?
+- En un salón de masajes.
 
 118
-00:13:41,492 --> 00:13:43,380
+00:14:17,970 --> 00:14:19,931
 EI Paraíso Terrenal.
 
 119
-00:13:43,412 --> 00:13:45,300
+00:14:19,972 --> 00:14:21,933
 Esto sí me gusta.
 
 120
-00:13:45,333 --> 00:13:49,129
+00:14:21,974 --> 00:14:25,937
 Voy a entrar a que me den un masaje
 y un baño de té caliente.
 
 121
-00:13:50,132 --> 00:13:53,929
--Imítame. Pórtate como turista.
--Soy turista, tonto.
+00:14:26,979 --> 00:14:30,942
+- Imítame. Pórtate como turista.
+- Soy turista, tonto.
 
 122
-00:13:55,892 --> 00:13:58,740
+00:14:32,985 --> 00:14:35,947
 ¡Más despacio, Chen!
 ¿Qué demonios te pasa?
 
 123
-00:14:06,453 --> 00:14:08,339
+00:14:43,996 --> 00:14:45,957
 Io Ti Pi Co, muchacha.
 
 124
-00:14:09,332 --> 00:14:12,180
+00:14:46,999 --> 00:14:49,961
 Mi amigo está de vacaciones.
 Quiero que lo pase bien.
 
 125
-00:14:12,213 --> 00:14:15,060
+00:14:50,002 --> 00:14:52,964
 Ah, tú norteamericano.
 
 126
-00:14:15,092 --> 00:14:16,980
+00:14:53,005 --> 00:14:54,966
 ¿Trae dinero norteamericano?
 
 127
-00:14:17,973 --> 00:14:19,860
--Yo voy a pagar, Lee.
--¿Seguro?
+00:14:56,008 --> 00:14:57,969
+- Yo voy a pagar, Lee.
+- ¿Seguro?
 
 128
-00:14:19,893 --> 00:14:21,780
+00:14:58,010 --> 00:14:59,971
 Seguro.
 
 129
-00:14:21,813 --> 00:14:23,700
--Gracias.
--De nada.
+00:15:00,012 --> 00:15:01,973
+- Gracias.
+- De nada.
 
 130
-00:14:23,732 --> 00:14:25,555
+00:15:02,014 --> 00:15:03,933
 Pasen por aquí, caballeros.
 
 131
-00:14:34,229 --> 00:14:36,116
+00:15:12,984 --> 00:15:14,944
 ¿Están listos?
 
 132
-00:14:36,149 --> 00:14:38,996
+00:15:14,986 --> 00:15:17,947
 ¿Estás listo?
 Yo estoy listo.
 
 133
-00:14:42,869 --> 00:14:44,756
+00:15:21,993 --> 00:15:23,953
 ¡Dios mío!
 
 134
-00:14:45,749 --> 00:14:48,596
+00:15:24,996 --> 00:15:27,957
 ¡Este lugar ya se reivindicó conmigo!
 Amo a Hong Kong.
 
 135
-00:14:48,629 --> 00:14:52,425
--¿Le ha dado masaje una muchacha china?
--No, pero dicen que es lo máximo.
+00:15:27,999 --> 00:15:31,961
+- ¿Le ha dado masaje una muchacha china?
+- No, pero dicen que es lo máximo.
 
 136
-00:14:52,469 --> 00:14:54,356
+00:15:32,003 --> 00:15:33,963
 Venga conmigo.
 
 137
-00:14:54,389 --> 00:14:57,237
+00:15:34,005 --> 00:15:36,966
 Escoja cualquier chica para Ud.
-y su amigo.
+Y su amigo.
 
 138
-00:14:57,269 --> 00:14:59,156
--¿Cualquier chica?
--Cualquiera.
+00:15:37,008 --> 00:15:38,968
+- ¿Cualquier chica?
+- Cualquiera.
 
 139
-00:15:00,149 --> 00:15:04,906
+00:15:40,011 --> 00:15:44,974
 Está bien.
 No sé por dónde empezar.
 
 140
-00:15:06,869 --> 00:15:08,756
+00:15:47,018 --> 00:15:48,978
 Escojo a esa de allá.
 
 141
-00:15:08,789 --> 00:15:10,677
+00:15:49,020 --> 00:15:50,980
 Ah, sí, es muy linda.
 
 142
-00:15:10,709 --> 00:15:14,506
+00:15:51,022 --> 00:15:54,984
 Sí, pero me lastimé la espalda y
 el cuello y necesito más masaje.
 
 143
-00:15:14,549 --> 00:15:17,397
+00:15:55,026 --> 00:15:57,987
 También me voy a llevar a la de rosa.
 
 144
-00:15:17,429 --> 00:15:19,317
+00:15:58,029 --> 00:15:59,989
 Y a ella. Hola, nena.
 
 145
-00:15:19,350 --> 00:15:23,091
+00:16:00,031 --> 00:16:03,910
 Y luego voy a elegir a ella.
 Y a ella.
 
 146
-00:15:23,125 --> 00:15:25,013
--¿Es buena con los pies?
--Ah, sí.
+00:16:03,951 --> 00:16:05,912
+- ¿Es buena con los pies?
+- Ah, sí.
 
 147
-00:15:25,045 --> 00:15:27,892
--¿Qué haces?
--Dijo que escogiera la que quisiera.
+00:16:05,953 --> 00:16:08,915
+- ¿Qué haces?
+- Dijo que escogiera la que quisiera.
 
 148
-00:15:27,925 --> 00:15:30,772
--Cálmate. Un momento.
--Bueno, apúrate.
+00:16:08,956 --> 00:16:11,918
+- Cálmate. Un momento.
+- Bueno, apúrate.
 
 149
-00:15:30,805 --> 00:15:34,602
+00:16:11,959 --> 00:16:15,922
 Nunca te le adelantes a un negro en
 la cola de un buffet. ¡Cálmate!
 
 150
-00:15:34,646 --> 00:15:37,492
+00:16:15,963 --> 00:16:18,925
 Su amigo tiene un gran apetito.
 
 151
-00:15:37,525 --> 00:15:41,322
+00:16:18,966 --> 00:16:22,929
 Por favor sígala arriba
 al cuarto callado.
 
 152
-00:15:41,366 --> 00:15:44,213
+00:16:22,970 --> 00:16:25,932
 Ya no va a ser callado.
 
 153
-00:15:50,005 --> 00:15:52,853
+00:16:31,979 --> 00:16:34,941
 ¡No saben qué rico se siente esto!
 
 154
-00:15:52,885 --> 00:15:55,733
+00:16:34,982 --> 00:16:37,944
 Tuve una pelea violenta anoche
 con las Triadas.
 
 155
-00:15:55,766 --> 00:15:59,562
+00:16:37,985 --> 00:16:41,948
 Les gané a veinte. Deberían haberme
 visto. Estaba inspirado.
 
 156
-00:15:59,605 --> 00:16:01,493
--¿Lee?
--¿Qué?
+00:16:41,989 --> 00:16:43,950
+- ¿Lee?
+- ¿Qué?
 
 157
-00:16:01,526 --> 00:16:05,322
+00:16:43,991 --> 00:16:47,954
 Esto era lo que yo quería.
 Ahora sí estoy de vacaciones.
 
 158
-00:16:05,365 --> 00:16:08,213
+00:16:47,995 --> 00:16:50,957
 Sabía que no me ibas a fallar.
 Estaba seguro.
 
 159
-00:16:08,246 --> 00:16:12,042
+00:16:50,998 --> 00:16:54,961
 ¿EE.UU.?
 ¿Quieren venir a EE.UU. conmigo?
 
 160
-00:16:12,085 --> 00:16:13,973
+00:16:55,002 --> 00:16:56,963
 ¿Han ido a Estados Unidos?
 
 161
-00:16:14,966 --> 00:16:16,853
+00:16:58,005 --> 00:16:59,966
 Lee, ¿cómo está la tuya?
 
 162
-00:16:16,886 --> 00:16:19,733
--Lee, ¿qué tienes?
--Ese es Ricky Tan.
+00:17:00,007 --> 00:17:02,969
+- Lee, ¿qué tienes?
+- Ese es Ricky Tan.
 
 163
-00:16:19,766 --> 00:16:22,548
+00:17:03,010 --> 00:17:05,930
 ¿Ese es Ricky Tan?
 Es un enano con bata.
 
 164
-00:16:22,583 --> 00:16:26,379
--Pediré refuerzos.
--Mide 1.20. Lo arrestamos de una vez.
+00:17:05,972 --> 00:17:09,892
+- Pediré refuerzos.
+- Mide 1.20. Lo arrestamos de una vez.
 
 165
-00:16:26,422 --> 00:16:28,310
--No.
--¿No?
+00:17:09,976 --> 00:17:11,936
+- No.
+- ¿No?
 
 166
-00:16:28,343 --> 00:16:30,230
+00:17:11,978 --> 00:17:13,938
 Es un hombre peligroso.
 
 167
-00:16:30,263 --> 00:16:33,110
+00:17:13,980 --> 00:17:16,941
 Yo soy un hombre peligroso.
 Vamos ahí a arrestarlo.
 
 168
-00:16:33,142 --> 00:16:36,940
--No me vas a arruinar mi masaje.
--Quédate aquí.
+00:17:16,983 --> 00:17:20,945
+- No me vas a arruinar mi masaje.
+- Quédate aquí.
 
 169
-00:16:36,983 --> 00:16:38,870
+00:17:20,987 --> 00:17:22,947
 No necesitas refuerzos. ¡Estoy yo!
 
 170
-00:16:42,743 --> 00:16:45,590
+00:17:26,993 --> 00:17:29,954
 Discúlpenme un minuto. Sólo un minuto.
 
 171
-00:16:47,542 --> 00:16:51,340
+00:17:31,998 --> 00:17:35,960
 Voy a regresar.
 Voy a regresar.
 
 172
-00:16:53,303 --> 00:16:55,190
+00:17:38,004 --> 00:17:39,964
 Ricky.
 
 173
-00:16:55,223 --> 00:16:59,020
+00:17:40,006 --> 00:17:43,968
 Ricky Tan. Te he andado buscando
 por todos lados. Vámonos.
 
 174
-00:16:59,063 --> 00:17:01,910
--Estoy ocupado en este momento.
--¿No me oíste? Yo también estoy ocupado.
+00:17:44,010 --> 00:17:46,971
+- Estoy ocupado en este momento.
+- ¿No me oíste? Yo también estoy ocupado.
 
 175
-00:17:01,943 --> 00:17:04,790
+00:17:47,013 --> 00:17:49,974
 Ponte de pie. Vamos, párate.
 
 176
-00:17:04,823 --> 00:17:07,671
+00:17:50,016 --> 00:17:52,977
 Yo te conozco. Eres el amigo
 norteamericano de Lee, ¿verdad?
 
 177
-00:17:07,703 --> 00:17:11,500
+00:17:53,019 --> 00:17:56,939
 No, soy su guardaespaldas.
 No te guíes por la bata...
 
 178
-00:17:11,543 --> 00:17:16,300
+00:17:57,023 --> 00:18:01,986
 no tenían otra. Pero te dije que
 te pararas. No te lo diré de nuevo.
 
 179
-00:17:17,303 --> 00:17:20,086
+00:18:03,029 --> 00:18:05,907
 Uds., los norteamericanos,
 son muy cómicos.
 
 180
-00:17:20,119 --> 00:17:22,967
+00:18:05,948 --> 00:18:08,910
 Y Uds., los asiáticos, no oyen bien.
 
 181
-00:17:26,839 --> 00:17:31,596
+00:18:12,955 --> 00:18:17,919
 ¡Levántate de esa silla!
 
 182
-00:17:32,599 --> 00:17:36,396
+00:18:18,961 --> 00:18:22,924
 Arruinando mis vacaciones.
 Te dije que te pararas, ¿no?
 
 183
-00:17:36,440 --> 00:17:40,236
+00:18:22,965 --> 00:18:26,928
 Ahora tendré que pegarte.
 Déjame partirle el culo.
 
 184
-00:17:40,279 --> 00:17:41,207
+00:18:26,969 --> 00:18:28,009
 Déjame encargarme de esto.
 
 185
-00:17:41,752 --> 00:17:43,574
+00:18:28,513 --> 00:18:30,389
 Hola, amigo, ¿cómo estás?
 
 186
-00:17:43,831 --> 00:17:45,172
+00:18:30,681 --> 00:18:32,058
 Necesito hablar contigo.
 
 187
-00:17:45,367 --> 00:17:46,545
+00:18:32,266 --> 00:18:33,518
 ¿Acerca de qué?
 
 188
-00:17:47,575 --> 00:17:48,851
+00:18:34,560 --> 00:18:35,895
 Los norteamericanos muertos.
 
 189
-00:17:48,951 --> 00:17:50,358
+00:18:36,020 --> 00:18:37,480
 Ven a la delegación.
 
 190
-00:17:51,575 --> 00:17:52,785
+00:18:38,731 --> 00:18:40,024
 ¿La delegación?
 
 191
-00:17:53,655 --> 00:17:56,470
+00:18:40,900 --> 00:18:43,861
 Si tienes preguntas, házmelas aquí.
 
 192
-00:17:58,520 --> 00:18:00,407
+00:18:45,988 --> 00:18:47,949
 Mira, hombrecito, vas a venir con...
 
 193
-00:18:00,439 --> 00:18:02,327
+00:18:47,990 --> 00:18:49,951
 Ay, cielos.
 
 194
-00:18:03,320 --> 00:18:07,116
--Quiero pagarte tu computadora.
--No hay problema.
+00:18:50,993 --> 00:18:54,956
+- Quiero pagarte tu computadora.
+- No hay problema.
 
 195
-00:18:07,159 --> 00:18:10,007
+00:18:54,997 --> 00:18:57,959
 Te puedo comprar una nueva.
 La vi en lnternet con DVD.
 
 196
-00:18:10,040 --> 00:18:11,927
+00:18:58,000 --> 00:18:59,961
 Con su permiso.
 
 197
-00:18:11,960 --> 00:18:13,848
+00:19:00,002 --> 00:19:01,963
 Inspector.
 
 198
-00:18:13,880 --> 00:18:15,702
+00:19:02,004 --> 00:19:03,923
 Que les vaya bien.
 
 199
-00:18:22,455 --> 00:18:26,253
+00:19:10,930 --> 00:19:14,892
 Lee, ¿por qué no me dijiste que
 este tipo tenía un ejército?
 
 200
-00:18:26,296 --> 00:18:28,184
--¡Te lo dije!
--¡No es cierto!
+00:19:14,934 --> 00:19:16,935
+- ¡Te lo dije!
+- ¡No es cierto!
 
 201
-00:18:28,216 --> 00:18:30,103
--¿Qué dijiste?
--Hice esto.
+00:19:16,936 --> 00:19:18,937
+- ¿Qué dijiste?
+- Hice esto.
 
 202
-00:18:30,135 --> 00:18:33,933
--¿Qué es eso? ¡Habla inglés!
--Que yo me voy para acá y tú para allá.
+00:19:18,938 --> 00:19:22,900
+- ¿Qué es eso? ¡Habla inglés!
+- Que yo me voy para aquí y tú para allá.
 
 203
-00:18:33,976 --> 00:18:36,823
--¿Yo para allá, tú para acá?
--Sí.
+00:19:22,942 --> 00:19:25,945
+- ¿Yo para allá, tú para aquí?
+- Sí.
 
 204
-00:18:52,216 --> 00:18:54,103
--Ay, perdón.
--¡Carter!
+00:19:41,961 --> 00:19:43,962
+- Ay, perdón.
+- ¡Carter!
 
 205
-00:18:54,136 --> 00:18:56,024
+00:19:43,963 --> 00:19:45,965
 Todos se ven iguales. ¡Cuidado!
 
 206
-00:19:23,897 --> 00:19:25,784
-Con razón estás enojado.
+00:20:14,994 --> 00:20:16,996
+Con razón estás enfadado.
 
 207
-00:19:38,297 --> 00:19:40,184
+00:20:30,009 --> 00:20:32,011
 No te preocupes. No pasa nada.
 
 208
-00:19:43,097 --> 00:19:44,984
+00:20:35,014 --> 00:20:37,016
 Más vale que te vayas.
 
 209
-00:19:53,657 --> 00:19:55,544
+00:20:46,025 --> 00:20:48,027
 ¡Dame la vuelta!
 
 210
-00:20:13,753 --> 00:20:14,680
+00:21:07,004 --> 00:21:08,004
 ¡Cuidado!
 
 211
-00:20:48,090 --> 00:20:50,992
+00:21:42,790 --> 00:21:45,835
 DELEGAClÓN POLICÍACA DE YAU MA TEI
 
 212
-00:20:51,194 --> 00:20:54,990
+00:21:46,043 --> 00:21:50,006
 No, el Ministerio de
 Seguridad Pública le ordenó...
 
 213
-00:20:55,033 --> 00:20:58,831
+00:21:50,047 --> 00:21:54,010
 a ayudar al FBI y al Servicio Secreto
 en nuestra investigación.
 
 214
-00:20:58,874 --> 00:21:01,721
+00:21:54,051 --> 00:21:57,013
 Darnos todo lo que necesitáramos.
 
 215
-00:21:01,753 --> 00:21:04,601
+00:21:57,054 --> 00:22:00,016
 Si Uds. tienen información,
 nos pertenece a nosotros.
 
 216
-00:21:04,634 --> 00:21:07,481
+00:22:00,057 --> 00:22:03,019
 Esto sigue siendo Hong Kong.
 
 217
-00:21:07,514 --> 00:21:11,256
+00:22:03,060 --> 00:22:06,939
 Dos norteamericanos murieron
 en propiedad de EE.UU.
 
 218
-00:21:11,290 --> 00:21:13,178
+00:22:06,981 --> 00:22:08,941
 Denos dos copias.
 
 219
-00:21:13,211 --> 00:21:15,098
+00:22:08,983 --> 00:22:10,943
 Esta investigación es nuestra.
 
 220
-00:21:15,131 --> 00:21:17,978
+00:22:10,985 --> 00:22:13,946
 EI inspector en jefe Lee
 supervisará a su gente.
 
 221
-00:21:18,010 --> 00:21:22,767
+00:22:13,988 --> 00:22:18,951
 No, él estará bajo mis órdenes.
 ¿Nos entendemos?
 
 222
-00:21:27,611 --> 00:21:29,498
+00:22:23,998 --> 00:22:25,958
 ¿Qué diablos es eso?
 
 223
-00:21:29,531 --> 00:21:31,418
+00:22:26,000 --> 00:22:27,960
 Eso es...
 
 224
-00:21:32,411 --> 00:21:34,298
+00:22:29,003 --> 00:22:30,963
 el inspector en jefe Lee.
 
 225
-00:21:34,331 --> 00:21:38,127
+00:22:31,005 --> 00:22:34,967
 Nunca me habían humillado y
 avergonzado así en mi vida.
 
 226
-00:21:38,170 --> 00:21:41,968
+00:22:35,009 --> 00:22:38,971
 Corriendo por todo Hong Kong en pelotas,
 gracias a ti.
 
 227
-00:21:42,011 --> 00:21:43,899
--¿Gracias a mí?
--Sí, a ti.
+00:22:39,013 --> 00:22:40,973
+- ¿Gracias a mí?
+- Sí, a ti.
 
 228
-00:21:43,931 --> 00:21:45,818
+00:22:41,015 --> 00:22:42,975
 Necesitabas apoyo y te lo di.
 
 229
-00:21:45,851 --> 00:21:49,648
+00:22:43,017 --> 00:22:46,979
 Les iba a partir la cara
 pero llegaste y arruinaste todo.
 
 230
-00:21:49,691 --> 00:21:51,578
+00:22:47,021 --> 00:22:48,981
 Basta, estoy harto de tus idioteces.
 
 231
-00:21:51,610 --> 00:21:54,458
+00:22:49,023 --> 00:22:51,984
 ¡Yo estoy harto de ti!
 Yo no me meto en bares de gángsters.
 
 232
-00:21:54,491 --> 00:21:58,288
+00:22:52,026 --> 00:22:55,988
 ¡Y no ando en salones de masajes
 buscando criminales!
 
 233
-00:21:58,331 --> 00:22:00,218
--¡Es mi trabajo!
--Me das lástima.
+00:22:56,030 --> 00:22:57,990
+- ¡Es mi trabajo!
+- Me das lástima.
 
 234
-00:22:00,251 --> 00:22:03,099
+00:22:58,032 --> 00:23:00,993
 ¿Cuándo te vas a divertir un poco?
 
 235
-00:22:03,131 --> 00:22:05,914
+00:23:01,035 --> 00:23:03,955
 ¿Cuándo vas a salir con
 una muchacha o algo?
 
 236
-00:22:05,947 --> 00:22:08,794
--Salgo con muchas.
--¿Cuándo fue la última vez?
+00:23:03,996 --> 00:23:06,958
+- Salgo con muchas.
+- ¿Cuándo fue la última vez?
 
 237
-00:22:08,827 --> 00:22:11,675
+00:23:06,999 --> 00:23:09,961
 ¿Cuando jugaste a
 Esconder la Salchicha?
 
 238
-00:22:11,707 --> 00:22:14,554
+00:23:10,002 --> 00:23:12,964
 Dime, Lee.
 ¿En el Año de la Rata?
 
 239
-00:22:14,587 --> 00:22:16,474
+00:23:13,005 --> 00:23:14,966
 Nunca me vas a entender.
 
 240
-00:22:16,507 --> 00:22:20,304
+00:23:15,007 --> 00:23:18,970
 Tienes razón. Ni siquiera
 entendí eso que dijiste.
 
 241
-00:22:25,147 --> 00:22:27,994
+00:23:24,016 --> 00:23:26,978
 Tienen mi pasaporte
 en el salón de masajes.
 
 242
-00:22:30,907 --> 00:22:32,795
+00:23:30,022 --> 00:23:31,983
 Buenas tardes, señor.
 
 243
-00:22:32,827 --> 00:22:34,715
--Lee.
--Sí, señor.
+00:23:32,024 --> 00:23:33,985
+- Lee.
+- Sí, señor.
 
 244
-00:22:34,748 --> 00:22:37,595
+00:23:34,026 --> 00:23:36,988
 Te presento al agente especial Sterling
 del Servicio Secreto de EE.UU.
 
 245
-00:22:37,627 --> 00:22:42,384
--¿Servicio Secreto? ¿Por qué?
--Siéntese, por favor.
+00:23:37,029 --> 00:23:41,993
+- ¿Servicio Secreto? ¿Por qué?
+- Siéntese, por favor.
 
 246
-00:22:42,427 --> 00:22:46,224
+00:23:42,034 --> 00:23:45,997
 Lo que le voy a decir no puede
 salir de este cuarto.
 
 247
-00:22:47,228 --> 00:22:50,074
+00:23:47,039 --> 00:23:50,001
 Los hombres que murieron ayer
 no eran traductores.
 
 248
-00:22:50,107 --> 00:22:54,865
+00:23:50,042 --> 00:23:55,006
 Eran agentes de aduana clandestinos
 investigando una red de contrabando.
 
 249
-00:22:54,908 --> 00:22:56,794
--¿Contrabando de qué?
--No sabemos.
+00:23:55,047 --> 00:23:57,008
+- ¿Contrabando de qué?
+- No sabemos.
 
 250
-00:22:56,827 --> 00:22:59,675
+00:23:57,049 --> 00:24:00,011
 Sea lo que sea, los mataron por eso.
 
 251
-00:23:00,668 --> 00:23:05,370
--¿En qué le podemos servir?
--En no estorbarnos.
+00:24:01,053 --> 00:24:05,933
+- ¿En qué le podemos servir?
+- En no estorbarnos.
 
 252
-00:23:07,323 --> 00:23:10,171
--Gracias.
--Puedo arrestar a Ricky Tan.
+00:24:07,977 --> 00:24:10,938
+- Gracias.
+- Puedo arrestar a Ricky Tan.
 
 253
-00:23:10,204 --> 00:23:13,051
+00:24:10,980 --> 00:24:13,941
 No. Ya sabemos todo sobre Tan.
 
 254
-00:23:13,083 --> 00:23:15,931
+00:24:13,983 --> 00:24:16,944
 Lo estamos dejando como carnada.
 
 255
-00:23:15,964 --> 00:23:19,760
+00:24:16,986 --> 00:24:20,948
 Esto es mucho más grande que Ricky Tan
 y las Triadas de Fu Cang Long.
 
 256
-00:23:24,604 --> 00:23:26,491
+00:24:25,995 --> 00:24:27,955
 Hola, preciosa.
 
 257
-00:23:47,644 --> 00:23:49,531
+00:24:50,019 --> 00:24:51,979
 Gracias, Lee.
 
 258
-00:24:17,340 --> 00:24:20,188
+00:25:21,008 --> 00:25:23,970
 ¡Carter! ¡Carter!
 
 259
-00:24:21,180 --> 00:24:24,027
+00:25:25,012 --> 00:25:27,974
 Salón de masajes Paraíso Terrenal.
 
 260
-00:24:25,020 --> 00:24:26,908
+00:25:29,016 --> 00:25:30,977
 ¿Paraíso Terrenal?
 
 261
-00:24:28,861 --> 00:24:32,657
+00:25:33,020 --> 00:25:36,941
 Hola. Trajes baratos.
 Hola. Trajes baratos.
 
 262
-00:24:32,700 --> 00:24:35,548
--¡Trajes baratos! ¡Trajes baratos!
--¿Qué tan baratos?
+00:25:37,024 --> 00:25:39,986
+- ¡Trajes baratos! ¡Trajes baratos!
+- ¿Qué tan baratos?
 
 263
-00:24:35,581 --> 00:24:37,468
+00:25:40,027 --> 00:25:41,988
 Baratos.
 
 264
-00:24:53,820 --> 00:24:55,708
+00:25:59,046 --> 00:26:01,007
 Disculpe.
 
 265
-00:24:55,741 --> 00:24:59,483
+00:26:01,048 --> 00:26:04,927
 ¿No sabe dónde está el salón
 de masajes Paraíso Terrenal?
 
 266
-00:24:59,518 --> 00:25:02,365
--Hola. ¿Cómo está?
--Bien.
+00:26:04,969 --> 00:26:07,930
+- Hola. ¿Cómo está?
+- Bien.
 
 267
-00:25:03,357 --> 00:25:07,154
+00:26:08,973 --> 00:26:12,935
 ¡No! Yo no quiero un pollo. No,
 no lo quiero. ¿Qué hago con un pollo?
 
 268
-00:25:11,998 --> 00:25:13,885
+00:26:17,982 --> 00:26:19,942
 No me gusta el pollo vivo.
 
 269
-00:25:14,877 --> 00:25:19,635
+00:26:20,985 --> 00:26:25,948
 Me gusta muerto y frito,
 como el de Popeye.
 
 270
-00:25:21,597 --> 00:25:25,395
+00:26:27,992 --> 00:26:31,954
 ¡No, no! ¡No!
 No mate pollo.
 
 271
-00:25:27,358 --> 00:25:32,115
+00:26:33,998 --> 00:26:38,961
 Se lo advierto. Yo soy policía.
 ¡Baje el hacha y suelte el ave!
 
 272
-00:25:39,838 --> 00:25:41,726
+00:26:47,011 --> 00:26:48,971
 ¿Estás bien, Lee?
 
 273
-00:25:43,678 --> 00:25:46,525
+00:26:51,015 --> 00:26:53,976
 Lo único que quería
 era un poco de mu shu.
 
 274
-00:26:00,894 --> 00:26:02,782
-¡Caray!
+00:27:08,950 --> 00:27:10,952
+¡Vaya!
 
 275
-00:26:03,774 --> 00:26:05,661
+00:27:11,953 --> 00:27:13,955
 ¡Oiga, taxi! ¡Taxi!
 
 276
-00:26:08,574 --> 00:26:10,462
+00:27:16,958 --> 00:27:18,960
 Siga ese auto.
 
 277
-00:26:11,455 --> 00:26:16,211
+00:27:19,961 --> 00:27:24,924
 Siga esa limusina. Es una persecución.
 Síguela a donde vaya.
 
 278
-00:26:16,254 --> 00:26:19,102
+00:27:24,966 --> 00:27:27,969
 ¡Está parado!
 ¡Esto es lo opuesto a perseguir!
 
 279
-00:26:21,054 --> 00:26:22,942
+00:27:29,971 --> 00:27:31,972
 ¡Le pego si no mueve este auto!
 
 280
-00:26:22,974 --> 00:26:24,862
+00:27:31,973 --> 00:27:33,975
 ¡Te voy a pegar!
 
 281
-00:26:26,814 --> 00:26:28,702
+00:27:35,977 --> 00:27:37,978
 Bueno, mire.
 
 282
-00:26:28,734 --> 00:26:31,582
+00:27:37,979 --> 00:27:40,982
 ¿Entiende eso?
 
 283
-00:26:34,494 --> 00:26:38,291
--Ahora está hablando mi idioma.
--Empiece a manejar. ¡Vámonos!
+00:27:43,985 --> 00:27:47,947
+- Ahora está hablando mi idioma.
+- Empiece a manejar. ¡Vámonos!
 
 284
-00:27:24,736 --> 00:27:29,973
+00:28:36,370 --> 00:28:41,834
 Ricky Tan va a hacer una fiesta
 esta noche, en su yate.
 
 285
-00:27:30,975 --> 00:27:32,251
+00:28:42,877 --> 00:28:44,212
 ¿Le dijo a Sterling?
 
 286
-00:27:32,511 --> 00:27:37,887
+00:28:44,504 --> 00:28:50,092
 Que se entere como pueda. Quiero
 a mi policía trabajando en esto.
 
 287
-00:28:02,687 --> 00:28:06,484
+00:29:15,952 --> 00:29:19,914
 Espéreme aquí. Vuelvo enseguida.
 ¿Me entiende?
 
 288
-00:28:06,527 --> 00:28:10,324
--¡Sí, le entiendo!
--Y no se coma mi pollo, ¿está bien?
+00:29:19,956 --> 00:29:23,918
+- ¡Sí, le entiendo!
+- Y no se coma mi pollo, ¿está bien?
 
 289
-00:28:10,367 --> 00:28:11,295
+00:29:23,960 --> 00:29:24,919
 Está bien. ¡Jesús!
 
 290
-00:28:11,327 --> 00:28:14,175
--Todo bien.
--Todo bien. Que cosa.
+00:29:24,961 --> 00:29:27,922
+- Todo bien.
+- Todo bien. Que cosa.
 
 291
-00:29:33,489 --> 00:29:38,245
+00:30:51,047 --> 00:30:56,010
 ¿Cómo estás, nena? Carter. James Carter.
 Baldwin Hills.
 
 292
-00:29:38,288 --> 00:29:41,136
--Isabella Molina. De San Juan.
--¿San Juan?
+00:30:56,052 --> 00:30:59,013
+- Isabella Molina. De San Juan.
+- ¿San Juan?
 
 293
-00:29:41,169 --> 00:29:45,871
+00:30:59,055 --> 00:31:03,976
 Yo conozco San Juan. He ido
 muchas veces en mi avión privado.
 
 294
-00:29:45,905 --> 00:29:50,662
+00:31:04,018 --> 00:31:08,981
 Conocerás a mi amigo Pedro Morales
 Magonzales Marato Mondustos.
 
 295
-00:29:50,705 --> 00:29:52,593
--Creo que no. No.
--¿Segura?
+00:31:09,023 --> 00:31:10,983
+- Creo que no. No.
+- ¿Segura?
 
 296
-00:29:52,625 --> 00:29:55,473
+00:31:11,025 --> 00:31:13,986
 Pensé que te movías
 en los mejores círculos.
 
 297
-00:29:55,506 --> 00:30:00,262
+00:31:14,028 --> 00:31:18,991
 Pero siéntete como en tu casa.
 Si necesitas algo, champaña, caviar...
 
 298
-00:30:00,305 --> 00:30:02,193
+00:31:19,033 --> 00:31:20,993
 Mi yate es todo tuyo.
 
 299
-00:30:03,186 --> 00:30:05,073
--¿Este yate es tuyo?
--Así es.
+00:31:22,036 --> 00:31:23,996
+- ¿Este yate es tuyo?
+- Así es.
 
 300
-00:30:05,105 --> 00:30:08,903
+00:31:24,038 --> 00:31:28,000
 Yo soy el dueño.
 EI capitán. EI Capitán.
 
 301
-00:30:08,946 --> 00:30:11,793
--¿EI Capitán?
--Sí.
+00:31:28,042 --> 00:31:31,003
+- ¿EI Capitán?
+- Sí.
 
 302
-00:30:11,825 --> 00:30:15,623
+00:31:31,045 --> 00:31:35,007
 Mira, no voy a andar con rodeos contigo.
 Te deseo ahora mismo.
 
 303
-00:30:15,666 --> 00:30:20,422
+00:31:35,049 --> 00:31:40,012
 Los veo a los dos juntos abajo,
 en uno de esos baños, en 5 minutos.
 
 304
-00:30:20,466 --> 00:30:25,223
+00:31:40,054 --> 00:31:45,017
 Pues, me tienta mucho la idea.
 Es un yate hermoso.
 
 305
-00:30:26,225 --> 00:30:29,073
--¿Cómo se llama?
--¿Cómo se llama?
+00:31:46,060 --> 00:31:49,021
+- ¿Cómo se llama?
+- ¿Cómo se llama?
 
 306
-00:30:29,106 --> 00:30:31,954
--Su yate.
--EI S.S. Minnow Johnson.
+00:31:49,063 --> 00:31:52,024
+- Su yate.
+- EI S.S. Minnow Johnson.
 
 307
-00:30:31,986 --> 00:30:33,873
--¿EI S.S. Minnow Johnson?
--Sí.
+00:31:52,066 --> 00:31:54,026
+- ¿EI S.S. Minnow Johnson?
+- Sí.
 
 308
-00:30:33,906 --> 00:30:36,753
+00:31:54,068 --> 00:31:57,029
 Qué curioso.
 Atrás decía EI Dragón Rojo.
 
 309
-00:30:36,786 --> 00:30:38,674
+00:31:57,071 --> 00:31:59,031
 ¿EI Dragón Rojo? ¿Segura?
 
 310
-00:30:38,706 --> 00:30:42,503
+00:31:59,073 --> 00:32:03,035
 Sí, estoy segura.
 Porque este yate es de un amigo.
 
 311
-00:30:42,546 --> 00:30:44,368
--¿De un amigo?
--Y esta fiesta es de él.
+00:32:03,077 --> 00:32:04,954
+- ¿De un amigo?
+- Y esta fiesta es de él.
 
 312
-00:30:44,402 --> 00:30:48,198
+00:32:04,996 --> 00:32:08,958
 Creo que me equivoqué de yate.
 Hacen todos los yates iguales.
 
 313
-00:30:48,242 --> 00:30:52,039
+00:32:09,000 --> 00:32:12,962
 Sabía que algo andaba mal
 cuando mi llave no abrió.
 
 314
-00:30:52,082 --> 00:30:55,879
--¿Quién es tu amigo?
--Se equivocó de yate.
+00:32:13,004 --> 00:32:16,966
+- ¿Quién es tu amigo?
+- Se equivocó de yate.
 
 315
-00:30:55,922 --> 00:30:57,809
+00:32:17,008 --> 00:32:18,968
 Un segundo. Yo lo conozco.
 ¿Es Ud. Steven Reign?
 
 316
-00:30:57,842 --> 00:31:01,639
+00:32:19,010 --> 00:32:22,972
 Es dueño de la mitad de Los Ángeles.
 ¿Qué hace aquí?
 
 317
-00:31:01,683 --> 00:31:03,569
+00:32:23,014 --> 00:32:24,974
 Pasando el fin de semana, de turista.
 
 318
-00:31:03,602 --> 00:31:07,399
+00:32:25,016 --> 00:32:28,978
 Ud. también tiene su avión, ¿no?
 Qué divertido.
 
 319
-00:31:07,442 --> 00:31:09,329
--¿Nos vamos?
--Sí.
+00:32:29,020 --> 00:32:30,980
+- ¿Nos vamos?
+- Sí.
 
 320
-00:31:10,322 --> 00:31:15,079
--Que disfrute de la fiesta, Sr. Carter.
--Eso pienso hacer, Srta. Isabella.
+00:32:32,023 --> 00:32:36,986
+- Que disfrute de la fiesta, Sr. Carter.
+- Eso pienso hacer, Srta. Isabella.
 
 321
-00:31:15,123 --> 00:31:17,969
+00:32:37,028 --> 00:32:39,989
 Hasta luego, Stevie. Pórtese bien.
 
 322
-00:31:30,483 --> 00:31:34,279
--Ricky Tan. ¿Dónde está?
--No lo sé.
+00:32:53,044 --> 00:32:57,006
+- Ricky Tan. ¿Dónde está?
+- No lo sé.
 
 323
-00:31:34,322 --> 00:31:37,170
+00:32:57,048 --> 00:33:00,009
 Mató hoy a un detective. ¿Dónde está?
 
 324
-00:31:37,203 --> 00:31:39,090
+00:33:00,051 --> 00:33:02,011
 ¿A quién mataron?
 
 325
-00:31:39,122 --> 00:31:41,905
--¿Carter?
--¿Quién se murió, Lee?
+00:33:02,053 --> 00:33:04,971
+- ¿Carter?
+- ¿Quién se murió, Lee?
 
 326
-00:31:41,938 --> 00:31:43,826
--Tú.
--¿EI detective Tu?
+00:33:04,972 --> 00:33:06,973
+- Tú.
+- ¿EI detective Tu?
 
 327
-00:31:43,859 --> 00:31:45,745
--Tu no. ¡Tú!
--¿Quién?
+00:33:06,974 --> 00:33:08,975
+- Tu no. ¡Tú!
+- ¿Quién?
 
 328
-00:31:45,778 --> 00:31:47,666
--¡Tú!
--¿Quién?
+00:33:08,976 --> 00:33:10,977
+- ¡Tú!
+- ¿Quién?
 
 329
-00:31:47,698 --> 00:31:50,546
+00:33:10,978 --> 00:33:13,980
 ¿Entiendes las palabras
 que salen de mi boca?
 
 330
-00:31:50,579 --> 00:31:54,375
+00:33:13,981 --> 00:33:17,944
 ¡Nadie entiende las palabras
 que salen de tu boca!
 
 331
-00:31:54,418 --> 00:31:56,306
+00:33:17,985 --> 00:33:19,987
 Ricky Tan lo está esperando.
 
 332
-00:32:02,098 --> 00:32:03,986
+00:33:25,993 --> 00:33:27,994
 ¿Qué demonios pasa aquí, Lee?
 
 333
-00:32:04,019 --> 00:32:06,867
+00:33:27,995 --> 00:33:30,997
 ¿Recuerdas que mi padre era policía?
 
 334
-00:32:06,899 --> 00:32:08,786
--Ricky Tan era su compañero.
--¿Qué?
+00:33:30,998 --> 00:33:33,000
+- Ricky Tan era su compañero.
+- ¿Qué?
 
 335
-00:32:09,266 --> 00:32:11,339
+00:33:33,501 --> 00:33:35,628
 Hu Li, me decepcionas.
 
 336
-00:32:12,467 --> 00:32:14,289
+00:33:36,838 --> 00:33:38,714
 ¿Has olvidado de dónde eres?
 
 337
-00:32:15,378 --> 00:32:17,288
+00:33:39,841 --> 00:33:41,843
 No olvides para quién trabajas.
 
 338
-00:32:18,227 --> 00:32:20,813
+00:33:42,844 --> 00:33:45,513
 ¿Creíste que algún día serías líder?
 
 339
-00:32:24,179 --> 00:32:26,066
+00:33:49,016 --> 00:33:51,018
 Fuera de aquí.
 
 340
-00:32:28,979 --> 00:32:32,776
+00:33:54,021 --> 00:33:57,984
 Lee, te estaba esperando. Dile a
 tu compañero que espere adentro.
 
 341
-00:32:32,819 --> 00:32:35,667
--No, yo no me voy.
--Está bien.
+00:33:58,025 --> 00:34:01,027
+- No, yo no me voy.
+- Está bien.
 
 342
-00:32:35,700 --> 00:32:38,481
--No te voy a dejar solo.
--No me pasará nada.
+00:34:01,028 --> 00:34:03,948
+- No te voy a dejar solo.
+- No me pasará nada.
 
 343
-00:32:38,516 --> 00:32:40,403
--¿Seguro?
--Sí.
+00:34:03,990 --> 00:34:05,950
+- ¿Seguro?
+- Sí.
 
 344
-00:32:41,396 --> 00:32:43,283
+00:34:06,993 --> 00:34:08,953
 Voy a estar arriba.
 
 345
-00:32:46,196 --> 00:32:50,952
+00:34:11,998 --> 00:34:16,961
 Ya sé lo que todos están diciendo.
 Yo no volé la embajada.
 
 346
-00:32:51,956 --> 00:32:53,843
+00:34:18,004 --> 00:34:19,964
 No soy tan estúpido.
 
 347
-00:32:54,836 --> 00:32:57,683
+00:34:21,007 --> 00:34:23,968
 Pero creo que fueron
 unos elementos míos.
 
 348
-00:32:57,716 --> 00:33:00,563
+00:34:24,010 --> 00:34:26,971
 Mis enemigos me quieren incriminar.
 
 349
-00:33:00,596 --> 00:33:04,393
+00:34:27,013 --> 00:34:30,975
 Las Triadas están peleando
 una guerra interna.
 
 350
-00:33:05,396 --> 00:33:08,244
+00:34:32,018 --> 00:34:34,979
 Me temo que voy a perder.
 
 351
-00:33:09,236 --> 00:33:12,084
+00:34:36,022 --> 00:34:38,983
 Si tu padre estuviera vivo,
 le pediría un consejo.
 
 352
-00:33:12,117 --> 00:33:14,003
+00:34:39,025 --> 00:34:40,985
 No empieces.
 
 353
-00:33:14,036 --> 00:33:17,833
+00:34:41,027 --> 00:34:44,989
 Lee, necesito tu ayuda.
 No puedo confiar en nadie más.
 
 354
-00:33:17,877 --> 00:33:20,723
+00:34:45,031 --> 00:34:47,992
 ¿Por qué mataron a
 los agentes aduaneros?
 
 355
-00:33:20,756 --> 00:33:24,553
+00:34:48,034 --> 00:34:51,996
 Te daré toda la información
 que necesites, pero...
 
 356
-00:33:24,597 --> 00:33:27,443
+00:34:52,038 --> 00:34:54,999
 tienes que sacarme
 de Hong Kong ahora mismo.
 
 357
-00:33:29,396 --> 00:33:31,284
+00:34:57,043 --> 00:34:59,003
 Oiga, ¿qué está haciendo?
 
 358
-00:34:06,773 --> 00:34:10,569
+00:35:35,998 --> 00:35:39,961
 Bájese. Policía de L.A.
 
 359
-00:34:13,493 --> 00:34:16,341
+00:35:43,005 --> 00:35:46,007
 ¿Me acabas de patear?
 Debes de estar loca.
 
 360
-00:34:16,373 --> 00:34:20,170
+00:35:46,008 --> 00:35:49,971
 ¿Quieres pelear? ¡Te voy a partir
 la cara como en mi tierra!
 
 361
-00:34:45,109 --> 00:34:46,996
--¿Estás bien?
--Sí.
+00:36:15,997 --> 00:36:17,957
+- ¿Estás bien?
+- Sí.
 
 362
-00:34:47,029 --> 00:34:48,916
+00:36:17,999 --> 00:36:19,959
 Me resbalé y me caí.
 
 363
-00:34:49,909 --> 00:34:51,797
--¿Qué?
--¿Estoy sangrando?
+00:36:21,002 --> 00:36:22,962
+- ¿Qué?
+- ¿Estoy sangrando?
 
 364
-00:35:04,309 --> 00:35:06,197
+00:36:36,017 --> 00:36:37,977
 Qué noche, inspector.
 
 365
-00:35:07,190 --> 00:35:10,037
+00:36:39,020 --> 00:36:41,981
 Ricky Tan era nuestra única carnada
 y lo perdimos.
 
 366
-00:35:10,069 --> 00:35:14,827
+00:36:42,023 --> 00:36:46,986
 Así que Ud. se vengó a costa de
 la investigación norteamericana.
 
 367
-00:35:14,870 --> 00:35:18,666
--¿Te vengaste? ¿De qué habla?
--No sé si las Triadas...
+00:36:47,028 --> 00:36:50,990
+- ¿Te vengaste? ¿De qué habla?
+- No sé si las Triadas...
 
 368
-00:35:18,709 --> 00:35:21,557
+00:36:51,032 --> 00:36:53,993
 Ie pagaron por matar a Tan
 o si fue un asesinato de vendetta...
 
 369
-00:35:21,590 --> 00:35:24,437
+00:36:54,035 --> 00:36:56,996
 o si Ud. está metido en el contrabando.
 
 370
-00:35:24,469 --> 00:35:27,317
+00:36:57,038 --> 00:36:59,999
 Pero queda fuera del caso.
 No lo quiero volver a ver.
 
 371
-00:35:27,350 --> 00:35:31,091
--¿Qué pasa?
--Ud. tiene sus problemas. Cállese.
+00:37:00,041 --> 00:37:03,920
+- ¿Qué pasa?
+- Ud. tiene sus problemas. Cállese.
 
 372
-00:35:31,125 --> 00:35:33,013
+00:37:03,961 --> 00:37:05,922
 No se meta.
 
 373
-00:35:33,045 --> 00:35:36,843
--Va a volver a Los Ángeles ahora mismo.
--Por mí, perfecto.
+00:37:05,963 --> 00:37:09,926
+- Va a volver a Los Ángeles ahora mismo.
+- Por mí, perfecto.
 
 374
-00:35:36,886 --> 00:35:39,733
+00:37:09,967 --> 00:37:12,929
 No me he divertido nada
 desde que llegué.
 
 375
-00:35:42,646 --> 00:35:44,533
+00:37:15,973 --> 00:37:17,934
 Lo siento, Lee.
 
 376
-00:35:45,525 --> 00:35:48,373
--Escóltenlo al aeropuerto.
--No.
+00:37:18,976 --> 00:37:21,938
+- Escóltenlo al aeropuerto.
+- No.
 
 377
-00:35:49,366 --> 00:35:51,253
+00:37:22,980 --> 00:37:24,941
 Yo lo llevo.
 
 378
-00:35:51,286 --> 00:35:53,173
+00:37:24,982 --> 00:37:26,943
 ¡No me toquen!
 
 379
-00:35:59,925 --> 00:36:04,683
--Tú no entiendes.
--Entiendo bien.
+00:37:33,991 --> 00:37:38,955
+- Tú no entiendes.
+- Entiendo bien.
 
 380
-00:36:04,726 --> 00:36:08,523
+00:37:38,996 --> 00:37:42,959
 Me tiraron de un edificio, me pegaron,
 me desnudaron completamente...
 
 381
-00:36:08,566 --> 00:36:11,414
+00:37:43,000 --> 00:37:45,962
 y tú me guardaste secretos.
 Yo me voy.
 
 382
-00:36:18,166 --> 00:36:21,963
+00:37:53,010 --> 00:37:56,973
 Ricky Tan vendió a mi padre.
 
 383
-00:36:22,006 --> 00:36:23,893
+00:37:57,014 --> 00:37:58,975
 ¿Qué?
 
 384
-00:36:28,663 --> 00:36:32,460
+00:38:03,980 --> 00:38:07,942
 Hace 5 años, mi padre trabajaba en
 un caso de contrabando internacional.
 
 385
-00:36:32,503 --> 00:36:35,350
+00:38:07,984 --> 00:38:10,945
 Descubrió que su compañero
 era de las Triadas.
 
 386
-00:36:35,383 --> 00:36:39,180
+00:38:10,987 --> 00:38:14,949
 Pero antes de poder probarlo
 lo mataron.
 
 387
-00:36:40,183 --> 00:36:44,940
+00:38:15,992 --> 00:38:20,955
 Toda la evidencia desapareció.
 Ricky Tan renunció y ahí quedó todo.
 
 388
-00:36:45,943 --> 00:36:48,791
+00:38:21,998 --> 00:38:24,959
 Estás resolviendo
 el último caso de tu papi.
 
 389
-00:36:53,623 --> 00:36:56,471
--¿Entonces vas a venir conmigo?
--¿Qué?
+00:38:30,006 --> 00:38:32,967
+- ¿Entonces vas a venir conmigo?
+- ¿Qué?
 
 390
-00:36:56,504 --> 00:36:59,351
+00:38:33,009 --> 00:38:35,970
 Tú sabes que mi papi
 también murió trabajando.
 
 391
-00:36:59,383 --> 00:37:02,231
+00:38:36,012 --> 00:38:38,973
 Yo haría lo que fuera
 por saldar ese asunto.
 
 392
-00:37:02,264 --> 00:37:07,020
+00:38:39,015 --> 00:38:43,978
 Yo haría lo que fuera.
 ¿Vienes o no?
 
 393
-00:37:11,863 --> 00:37:13,751
+00:38:49,025 --> 00:38:50,985
 ¿Por qué a Los Ángeles?
 
 394
-00:37:15,704 --> 00:37:19,500
+00:38:53,029 --> 00:38:56,991
 Esta es la teoría, Carter,
 de investigación criminal:
 
 395
-00:37:19,543 --> 00:37:21,431
+00:38:57,033 --> 00:38:58,993
 Sigue al hombre blanco rico.
 
 396
-00:37:21,463 --> 00:37:24,311
--¿"Sigue al hombre blanco rico"?
--Exacto. Estás aprendiendo.
+00:38:59,035 --> 00:39:01,996
+- ¿"Sigue al hombre blanco rico"?
+- Exacto. Estás aprendiendo.
 
 397
-00:37:24,344 --> 00:37:28,086
+00:39:02,038 --> 00:39:05,917
 En todo crimen grande hay
 un blanco rico esperando su tajada.
 
 398
-00:37:28,119 --> 00:37:30,967
+00:39:05,958 --> 00:39:08,920
 En tu caso sabemos
 quién es el blanco rico.
 
 399
-00:37:31,000 --> 00:37:32,887
--Steven Reign.
--¿Quién?
+00:39:08,961 --> 00:39:10,922
+- Steven Reign.
+- ¿Quién?
 
 400
-00:37:32,920 --> 00:37:35,767
+00:39:10,963 --> 00:39:13,925
 EI hotelero multimillonario.
 Lo vi en el yate de Tan.
 
 401
-00:37:35,799 --> 00:37:40,556
+00:39:13,966 --> 00:39:18,930
 Cuando empezaron los tiros, ni se
 inmutó. Los blancos reaccionan.
 
 402
-00:37:40,599 --> 00:37:44,397
+00:39:18,971 --> 00:39:22,934
 O corren o se ponen atrás
 de mesas o gritan así:
 
 403
-00:37:45,400 --> 00:37:47,288
+00:39:23,976 --> 00:39:25,937
 Tú suenas así todo el tiempo.
 
 404
-00:37:47,320 --> 00:37:52,077
+00:39:25,978 --> 00:39:30,942
 Los negros, cuando hay problemas,
 conservamos la calma.
 
 405
-00:37:52,120 --> 00:37:54,967
+00:39:30,983 --> 00:39:33,945
 Quizá, pero los asiáticos
 no conocemos el pánico.
 
 406
-00:37:54,999 --> 00:37:57,847
+00:39:33,986 --> 00:39:36,948
 No, qué va. Cuando viene
 Godzilla, se vuelven locos.
 
 407
-00:37:57,880 --> 00:38:00,728
+00:39:36,989 --> 00:39:39,951
 Yo vi la película.
 Gritan, "¡Gaica, Gaica!"
 
 408
-00:38:00,760 --> 00:38:03,607
--No paran. He visto a chinos...
--Sr. Carter. Disculpe.
+00:39:39,992 --> 00:39:42,954
+- No paran. He visto a chinos...
+- Sr. Carter. Disculpe.
 
 409
-00:38:03,640 --> 00:38:05,527
+00:39:42,995 --> 00:39:44,956
 Gracias. ¿Es la comida "kosher"?
 
 410
-00:38:05,560 --> 00:38:08,408
--Sí, es la comida kosher.
--Shalom.
+00:39:44,997 --> 00:39:47,959
+- Sí, es la comida kosher.
+- Shalom.
 
 411
-00:38:21,880 --> 00:38:24,727
+00:40:02,014 --> 00:40:04,976
 Ahí está precisamente.
 EI Sr. Steven Reign.
 
 412
-00:38:24,760 --> 00:38:27,608
+00:40:05,017 --> 00:40:07,979
 Viviendo la gran vida
 en uno de sus penthouses.
 
 413
-00:38:29,561 --> 00:38:31,447
+00:40:10,022 --> 00:40:11,983
 ¿Adivina quién es esa?
 
 414
-00:38:31,480 --> 00:38:35,277
+00:40:12,024 --> 00:40:15,987
 Es la mujer que estaba
 en el yate de Ricky Tan.
 
 415
-00:38:35,320 --> 00:38:38,167
+00:40:16,028 --> 00:40:18,990
 Ya los agarramos.
 
 416
-00:38:38,200 --> 00:38:42,957
+00:40:19,031 --> 00:40:23,995
 Te dije que iba a dar resultado.
 Ahora sólo necesitamos esperar.
 
 417
-00:38:43,001 --> 00:38:44,888
+00:40:24,036 --> 00:40:25,997
 ¿Siguen hablando?
 
 418
-00:38:46,840 --> 00:38:48,728
--Él se está yendo.
--Va a volver.
+00:40:28,040 --> 00:40:30,001
+- Él se está yendo.
+- Va a volver.
 
 419
-00:38:48,760 --> 00:38:51,608
--¿Cómo sabes?
--Porque sé. ¿No es bella esa mujer?
+00:40:30,042 --> 00:40:33,004
+- ¿Cómo sabes?
+- Porque sé. ¿No es bella esa mujer?
 
 420
-00:38:51,641 --> 00:38:54,488
+00:40:33,045 --> 00:40:36,007
 Definitivamente regresa.
 
 421
-00:39:00,280 --> 00:39:02,168
+00:40:42,054 --> 00:40:44,015
 ¿Qué está haciendo?
 
 422
-00:39:04,121 --> 00:39:08,877
--¿Qué está haciendo, amigo?
--Está ahí parada, sin hacer gran cosa.
+00:40:46,058 --> 00:40:51,022
+- ¿Qué está haciendo, amigo?
+- Está ahí parada, sin hacer gran cosa.
 
 423
-00:39:08,921 --> 00:39:12,718
+00:40:51,063 --> 00:40:55,026
 No te duermas.
 Tarde o temprano va a pasar algo.
 
 424
-00:39:12,761 --> 00:39:17,518
+00:40:55,067 --> 00:41:00,031
 Está bien. Trataré de no dormir.
 Es muy aburrido.
 
 425
-00:39:21,337 --> 00:39:25,134
--Más despacio, nena.
--¿Qué?
+00:41:03,993 --> 00:41:07,955
+- Más despacio, nena.
+- ¿Qué?
 
 426
-00:39:26,137 --> 00:39:28,984
--Nada. No dije nada.
--Dijiste algo.
+00:41:08,998 --> 00:41:12,000
+- Nada. No dije nada.
+- Dijiste algo.
 
 427
-00:39:29,016 --> 00:39:30,904
--No dije nada.
--Te oí decir algo.
+00:41:12,001 --> 00:41:14,002
+- No dije nada.
+- Te oí decir algo.
 
 428
-00:39:30,937 --> 00:39:31,864
+00:41:14,003 --> 00:41:15,004
 No, nada.
 
 429
-00:39:43,417 --> 00:39:46,264
+00:41:27,016 --> 00:41:30,018
 ¿Qué pasa? ¿De qué estás hablando?
 
 430
-00:39:46,297 --> 00:39:49,145
--Se está desvistiendo.
--¿Qué?
+00:41:30,019 --> 00:41:33,021
+- Se está desvistiendo.
+- ¿Qué?
 
 431
-00:39:49,177 --> 00:39:52,024
--Nada más se está desvistiendo.
--Dame esa cosa.
+00:41:33,022 --> 00:41:36,025
+- Nada más se está desvistiendo.
+- Dame esa cosa.
 
 432
-00:39:53,017 --> 00:39:54,905
+00:41:37,026 --> 00:41:39,027
 No está bien.
 
 433
-00:39:54,937 --> 00:39:56,825
--¡Señor, ten piedad!
--¿Qué?
+00:41:39,028 --> 00:41:41,029
+- ¡Señor, ten piedad!
+- ¿Qué?
 
 434
-00:39:56,858 --> 00:39:59,704
--Se quitó la falda.
--No puedo oír esto.
+00:41:41,030 --> 00:41:44,032
+- Se quitó la falda.
+- No puedo oír esto.
 
 435
-00:39:59,737 --> 00:40:02,585
+00:41:44,033 --> 00:41:47,035
 Calzones negros, sostén negro.
 
 436
-00:40:02,617 --> 00:40:07,374
+00:41:47,036 --> 00:41:51,999
 "Victoria"s Secret", catálogo de
 primavera, página 27. Sabe vestir.
 
 437
-00:40:07,417 --> 00:40:10,265
+00:41:52,041 --> 00:41:55,043
 Déjame acercarme más.
 
 438
-00:40:10,298 --> 00:40:14,094
+00:41:55,044 --> 00:41:59,006
 Ay, mira eso. Tiene un pequeño tatuaje.
 Qué lindo. Parece...
 
 439
-00:40:14,137 --> 00:40:16,025
--Snoopy.
--¿Snoopy?
+00:41:59,048 --> 00:42:01,049
+- Snoopy.
+- ¿Snoopy?
 
 440
-00:40:16,057 --> 00:40:19,799
--A mí me encanta Snoopy.
--A mí también me encanta. Déjame ver.
+00:42:01,050 --> 00:42:04,971
+- A mí me encanta Snoopy.
+- A mí también me encanta. Déjame ver.
 
 441
-00:40:19,833 --> 00:40:21,720
+00:42:05,012 --> 00:42:06,973
 Espera.
 
 442
-00:40:21,753 --> 00:40:25,550
+00:42:07,014 --> 00:42:10,977
 Va a la puerta. Espera.
 Va a la puerta.
 
 443
-00:40:25,594 --> 00:40:27,480
+00:42:11,018 --> 00:42:12,979
 Está abriendo la puerta.
 
 444
-00:40:28,473 --> 00:40:32,270
+00:42:14,021 --> 00:42:17,984
 Parece que alguien le está dando
 un paquete. Un momento.
 
 445
-00:40:32,314 --> 00:40:36,110
+00:42:18,025 --> 00:42:21,988
 Parece la misma chica que dejó
 el paquete en tu oficina.
 
 446
-00:40:36,153 --> 00:40:38,041
+00:42:22,029 --> 00:42:23,990
 ¡Es una bomba!
 
 447
-00:40:39,034 --> 00:40:40,921
+00:42:25,032 --> 00:42:26,993
 ¡Cuidado, cuidado!
 
 448
-00:40:45,754 --> 00:40:48,601
+00:42:32,039 --> 00:42:35,001
 Creo que es esta.
 ¡Srta., tiene una bomba!
 
 449
-00:40:48,633 --> 00:40:51,481
+00:42:35,042 --> 00:42:38,004
 ¡Abra la puerta!
 Patea la puerta.
 
 450
-00:40:54,394 --> 00:40:57,241
--¡Caramba, qué bien está!
--¡Carter!
+00:42:41,048 --> 00:42:44,010
+- ¡Caramba, qué bien está!
+- ¡Carter!
 
 451
-00:40:58,234 --> 00:41:00,121
--Ven, Lee. ¡Vámonos!
--¿Adónde?
+00:42:45,052 --> 00:42:47,013
+- Ven, Lee. ¡Vámonos!
+- ¿Adónde?
 
 452
-00:41:00,154 --> 00:41:03,950
--Que no se te caiga. Por aquí.
--¿Adónde vamos?
+00:42:47,054 --> 00:42:51,017
+- Que no se te caiga. Por aquí.
+- ¿Adónde vamos?
 
 453
-00:41:06,874 --> 00:41:08,762
+00:42:54,061 --> 00:42:56,022
 ¡A la azotea, a la azotea!
 
 454
-00:41:09,754 --> 00:41:11,641
+00:42:57,064 --> 00:42:59,025
 ¡No tropieces! ¡Ten cuidado!
 
 455
-00:41:14,554 --> 00:41:16,377
--¡Arrójala, Lee!
--¿Adónde?
+00:43:02,069 --> 00:43:03,946
+- ¡Arrójala, Lee!
+- ¿Adónde?
 
 456
-00:41:16,411 --> 00:41:20,207
+00:43:03,988 --> 00:43:07,950
 ¡Lee, arrójala! ¡Arroja la bomba abajo!
 ¡Arrójala!
 
 457
-00:41:20,251 --> 00:41:22,138
+00:43:07,992 --> 00:43:09,952
 ¡Arrójala! ¡Arrójala para abajo!
 
 458
-00:41:22,171 --> 00:41:25,018
--¡No, hay gente abajo!
--¡Lee, arrójala!
+00:43:09,994 --> 00:43:12,955
+- ¡No, hay gente abajo!
+- ¡Lee, arrójala!
 
 459
-00:41:26,971 --> 00:41:27,898
--¡Arrójala!
--¡No!
+00:43:14,999 --> 00:43:15,958
+- ¡Arrójala!
+- ¡No!
 
 460
-00:41:27,931 --> 00:41:30,779
+00:43:16,000 --> 00:43:18,961
 ¡Vamos a morir!
 
 461
-00:41:36,571 --> 00:41:39,418
+00:43:25,009 --> 00:43:27,970
 Bueno, párense.
 
 462
-00:41:39,451 --> 00:41:41,338
--¡Basta!
--¡Deje eso!
+00:43:28,012 --> 00:43:29,972
+- ¡Basta!
+- ¡Deje eso!
 
 463
-00:41:41,371 --> 00:41:43,259
--¡Es una bomba!
--¡Deje eso!
+00:43:30,014 --> 00:43:31,974
+- ¡Es una bomba!
+- ¡Deje eso!
 
 464
-00:41:43,291 --> 00:41:46,139
+00:43:32,016 --> 00:43:34,977
 Muchachos. No hay ninguna bomba. Nada.
 
 465
-00:41:46,172 --> 00:41:49,018
+00:43:35,019 --> 00:43:37,980
 Y no se acerquen o los mando
 a la cárcel por obstrucción.
 
 466
-00:41:49,051 --> 00:41:53,808
+00:43:38,022 --> 00:43:42,985
 ¿Mandarnos a la cárcel?
 Está loca. La voy a arrestar.
 
 467
-00:41:53,851 --> 00:41:56,699
+00:43:43,027 --> 00:43:45,988
 Yo soy agente del Servicio
 Secreto de EE.UU.
 
 468
-00:41:56,731 --> 00:41:59,579
+00:43:46,030 --> 00:43:48,991
 ¿Cómo lo sabremos? Enséñenos su placa.
 
 469
-00:41:59,612 --> 00:42:01,498
+00:43:49,033 --> 00:43:50,993
 Aquí la tienen.
 
 470
-00:42:03,451 --> 00:42:06,299
+00:43:53,037 --> 00:43:55,998
 Déjame verla otra vez. No la vi bien.
 
 471
-00:42:06,332 --> 00:42:09,178
+00:43:56,040 --> 00:43:59,001
 Podemos ayudarte.
 Yo soy un detective de Hong Kong.
 
 472
-00:42:09,211 --> 00:42:12,059
+00:43:59,043 --> 00:44:02,004
 Yo sé quién eres, inspector Lee.
 
 473
-00:42:12,091 --> 00:42:14,874
+00:44:02,046 --> 00:44:04,966
 Necesitamos escondernos.
-Vengan a mi departamento.
+Vengan a mi apartamento.
 
 474
-00:42:17,787 --> 00:42:20,635
--¿Por qué dijiste que era bomba?
--Fuiste tú.
+00:44:08,010 --> 00:44:10,972
+- ¿Por qué dijiste que era bomba?
+- Fuiste tú.
 
 475
-00:42:20,668 --> 00:42:22,555
--No, tú dijiste.
--Tú, en el hotel.
+00:44:11,013 --> 00:44:12,974
+- No, tú dijiste.
+- Tú, en el hotel.
 
 476
-00:42:22,588 --> 00:42:24,475
+00:44:13,015 --> 00:44:14,976
 ¡Yo dije que ella era "Ia bomba",
 lo máximo!
 
 477
-00:42:26,427 --> 00:42:28,315
+00:44:17,019 --> 00:44:18,980
 ¿Qué ella era la bomba?
 
 478
-00:42:28,348 --> 00:42:33,104
+00:44:19,021 --> 00:44:23,985
 Llevo meses trabajando en este caso,
 así que si me molesté, perdón.
 
 479
-00:42:33,147 --> 00:42:35,995
--Necesitas decirnos lo qué pasa.
--Estoy fingiendo que...
+00:44:24,026 --> 00:44:26,988
+- Necesitas decirnos lo qué pasa.
+- Estoy fingiendo que...
 
 480
-00:42:36,028 --> 00:42:38,875
--soy una agente aduanera corrupta.
--¿Eso es un soborno?
+00:44:27,029 --> 00:44:29,991
+- soy una agente aduanera corrupta.
+- ¿Eso es un soborno?
 
 481
-00:42:38,907 --> 00:42:42,705
+00:44:30,032 --> 00:44:33,995
 No. Esto es una muestra.
 ¿Han oído del Superbillete?
 
 482
-00:42:42,748 --> 00:42:45,595
+00:44:34,036 --> 00:44:36,998
 Es un mito.
 Un tipo de falsificación.
 
 483
-00:42:45,627 --> 00:42:48,475
+00:44:37,039 --> 00:44:40,001
 Corazón, es mucho más
 que una falsificación.
 
 484
-00:42:48,508 --> 00:42:51,356
+00:44:40,042 --> 00:44:43,004
 14 de 15 bancos mundiales
 no lo reconocen.
 
 485
-00:42:51,388 --> 00:42:56,145
+00:44:43,045 --> 00:44:48,009
 EI papel es mezcla de lino,
 impreso en prensas de EE.UU.
 
 486
-00:42:56,188 --> 00:42:59,035
+00:44:48,050 --> 00:44:51,012
 ¿Cómo utilizan la casa de moneda?
 
 487
-00:42:59,067 --> 00:43:02,865
+00:44:51,053 --> 00:44:55,016
 En 1959, Estados Unidos era
 muy amigo del Shah de lrán.
 
 488
-00:43:02,908 --> 00:43:06,704
+00:44:55,057 --> 00:44:59,020
 ¿Por qué? Porque queríamos su petróleo.
 Nuestro gobierno le dio un regalo.
 
 489
-00:43:06,748 --> 00:43:10,545
+00:44:59,061 --> 00:45:03,024
 Una prensa de la Tesorería de EE.UU.,
 la única que ha salido del país.
 
 490
-00:43:10,588 --> 00:43:13,371
+00:45:03,065 --> 00:45:05,943
 Hace 5 años, Tan la compró ilegalmente.
 
 491
-00:43:13,404 --> 00:43:17,201
+00:45:05,985 --> 00:45:09,947
 ¿Cinco años? Eso fue justo antes
 de salirse de la policía.
 
 492
-00:43:17,244 --> 00:43:21,040
+00:45:09,989 --> 00:45:13,951
 Este año, Ricky Tan consiguió
 placas de billetes de $100...
 
 493
-00:43:21,083 --> 00:43:25,841
--y empezó a imprimir Superbilletes.
--Así que lo mató Hu Li, por las placas.
+00:45:13,993 --> 00:45:18,956
+- y empezó a imprimir Superbilletes.
+- Así que lo mató Hu Li, por las placas.
 
 494
-00:43:25,884 --> 00:43:30,641
+00:45:18,998 --> 00:45:23,961
 Y ya imprimieron y despacharon
 cien millones de dólares.
 
 495
-00:43:31,644 --> 00:43:34,492
+00:45:25,004 --> 00:45:27,965
 Sólo hay una manera de reconocer
 los falsos.
 
 496
-00:43:34,524 --> 00:43:38,321
+00:45:28,007 --> 00:45:31,969
 Ellos usan una tinta de la lndia
 que arde en rojo.
 
 497
-00:43:38,364 --> 00:43:42,161
+00:45:32,011 --> 00:45:35,973
 La verdadera arde en negro.
 
 498
-00:43:42,205 --> 00:43:46,001
+00:45:36,015 --> 00:45:39,977
 ¿Qué van a hacer con
 100 millones de dólares falsos?
 
 499
-00:43:46,044 --> 00:43:48,892
+00:45:40,019 --> 00:45:42,980
 Carter, esa no es la pregunta indicada.
 
 500
-00:43:48,925 --> 00:43:52,721
+00:45:43,022 --> 00:45:46,984
 La pregunta clave es:
 ¿dónde están las placas?
 
 501
-00:43:52,764 --> 00:43:56,562
+00:45:47,026 --> 00:45:50,988
 Porque si encontramos las placas,
 podemos parar la operación, ¿cierto?
 
 502
-00:43:56,605 --> 00:43:58,492
+00:45:51,030 --> 00:45:52,990
 Sí, tienes razón.
 
 503
-00:43:58,524 --> 00:44:01,372
+00:45:53,032 --> 00:45:55,993
 Quizá Uds. nos puedan ayudar, muchachos.
 
 504
-00:44:01,405 --> 00:44:04,251
+00:45:56,035 --> 00:45:58,996
 Digo, Carter,
 esta es tu ciudad, ¿cierto?
 
 505
-00:44:04,284 --> 00:44:07,132
+00:45:59,038 --> 00:46:01,999
 Sí, esta es mi "tetal", digo, mi ciudad.
 
 506
-00:44:07,164 --> 00:44:10,907
+00:46:02,041 --> 00:46:05,962
 Fantástico. Y, Lee, tú conoces a Hu Li
 y las Triadas, ¿cierto?
 
 507
-00:44:10,941 --> 00:44:12,827
--Sí.
--Genial.
+00:46:06,003 --> 00:46:07,964
+- Sí.
+- Genial.
 
 508
-00:44:12,860 --> 00:44:17,618
+00:46:08,005 --> 00:46:12,927
 ¿Me pueden ayudar? ¿Pueden averiguar
 dónde tiene Hu Li las placas?
 
 509
-00:44:17,661 --> 00:44:19,547
--Pan comido.
--Gracias.
+00:46:13,010 --> 00:46:14,971
+- Pan comido.
+- Gracias.
 
 510
-00:44:19,580 --> 00:44:21,468
+00:46:15,012 --> 00:46:16,973
 Bienvenidos a bordo, caballeros.
 
 511
-00:44:21,500 --> 00:44:26,257
+00:46:17,014 --> 00:46:21,936
 A partir de este momento, trabajan
 para el Servicio Secreto de EE.UU.
 
 512
-00:44:28,220 --> 00:44:31,068
+00:46:24,021 --> 00:46:26,983
 Agente del Servicio
 Secreto James Carter.
 
 513
-00:44:31,101 --> 00:44:33,948
+00:46:27,024 --> 00:46:29,986
 Suena bien. Tiene su cachet, ¿verdad?
 
 514
-00:44:33,980 --> 00:44:38,738
+00:46:30,027 --> 00:46:34,949
 En 6 meses estaré en Washington, D.C,
 protegiendo al presidente.
 
 515
-00:44:38,781 --> 00:44:41,628
+00:46:35,032 --> 00:46:37,994
 Tú nunca pararías una bala
 con tu cuerpo.
 
 516
-00:44:41,660 --> 00:44:43,548
+00:46:38,035 --> 00:46:39,996
 Sí, pero ellos no lo saben.
 
 517
-00:44:43,581 --> 00:44:48,337
+00:46:40,037 --> 00:46:44,959
 Le pediré a lsabella que me conecte.
 Yo vi cómo miraba a este hermano.
 
 518
-00:44:48,380 --> 00:44:50,268
+00:46:45,042 --> 00:46:47,003
 Ni siquiera de reojo.
 
 519
-00:44:50,301 --> 00:44:54,098
+00:46:47,044 --> 00:46:50,965
 Estás celoso porque me escogió a mí.
 Porque soy alto, oscuro y guapo.
 
 520
-00:44:54,141 --> 00:44:56,028
+00:46:51,048 --> 00:46:53,009
 Tú eres un tercermundista feo.
 
 521
-00:44:56,061 --> 00:44:58,908
+00:46:53,050 --> 00:46:56,012
 Yo no soy feo. Atraigo a las mujeres.
 
 522
-00:44:58,941 --> 00:45:01,789
+00:46:56,053 --> 00:46:59,015
 Piensan que soy lindo. Como Snoopy.
 
 523
-00:45:01,821 --> 00:45:04,668
+00:46:59,056 --> 00:47:02,018
 Lee, Snoopy te lleva 15 cm de altura.
 
 524
-00:45:07,518 --> 00:45:08,446
+00:47:04,979 --> 00:47:05,938
 Sterling.
 
 525
-00:45:08,478 --> 00:45:11,325
+00:47:05,980 --> 00:47:08,941
 Lee y Carter ya no van a estorbar
 al Servicio Secreto.
 
 526
-00:45:11,358 --> 00:45:13,245
+00:47:08,983 --> 00:47:10,943
 Correcto.
 
 527
-00:45:30,559 --> 00:45:34,355
+00:47:29,003 --> 00:47:32,965
 Este es el restaurante de mi soplón.
 Tienen buenas costillas.
 
 528
-00:45:34,398 --> 00:45:36,286
+00:47:33,007 --> 00:47:34,967
 Me gusta la comida kosher.
 
 529
-00:45:43,999 --> 00:45:45,885
+00:47:43,017 --> 00:47:44,977
 Hey, esperen.
 
 530
-00:45:53,598 --> 00:45:56,446
+00:47:53,027 --> 00:47:55,988
 ¡Yo sé que no pienso que veo
 lo que estoy pensando!
 
 531
-00:45:56,478 --> 00:45:59,326
+00:47:56,030 --> 00:47:58,991
 ¡Yo sé que no están jugando aquí!
 
 532
-00:45:59,359 --> 00:46:02,206
--¡Este es un restaurante chino!
--¿Qué haces, James?
+00:47:59,033 --> 00:48:01,994
+- ¡Este es un restaurante chino!
+- ¿Qué haces, James?
 
 533
-00:46:02,238 --> 00:46:05,021
+00:48:02,036 --> 00:48:04,955
 ¡Estás a punto de irte a la cárcel
 con todos tus amigos!
 
 534
-00:46:05,054 --> 00:46:08,851
--¡Empaquen y larguémonos de aquí!
--Vamos a hablar afuera.
+00:48:04,956 --> 00:48:08,918
+- ¡Empaquen y larguémonos de aquí!
+- Vamos a hablar afuera.
 
 535
-00:46:08,894 --> 00:46:10,782
--¿Afuera?
--Sí.
+00:48:08,960 --> 00:48:10,961
+- ¿Afuera?
+- Sí.
 
 536
-00:46:10,814 --> 00:46:12,702
+00:48:10,962 --> 00:48:12,963
 Vamos. ¿Quieres hablar?
 
 537
-00:46:12,735 --> 00:46:14,621
+00:48:12,964 --> 00:48:14,966
 ¿Quieres hablar?
 
 538
-00:46:16,574 --> 00:46:21,332
+00:48:16,968 --> 00:48:21,931
 ¿De dónde sacaste eso? Me gusta.
 Es bonito. ¿Qué hay, Kenny?
 
 539
-00:46:22,334 --> 00:46:24,222
--James Carter.
--¿Qué hay?
+00:48:22,974 --> 00:48:24,975
+- James Carter.
+- ¿Qué hay?
 
 540
-00:46:24,254 --> 00:46:28,052
+00:48:24,976 --> 00:48:28,938
 Oí que te estaban partiendo
 la cara en Hong Kong.
 
 541
-00:46:28,095 --> 00:46:29,982
--¿Qué?
--Así es.
+00:48:28,980 --> 00:48:30,981
+- ¿Qué?
+- Así es.
 
 542
-00:46:30,014 --> 00:46:31,902
+00:48:30,982 --> 00:48:32,983
 Estás loco. ¿Quién te dijo?
 
 543
-00:46:31,935 --> 00:46:34,782
--Tengo mis fuentes.
--Te están diciendo mentiras.
+00:48:32,984 --> 00:48:35,986
+- Tengo mis fuentes.
+- Te están diciendo mentiras.
 
 544
-00:46:34,815 --> 00:46:37,662
+00:48:35,987 --> 00:48:38,989
 Te arrestaré si no nos das información.
 
 545
-00:46:37,694 --> 00:46:40,542
+00:48:38,990 --> 00:48:41,992
 ¿Cómo te atreves a venir
 a molestarme aquí así?
 
 546
-00:46:40,575 --> 00:46:44,371
+00:48:41,993 --> 00:48:45,955
 Me avergonzaste frente a mi esposa
 y mis hijos allá afuera.
 
 547
-00:46:44,414 --> 00:46:49,172
+00:48:45,997 --> 00:48:50,960
 Más vergüenza es ser un negro con
 un restaurante chino en Crenshaw.
 
 548
-00:46:49,215 --> 00:46:52,062
+00:48:51,002 --> 00:48:54,004
 Vienes y ni me enseñas tu placa.
 
 549
-00:46:52,095 --> 00:46:53,982
+00:48:54,005 --> 00:48:56,006
 Ni traes una orden judicial.
 
 550
-00:46:54,015 --> 00:46:57,812
+00:48:56,007 --> 00:48:59,969
 ¿Sabes qué favor te voy a hacer?
 Partirte la cara.
 
 551
-00:46:57,855 --> 00:47:00,702
+00:49:00,011 --> 00:49:03,013
 Y luego, te la parto a ti.
 
 552
-00:47:00,735 --> 00:47:03,518
-Kenny, nos encantaría ver eso. ¡Vamos!
+00:49:03,014 --> 00:49:05,933
+Kenny, nos encantaría ver eso. ¡Venga!
 
 553
-00:47:03,551 --> 00:47:05,438
--¡Vamos!
--¡Trata!
+00:49:05,975 --> 00:49:07,935
+- ¡Vamos!
+- ¡Trata!
 
 554
-00:47:05,470 --> 00:47:08,318
+00:49:07,977 --> 00:49:10,938
 Te mato y digo que
 te caíste en la cocina.
 
 555
-00:47:09,311 --> 00:47:11,199
+00:49:11,981 --> 00:49:13,941
 ¡Cálmate, Kenny!
 
 556
-00:47:21,791 --> 00:47:23,679
+00:49:24,994 --> 00:49:26,954
 Tigre Serpenteante.
 
 557
-00:47:26,592 --> 00:47:28,151
+00:49:29,999 --> 00:49:31,626
 ¿Dónde aprendiste eso?
 
 558
-00:47:28,191 --> 00:47:29,850
+00:49:31,667 --> 00:49:33,377
 Me lo enseñó el Maestro Ching.
 
 559
-00:47:30,335 --> 00:47:31,284
+00:49:33,878 --> 00:49:34,879
 ¿De Beijin?
 
 560
-00:47:31,776 --> 00:47:33,303
+00:49:35,379 --> 00:49:37,006
 No, Freddy Ching, de Crenshaw.
 
 561
-00:47:35,231 --> 00:47:38,079
--Son hermanos.
--Qué bien, qué bien.
+00:49:39,008 --> 00:49:41,969
+- Son hermanos.
+- Qué bien, qué bien.
 
 562
-00:47:38,815 --> 00:47:41,369
+00:49:42,720 --> 00:49:45,389
 ¿Qué haces con el "24 horas"?
 
 563
-00:47:41,408 --> 00:47:42,716
+00:49:45,431 --> 00:49:46,808
 ¿"24 horas"?
 
 564
-00:47:42,751 --> 00:47:44,856
+00:49:46,849 --> 00:49:49,018
 Porque su boca nunca cierra.
 
 565
-00:47:46,752 --> 00:47:52,468
+00:49:51,020 --> 00:49:56,984
 Te oí. Te oí.
 No hables mal de mí, amigo.
 
 566
-00:47:53,112 --> 00:47:55,959
--¿Vienen por lo de un dinero falso?
--¿Cómo sabes?
+00:49:57,026 --> 00:49:59,987
+- ¿Vienen por lo de un dinero falso?
+- ¿Cómo sabes?
 
 567
-00:47:55,992 --> 00:47:58,239
--De cien, ¿no?
--Sí.
+00:50:00,029 --> 00:50:02,990
+- De cien, ¿no?
+- Sí.
 
 568
-00:47:58,271 --> 00:48:00,159
+00:50:03,032 --> 00:50:04,992
 ¿Pasó alguno de ellos por aquí?
 
 569
-00:48:02,112 --> 00:48:05,908
+00:50:07,036 --> 00:50:10,998
 Un cliente vino hace unos días,
 perdió $50,000 en las mesas.
 
 570
-00:48:05,952 --> 00:48:10,708
+00:50:11,040 --> 00:50:16,003
 Mis muchachos y yo íbamos a despacharlo
 pero trajo todo al día siguiente.
 
 571
-00:48:10,751 --> 00:48:13,599
+00:50:16,045 --> 00:50:19,006
 Billetes nuevos de $100, en secuencia.
 
 572
-00:48:13,632 --> 00:48:16,480
+00:50:19,048 --> 00:50:22,009
 Falsos, pensé,
 porque tiene un trabajo normal.
 
 573
-00:48:16,512 --> 00:48:19,359
+00:50:22,051 --> 00:50:25,012
 Pero los probé y resultaron auténticos.
 
 574
-00:48:19,392 --> 00:48:21,279
+00:50:25,054 --> 00:50:27,014
 ¿Todavía tienes los billetes?
 
 575
-00:48:21,312 --> 00:48:24,160
+00:50:27,056 --> 00:50:30,017
 Todavía tengo mi dinero de 3er. año.
 
 576
-00:48:24,192 --> 00:48:26,079
+00:50:30,059 --> 00:50:32,019
 Déjame verlos.
 
 577
-00:48:47,232 --> 00:48:49,120
+00:50:54,083 --> 00:50:56,043
 ¿Qué estás haciendo?
 
 578
-00:48:55,872 --> 00:48:57,695
+00:51:03,092 --> 00:51:04,969
 Es falso.
 
 579
-00:48:57,729 --> 00:48:59,617
+00:51:05,011 --> 00:51:06,971
 Te engañó. ¿Quién te los dio?
 
 580
-00:48:59,649 --> 00:49:02,496
+00:51:07,013 --> 00:51:09,974
 Un tal Zing. Trabaja en Plaza Reign.
 
 581
-00:49:02,529 --> 00:49:05,377
+00:51:10,016 --> 00:51:12,977
 Recen por encontrarlo antes que yo.
 
 582
-00:49:28,450 --> 00:49:30,336
+00:51:37,043 --> 00:51:39,003
 Disculpe.
 
 583
-00:49:30,369 --> 00:49:33,217
+00:51:39,045 --> 00:51:42,006
 Policía. Estamos buscando a un tal Zing.
 
 584
-00:49:36,130 --> 00:49:38,017
--¡Tú!
--¡Ven acá!
+00:51:45,051 --> 00:51:47,011
+- ¡Tú!
+- ¡Ven aquí!
 
 585
-00:49:39,009 --> 00:49:42,807
-¡Pequeño demonio! ¡Ven acá!
+00:51:48,054 --> 00:51:52,016
+¡Pequeño demonio! ¡Ven aquí!
 
 586
-00:49:42,850 --> 00:49:44,737
+00:51:52,058 --> 00:51:54,018
 ¡Regresa ahora mismo!
 
 587
-00:49:55,489 --> 00:49:57,278
+00:52:05,238 --> 00:52:07,115
 EI gran inspector en jefe Lee.
 
 588
-00:49:59,649 --> 00:50:02,584
+00:52:09,575 --> 00:52:12,662
 Me recordarán por haberme
 deshecho de ti.
 
 589
-00:50:02,946 --> 00:50:06,742
+00:52:13,037 --> 00:52:16,999
 Yo no siquiera sé qué hago aquí.
 Ni siquiera soy chino.
 
 590
-00:50:06,785 --> 00:50:08,673
+00:52:17,041 --> 00:52:19,001
 Está bien, perdón.
 
 591
-00:50:10,626 --> 00:50:13,474
+00:52:21,045 --> 00:52:24,006
 Creo que alguien quiere
 hablar primero con ellos.
 
 592
-00:50:23,106 --> 00:50:24,993
+00:52:34,058 --> 00:52:36,018
 ¡No era necesario pegarle!
 
 593
-00:50:30,786 --> 00:50:33,634
-Me botaste un empaste.
+00:52:42,066 --> 00:52:45,027
+Me rompiste un empaste.
 Eso te va a costar.
 
 594
-00:50:36,546 --> 00:50:40,343
+00:52:48,072 --> 00:52:52,034
 ¡Nunca le he pegado a una mujer,
 pero estoy a punto!
 
 595
-00:50:40,386 --> 00:50:43,233
+00:52:52,076 --> 00:52:55,037
 Sí, dan chow. Te voy a dar chow a ti.
 
 596
-00:50:43,266 --> 00:50:46,114
+00:52:55,079 --> 00:52:58,040
 Está bien.
 Me voy.
 
 597
-00:50:49,027 --> 00:50:50,913
+00:53:01,085 --> 00:53:03,045
 Cuídate la espalda.
 
 598
-00:51:27,362 --> 00:51:30,210
--¿Qué pasó?
--La tal lsabella te dejó fuera...
+00:53:41,042 --> 00:53:44,003
+- ¿Qué pasó?
+- La tal lsabella te dejó fuera...
 
 599
-00:51:30,243 --> 00:51:32,130
--de combate. Te engañó.
--No.
+00:53:44,045 --> 00:53:46,005
+- de combate. Te engañó.
+- No.
 
 600
-00:51:32,163 --> 00:51:34,050
--Sí, te engañó.
--Nos salvó la vida.
+00:53:46,047 --> 00:53:48,007
+- Sí, te engañó.
+- Nos salvó la vida.
 
 601
-00:51:34,082 --> 00:51:36,930
--¿Qué?
--Hu Li podía habernos matado.
+00:53:48,049 --> 00:53:51,010
+- ¿Qué?
+- Hu Li podía habernos matado.
 
 602
-00:51:36,963 --> 00:51:39,811
+00:53:51,052 --> 00:53:54,013
 ¿Estás loco? Míranos.
 Podemos darnos por muertos.
 
 603
-00:51:39,843 --> 00:51:42,690
--¡Deja de quejarte!
--¿Qué vas a hacer si la sigo?
+00:53:54,055 --> 00:53:57,016
+- ¡Deja de quejarte!
+- ¿Qué vas a hacer si le sigo?
 
 604
-00:51:42,723 --> 00:51:45,570
+00:53:57,058 --> 00:54:00,019
 Te voy a dar una bofetada.
 
 605
-00:51:46,563 --> 00:51:49,345
--Yo te regreso a África a patadas.
--¿Ah, sí?
+00:54:01,062 --> 00:54:03,980
+- Yo te regreso a África a patadas.
+- ¿Ah, sí?
 
 606
-00:51:49,378 --> 00:51:52,226
+00:54:03,981 --> 00:54:06,983
 Ven, quiero ver que me hagas eso.
 
 607
-00:51:52,259 --> 00:51:57,015
+00:54:06,984 --> 00:54:11,948
 ¡No sabes con quién te estás metiendo!
 
 608
-00:51:57,059 --> 00:51:59,906
--¡Te voy a morder la nariz!
--¿Tú morderme? ¡Trata!
+00:54:11,989 --> 00:54:14,992
+- ¡Te voy a morder la nariz!
+- ¿Tú morderme? ¡Trata!
 
 609
-00:52:10,915 --> 00:52:12,344
-No confío en ella.
+00:54:26,462 --> 00:54:27,964
+No confíio en ella.
 
 610
-00:52:12,451 --> 00:52:14,207
+00:54:28,047 --> 00:54:30,007
 Es un error tenerla aquí.
 
 611
-00:52:14,264 --> 00:52:17,013
-Nuestras órdenes son de 
-dejarla en paz.
+00:54:30,258 --> 00:54:33,136
+Nuestras órdenes son de dejarla en paz.
 
 612
-00:52:22,360 --> 00:52:25,458
+00:54:38,683 --> 00:54:41,936
 Quiero rebanarle esos labios bonitos...
 
 613
-00:52:25,783 --> 00:52:29,461
+00:54:42,270 --> 00:54:46,107
 y enterrarla en el desierto
 con esos dos policías.
 
 614
-00:52:32,279 --> 00:52:34,167
+00:54:49,026 --> 00:54:51,028
 ¿Quieres manzana?
 
 615
-00:52:36,120 --> 00:52:39,916
-Yo guardaría ese cuchillo, perra,
+00:54:53,030 --> 00:54:56,993
+Yo guardaría ese cuchillo, guarra,
 antes de tener un accidente.
 
 616
-00:52:47,576 --> 00:52:49,464
+00:55:05,001 --> 00:55:06,961
 Es inútil, amigo.
 
 617
-00:52:50,456 --> 00:52:53,303
+00:55:08,004 --> 00:55:10,965
 Sólo dime cómo las Triadas
 nos van a matar.
 
 618
-00:52:53,336 --> 00:52:56,184
+00:55:11,007 --> 00:55:13,968
 Nos van a torturar durante tres días.
 
 619
-00:52:56,216 --> 00:53:00,014
--Eso lo aguanto.
--Nos cortarán nuestros "rollos rellenos".
+00:55:14,010 --> 00:55:17,972
+- Eso lo aguanto.
+- Nos cortarán nuestros "rollos rellenos".
 
 620
-00:53:00,056 --> 00:53:03,853
+00:55:18,014 --> 00:55:21,976
 ¿Cortarnos nuestros rollos rellenos?
 ¡Vámonos de aquí!
 
 621
-00:53:03,896 --> 00:53:05,784
+00:55:22,018 --> 00:55:23,978
 Vamos, no te des por vencido.
 
 622
-00:53:13,497 --> 00:53:16,344
--¡No me quiero morir!
--Silencio.
+00:55:32,028 --> 00:55:34,989
+- ¡No me quiero morir!
+- Silencio.
 
 623
-00:53:16,376 --> 00:53:19,224
--Bueno, dame tu pierna izquierda.
--¿Para qué?
+00:55:35,031 --> 00:55:37,992
+- Bueno, dame tu pierna izquierda.
+- ¿Para qué?
 
 624
-00:53:19,257 --> 00:53:22,104
+00:55:38,034 --> 00:55:40,995
 ¡Pierna izquierda!
 Así.
 
 625
-00:53:24,056 --> 00:53:25,944
--¡No la muevas!
--Bueno.
+00:55:43,039 --> 00:55:44,999
+- ¡No la muevas!
+- Bueno.
 
 626
-00:53:37,497 --> 00:53:39,384
+00:55:57,053 --> 00:55:59,013
 Eso es. Muerde esa cosa.
 
 627
-00:53:39,417 --> 00:53:42,265
+00:55:59,055 --> 00:56:02,016
 ¡Muérdela! Muérdela como un mono.
 
 628
-00:53:42,297 --> 00:53:44,119
+00:56:02,058 --> 00:56:03,935
 ¡Vamos! Eso es. ¡Jálala!
 
 629
-00:53:44,152 --> 00:53:46,040
+00:56:03,976 --> 00:56:05,937
 Usa esos dientes de tigre.
 
 630
-00:53:47,033 --> 00:53:49,881
+00:56:06,979 --> 00:56:09,982
 ¡Jálala!
 Ya casi la tienes. Eso es.
 
 631
-00:53:52,793 --> 00:53:54,680
+00:56:12,985 --> 00:56:14,946
 ¿Qué demonios...?
 
 632
-00:53:54,713 --> 00:53:57,561
+00:56:14,987 --> 00:56:17,990
 Lee, desátame. ¡Apúrate, amigo!
 
 633
-00:53:58,552 --> 00:54:00,440
+00:56:18,991 --> 00:56:20,952
 Mira estas estatuas llenas de dinero.
 
 634
-00:54:09,113 --> 00:54:11,001
+00:56:30,002 --> 00:56:32,004
 Hola, Benjamín.
 
 635
-00:54:13,913 --> 00:54:16,761
--¿Qué haces?
--Llevándome esto, de evidencia.
+00:56:35,007 --> 00:56:38,010
+- ¿Qué haces?
+- Llevándome esto, de evidencia.
 
 636
-00:54:20,633 --> 00:54:24,430
--¿Sientes eso?
--Sí, vamos más despacio.
+00:56:42,014 --> 00:56:45,977
+- ¿Sientes eso?
+- Sí, vamos más despacio.
 
 637
-00:54:38,874 --> 00:54:41,655
--¿Qué pasó?
--Te voy a decir qué pasó.
+00:57:01,033 --> 00:57:03,953
+- ¿Qué pasó?
+- Te voy a decir qué pasó.
 
 638
-00:54:43,609 --> 00:54:45,497
+00:57:05,997 --> 00:57:07,957
 ¡Vamos, Lee!
 
 639
-00:54:48,410 --> 00:54:51,257
+00:57:11,002 --> 00:57:13,963
 Arriba. Súbete.
 
 640
-00:55:21,050 --> 00:55:22,937
--¿Qué pasó?
--Me dejaste.
+00:57:45,036 --> 00:57:46,996
+- ¿Qué pasó?
+- Me dejaste.
 
 641
-00:55:22,970 --> 00:55:24,858
+00:57:47,038 --> 00:57:48,998
 No. Te estaba esperando allá arriba.
 
 642
-00:55:39,226 --> 00:55:42,073
--¡Yo no me voy a meter ahí!
--¡Apúrate!
+00:58:03,971 --> 00:58:06,933
+- ¡Yo no me voy a meter ahí!
+- ¡Apúrate!
 
 643
-00:55:42,106 --> 00:55:43,993
--¡Ahí hay ratas!
--¡No hay ratas!
+00:58:06,974 --> 00:58:08,935
+- ¡Ahí hay ratas!
+- ¡No hay ratas!
 
 644
-00:55:44,026 --> 00:55:45,914
+00:58:08,976 --> 00:58:10,937
 ¡Mira esa rata!
 
 645
-00:56:06,106 --> 00:56:07,994
+00:58:31,999 --> 00:58:33,960
 ¿Las Vegas?
 
 646
-00:56:08,027 --> 00:56:11,823
+00:58:34,001 --> 00:58:37,964
 ¿Las Vegas? ¿Qué demonios estamos
 haciendo en las Vegas?
 
 647
-00:56:11,866 --> 00:56:14,714
+00:58:38,005 --> 00:58:40,967
 Mira, Dragón Rojo.
 
 648
-00:56:14,747 --> 00:56:17,593
+00:58:41,008 --> 00:58:43,970
 Como el yate de Ricky Tan.
 
 649
-00:56:17,626 --> 00:56:22,384
+00:58:44,011 --> 00:58:48,975
 Así se lavan $100 millones en efectivo.
 
 650
-00:56:22,427 --> 00:56:24,313
--Vamos.
--Vamos.
+00:58:49,016 --> 00:58:50,977
+- Vamos.
+- Vamos.
 
 651
-00:56:25,306 --> 00:56:28,154
--Perdón.
--¡Maldita sea! Uno a la vez.
+00:58:52,019 --> 00:58:54,981
+- Perdón.
+- ¡Maldita sea! Uno a la vez.
 
 652
-00:56:28,187 --> 00:56:30,074
+00:58:55,022 --> 00:58:56,983
 ¿Qué demonios te pasa?
 
 653
-00:56:33,947 --> 00:56:36,729
--Un segundo. No podemos entrar así.
--¿Por qué?
+00:59:01,028 --> 00:59:03,948
+- Un segundo. No podemos entrar así.
+- ¿Por qué?
 
 654
-00:56:36,764 --> 00:56:39,610
--Tenemos que acicalarnos.
--¿Qué es eso?
+00:59:03,990 --> 00:59:06,951
+- Tenemos que acicalarnos.
+- ¿Qué es eso?
 
 655
-00:56:39,643 --> 00:56:42,491
--Tenemos que emperifollarnos.
--¿Qué es "emperifollar"?
+00:59:06,993 --> 00:59:09,954
+- Tenemos que emperifollarnos.
+- ¿Qué es "emperifollar"?
 
 656
-00:56:42,523 --> 00:56:47,280
+00:59:09,996 --> 00:59:14,959
 Sígueme, mi hermano asiático.
 Te enseñaré. Ven.
 
 657
-00:56:54,043 --> 00:56:55,931
+00:59:22,008 --> 00:59:23,968
 Ahí es a donde vamos.
 
 658
-00:56:55,964 --> 00:56:58,811
+00:59:24,010 --> 00:59:26,971
 Cuando entremos quédate atrás de mí.
 
 659
-00:56:58,844 --> 00:57:01,691
+00:59:27,013 --> 00:59:29,974
 Apestas un poco.
 Creo que pisaste caca de rata.
 
 660
-00:57:01,723 --> 00:57:05,521
+00:59:30,016 --> 00:59:33,978
 Era un sombrero de vaquero,
 ahora es un casco de safari.
 
 661
-00:57:06,523 --> 00:57:09,371
+00:59:35,021 --> 00:59:37,982
 Un momento, seguiremos en un segundo.
 Hola, ¿en qué les puedo servir?
 
 662
-00:57:09,404 --> 00:57:14,160
+00:59:38,024 --> 00:59:42,987
 Necesito negro, 42 de largo,
 y nada toca este cuerpo más que seda.
 
 663
-00:57:14,203 --> 00:57:17,051
+00:59:43,029 --> 00:59:45,990
 Dele a mi compañero algo para niños.
 
 664
-00:57:17,084 --> 00:57:20,880
+00:59:46,032 --> 00:59:49,994
 ¿Quiere que lo envolvamos en seda
 también? A algunos les parece raro...
 
 665
-00:57:20,923 --> 00:57:24,721
--a mí me gusta una pareja vestida igual.
--No somos una pareja, somos policías.
+00:59:50,036 --> 00:59:53,998
+- a mí me gusta una pareja vestida igual.
+- No somos una pareja, somos policías.
 
 666
-00:57:24,764 --> 00:57:27,612
+00:59:54,040 --> 00:59:57,001
 Necesitamos ropa para un caso peligroso.
 
 667
-00:57:27,644 --> 00:57:30,491
--Muchos hombres nos persiguen.
--Cual deben. No tienen...
+00:59:57,043 --> 01:00:00,004
+- Muchos hombres nos persiguen.
+- Cual deben. No tienen...
 
 668
-00:57:30,524 --> 00:57:32,411
+01:00:00,046 --> 01:00:02,006
 nada de qué preocuparse.
 
 669
-00:57:32,444 --> 00:57:35,292
--Los volveré las bellezas del baile.
--Gracias.
+01:00:02,048 --> 01:00:05,009
+- Los volveré las bellezas del baile.
+- Gracias.
 
 670
-00:57:35,324 --> 00:57:40,081
+01:00:05,051 --> 01:00:10,014
 Empecemos contigo. Tienes cara café con
 leche, piel maravillosa, hombros grandes.
 
 671
-00:57:40,124 --> 00:57:42,012
+01:00:10,056 --> 01:00:12,016
 Te voy a poner un animal muerto.
 
 672
-00:57:42,045 --> 00:57:46,801
+01:00:12,058 --> 01:00:17,021
 Piel de cocodrilo. Cocodrilo, crema.
 ¿Qué cintura usas? Vamos adentro.
 
 673
-00:57:46,844 --> 00:57:48,732
+01:00:17,063 --> 01:00:19,023
 Quiero...
 
 674
-00:57:48,765 --> 00:57:51,611
--Cuidado, corazón.
--Es fogoso.
+01:00:19,065 --> 01:00:22,026
+- Cuidado, corazón.
+- Es fogoso.
 
 675
-00:57:51,644 --> 00:57:53,532
--Eso me gusta.
--¡Ve por la ropa!
+01:00:22,068 --> 01:00:24,028
+- Eso me gusta.
+- ¡Ve por la ropa!
 
 676
-00:57:53,564 --> 00:57:58,321
+01:00:24,070 --> 01:00:29,033
 Bueno, voy por unas cosas.
 Ay, Jesús. "Li"I Kim". Vuelvo enseguida.
 
 677
-00:57:58,364 --> 00:58:01,212
--¿Viste eso?
--Le gustas.
+01:00:29,075 --> 01:00:32,036
+- ¿Viste eso?
+- Le gustas.
 
 678
-00:58:01,244 --> 00:58:04,092
+01:00:32,078 --> 01:00:35,039
 No vuelvo a ir de compras contigo.
 
 679
-00:58:04,125 --> 00:58:08,881
-DRAGÓN ROJO
-GRAN INAUGURAClÓN
+01:00:35,081 --> 01:00:40,044
+DRAGÓN ROJO GRAN INAUGURAClÓN
 
 680
-00:58:12,764 --> 00:58:15,612
--Pórtate como un rico.
--Señoras y señores...
+01:00:44,090 --> 01:00:47,051
+- Pórtate como un rico.
+- Señoras y señores...
 
 681
-00:58:15,645 --> 00:58:21,361
+01:00:47,093 --> 01:00:53,057
 ¡Steven Reign, dueño y
 fundador del Casino Dragón Rojo!
 
 682
-00:58:26,204 --> 00:58:28,092
+01:00:58,104 --> 01:01:00,064
 Gracias.
 
 683
-00:58:28,125 --> 00:58:30,972
+01:01:00,106 --> 01:01:03,067
 Buenas noches.
 Hace mil años...
 
 684
-00:58:31,005 --> 00:58:32,827
+01:01:03,109 --> 01:01:04,986
 un pequeño pueblo rico
 en China contrató...
 
 685
-00:58:32,861 --> 00:58:36,657
+01:01:05,027 --> 01:01:08,990
 un dragón joven para proteger
 sus tesoros en una cueva.
 
 686
-00:58:36,701 --> 00:58:40,498
+01:01:09,031 --> 01:01:12,994
 La gente del pueblo
 le empezó a dar comida...
 
 687
-00:58:40,541 --> 00:58:44,338
+01:01:13,035 --> 01:01:16,998
 esperando hacerlo más fuerte.
 EI dragón creció hasta...
 
 688
-00:58:44,381 --> 00:58:45,308
+01:01:17,039 --> 01:01:17,999
 quedarse atorado...
 
 689
-00:58:45,341 --> 00:58:50,097
+01:01:18,040 --> 01:01:23,004
 y el tesoro se quedó atrapado detrás
 de él para toda la eternidad.
 
 690
-00:58:50,141 --> 00:58:53,938
+01:01:23,045 --> 01:01:27,008
 Señoras y señores,
 he encontrado ese tesoro perdido.
 
 691
-00:58:53,981 --> 00:58:58,738
+01:01:27,049 --> 01:01:32,013
 ¡Está aquí, dentro del casino
 más sensacional del mundo!
 
 692
-00:58:58,781 --> 00:59:04,498
+01:01:32,054 --> 01:01:38,019
 ¡Bienvenidos al Dragón Rojo,
 donde todos son ganadores!
 
 693
-00:59:31,357 --> 00:59:36,114
--Esta es la fachada más grande del mundo.
--Tienes razón.
+01:02:06,005 --> 01:02:10,968
+- Esta es la fachada más grande del mundo.
+- Tienes razón.
 
 694
-00:59:37,117 --> 00:59:39,964
--¿Cigarrillos?
--¿Quiere una bebida?
+01:02:12,011 --> 01:02:15,014
+- ¿Cigarrillos?
+- ¿Quiere una bebida?
 
 695
-00:59:42,877 --> 00:59:44,765
+01:02:18,017 --> 01:02:20,018
 Abrázame.
 
 696
-00:59:44,798 --> 00:59:46,684
--¿Qué?
--Acércame a ti.
+01:02:20,019 --> 01:02:22,020
+- ¿Qué?
+- Acércame a ti.
 
 697
-00:59:46,717 --> 00:59:48,605
+01:02:22,021 --> 01:02:24,022
 Hay cámaras por todos lados.
 
 698
-00:59:48,637 --> 00:59:52,435
--¿Qué pasa?
--Creo que quizá estoy en problemas.
+01:02:24,023 --> 01:02:27,985
+- ¿Qué pasa?
+- Creo que quizá estoy en problemas.
 
 699
-00:59:52,478 --> 00:59:54,364
+01:02:28,027 --> 01:02:30,028
 De veras necesito tu ayuda.
 
 700
-00:59:54,397 --> 00:59:57,245
+01:02:30,029 --> 01:02:33,031
 La última vez desperté en un camión.
 
 701
-00:59:57,278 --> 01:00:01,074
+01:02:33,032 --> 01:02:36,994
 Estoy de espía. No tenía otra opción.
 Tienes que confiar en mí.
 
 702
-01:00:01,117 --> 01:00:03,965
+01:02:37,036 --> 01:02:40,038
 Atrás de mí está el cuarto
 de recuento de billetes.
 
 703
-01:00:03,998 --> 01:00:07,794
+01:02:40,039 --> 01:02:44,001
 Creemos que ahí están las placas.
 Necesito que las saques.
 
 704
-01:00:07,837 --> 01:00:09,725
+01:02:44,043 --> 01:02:46,044
 ¿Por qué no vas tú?
 
 705
-01:00:09,757 --> 01:00:14,515
+01:02:46,045 --> 01:02:51,008
 Porque corro el riesgo de revelar
 mi identidad. ¿Entiendes?
 
 706
-01:00:14,558 --> 01:00:17,405
+01:02:51,050 --> 01:02:54,052
 ¿Cómo sé que eres de confiar?
 
 707
-01:00:17,438 --> 01:00:19,325
+01:02:54,053 --> 01:02:56,055
 Inclíname.
 
 708
-01:00:22,237 --> 01:00:24,125
+01:02:59,058 --> 01:03:01,059
 Te estoy pidiendo en serio.
 
 709
-01:00:24,158 --> 01:00:26,940
+01:03:01,060 --> 01:03:03,980
 ¿Le puedes ayudar al Servicio Secreto?
 
 710
-01:00:36,573 --> 01:00:38,461
+01:03:14,031 --> 01:03:15,992
 ¿Qué estás haciendo?
 
 711
-01:00:38,494 --> 01:00:40,381
+01:03:16,033 --> 01:03:17,994
 Gracias, amigo. Llévate esto.
 
 712
-01:00:40,414 --> 01:00:42,301
+01:03:18,035 --> 01:03:19,996
 Bailando.
 
 713
-01:00:42,334 --> 01:00:46,131
+01:03:20,037 --> 01:03:24,000
 ¿Bailando? ¿Yo estoy trabajando,
 arriesgando el pellejo y tú estás...
 
 714
-01:00:46,174 --> 01:00:49,971
+01:03:24,041 --> 01:03:28,004
 bailando con una tipa sin cerebro?
 ¿Tiene una amiga?
 
 715
-01:00:50,014 --> 01:00:51,901
+01:03:28,045 --> 01:03:30,006
 Era lsabella.
 
 716
-01:00:51,934 --> 01:00:55,731
--Las placas están donde recuentan.
--Sé que no dijiste lsabella.
+01:03:30,047 --> 01:03:34,010
+- Las placas están donde recuentan.
+- Sé que no dijiste lsabella.
 
 717
-01:00:55,774 --> 01:00:58,621
+01:03:34,051 --> 01:03:37,013
 ¿Estás loco?
 Te está tendiendo otra trampa.
 
 718
-01:00:58,654 --> 01:01:01,501
--No. Voy a investigar.
--No, espera.
+01:03:37,054 --> 01:03:40,016
+- No. Voy a investigar.
+- No, espera.
 
 719
-01:01:02,494 --> 01:01:06,291
+01:03:41,058 --> 01:03:45,021
 Hay guardias por todos lados.
 Necesitarás una distracción.
 
 720
-01:01:06,334 --> 01:01:09,182
+01:03:45,062 --> 01:03:48,024
 Mantenme a la vista y sabrás
 cuando hacer lo tuyo.
 
 721
-01:01:09,214 --> 01:01:11,102
--Bueno.
--Súper.
+01:03:48,065 --> 01:03:50,026
+- Bueno.
+- Súper.
 
 722
-01:01:14,974 --> 01:01:16,862
+01:03:54,071 --> 01:03:56,032
 ¿Tienen suerte? Vengan.
 
 723
-01:01:17,854 --> 01:01:21,651
--Allá vamos.
--Tira, papito. Vamos, Tex. Vamos, Tex.
+01:03:57,074 --> 01:04:01,037
+- Allá vamos.
+- Tira, papito. Vamos, Tex. Vamos, Tex.
 
 724
-01:01:23,614 --> 01:01:28,316
+01:04:03,080 --> 01:04:07,960
 Buen tiro. ¡Esta mesa está ganando! Yo
 quiero de ese dinero. Métame al juego.
 
 725
-01:01:28,351 --> 01:01:32,148
+01:04:08,002 --> 01:04:11,964
 Señor, ¿sabe qué entrar hoy
 cuesta $50.000?
 
 726
-01:01:32,191 --> 01:01:35,988
+01:04:12,006 --> 01:04:15,968
 En ese caso, deme $100,000 en fichas.
 Tráeme una Pepsi y alas de pollo.
 
 727
-01:01:36,031 --> 01:01:37,919
--$100.000.
--¡Vamos a jugar!
+01:04:16,010 --> 01:04:17,970
+- $100.000.
+- ¡Vamos a jugar!
 
 728
-01:01:38,911 --> 01:01:40,799
+01:04:19,013 --> 01:04:20,973
 Me voy a llevar parte de este dinero.
 
 729
-01:01:40,832 --> 01:01:43,679
--¿Qué es esto?
--Fichas de a $500, señor.
+01:04:21,015 --> 01:04:23,976
+- ¿Qué es esto?
+- Fichas de a $500, señor.
 
 730
-01:01:43,711 --> 01:01:47,509
--¿Me las dio porque soy negro?
--No, señor, no es así.
+01:04:24,018 --> 01:04:27,980
+- ¿Me las dio porque soy negro?
+- No, señor, no es así.
 
 731
-01:01:47,552 --> 01:01:49,438
--Nada más supuse que...
--Supuso que...
+01:04:28,022 --> 01:04:29,982
+- Nada más supuse que...
+- Supuso que...
 
 732
-01:01:49,471 --> 01:01:53,268
+01:04:30,024 --> 01:04:33,986
 un hermano sólo puede permitirse
 echar tiros de a $500.
 
 733
-01:01:53,312 --> 01:01:55,199
+01:04:34,028 --> 01:04:35,988
 No, jamás pensé eso, señor.
 
 734
-01:01:55,232 --> 01:01:57,119
--¿Es Ud. racista?
--No, señor.
+01:04:36,030 --> 01:04:37,990
+- ¿Es Ud. racista?
+- No, señor.
 
 735
-01:01:57,151 --> 01:02:00,949
+01:04:38,032 --> 01:04:41,994
 ¿Entonces por qué todos los demás
 tienen fichas de a $1000?
 
 736
-01:02:00,992 --> 01:02:02,879
--No sé. Disculpe.
--¿Cómo sucedió?
+01:04:42,036 --> 01:04:43,996
+- No sé. Disculpe.
+- ¿Cómo sucedió?
 
 737
-01:02:02,912 --> 01:02:04,799
--Nada más sucedió.
--¿Ah, sí? Esto es una locura.
+01:04:44,038 --> 01:04:45,998
+- Nada más sucedió.
+- ¿Ah, sí? Esto es una locura.
 
 738
-01:02:04,831 --> 01:02:07,679
+01:04:46,040 --> 01:04:49,001
 ¿Cree que sufrimos
 362 años de esclavitud...
 
 739
-01:02:07,712 --> 01:02:10,560
+01:04:49,043 --> 01:04:52,046
 para regresar a los campos
 con estas fichas?
 
 740
-01:02:11,551 --> 01:02:13,439
--¿Parezco el Pollo George?
--No.
+01:04:53,047 --> 01:04:55,007
+- ¿Parezco el Pollo George?
+- No.
 
 741
-01:02:13,472 --> 01:02:15,359
--¿Qué diablos es eso?
--No tengo idea.
+01:04:55,049 --> 01:04:57,009
+- ¿Qué diablos es eso?
+- No tengo idea.
 
 742
-01:02:15,392 --> 01:02:18,239
--Necesita calmarse.
--Necesita ir allá y contar algo.
+01:04:57,051 --> 01:05:00,012
+- Necesita calmarse.
+- Necesita ir allá y contar algo.
 
 743
-01:02:18,271 --> 01:02:21,119
+01:05:00,054 --> 01:05:03,015
 Deme mis fichas.
 ¡Y que sean de $1000!
 
 744
-01:02:21,152 --> 01:02:25,854
+01:05:03,057 --> 01:05:07,979
 Apúrese. Yo sólo quiero que me trate
 justamente. ¿Es mucho pedir?
 
 745
-01:02:26,847 --> 01:02:28,735
+01:05:09,021 --> 01:05:10,982
 Tengo un problema en la 9.
 
 746
-01:02:36,448 --> 01:02:40,244
+01:05:19,031 --> 01:05:22,994
 ¿Por qué no hay artistas negros aquí?
 ¿No servimos?
 
 747
-01:02:40,287 --> 01:02:43,135
--Lionel Richie va a cantar hoy.
--Él no ha sido negro desde...
+01:05:23,035 --> 01:05:25,997
+- Lionel Richie va a cantar hoy.
+- Él no ha sido negro desde...
 
 748
-01:02:43,168 --> 01:02:46,016
+01:05:26,038 --> 01:05:29,000
 Ios Commodores.
 ¿Qué tal Peaches & Herbs?
 
 749
-01:02:46,048 --> 01:02:50,805
+01:05:29,041 --> 01:05:34,005
 ¿Gladys Knight & The Pips? ¿lke & Tina?
 Se pueden reunir. Esto es una locura.
 
 750
-01:02:50,848 --> 01:02:53,696
+01:05:34,046 --> 01:05:37,008
 ¿Por qué no se calma,
 gana dinero y se divierte?
 
 751
-01:02:53,728 --> 01:02:56,575
+01:05:37,049 --> 01:05:40,011
 ¡No me voy a calmar!
 ¡Ya me harté de usted!
 
 752
-01:02:56,608 --> 01:02:58,496
+01:05:40,052 --> 01:05:42,013
 Tenemos un problema. Ve.
 
 753
-01:03:13,889 --> 01:03:15,776
+01:05:58,070 --> 01:06:00,031
 ¡Yo tengo un sueño...
 
 754
-01:03:16,768 --> 01:03:19,551
+01:06:01,073 --> 01:06:03,951
 de que los blancos y los negros...
 
 755
-01:03:19,584 --> 01:03:21,472
+01:06:03,993 --> 01:06:05,953
 y hasta los chinos...
 
 756
-01:03:21,504 --> 01:03:24,351
+01:06:05,995 --> 01:06:08,956
 puedan jugar juntos,
 con las mismas fichas!
 
 757
-01:03:25,344 --> 01:03:27,232
--¡Aleluya!
--¿Verdad?
+01:06:09,999 --> 01:06:11,959
+- ¡Aleluya!
+- ¿Verdad?
 
 758
-01:03:30,145 --> 01:03:33,941
+01:06:15,004 --> 01:06:18,966
 Con un gran espíritu de hermandad,
 juguemos dados.
 
 759
-01:03:33,984 --> 01:03:36,832
+01:06:19,008 --> 01:06:21,969
 Bueno, vamos. ¡A jugar!
 
 760
-01:03:57,025 --> 01:03:58,912
-Carajo.
+01:06:43,032 --> 01:06:44,992
+Joder.
 
 761
-01:04:41,122 --> 01:04:42,050
+01:07:29,036 --> 01:07:30,036
 ¡Alto!
 
 762
-01:05:18,690 --> 01:05:21,243
+01:08:08,201 --> 01:08:10,870
 Inspector Lee,
 le puse una granada "ying-tao".
 
 763
-01:05:21,794 --> 01:05:23,071
+01:08:11,412 --> 01:08:12,747
 Sígame, por favor.
 
 764
-01:05:24,130 --> 01:05:25,886
+01:08:13,873 --> 01:08:15,708
 O apretaré este detonador...
 
 765
-01:05:26,146 --> 01:05:28,829
+01:08:15,958 --> 01:08:18,753
 que le incrustará 32 dientes
 en el cerebro.
 
 766
-01:05:32,899 --> 01:05:34,785
+01:08:23,007 --> 01:08:24,967
 Ganador, seis.
 
 767
-01:05:36,738 --> 01:05:38,626
+01:08:27,011 --> 01:08:28,971
 ¿Quién me puso su mano atrás?
 
 768
-01:05:38,659 --> 01:05:41,506
+01:08:29,013 --> 01:08:31,974
 Hazlo otra vez. Dame eso. ¿Cuánto gano?
 
 769
-01:05:41,538 --> 01:05:43,426
+01:08:32,016 --> 01:08:33,976
 $200,000, señor.
 
 770
-01:05:43,458 --> 01:05:45,346
+01:08:34,018 --> 01:08:35,978
 ¿$200,000?
 
 771
-01:05:47,299 --> 01:05:50,146
--Saliendo.
--Este 7 que voy a tirar...
+01:08:38,022 --> 01:08:40,983
+- Saliendo.
+- Este 7 que voy a tirar...
 
 772
-01:05:50,178 --> 01:05:53,026
+01:08:41,025 --> 01:08:43,986
 es por los 27 años que Mandela
 pasó en la cárcel...
 
 773
-01:05:53,059 --> 01:05:56,855
+01:08:44,028 --> 01:08:47,990
 aguantando vejaciones.
 Por eso va a ser un buen tiro.
 
 774
-01:05:56,898 --> 01:05:59,746
+01:08:48,032 --> 01:08:50,993
 ¡Este es por Mandela!
 
 775
-01:06:00,739 --> 01:06:02,626
+01:08:52,036 --> 01:08:53,996
 Un ganador, siete.
 
 776
-01:06:04,579 --> 01:06:07,426
+01:08:56,040 --> 01:08:59,001
 ¡Libre al fin! ¡Libre al fin!
 
 777
-01:06:20,835 --> 01:06:22,722
+01:09:12,974 --> 01:09:14,976
 Fuera.
 
 778
-01:06:25,635 --> 01:06:29,432
+01:09:17,979 --> 01:09:21,941
 Imagínate un negocio en el
 que la gente te da dinero...
 
 779
-01:06:29,475 --> 01:06:32,322
+01:09:21,983 --> 01:09:24,985
 y tú no les das a cambio...
 
 780
-01:06:32,355 --> 01:06:34,242
+01:09:24,986 --> 01:09:26,988
 absolutamente nada.
 
 781
-01:06:35,235 --> 01:06:39,031
+01:09:27,989 --> 01:09:31,951
 Ese es un verdadero sueño
 norteamericano.
 
 782
-01:06:39,075 --> 01:06:41,922
+01:09:31,993 --> 01:09:34,995
 Gracias a unos pedazos de metal...
 
 783
-01:06:41,955 --> 01:06:45,752
+01:09:34,996 --> 01:09:38,958
 y a la agente aduanal
 más hermosa de EE.UU...
 
 784
-01:06:45,796 --> 01:06:48,642
+01:09:39,000 --> 01:09:42,003
 he vuelto a los negocios.
 
 785
-01:06:53,475 --> 01:06:55,362
+01:09:47,008 --> 01:09:49,009
 Mírate, Lee.
 
 786
-01:06:55,395 --> 01:06:58,243
+01:09:49,010 --> 01:09:52,013
 Te ves ridículo.
 
 787
-01:07:00,196 --> 01:07:03,043
+01:09:54,015 --> 01:09:57,018
 Sabes que no tenía que ser así.
 
 788
-01:07:04,035 --> 01:07:08,792
+01:09:58,019 --> 01:10:02,982
 Es una lástima.
 De tal palo, tal astilla.
 
 789
-01:07:10,147 --> 01:07:12,035
+01:10:04,400 --> 01:10:06,360
 Va al penthouse.
 
 790
-01:07:14,596 --> 01:07:17,443
+01:10:09,030 --> 01:10:12,033
 Mira a ese viejo tonto.
 
 791
-01:07:18,436 --> 01:07:21,283
+01:10:13,034 --> 01:10:16,036
 ¿Qué cree que está haciendo?
 
 792
-01:07:21,316 --> 01:07:24,163
+01:10:16,037 --> 01:10:19,039
 Es casi imposible encontrar
 un compañero...
 
 793
-01:07:24,195 --> 01:07:28,953
+01:10:19,040 --> 01:10:24,003
 que sea digno de confianza y leal.
 ¿No estás de acuerdo?
 
 794
-01:07:29,955 --> 01:07:34,713
+01:10:25,046 --> 01:10:30,009
 Todo se queda en la mesa.
 Que nadie toque la mesa.
 
 795
-01:07:37,635 --> 01:07:39,523
+01:10:33,054 --> 01:10:35,055
 Ganador, cuatro.
 
 796
-01:07:39,556 --> 01:07:45,272
+01:10:35,056 --> 01:10:41,020
 ¡Dios mío!
 ¡Ya son $500,000!
 
 797
-01:07:46,276 --> 01:07:48,163
+01:10:42,063 --> 01:10:44,065
 Por favor, señor.
 
 798
-01:07:48,612 --> 01:07:52,703
+01:10:44,524 --> 01:10:48,778
 Diles que se deshagan del amigo de Lee.
 
 799
-01:07:52,996 --> 01:07:54,883
--Deme mi dinero.
--Señor, bájese de la mesa.
+01:10:49,070 --> 01:10:51,071
+- Deme mi dinero.
+- Señor, bájese de la mesa.
 
 800
-01:07:54,916 --> 01:07:57,764
--Muchas gracias.
--De nada.
+01:10:51,072 --> 01:10:54,075
+- Muchas gracias.
+- De nada.
 
 801
-01:07:59,716 --> 01:08:03,513
+01:10:56,077 --> 01:11:00,039
 EI problema con los compañeros
 es que se mueren.
 
 802
-01:08:04,517 --> 01:08:05,977
+01:11:01,082 --> 01:11:02,625
 Como te vas a morir tú.
 
 803
-01:08:13,092 --> 01:08:14,979
+01:11:10,049 --> 01:11:12,009
 Que te diviertas.
 
 804
-01:08:22,596 --> 01:08:25,892
+01:11:19,934 --> 01:11:23,396
 Después de que acabe contigo,
 me rogarás que apriete el botón.
 
 805
-01:08:29,412 --> 01:08:33,209
+01:11:27,066 --> 01:11:31,028
 ¡No se muevan! ¡Servicio Secreto!
 ¡Quedan arrestados!
 
 806
-01:08:48,613 --> 01:08:51,460
+01:11:47,086 --> 01:11:50,047
 Estos caballeros
 lo escoltarán al cajero.
 
 807
-01:08:51,492 --> 01:08:55,290
+01:11:50,089 --> 01:11:54,051
 Perfecto. No quiero que
 me asalte ningún blanco rico.
 
 808
-01:09:17,350 --> 01:09:20,197
+01:12:17,033 --> 01:12:19,994
 Se lo agradezco.
 Uno nunca puede protegerse demasiado.
 
 809
-01:09:30,790 --> 01:09:32,677
-¿Qué de-...?
+01:12:31,047 --> 01:12:33,007
+¿Qué de...?
 
 810
-01:09:33,670 --> 01:09:35,557
--Perdón. ¿Les dolió?
--¡Oye, tú!
+01:12:34,050 --> 01:12:36,010
+- Perdón. ¿Les dolió?
+- ¡Oye, tú!
 
 811
-01:09:37,510 --> 01:09:39,398
--¿Se encuentra bien?
--¿Está bien?
+01:12:38,054 --> 01:12:40,014
+- ¿Se encuentra bien?
+- ¿Está bien?
 
 812
-01:09:57,670 --> 01:10:00,518
+01:12:59,075 --> 01:13:02,036
 ¡Un negro empieza a ganar
 y todos enloquecen!
 
 813
-01:10:19,686 --> 01:10:23,483
+01:13:22,056 --> 01:13:26,018
 ¿Dónde andabas? ¡Estaba encuchado!
 
 814
-01:10:34,086 --> 01:10:36,934
--¿Qué te pasó, amigo?
--¿Qué?
+01:13:37,071 --> 01:13:40,032
+- ¿Qué te pasó, amigo?
+- ¿Qué?
 
 815
-01:10:36,967 --> 01:10:38,854
+01:13:40,074 --> 01:13:42,034
 ¿Qué es esa luz en tu boca?
 
 816
-01:10:38,886 --> 01:10:41,734
+01:13:42,076 --> 01:13:45,037
 Dios mío, esto no puede ser bueno.
 
 817
-01:11:10,503 --> 01:11:12,390
+01:14:15,026 --> 01:14:16,986
 ¿Qué tienes?
 
 818
-01:11:12,423 --> 01:11:14,310
+01:14:17,028 --> 01:14:18,988
 ¿Qué te pasó, amigo?
 
 819
-01:11:36,423 --> 01:11:39,270
+01:14:42,053 --> 01:14:45,014
 ¿Por qué no dijiste que era una bomba?
 
 820
-01:11:39,303 --> 01:11:40,231
--¡Te dije!
--¡No!
+01:14:45,056 --> 01:14:46,015
+- ¡Te dije!
+- ¡No!
 
 821
-01:11:40,263 --> 01:11:42,151
--¡Dije, "mm"!
--¿Qué es "mm"?
+01:14:46,057 --> 01:14:48,017
+- ¡Dije, "mm"!
+- ¿Qué es "mm"?
 
 822
-01:11:42,183 --> 01:11:43,110
+01:14:48,059 --> 01:14:49,059
 ¡Mm-bomba!
 
 823
-01:11:46,023 --> 01:11:47,911
+01:14:52,063 --> 01:14:54,023
 Ricky Tan está vivo.
 
 824
-01:11:47,943 --> 01:11:49,831
+01:14:54,065 --> 01:14:56,025
 Tenemos que llegar al penthouse.
 
 825
-01:11:49,864 --> 01:11:52,710
+01:14:56,067 --> 01:14:59,028
 Ricky Tan está muerto. ¿De qué hablas?
 
 826
-01:11:59,399 --> 01:12:03,196
--Ve tras Ricky. Yo me encargo de esto.
--¿Carter?
+01:15:05,993 --> 01:15:09,956
+- Ve tras Ricky. Yo me encargo de esto.
+- ¿Carter?
 
 827
-01:12:03,239 --> 01:12:06,086
+01:15:09,997 --> 01:15:13,000
 Nada más vete. Yo me encargo.
 
 828
-01:12:08,999 --> 01:12:11,847
+01:15:16,003 --> 01:15:19,005
 Esta vez no me importa que seas mujer.
 
 829
-01:12:11,880 --> 01:12:14,727
+01:15:19,006 --> 01:15:22,009
 Voy a pensar que eres hombre.
 
 830
-01:12:15,719 --> 01:12:20,476
+01:15:23,010 --> 01:15:27,974
 Un hombre con un cuerpo perfecto.
 A quien me gustaría llevar al cine.
 
 831
-01:12:29,159 --> 01:12:34,876
+01:15:37,024 --> 01:15:42,989
 Tú no sabes nada de esto. Estilo egipcio.
-¿Quieres ver qué se siente? Ven acá.
+¿Quieres ver qué se siente? Ven aquí.
 
 832
-01:12:47,400 --> 01:12:49,287
--¿Estás bien?
--Sí, estoy bien.
+01:15:56,043 --> 01:15:58,044
+- ¿Estás bien?
+- Sí, estoy bien.
 
 833
-01:12:49,319 --> 01:12:51,207
+01:15:58,045 --> 01:16:00,047
 Necesitas ayuda.
 
 834
-01:12:53,160 --> 01:12:57,862
--No sabía de qué lado estabas.
--Bueno, ahora ya sabes.
+01:16:02,049 --> 01:16:06,971
+- No sabía de qué lado estabas.
+- Bueno, ahora ya sabes.
 
 835
-01:12:57,896 --> 01:12:59,784
+01:16:07,013 --> 01:16:08,973
 ¿Qué tienes, mujer?
 
 836
-01:13:05,577 --> 01:13:07,464
+01:16:15,021 --> 01:16:16,981
 Hueles bien.
 
 837
-01:14:01,193 --> 01:14:04,990
+01:17:12,995 --> 01:17:16,958
 Gracias, Benjamín.
 Gracias.
 
 838
-01:14:08,873 --> 01:14:12,670
+01:17:21,003 --> 01:17:24,966
 Podíamos haber sido una buena pareja
 y creado algo especial.
 
 839
-01:14:12,713 --> 01:14:15,560
-¡Pero tú eras una perra loca!
+01:17:25,007 --> 01:17:27,969
+¡Pero tú eras una puta loca!
 
 840
-01:14:25,193 --> 01:14:28,991
+01:17:38,020 --> 01:17:41,983
 A los norteamericanos les encanta
 apostar, ¿verdad, Sr. Reign?
 
 841
-01:14:29,034 --> 01:14:30,921
+01:17:42,024 --> 01:17:44,025
 Yo nunca apuesto.
 
 842
-01:14:30,953 --> 01:14:33,801
+01:17:44,026 --> 01:17:47,029
 Voy a terminar nuestro acuerdo
 antes de tiempo.
 
 843
-01:14:36,714 --> 01:14:38,601
+01:17:50,032 --> 01:17:52,033
 ¿Y mis placas?
 
 844
-01:14:38,633 --> 01:14:42,431
+01:17:52,034 --> 01:17:55,997
 Se quedan conmigo. Sé que eso no
 presentará ningún inconveniente.
 
 845
-01:14:43,434 --> 01:14:49,151
+01:17:57,039 --> 01:18:03,004
 Me encantó su cuento sobre
 el dragón y el tesoro.
 
 846
-01:14:49,194 --> 01:14:51,976
+01:18:03,045 --> 01:18:05,965
 Mi mamá me lo contaba todo el tiempo.
 
 847
-01:14:52,969 --> 01:14:58,687
--¿Sabe cuál es la moraleja?
--La avaricia nos apresará a todos.
+01:18:07,008 --> 01:18:12,972
+- ¿Sabe cuál es la moraleja?
+- La avaricia nos apresará a todos.
 
 848
-01:15:01,610 --> 01:15:04,457
-Odio esas pendejadas
+01:18:16,017 --> 01:18:18,978
+Odio esas tonterías
 de galletas de la fortuna.
 
 849
-01:15:17,930 --> 01:15:19,818
+01:18:33,034 --> 01:18:34,994
 Igual que tu padre.
 
 850
-01:15:20,810 --> 01:15:25,567
+01:18:36,037 --> 01:18:41,000
 De veras le traté de ayudar, ¿sabes?
 Traté de compartir con él.
 
 851
-01:15:25,610 --> 01:15:28,457
+01:18:41,042 --> 01:18:44,003
 Para mejorar tu vida.
 
 852
-01:15:28,490 --> 01:15:30,377
+01:18:44,045 --> 01:18:46,005
 Pero era muy débil.
 
 853
-01:15:30,410 --> 01:15:35,167
--Le tenía mucho miedo al cambio.
--Dame las placas. Se acabó.
+01:18:46,047 --> 01:18:51,010
+- Le tenía mucho miedo al cambio.
+- Dame las placas. Se acabó.
 
 854
-01:15:35,210 --> 01:15:37,097
+01:18:51,052 --> 01:18:53,012
 Yo creo que no.
 
 855
-01:15:37,130 --> 01:15:40,927
+01:18:53,054 --> 01:18:57,016
 Hay casinos por todo el país.
 
 856
-01:15:40,971 --> 01:15:43,817
+01:18:57,058 --> 01:19:00,019
 Te puedo convertir en
 un hombre muy rico, Lee.
 
 857
-01:15:43,850 --> 01:15:46,698
+01:19:00,061 --> 01:19:03,022
 No cometas el mismo error que tu padre.
 
 858
-01:15:46,730 --> 01:15:50,472
+01:19:03,064 --> 01:19:06,943
 Si tratas de agarrar esa pistola,
 te mato.
 
 859
-01:15:50,506 --> 01:15:54,303
+01:19:06,984 --> 01:19:10,947
 ¿No te acuerdas?
 Ya estoy muerto.
 
 860
-01:15:59,146 --> 01:16:01,994
+01:19:15,993 --> 01:19:18,955
 Hola, Ricky, ¿cómo estás?
 
 861
-01:16:02,027 --> 01:16:05,823
+01:19:18,996 --> 01:19:22,959
 Veo que tienes todo bajo control.
-Voy a bajar y... ¡Caray!
+Voy a bajar y... ¡Vaya!
 
 862
-01:16:05,866 --> 01:16:07,754
+01:19:23,000 --> 01:19:24,961
 ¿Qué le pasó?
 
 863
-01:16:07,786 --> 01:16:10,634
+01:19:25,002 --> 01:19:27,964
 ¿Te digo cómo murió tu papá?
 
 864
-01:16:10,667 --> 01:16:14,463
+01:19:28,005 --> 01:19:31,968
 Un segundo. No vale la pena.
 Es un truco.
 
 865
-01:16:14,506 --> 01:16:17,354
--No te excedas.
--Nunca rogó que no lo matara...
+01:19:32,009 --> 01:19:34,971
+- No te excedas.
+- Nunca rogó que no lo matara...
 
 866
-01:16:17,387 --> 01:16:20,234
--ni trató de negociar.
--Baja la pistola.
+01:19:35,012 --> 01:19:37,974
+- ni trató de negociar.
+- Baja la pistola.
 
 867
-01:16:20,266 --> 01:16:24,064
+01:19:38,015 --> 01:19:41,978
 Lo único que me pidió,
 segundos antes de que le disparara...
 
 868
-01:16:24,107 --> 01:16:26,954
+01:19:42,019 --> 01:19:44,981
 fue que le prometiera no matarte.
 
 869
-01:16:26,986 --> 01:16:28,874
+01:19:45,022 --> 01:19:46,983
 Ay, estuvo tan patético.
 
 870
-01:16:28,907 --> 01:16:32,704
+01:19:47,024 --> 01:19:50,987
 Oye, no. Ya se excedió.
 ¡Mátalo ahora mismo!
 
 871
-01:16:32,747 --> 01:16:36,544
--¿Qué vas a hacer, Lee?
--¡Sólo tienes que jalar del gatillo!
+01:19:51,028 --> 01:19:54,991
+- ¿Qué vas a hacer, Lee?
+- ¡Sólo tienes que jalar del gatillo!
 
 872
-01:16:36,587 --> 01:16:39,435
+01:19:55,032 --> 01:19:57,994
 ¿Pasarás toda tu vida ocultándote
 como tu padre?
 
 873
-01:16:39,467 --> 01:16:42,314
+01:19:58,035 --> 01:20:00,997
 No dejes que insulte a tu padre.
 ¡Mátalo!
 
 874
-01:16:42,347 --> 01:16:46,144
--No puedes, ¿verdad?
--Claro que sí. Sólo estamos nosotros.
+01:20:01,038 --> 01:20:05,001
+- No puedes, ¿verdad?
+- Claro que sí. Sólo estamos nosotros.
 
 875
-01:16:46,187 --> 01:16:48,074
--Échatelo.
--Ya lo sabía.
+01:20:05,042 --> 01:20:07,003
+- Échatelo.
+- Ya lo sabía.
 
 876
-01:16:48,107 --> 01:16:51,904
+01:20:07,044 --> 01:20:11,007
 Te está intimidando. ¡Mátalo!
 ¡Si no lo matas, dale "kung fugazos"!
 
 877
-01:16:51,947 --> 01:16:52,875
+01:20:11,048 --> 01:20:12,048
 ¡Carter!
 
 878
-01:17:12,107 --> 01:17:15,905
-Caray. Qué buena patada, Lee.
+01:20:32,069 --> 01:20:36,032
+Vaya. Qué buena patada, Lee.
 
 879
-01:17:15,948 --> 01:17:17,834
+01:20:36,073 --> 01:20:38,034
 Fue un accidente.
 
 880
-01:17:17,867 --> 01:17:20,715
+01:20:38,075 --> 01:20:41,037
 No te preocupes. Decimos que
 quería tomar un taxi.
 
 881
-01:17:24,587 --> 01:17:27,435
+01:20:45,082 --> 01:20:48,044
 ¿Qué traes en tu...?
 ¡No, demonios!
 
 882
-01:17:27,467 --> 01:17:30,315
+01:20:48,085 --> 01:20:51,047
 ¡Pon esa bomba en el piso y apágala!
 
 883
-01:17:30,348 --> 01:17:33,195
--¡Tenemos que saltar!
--Estás loco. Yo no salto.
+01:20:51,088 --> 01:20:54,050
+- ¡Tenemos que saltar!
+- Estás loco. Yo no salto.
 
 884
-01:17:33,227 --> 01:17:36,075
--Usa tu saco.
--¡Apaga la bomba!
+01:20:54,091 --> 01:20:57,053
+- Usa tu saco.
+- ¡Apaga la bomba!
 
 885
-01:17:37,068 --> 01:17:38,955
-Perra loca...
+01:20:58,095 --> 01:21:00,056
+Puta loca...
 
 886
-01:17:53,324 --> 01:17:55,212
+01:21:15,071 --> 01:21:17,031
 No estuvo tan mal.
 
 887
-01:18:30,765 --> 01:18:34,562
+01:21:54,110 --> 01:21:58,072
 No puedo creer que volé
 15,000 km para esta mierda.
 
 888
-01:18:45,601 --> 01:18:47,488
+01:22:09,041 --> 01:22:11,002
 Detective Lee, odio admitirlo...
 
 889
-01:18:47,521 --> 01:18:51,317
+01:22:11,043 --> 01:22:15,006
 pero el Servicio Secreto
 está endeudado con usted.
 
 890
-01:18:51,361 --> 01:18:53,248
--Gracias.
--Gracias.
+01:22:15,047 --> 01:22:17,008
+- Gracias.
+- Gracias.
 
 891
-01:18:53,281 --> 01:18:55,169
+01:22:17,049 --> 01:22:19,010
 Te veré a bordo.
 
 892
-01:18:57,521 --> 01:19:00,368
+01:22:21,053 --> 01:22:24,015
 Yo también quiero darte las gracias.
 
 893
-01:19:07,121 --> 01:19:10,918
+01:22:31,063 --> 01:22:35,026
 Fue un placer trabajar contigo.
 
 894
-01:19:20,561 --> 01:19:22,449
+01:22:45,077 --> 01:22:47,038
 Los vi.
 
 895
-01:19:22,481 --> 01:19:26,279
+01:22:47,079 --> 01:22:51,042
 Demonio mañoso. Te besó, ¿verdad?
 
 896
-01:19:26,882 --> 01:19:29,729
+01:22:52,084 --> 01:22:55,046
 Y tú, como si nada, te alejaste sin
 voltearte a verla. Eso me gustó.
 
 897
-01:19:29,761 --> 01:19:31,649
+01:22:55,087 --> 01:22:57,048
 Sí, soy un conquistador.
 
 898
-01:19:33,202 --> 01:19:36,049
--¿A dónde va ella?
--A Nueva York.
+01:22:59,091 --> 01:23:02,053
+- ¿A dónde va ella?
+- A Nueva York.
 
 899
-01:19:37,937 --> 01:19:40,785
--¿Esa es tu puerta?
--Sí.
+01:23:04,013 --> 01:23:07,016
+- ¿Esa es tu puerta?
+- Sí.
 
 900
-01:19:41,777 --> 01:19:43,665
+01:23:08,017 --> 01:23:10,018
 Bueno, la mía está allá.
 
 901
-01:19:43,697 --> 01:19:46,545
--Parece el adiós.
--Parece que sí.
+01:23:10,019 --> 01:23:13,022
+- Parece el adiós.
+- Parece que sí.
 
 902
-01:19:47,538 --> 01:19:49,425
+01:23:14,023 --> 01:23:16,024
 Gracias, Carter.
 
 903
-01:19:49,457 --> 01:19:51,345
+01:23:16,025 --> 01:23:18,027
 Cuídate, Lee.
 
 904
-01:19:55,218 --> 01:19:58,065
--¡Carter!
--¿Sí?
+01:23:22,031 --> 01:23:25,034
+- ¡Carter!
+- ¿Sí?
 
 905
-01:20:00,978 --> 01:20:03,825
+01:23:28,037 --> 01:23:31,040
 Hay algo que te quiero dar.
 
 906
-01:20:05,778 --> 01:20:08,625
+01:23:33,042 --> 01:23:36,044
 Es la placa de tu papá.
 No la puedo aceptar.
 
 907
-01:20:08,658 --> 01:20:11,505
+01:23:36,045 --> 01:23:39,048
 Tómala. Por fin,
 me puedo separar de ella.
 
 908
-01:20:12,498 --> 01:20:14,385
+01:23:40,049 --> 01:23:42,050
 Gracias, camarada.
 
 909
-01:20:14,418 --> 01:20:17,266
+01:23:42,051 --> 01:23:45,054
 ¿Sabes qué?
 Yo también te quiero dar algo.
 
 910
-01:20:19,218 --> 01:20:20,145
+01:23:47,056 --> 01:23:48,056
 ¿Qué es esto?
 
 911
-01:20:20,178 --> 01:20:23,975
+01:23:48,057 --> 01:23:52,019
 Son $10,000. Los gané hoy, en Cesar"s.
 ¡Sigo encuchado!
 
 912
-01:20:24,018 --> 01:20:27,815
--No puedo aceptarlo.
--No te preocupes.
+01:23:52,061 --> 01:23:56,023
+- No puedo aceptarlo.
+- No te preocupes.
 
 913
-01:20:27,858 --> 01:20:29,746
+01:23:56,065 --> 01:23:58,066
 Yo tengo mucho más.
 
 914
-01:20:29,778 --> 01:20:32,625
--No los puedo aceptar.
--Llévatelos, diviértete.
+01:23:58,067 --> 01:24:01,069
+- No los puedo aceptar.
+- Llévatelos, diviértete.
 
 915
-01:20:32,658 --> 01:20:37,361
+01:24:01,070 --> 01:24:05,992
 Deja de ser policía un segundo y vive la
 vida. Debe de haber algo que tú quieras.
 
 916
-01:20:37,395 --> 01:20:41,192
+01:24:06,033 --> 01:24:09,996
 Última llamada,
 vuelo 44 a Nueva yorK.
 
 917
-01:20:43,155 --> 01:20:46,003
+01:24:12,039 --> 01:24:15,001
 Siempre he querido ir al
 Madison Square Garden...
 
 918
-01:20:46,035 --> 01:20:47,922
--a ver a los Knicks.
--¿En Nueva York?
+01:24:15,042 --> 01:24:17,003
+- a ver a los Knicks.
+- ¿En Nueva York?
 
 919
-01:20:47,955 --> 01:20:49,842
--Primera clase.
--¿EI Hotel Plaza?
+01:24:17,044 --> 01:24:19,005
+- Primera clase.
+- ¿EI Hotel Plaza?
 
 920
-01:20:49,875 --> 01:20:52,723
--¿Con un poco de mu shu?
--Ya lo creo.
+01:24:19,046 --> 01:24:22,008
+- ¿Con un poco de mu shu?
+- Ya lo creo.
 
 921
-01:20:52,755 --> 01:20:56,552
--¿Qué dices?
--A mí me vendrían bien otras vacaciones.
+01:24:22,049 --> 01:24:26,012
+- ¿Qué dices?
+- A mí me vendrían bien otras vacaciones.
 
 922
-01:21:09,075 --> 01:21:10,003
+01:24:39,066 --> 01:24:40,026
 Marcador.
 
 923
-01:21:10,035 --> 01:21:11,923
--¡Acción!
--¡Vamos!
+01:24:40,067 --> 01:24:42,028
+- ¡Acción!
+- ¡Vamos!
 
 924
-01:21:37,811 --> 01:21:40,659
+01:25:09,013 --> 01:25:11,974
 ¿Está bien? ¿Está bien Jackie?
 
 925
-01:21:40,692 --> 01:21:42,579
+01:25:12,016 --> 01:25:13,976
 Jackie siempre bien.
 
 926
-01:21:43,572 --> 01:21:46,419
--¿Esta es la comida kosher?
--Sí, señor.
+01:25:15,019 --> 01:25:17,980
+- ¿Esta es la comida kosher?
+- Sí, señor.
 
 927
-01:21:46,451 --> 01:21:48,339
--¿Cómo se llama?
--Guefilte.
+01:25:18,022 --> 01:25:19,982
+- ¿Cómo se llama?
+- Guefilte.
 
 928
-01:21:48,372 --> 01:21:51,219
--"Guefilte fish".
--"Guefilte fish".
+01:25:20,024 --> 01:25:22,985
+- "Guefilte fish".
+- "Guefilte fish".
 
 929
-01:21:51,252 --> 01:21:54,099
+01:25:23,027 --> 01:25:25,988
 "Bagels" con "Iox". Me encanta.
 
 930
-01:21:54,132 --> 01:21:56,979
--¿Cómo se llama esto?
--Guefilte fish.
+01:25:26,030 --> 01:25:28,991
+- ¿Cómo se llama esto?
+- Guefilte fish.
 
 931
-01:21:57,972 --> 01:22:00,819
+01:25:30,034 --> 01:25:32,995
 Guefilke fish.
 ¿Cómo se llama este pescado?
 
 932
-01:22:00,852 --> 01:22:02,739
+01:25:33,037 --> 01:25:34,997
 Guefilte fish.
 
 933
-01:22:02,772 --> 01:22:06,568
--¿Sabes qué es esto? ¿Qué es?
--Guefilte fish.
+01:25:35,039 --> 01:25:39,001
+- ¿Sabes qué es esto? ¿Qué es?
+- Guefilte fish.
 
 934
-01:22:06,611 --> 01:22:08,499
+01:25:39,043 --> 01:25:41,003
 Es filte fish.
 
 935
-01:22:08,532 --> 01:22:10,419
+01:25:41,045 --> 01:25:43,005
 Filte fish. ¿Quieres filte fish?
 
 936
-01:22:10,452 --> 01:22:13,300
--¿Quieres...? ¿Cómo se llama?
--¡Guefilte fish!
+01:25:43,047 --> 01:25:46,049
+- ¿Quieres...? ¿Cómo se llama?
+- ¡Guefilte fish!
 
 937
-01:22:13,332 --> 01:22:16,179
+01:25:46,050 --> 01:25:49,011
 ¡Guefilte fish!
 
 938
-01:22:16,212 --> 01:22:18,100
+01:25:49,053 --> 01:25:51,054
 ¿Guefilte fish? Bueno, perdón.
 
 939
-01:22:18,132 --> 01:22:20,020
--Me encanta esta comida
--La verdad, a mí, no.
+01:25:51,055 --> 01:25:53,015
+- Me encanta esta comida
+- La verdad, a mí, no.
 
 940
-01:22:20,052 --> 01:22:23,849
+01:25:53,057 --> 01:25:57,019
 Negros en todo el mundo comen esto.
 ¿Quién come lox y bagels?
 
 941
-01:22:24,852 --> 01:22:26,740
+01:25:58,062 --> 01:26:00,064
 ¿Me dan guilte fish?
 
 942
-01:22:39,188 --> 01:22:42,036
+01:26:13,035 --> 01:26:15,997
 ¡Señorita! Jackie, patéala.
 
 943
-01:22:42,069 --> 01:22:43,955
+01:26:16,038 --> 01:26:17,999
 Está bien... Chris Tucker.
 
 944
-01:22:43,988 --> 01:22:47,785
--Jackie, patéala.
--¿Jackie otra vez?
+01:26:18,040 --> 01:26:22,003
+- Jackie, patéala.
+- ¿Jackie otra vez?
 
 945
-01:22:47,828 --> 01:22:50,675
+01:26:22,044 --> 01:26:25,006
 Nos encantaría ver eso, ¿no, Jackie?
 
 946
-01:22:50,708 --> 01:22:52,596
+01:26:25,047 --> 01:26:27,008
 Jackie, nos encantaría ver eso.
 
 947
-01:22:52,628 --> 01:22:55,476
+01:26:27,049 --> 01:26:30,011
 Bueno, Jackie, nos encantaría ver eso.
 
 948
-01:22:55,509 --> 01:22:58,355
--¡Se llama Lee, maldita sea!
--Lee, nos encantaría ver eso.
+01:26:30,052 --> 01:26:33,014
+- ¡Se llama Lee, maldita sea!
+- Lee, nos encantaría ver eso.
 
 949
-01:22:58,388 --> 01:23:00,276
+01:26:33,055 --> 01:26:35,016
 Nos encantaría, ¿no, Lee?
 
 950
-01:23:00,308 --> 01:23:04,106
--Debes de querer algo.
--Siempre he querido ir a Square...
+01:26:35,057 --> 01:26:39,020
+- Debes de querer algo.
+- Siempre he querido ir a Square...
 
 951
-01:23:04,149 --> 01:23:06,036
+01:26:39,061 --> 01:26:41,022
 Siempre he querido ir a Square...
 
 952
-01:23:07,028 --> 01:23:09,876
+01:26:42,064 --> 01:26:45,026
 Siempre he soñado con el Square Marden.
 
 953
-01:23:09,909 --> 01:23:12,756
+01:26:45,067 --> 01:26:48,029
 Siempre he querido ir a...
 
 954
-01:23:14,709 --> 01:23:16,596
+01:26:50,072 --> 01:26:52,033
 Ya no me sale.
 
 955
-01:23:16,629 --> 01:23:20,425
+01:26:52,074 --> 01:26:56,037
 Ya me puse nervioso. Todos los
-"garden"s. Madison Square Garden.
+"garden" s. Madison Square Garden.
 
 956
-01:23:20,468 --> 01:23:22,356
+01:26:56,078 --> 01:26:58,039
 Siempre quiero ir a Squ-Madison.
 
 957
-01:23:24,309 --> 01:23:27,156
--Nos persiguen muchos hombres.
--Cual deben.
+01:27:00,082 --> 01:27:03,044
+- Nos persiguen muchos hombres.
+- Cual deben.
 
 958
-01:23:27,188 --> 01:23:29,971
+01:27:03,085 --> 01:27:05,963
 Eres muy guapo. Si no tuviera novia,
 me lanzaba.
 
 959
-01:23:30,005 --> 01:23:33,801
-Te ponía en una tina, te ponía
+01:27:06,005 --> 01:27:09,967
+Te ponía en una bañera, te ponía
 salvavidas y te daba de nalgadas.
 
 960
-01:23:33,844 --> 01:23:35,732
+01:27:10,009 --> 01:27:11,969
 Pero escuchen. Vamos a hacer esto.
 
 961
-01:23:35,764 --> 01:23:40,521
+01:27:12,011 --> 01:27:16,974
 ¡Calma! No te rías de mí. Te voy a
 llevar a mi casa y a castigar.
 
 962
-01:23:40,564 --> 01:23:42,452
+01:27:17,016 --> 01:27:18,976
 Los necesito a los dos.
 
 963
-01:23:42,484 --> 01:23:45,332
+01:27:19,018 --> 01:27:21,979
 Demonio mañoso. Te dio un beso, ¿verdad?
 
 964
-01:23:45,365 --> 01:23:48,212
+01:27:22,021 --> 01:27:24,982
 Eso me gustó.
 
 965
-01:23:48,244 --> 01:23:51,092
--Espera.
--¿Quién te está llamando?
+01:27:25,024 --> 01:27:27,985
+- Espera.
+- ¿Quién te está llamando?
 
 966
-01:23:51,125 --> 01:23:53,012
+01:27:28,027 --> 01:27:29,987
 Saludos a tu papá.
 
 967
-01:23:54,964 --> 01:23:58,762
+01:27:32,031 --> 01:27:35,993
 Estoy filmando.
 Vuelve a llamarme a las 7:00.
 
 968
-01:23:58,805 --> 01:24:02,601
+01:27:36,035 --> 01:27:39,997
 Estoy filmando. Estoy mirando a
 Jackie Chan a los ojos. Llámame luego.
 
 969
-01:24:02,645 --> 01:24:06,442
+01:27:40,039 --> 01:27:44,001
 Qué profesional.
 ¿Prendes el teléfono cuando filmas?
 
 970
-01:24:06,485 --> 01:24:09,333
+01:27:44,043 --> 01:27:47,004
 No, no puedes hablar con
 Jackie Chan. ¡No!
 
 971
-01:24:09,366 --> 01:24:11,252
+01:27:47,046 --> 01:27:49,006
 Quieren hablar contigo.
 
 972
-01:24:11,285 --> 01:24:15,082
--Perdónenme.
--Estamos filmando en este momento.
+01:27:49,048 --> 01:27:53,010
+- Perdónenme.
+- Estamos filmando en este momento.
 
 973
-01:24:15,125 --> 01:24:17,972
+01:27:53,052 --> 01:27:56,013
 ¿Perdón? Está desperdiciando
 nuestra película.
 
 974
-01:24:18,965 --> 01:24:20,853
+01:27:57,056 --> 01:27:59,016
 Llámame luego. A las 7:00.
 
 975
-01:24:25,622 --> 01:24:27,509
-¡Caray!
+01:28:04,021 --> 01:28:05,982
+¡Vaya!
 
 976
-01:24:27,542 --> 01:24:30,390
+01:28:06,023 --> 01:28:08,985
 No va a salir en
 Una Pareja Explosiva 3.
