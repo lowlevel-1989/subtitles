@@ -1,7 +1,6 @@
 1
 00:00:06,000 --> 00:00:12,074
-Utilice el Código gratuito JOINNOW en 
- www.playships.eu
+_
 
 2
 00:00:44,620 --> 00:00:49,541
@@ -4850,7 +4849,3 @@ No, al demonio. ¡Señorita!
 1036
 01:32:02,680 --> 01:32:04,681
 ¡Cámbieme de asiento!
-
-1037
-01:32:05,305 --> 01:33:05,882
-Por favor califica este subtitulo en www.osdb.link/434ue Ayuda a otros a elegir el mejor
