@@ -1,7 +1,6 @@
 1
 00:00:06,000 --> 00:00:12,074
-Utilice el Código gratuito JOINNOW en 
- www.playships.eu
+_
 
 2
 00:00:50,000 --> 00:00:57,000
@@ -12079,12 +12078,3 @@ en cadena que destruiría el mundo entero.</font>
 2711
 02:53:09,606 --> 02:53:10,882
 <font color="FFFF00">Creo que lo destruimos.</font>
-
-2712
-02:53:54,320 --> 02:53:59,213
-{\an2}<font color="#004080">Traducción: </font><font color="#ff0018">A</font><font color="#00fff0">rcanjo</font><font color ="#ff0018">ordenador</font>
-
-2713
-02:54:00,305 --> 02:55:00,877
-Anuncie su producto o marca aquí
-contáctenos www.OpenSubtitles.org hoy
