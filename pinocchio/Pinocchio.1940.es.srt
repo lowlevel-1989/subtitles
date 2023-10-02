@@ -3,4617 +3,4447 @@
 _
 
 2
-00:00:27,480 --> 00:00:31,816
-Cuando deseas sobre una estrella
+00:00:12,980 --> 00:00:16,108
+PINOCHO
 
 3
-00:00:31,983 --> 00:00:36,735
-No hay diferencia en quién seas
+00:00:27,361 --> 00:00:31,991
+<i>Si en la nocturna quietud</i>
 
 4
-00:00:36,903 --> 00:00:40,988
-Cualquier cosa que tu
-corazón desee
+00:00:32,099 --> 00:00:37,036
+<i>Ves brillar la estrella azul</i>
 
 5
-00:00:41,156 --> 00:00:46,908
-Vendrá a tí
+00:00:37,138 --> 00:00:41,268
+<i>Todo lo que pidas</i>
 
 6
-00:00:47,077 --> 00:00:51,412
-Si tu corazón
-está en tu sueño
+00:00:41,342 --> 00:00:45,540
+<i>Se realizará</i>
 
 7
-00:00:51,580 --> 00:00:56,500
-Ningún pedido es extremo
+00:00:47,114 --> 00:00:51,710
+<i>Si es muy grande tu ilusión</i>
 
 8
-00:00:56,665 --> 00:01:02,004
-Cuando deseas sobre una estrella
+00:00:51,819 --> 00:00:56,654
+<i>Si te late el corazón</i>
 
 9
-00:01:02,169 --> 00:01:07,507
-Como los soñadores lo hacen
+00:00:56,724 --> 00:01:02,356
+<i>Y la estrella te sabrá</i>
 
 10
-00:01:07,674 --> 00:01:11,676
-El destino es bueno
+00:01:02,463 --> 00:01:07,196
+<i>Así escuchar</i>
 
 11
-00:01:11,844 --> 00:01:16,513
-Ella trae para aquellos que aman
+00:01:07,835 --> 00:01:11,737
+<i>Al seguir</i>
 
 12
-00:01:16,681 --> 00:01:21,018
-El dulce cumplimiento de
+00:01:11,839 --> 00:01:16,572
+<i>O si no volverá</i>
 
 13
-00:01:21,185 --> 00:01:27,356
-Sus anhelos secretos
+00:01:16,677 --> 00:01:21,046
+<i>Las horas te hablarán</i>
 
 14
-00:01:31,941 --> 00:01:37,362
-Como un rayo caído del cielo
+00:01:21,148 --> 00:01:26,711
+<i>De tiempos idos</i>
 
 15
-00:01:37,530 --> 00:01:39,865
-El destino entra
+00:01:31,892 --> 00:01:37,262
+<i>Si en un rayo de ilusión</i>
 
 16
-00:01:40,029 --> 00:01:45,034
-Y mira a través
+00:01:37,365 --> 00:01:45,238
+<i>Viene a ti la estrella azul</i>
 
 17
-00:01:45,202 --> 00:01:48,287
-Cuando deseas
+00:01:45,339 --> 00:01:51,175
+<i>Lo que pidas al soñar</i>
 
 18
-00:01:48,453 --> 00:01:51,871
-Sobre una estrella
+00:01:52,013 --> 00:02:00,284
+<i>Lo hará su luz</i>
 
 19
-00:01:52,039 --> 00:01:55,209
-Tus sueños
+00:02:04,125 --> 00:02:06,389
+Bonito, ¿verdad?
 
 20
-00:01:55,374 --> 00:02:02,463
-Se hacen realidad
+00:02:06,460 --> 00:02:09,088
+Apuesto a que muchos de ustedes
+no lo creen...
 
 21
-00:02:04,132 --> 00:02:06,050
-Lindo, ¿no?
+00:02:09,196 --> 00:02:12,256
+que los sueños se cumplen,
+¿verdad?
 
 22
-00:02:06,216 --> 00:02:08,968
-Apostaría a que ustedes, amigos,
-no creerían esto.
+00:02:12,366 --> 00:02:14,231
+Pues, yo tampoco creía.
 
 23
-00:02:09,135 --> 00:02:12,180
-Sobre un sueño haciéndose
-realidad, ¿o sí?
+00:02:14,301 --> 00:02:19,034
+Claro que soy sólo un grillo
+que pasa la vida cantando,
 
 24
-00:02:12,345 --> 00:02:14,306
-Bueno, yo tampoco lo haría.
+00:02:19,106 --> 00:02:22,473
+pero les diré
+por qué cambié de opinión.
 
 25
-00:02:14,473 --> 00:02:19,036
-Por supuesto. Soy un grillo que va
-cantando de chimenea en chimenea...
+00:02:31,719 --> 00:02:33,778
+Una noche, hace...
 
 26
-00:02:17,391 --> 00:02:21,560
-...pero, déjenme contarles qué
-fue lo que me hizo cambiar de opinión.
+00:02:35,156 --> 00:02:39,616
+Perdón.
+Esperen. Voy a arreglar esto. Listo.
 
 27
-00:02:31,650 --> 00:02:34,901
-Una noche, hace mucho...
+00:02:40,561 --> 00:02:43,462
+Una noche hace mucho tiempo,
 
 28
-00:02:35,068 --> 00:02:39,821
-Discúlpenme. Esperen que arreglo
-esta cosa aquí... ahí está.
+00:02:43,564 --> 00:02:46,590
+mis viajes me llevaron
+a un pueblo pintoresco.
 
 29
-00:02:39,989 --> 00:02:43,407
-Una noche, hace mucho tiempo...
-
-30
-00:02:43,575 --> 00:02:46,578
-...mis viajes me llevaron a un
-pintoresco pueblito.
-
-31
-00:02:46,746 --> 00:02:48,580
+00:02:46,667 --> 00:02:48,635
 Era una noche hermosa.
 
-32
-00:02:48,747 --> 00:02:50,832
+30
+00:02:48,702 --> 00:02:51,364
 Las estrellas brillaban
-como diamantes...
+como diamantes
+
+31
+00:02:51,439 --> 00:02:54,738
+sobre los tejados viejos
+de ese apacible pueblo.
+
+32
+00:02:54,809 --> 00:02:56,640
+Bonito cuadro, ¿no?
 
 33
-00:02:50,996 --> 00:02:53,999
-...altas por encima de los techos
-de ese viejo pueblo durmiente.
+00:03:00,848 --> 00:03:03,009
+Mientras vagaba por sus callejuelas,
 
 34
-00:02:54,167 --> 00:02:56,044
-Lindo como una postal.
+00:03:03,117 --> 00:03:05,415
+no se veía ni un alma.
 
 35
-00:03:00,756 --> 00:03:02,922
-Y así iba caminando por las
-encorvadas calles...
+00:03:05,486 --> 00:03:08,080
+La única señal de vida,
+era una ventana iluminada
 
 36
-00:03:03,088 --> 00:03:05,342
-...no había un alma para ver.
+00:03:08,155 --> 00:03:11,852
+del taller de un
+carpintero llamado Gepetto.
 
 37
-00:03:05,510 --> 00:03:08,011
-El único signo de vida
-era una ventana luminosa...
+00:03:11,926 --> 00:03:14,656
+De modo que salté hacia el taller
 
 38
-00:03:08,177 --> 00:03:11,596
-...en el taller de un carpintero
-llamado Geppetto.
+00:03:19,633 --> 00:03:21,294
+y me asomé.
 
 39
-00:03:11,764 --> 00:03:14,097
-Entonces, brinqué encima.
+00:03:21,368 --> 00:03:26,237
+Era una pena ver desperdiciado
+un fuego tan lindo como ése.
 
 40
-00:03:19,433 --> 00:03:21,270
-Y miré adentro.
+00:03:26,307 --> 00:03:28,138
+¿Qué hice entonces?
 
 41
-00:03:21,438 --> 00:03:25,607
-Era una vergüenza ver ese
-lindo fueguito gastándose.
-
-42
-00:03:25,774 --> 00:03:28,107
-¿Entonces qué hice?
-
-43
-00:03:29,441 --> 00:03:31,278
+00:03:29,510 --> 00:03:31,603
 Entré.
 
+42
+00:03:35,216 --> 00:03:37,309
+Inspeccioné.
+
+43
+00:03:39,520 --> 00:03:44,355
+Tratándose de un lugar extraño,
+no sabía qué esperar.
+
 44
-00:03:34,945 --> 00:03:36,782
-Eché una mirada.
+00:03:44,458 --> 00:03:47,052
+Un grillo debe
+extremar precauciones, ¿saben?
 
 45
-00:03:39,449 --> 00:03:41,826
-Por supuesto, estando en
-un extraño lugar como ese...
+00:03:50,698 --> 00:03:55,158
+En cuanto vi que no había nadie,
+me instalé como en casa.
 
 46
-00:03:41,994 --> 00:03:44,451
-...no sabía qué esperar.
+00:04:13,320 --> 00:04:17,222
+Mientras me calentaba...
+las manos, eché un vistazo.
 
 47
-00:03:44,619 --> 00:03:47,122
-Un grillo no puede ser
-tan cuidadoso, tú sabes.
+00:04:17,324 --> 00:04:20,384
+Y vaya. Nunca antes
+vi un lugar semejante.
 
 48
-00:03:50,457 --> 00:03:54,124
-Tan pronto como vi que no había
-nadie, me puse como en casa.
+00:04:20,494 --> 00:04:24,055
+Los relojes más fantásticos
+que hayan visto,
 
 49
-00:04:13,223 --> 00:04:17,353
-Me paré para calentar mi...
-a mí mismo, y eché una mirada.
+00:04:24,165 --> 00:04:26,429
+y todos tallados en madera.
 
 50
-00:04:17,517 --> 00:04:20,520
-Bien, señor, nunca viste
-un lugar así.
+00:04:26,534 --> 00:04:30,402
+Y hermosas cajas de música.
+Cada una, una obra de arte.
 
 51
-00:04:20,688 --> 00:04:23,815
-Los más fantásticos relojes en
-donde jamás hayas colocado tus ojos.
+00:04:30,504 --> 00:04:32,995
+Estantes y estantes de juguetes y...
 
 52
-00:04:23,983 --> 00:04:26,482
-Y todos tallados en madera.
+00:04:34,575 --> 00:04:38,602
+Y entonces, algo
+llamó mi atención: Un títere.
 
 53
-00:04:26,650 --> 00:04:30,571
-Y lindas cajitas de música,
-cada una, una obra de arte.
+00:04:38,712 --> 00:04:43,012
+Ya saben. Una de esas marionetas,
+con hilos y articulaciones.
 
 54
-00:04:30,735 --> 00:04:33,071
-Repisa tras repisa
-de juguetes y...
+00:04:49,356 --> 00:04:51,415
+Simpático.
 
 55
-00:04:34,407 --> 00:04:36,574
-...y entonces hubo algo
-que me llamó la atención.
+00:04:53,027 --> 00:04:55,086
+¡Arriba!
 
 56
-00:04:36,742 --> 00:04:38,576
-¡Un títere!
+00:04:58,766 --> 00:05:00,734
+Y muy buena madera.
 
 57
-00:04:38,742 --> 00:04:40,827
-Ya sabes, una de esas
-marionetas...
+00:05:00,801 --> 00:05:04,464
+Bueno, ya le falta muy poco.
 
 58
-00:04:40,995 --> 00:04:42,828
-...todas con cuerdas
-y articulaciones.
+00:05:06,073 --> 00:05:09,099
+Con sólo un poco más
+de pintura, quedará listo.
 
 59
-00:04:49,210 --> 00:04:51,336
-Un lindo amiguito.
+00:05:12,246 --> 00:05:15,545
+Creo que quedará muy lindo.
 
 60
-00:04:51,502 --> 00:04:54,254
-¡Ding, ding!
-¡Arriba!
+00:05:15,616 --> 00:05:17,709
+¿No lo crees, Fígaro?
 
 61
-00:04:58,674 --> 00:05:00,508
-Otra buena pieza de madera.
+00:05:52,620 --> 00:05:54,349
+Disculpe.
 
 62
-00:05:00,676 --> 00:05:02,843
-Muy bien.
+00:05:59,994 --> 00:06:03,157
+¿Lo ves?
+Cómo ha cambiado.
 
 63
-00:05:03,011 --> 00:05:05,679
-No tomará mucho tiempo.
+00:06:05,132 --> 00:06:07,327
+¡Muy bien!
 
 64
-00:05:05,845 --> 00:05:10,058
-Sólo un poco más de pintura
-y estará terminado.
+00:06:08,269 --> 00:06:10,134
+Muy, muy bien.
 
 65
-00:05:12,184 --> 00:05:15,352
-Creo que quedará bien.
+00:06:12,873 --> 00:06:15,603
+Bueno,
+en gustos se rompen géneros.
 
 66
-00:05:15,520 --> 00:05:18,188
-¿Verdad, Figaro?
+00:06:19,146 --> 00:06:22,377
+Tengo el nombre perfecto para ti.
+Desde ahora, serás...
 
 67
-00:05:51,212 --> 00:05:54,172
-Oh, mil perdones.
+00:06:23,350 --> 00:06:25,443
+¡Pinocho!
 
 68
-00:05:59,885 --> 00:06:03,221
-¿Ves? Eso hace una
-gran diferencia.
+00:06:26,020 --> 00:06:28,113
+¿Te gusta, Fígaro?
 
 69
-00:06:05,054 --> 00:06:07,891
-Muy bien.
+00:06:29,890 --> 00:06:32,654
+¿No? Pero a ti sí te gusta,
+¿verdad, Cleo?
 
 70
-00:06:08,056 --> 00:06:11,143
-Muy, muy bie...
+00:06:34,862 --> 00:06:38,298
+Bueno, dejaremos que él decida.
 
 71
-00:06:12,727 --> 00:06:15,062
-Bueno, no puedes
-complacer a todos.
-
-72
-00:06:18,898 --> 00:06:22,900
-Ahora, tengo el nombre
-justo para tí.
-
-73
-00:06:23,068 --> 00:06:25,820
-¡Pinocchio!
-
-74
-00:06:25,986 --> 00:06:28,238
-¿Te gusta, Figaro?
-
-75
-00:06:30,072 --> 00:06:32,740
-¿No?
-A tí sí, ¿verdad, Cleo?
-
-76
-00:06:34,619 --> 00:06:38,080
-Bueno, entonces lo dejaremos
-en pequeño Cabezahueca.
-
-77
-00:06:38,246 --> 00:06:40,081
+00:06:38,365 --> 00:06:40,458
 ¿Te gusta?
 
+72
+00:06:42,936 --> 00:06:44,801
+Así ha de ser.
+
+73
+00:06:44,872 --> 00:06:47,136
+Pinocho será.
+
+74
+00:06:47,207 --> 00:06:49,641
+Ven. Vamos a secarte.
+
+75
+00:06:49,943 --> 00:06:52,241
+¡Música, maestro!
+
+76
+00:07:06,593 --> 00:07:10,085
+¡Con cuidado!
+Vamos. Basta ya.
+
+77
+00:07:11,198 --> 00:07:13,257
+Son muchos compases.
+
 78
-00:06:42,915 --> 00:06:44,875
-¡Queda establecido!
+00:07:22,076 --> 00:07:25,443
+<i>Cabecita de madera, ven</i>
 
 79
-00:06:45,043 --> 00:06:47,210
-¡Es Pinocchio!
+00:07:25,546 --> 00:07:28,743
+<i>Quiero que tu parte la hagas bien</i>
 
 80
-00:06:47,378 --> 00:06:49,628
-Ven aquí, te pondré en práctica.
+00:07:28,849 --> 00:07:32,046
+<i>Aunque no razones y yo sí</i>
 
 81
-00:06:49,796 --> 00:06:51,631
-¡Música, Profesor!
+00:07:32,119 --> 00:07:35,384
+<i>Orgulloso estoy de ti</i>
 
 82
-00:07:03,763 --> 00:07:07,933
-¡Hey! ¡Ouch!
-¡Tó... tómalo con calma!
+00:07:35,456 --> 00:07:38,755
+<i>De madera son también tus pies</i>
 
 83
-00:07:08,101 --> 00:07:10,978
-Ya termínala, ¿no?
+00:07:38,859 --> 00:07:42,124
+<i>No te importe que en el suelo des</i>
 
 84
-00:07:11,144 --> 00:07:13,229
-Hay un montón de
-compases ahí.
+00:07:42,229 --> 00:07:44,891
+¡Oh, qué gracioso!
 
 85
-00:07:22,027 --> 00:07:25,364
-Pequeño Cabezahueca
-Anda y haz tu parte
+00:07:44,965 --> 00:07:48,162
+<i>Mi lindo marionel</i>
 
 86
-00:07:25,529 --> 00:07:28,699
-Trae un poco de alegría
-a cada corazón
+00:08:22,302 --> 00:08:25,465
+Cleo, te presento a Pinocho.
 
 87
-00:07:28,866 --> 00:07:32,034
-Pequeño, tú lo sabes
-y es verdad
+00:08:25,572 --> 00:08:27,836
+Salúdalo.
 
 88
-00:07:32,202 --> 00:07:35,370
-Que estoy inmensamente
-orgulloso de tí
+00:08:32,246 --> 00:08:34,737
+Saluda a Fígaro.
 
 89
-00:07:35,538 --> 00:07:38,706
-Piesitos de madera,
-y lo mejor de todo
+00:08:40,554 --> 00:08:43,182
+¡Tan pronto haciendo travesuras!
 
 90
-00:07:38,872 --> 00:07:41,957
-Asientitos de madera
-por si te caes
+00:08:44,858 --> 00:08:46,951
+¿Ves lo que pasa?
 
 91
-00:07:42,124 --> 00:07:44,961
-¡Qué gracioso!
+00:09:05,179 --> 00:09:07,841
+¡Ven acá!
 
 92
-00:07:45,127 --> 00:07:48,837
-Mi pequeño Cabezahueca
+00:09:07,948 --> 00:09:10,542
+Qué linda criatura.
 
 93
-00:08:22,070 --> 00:08:25,197
-Cleo, conoce a Pinocchio.
+00:09:10,651 --> 00:09:13,518
+Y qué sonrisa. ¿Sabes? Yo...
 
 94
-00:08:25,365 --> 00:08:27,200
-Dí, "¿Cómo estás?".
+00:09:15,556 --> 00:09:18,753
+¡Pillo! Conque estás celoso, ¿no?
 
 95
-00:08:32,328 --> 00:08:34,163
-Dile hola a Figaro.
+00:09:19,893 --> 00:09:23,989
+¿Sabes, Pinocho?
+Creo que Fígaro está celoso de ti.
 
 96
-00:08:39,000 --> 00:08:43,336
-¡Ups!
-Ya hace travesuras.
+00:09:26,500 --> 00:09:28,832
+No temas, Fígaro.
 
 97
-00:08:44,837 --> 00:08:46,672
-¿Ves lo que sucede?
+00:09:28,902 --> 00:09:29,960
+Que yo...
 
 98
-00:09:05,349 --> 00:09:07,603
-¡Arriba!
+00:10:14,781 --> 00:10:17,045
+¿Qué hora será?
 
 99
-00:09:07,770 --> 00:09:10,356
-Eres un lindo amiguito.
+00:10:20,187 --> 00:10:22,246
+Es muy tarde.
 
 100
-00:09:10,523 --> 00:09:13,650
-¿Y esa sonrisa?
-Sabes, yo...
+00:10:24,758 --> 00:10:27,420
+Vamos. Hay que dormir.
 
 101
-00:09:15,358 --> 00:09:19,403
-Tú pilluelo.
-¿Estás celoso?
+00:10:27,528 --> 00:10:29,587
+Buenas noches, Pinocho.
 
 102
-00:09:19,569 --> 00:09:25,200
-Sabes qué, Pinocchio, creo que
-Figaro está celoso de tí.
+00:10:30,564 --> 00:10:32,293
+Mi muñequito.
 
 103
-00:09:26,367 --> 00:09:28,699
-No te preocupes, Figaro.
+00:10:37,871 --> 00:10:39,429
+Buenas noches, Cleo,
 
 104
-00:09:28,869 --> 00:09:32,538
-Yo todav...
+00:10:39,540 --> 00:10:41,599
+mi princesita acuática.
 
 105
-00:10:14,276 --> 00:10:17,070
-Me pregunto qué hora será.
+00:10:48,482 --> 00:10:50,575
+¡Fígaro!
 
 106
-00:10:20,239 --> 00:10:22,905
-Se está haciendo tarde.
+00:10:50,651 --> 00:10:52,744
+Tú también da las buenas noches.
 
 107
-00:10:24,574 --> 00:10:27,244
-Ven, nos vamos a la cama.
+00:10:57,624 --> 00:10:59,319
+¡Vamos!
 
 108
-00:10:27,369 --> 00:10:30,162
-Buenas noches, Pinocchio.
+00:11:06,433 --> 00:11:09,664
+A dormir, mi pequeña sirena.
 
 109
-00:10:30,328 --> 00:10:32,286
-Carita graciosa.
-
-110
-00:10:37,668 --> 00:10:41,753
-Buenas noches, Cleo,
-mi bebita de agua.
-
-111
-00:10:48,259 --> 00:10:50,344
-Figaro.
-
-112
-00:10:50,508 --> 00:10:53,304
-Dí buenas noches también.
-
-113
-00:10:57,350 --> 00:10:59,264
-Vamos.
-
-114
-00:11:06,189 --> 00:11:09,358
-Ahora a dormir,
-mi sirenita.
-
-115
-00:11:09,524 --> 00:11:11,357
+00:11:09,770 --> 00:11:11,829
 Buenas noches.
 
+110
+00:11:23,617 --> 00:11:26,347
+Esto es a lo que llamo comodidad.
+
+111
+00:11:28,822 --> 00:11:30,915
+Comodidad de primera.
+
+112
+00:11:48,073 --> 00:11:50,268
+Míralo, Fígaro.
+
+113
+00:11:54,113 --> 00:11:56,843
+Parece que viviera.
+
+114
+00:12:00,453 --> 00:12:04,446
+¿No crees que sería hermoso
+que viviera de verdad?
+
+115
+00:12:05,658 --> 00:12:07,717
+En fin.
+
 116
-00:11:23,450 --> 00:11:25,870
-Esta es mi idea de comodidad.
+00:12:07,827 --> 00:12:10,853
+Vamos. Hay que dormir.
 
 117
-00:11:28,537 --> 00:11:30,372
-Sólida comodidad.
+00:12:20,639 --> 00:12:22,402
+¡Oh, Fígaro!
 
 118
-00:11:47,886 --> 00:11:50,969
-Míralo, Figaro.
-
-119
-00:11:53,972 --> 00:11:57,143
-Luce casi con vida.
-
-120
-00:12:00,060 --> 00:12:05,147
-¿No sería lindo si él
-fuera un muchacho real?
-
-121
-00:12:05,313 --> 00:12:07,398
-Y bueno...
-
-122
-00:12:07,566 --> 00:12:11,236
-Está bien. Vamos a dormir.
-
-123
-00:12:20,242 --> 00:12:22,618
-Oh, Figaro.
-
-124
-00:12:25,412 --> 00:12:29,832
+00:12:26,078 --> 00:12:29,411
 Olvidé abrir la ventana.
 
+119
+00:13:04,283 --> 00:13:08,777
+¡Oh, Fígaro! ¡Mira!
+¿Ves? La estrella azul.
+
+120
+00:13:10,089 --> 00:13:11,886
+Estrellita, la primera,
+
+121
+00:13:11,957 --> 00:13:14,619
+que esta noche divisé...
+
+122
+00:13:14,727 --> 00:13:18,094
+Haz que sea la verdadera
+
+123
+00:13:18,197 --> 00:13:20,256
+una dicha que soñé.
+
+124
+00:13:20,366 --> 00:13:23,597
+¿Sabes qué pedí, Fígaro?
+
 125
-00:13:04,024 --> 00:13:09,444
-¡Oh, Figaro! ¡Mira, mira!
-¡La estrella de los deseos!
+00:13:27,139 --> 00:13:32,270
+Que la estrella haga, a mi Pinocho,
+un niño de verdad.
 
 126
-00:13:09,611 --> 00:13:14,198
-Estrella que brilla, estrella brillante,
-la primera que veo esta noche...
+00:13:33,546 --> 00:13:36,208
+¿No te gustaría? ¡Imagínate!
 
 127
-00:13:14,362 --> 00:13:17,866
-Desearía poder, desearía quizás...
+00:13:36,282 --> 00:13:39,080
+Un niño de carne y hueso.
 
 128
-00:13:18,030 --> 00:13:20,285
-...cumplir el deseo que
-haga esta noche.
+00:13:39,151 --> 00:13:43,952
+Es un pensamiento encantador,
+pero nada práctico.
 
 129
-00:13:20,452 --> 00:13:23,537
-Figaro, ¿sabes qué
-es lo que deseo?
+00:13:45,824 --> 00:13:47,883
+Un niño
 
 130
-00:13:27,287 --> 00:13:29,457
-Deseo que mi
-pequeño Pinocchio...
+00:13:51,430 --> 00:13:53,091
+de verdad.
 
 131
-00:13:29,623 --> 00:13:33,462
-...pueda ser un muchacho real.
-
-132
-00:13:33,628 --> 00:13:36,128
-¿No sería bonito?
-¡Sólo piensa!
-
-133
-00:13:36,297 --> 00:13:39,049
-¡Un muchacho de verdad!
-
-134
-00:13:39,216 --> 00:13:43,386
-Un pensamiento encantador.
-Pero no del todo práctico.
-
-135
-00:13:45,886 --> 00:13:47,720
-Un muchacho...
-
-136
-00:13:51,058 --> 00:13:52,892
-...de verdad.
-
-137
-00:15:09,864 --> 00:15:12,074
+00:15:10,342 --> 00:15:12,401
 ¡Silencio!
 
-138
-00:15:14,284 --> 00:15:16,742
-Despues de todo,
-suficiente es suficiente.
+132
+00:15:14,580 --> 00:15:17,048
+Después de todo, ya fue demasiado.
 
-139
-00:15:24,458 --> 00:15:26,500
-¿Ahora qué?
+133
+00:15:24,757 --> 00:15:26,554
+Ahora, ¿qué pasa?
 
-140
-00:15:36,508 --> 00:15:38,632
+134
+00:15:36,502 --> 00:15:38,561
 ¿Qué está pasando aquí?
 
+135
+00:15:52,785 --> 00:15:55,447
+Lo veo y no lo creo. ¡Un hada!
+
+136
+00:15:58,857 --> 00:16:02,793
+Buen Gepetto, haz hecho felices
+a muchas otras personas.
+
+137
+00:16:02,895 --> 00:16:05,420
+Mereces que tu sueño se haga realidad.
+
+138
+00:16:09,601 --> 00:16:12,434
+¡Despierta, lindo muñeco de pino!
+
+139
+00:16:14,440 --> 00:16:16,533
+A la vida te destino.
+
+140
+00:16:25,484 --> 00:16:27,975
+¡Lo que es el progreso!
+
 141
-00:15:52,394 --> 00:15:54,730
-¡Santo cielo!
-¡Un hada!
+00:16:31,423 --> 00:16:33,482
+¡Puedo moverme!
 
 142
-00:15:58,482 --> 00:16:02,360
-Buen Geppetto, has dado
-tanta felicidad a otros...
-
-143
-00:16:02,527 --> 00:16:05,318
-...que mereces que tu deseo
-se haga realidad.
-
-144
-00:16:09,073 --> 00:16:11,409
-Pequeño títere hecho de pino...
-
-145
-00:16:11,574 --> 00:16:13,994
-...despierta.
-
-146
-00:16:14,160 --> 00:16:16,495
-El regalo de la vida, es tuyo.
-
-147
-00:16:24,083 --> 00:16:27,379
-¡Lo que se puede hacer
-por estos días!
-
-148
-00:16:31,088 --> 00:16:32,963
-¡Me puede mover!
-
-149
-00:16:34,425 --> 00:16:36,677
+00:16:34,760 --> 00:16:36,785
 ¡Puedo hablar!
 
+143
+00:16:37,563 --> 00:16:39,622
+¡Puedo andar!
+
+144
+00:16:41,333 --> 00:16:44,234
+Sí, Pinocho. Te he dado la vida.
+
+145
+00:16:44,303 --> 00:16:45,327
+¿Por qué?
+
+146
+00:16:45,437 --> 00:16:48,736
+Porque esta noche,
+Gepetto deseó un niño de verdad.
+
+147
+00:16:48,807 --> 00:16:52,334
+- ¿Soy un niño de verdad?
+- No, Pinocho.
+
+148
+00:16:52,444 --> 00:16:56,244
+Sólo de ti dependerá
+hacer realidad el sueño de Gepetto.
+
+149
+00:16:56,315 --> 00:16:57,907
+¿De mí?
+
 150
-00:16:36,843 --> 00:16:38,676
-¡Puedo caminar!
+00:16:57,983 --> 00:17:02,420
+Demuestra que eres bueno,
+sincero, generoso
 
 151
-00:16:41,012 --> 00:16:44,766
-- Sí, Pinocchio, te he dado vida.
-- ¿Por qué?
+00:17:02,488 --> 00:17:04,581
+y llegarás a ser un niño de verdad.
 
 152
-00:16:44,930 --> 00:16:48,643
-Porque esta noche, Geppetto
-pidió que fueras un niño de verdad.
+00:17:04,656 --> 00:17:07,819
+- ¡Un niño de verdad!
+- No será fácil.
 
 153
-00:16:48,809 --> 00:16:52,021
-- ¿Soy un niño de verdad?
-- No, Pinocchio.
+00:17:07,926 --> 00:17:10,360
+Deberás distinguir
+entre el bien y el mal.
 
 154
-00:16:52,188 --> 00:16:56,190
-Hacer que el deseo de Geppetto se
-haga realidad depende sólo de tí.
+00:17:10,462 --> 00:17:13,761
+¿El bien y el mal?
+Pero ¿cómo lo sabré?
 
 155
-00:16:56,357 --> 00:17:01,695
-- ¿De mí?
-- Prueba que eres audaz, sincero y generoso...
-
-156
-00:17:01,820 --> 00:17:05,948
-- ...y algún día serás un niño real.
-- ¡Un niño de verdad!
-
-157
-00:17:06,115 --> 00:17:07,783
-Eso no será fácil.
-
-158
-00:17:07,950 --> 00:17:10,285
-Debes aprender a elegir
-entre lo bueno y lo malo.
-
-159
-00:17:10,450 --> 00:17:13,617
-¿Bueno o malo?
-¿Pero cómo lo sabré?
-
-160
-00:17:13,787 --> 00:17:16,455
+00:17:13,832 --> 00:17:16,960
 - ¿Cómo lo sabrá?
 - Tu conciencia te lo dirá.
 
-161
-00:17:16,619 --> 00:17:19,746
-- ¿Qué es la conciencia?
-- ¡Qué es la conciencia!
+156
+00:17:17,035 --> 00:17:20,334
+- ¿Qué es conciencia?
+- ¿Qué es conciencia?
 
-162
-00:17:19,916 --> 00:17:21,751
+157
+00:17:20,439 --> 00:17:22,031
 ¡Yo te lo diré!
 
+158
+00:17:22,141 --> 00:17:25,872
+La conciencia es esa voz interior
+a la cual nadie escucha.
+
+159
+00:17:26,845 --> 00:17:29,040
+Por eso, el mundo está tan mal.
+
+160
+00:17:29,148 --> 00:17:31,810
+- ¿Tú eres mi conciencia?
+- ¿Quién? ¿Yo?
+
+161
+00:17:32,451 --> 00:17:35,784
+¿Te gustaría ser
+la conciencia de Pinocho?
+
+162
+00:17:35,854 --> 00:17:37,481
+Pues...
+
 163
-00:17:21,917 --> 00:17:25,796
-La conciencia es esa vocecita
-a la que la gente nunca escucha.
+00:17:37,556 --> 00:17:39,649
+Yo...
 
 164
-00:17:25,961 --> 00:17:29,798
-- Ese es el problema con el mundo hoy, ¿ves?
-- ¿Tú eres mi conciencia?
+00:17:43,295 --> 00:17:45,559
+Muy bien. ¿Cómo te llamas?
 
 165
-00:17:29,965 --> 00:17:31,800
-¿Quién, yo?
+00:17:47,399 --> 00:17:49,663
+Me llamo Grillo. Pepe Grillo.
 
 166
-00:17:31,964 --> 00:17:35,634
-¿Te gustaría ser la conciencia
-de Pinocchio?
+00:17:49,735 --> 00:17:52,397
+Arrodíllate, señor Grillo.
 
 167
-00:17:35,803 --> 00:17:38,635
-Bueno... yo...
+00:17:54,873 --> 00:17:56,340
+¿No dolerá?
 
 168
-00:17:38,805 --> 00:17:41,847
-...bueno... ajá.
+00:17:56,408 --> 00:17:59,172
+Serás la conciencia de Pinocho.
 
 169
-00:17:42,974 --> 00:17:45,559
-Muy bien.
-¿Cuál es tu nombre?
+00:17:59,244 --> 00:18:02,042
+Señor guardián
+del bien y del mal.
 
 170
-00:17:45,726 --> 00:17:49,562
-Grillo es el nombre.
-Pepe Grillo.
+00:18:02,147 --> 00:18:04,581
+Consejero en los momentos de tentación
 
 171
-00:17:49,726 --> 00:17:53,232
-- Arrodíllate, Sr. Grillo.
-- ¿Eh?
+00:18:04,683 --> 00:18:07,846
+y guía a través de la senda del bien.
 
 172
-00:17:54,437 --> 00:17:56,272
-No hay trampa ahora.
+00:18:07,920 --> 00:18:10,252
+De pie, señor Grillo.
 
 173
-00:17:56,442 --> 00:17:58,316
-Te nombro la conciencia
-de Pinocchio...
+00:18:10,522 --> 00:18:12,217
+¡Fantástico!
 
 174
-00:17:58,486 --> 00:18:01,654
-...alto señor guardián del conocimiento
-entre lo bueno y lo malo...
+00:18:12,324 --> 00:18:14,121
+¡Caramba!
 
 175
-00:18:01,822 --> 00:18:04,320
-...consejero en momentos
-de tentación...
+00:18:15,527 --> 00:18:18,394
+¡Esto es fantástico!
 
 176
-00:18:04,490 --> 00:18:07,407
-...y guía a lo largo del
-recto y estrecho camino.
+00:18:18,497 --> 00:18:21,432
+Cielos. Gracias.
 
 177
-00:18:07,576 --> 00:18:09,823
-Póngase de pie,
-Sir Pepe Grillo.
+00:18:21,533 --> 00:18:23,660
+Pero... ¿no me dará
+una insignia o algo así?
 
 178
-00:18:09,993 --> 00:18:13,913
-¡Bueno!
-¡Dios mío!
+00:18:23,735 --> 00:18:26,863
+- Bueno. Ya veremos.
+- Entonces, ¿puede ser?
 
 179
-00:18:14,080 --> 00:18:17,911
-Mira, eso es muy elegante.
+00:18:26,939 --> 00:18:28,338
+Todo puede ser.
 
 180
-00:18:18,082 --> 00:18:20,918
-Bien... gracias.
+00:18:28,407 --> 00:18:31,342
+- ¿Podría ser de oro?
+- Tal vez.
 
 181
-00:18:21,085 --> 00:18:23,544
-Pero, ¿no me das una
-placa o algo?
+00:18:31,410 --> 00:18:34,504
+Y recuerda, Pinocho: Pórtate bien.
 
 182
-00:18:23,712 --> 00:18:26,502
-- Bueno, ya veremos.
-- ¿O sea que puede que sí?
+00:18:34,580 --> 00:18:37,674
+Y siempre deja
+que tu conciencia te guíe.
 
 183
-00:18:26,671 --> 00:18:29,007
-- Yo no lo dudaría.
-- ¿Puedes hacerlo de oro?
+00:18:40,118 --> 00:18:43,019
+- Adiós, señorita.
+- Adiós.
 
 184
-00:18:29,174 --> 00:18:30,841
-Quizás.
+00:18:48,794 --> 00:18:50,955
+No está mal, digo yo.
 
 185
-00:18:31,009 --> 00:18:33,886
-Ahora, recuerda, Pinocchio,
-sé un buen chico.
+00:18:51,063 --> 00:18:54,430
+Ah, sí. Casi me olvido de ti.
 
 186
-00:18:34,049 --> 00:18:37,764
-Y siempre deja que tu
-conciencia sea tu guía.
+00:18:54,533 --> 00:18:57,434
+Bien, Pinocho...
 
 187
-00:18:39,598 --> 00:18:41,306
-Adiós, señora mía.
+00:18:57,536 --> 00:19:00,437
+Ahora, tengo que darte
+un consejo de padre.
 
 188
-00:18:41,475 --> 00:18:43,430
-¡Adiós!
+00:19:00,539 --> 00:19:02,598
+¿Por qué?
 
 189
-00:18:48,352 --> 00:18:50,607
-No está mal, diría yo.
+00:19:02,708 --> 00:19:04,539
+Quieres ser un niño de verdad, ¿o no?
 
 190
-00:18:50,774 --> 00:18:54,276
-Oh, claro.
-Casi me olvido de tí.
+00:19:05,744 --> 00:19:08,144
+De acuerdo. Siéntate, hijo.
 
 191
-00:18:54,443 --> 00:18:56,943
-Bien, Pinoc.
+00:19:11,783 --> 00:19:14,752
+Verás. El mundo
+está lleno de tentaciones.
 
 192
-00:18:57,112 --> 00:19:01,362
-- Quizás deberíamos tener una charla sincera.
-- ¿Por qué?
+00:19:14,820 --> 00:19:17,948
+- ¿Tentaciones?
+- Sí. Tentaciones.
 
 193
-00:19:01,531 --> 00:19:04,867
-- ¿Quieres ser un niño de verdad, ¿no?
-- ¡Sí!
+00:19:18,056 --> 00:19:21,219
+A veces los malos actos,
+en el momento parecen buenos.
 
 194
-00:19:05,031 --> 00:19:07,994
-Muy bien. Siéntate, hijo.
+00:19:21,293 --> 00:19:25,491
+Y... aunque los buenos actos
+a veces parezcan malos,
 
 195
-00:19:11,372 --> 00:19:15,665
-- Verás, el mundo está lleno de tentaciones.
-- ¿Tentaciones?
+00:19:25,597 --> 00:19:30,261
+a veces los... malos actos pueden
+parecer buenos en un mal momento
 
 196
-00:19:15,833 --> 00:19:17,539
-Sí. Tentaciones.
+00:19:30,335 --> 00:19:33,327
+o... viceversa.
 
 197
-00:19:17,709 --> 00:19:20,294
-Son cosas malas que a primera
-vista parecen buenas.
-
-198
-00:19:20,456 --> 00:19:24,797
-Pero, aunque a veces las
-cosas buenas parecen ser malas...
-
-199
-00:19:24,964 --> 00:19:29,884
-...a veces las cosas malas pueden
-ser buenas en el momento incorrecto.
-
-200
-00:19:30,048 --> 00:19:32,470
-O... viceversa.
-
-201
-00:19:33,968 --> 00:19:37,556
+00:19:34,506 --> 00:19:36,667
 ¿Entendiste?
 
+198
+00:19:38,010 --> 00:19:40,240
+No. ¡Pero yo voy a actuar bien!
+
+199
+00:19:40,312 --> 00:19:43,907
+Arriba, muchacho,
+y yo te ayudaré.
+
+200
+00:19:43,982 --> 00:19:46,610
+Y cuando me necesites, silba.
+
+201
+00:19:46,685 --> 00:19:48,949
+Así.
+
 202
-00:19:37,724 --> 00:19:39,641
-¡Pero yo haré las buenas!
+00:19:49,021 --> 00:19:50,318
+¿Así?
 
 203
-00:19:39,809 --> 00:19:43,478
-Muchacho atento, Pinoc.
-Y yo te voy a ayudar.
+00:19:51,356 --> 00:19:53,256
+No. No. Inténtalo de nuevo, Pinocho.
 
 204
-00:19:43,641 --> 00:19:46,477
-Y si me necesitas para algo,
-ya sabes, sólo silva...
+00:19:53,325 --> 00:19:54,587
+¿Así?
 
 205
-00:19:46,647 --> 00:19:48,812
-...así.
-
-206
-00:19:48,982 --> 00:19:51,108
-¿Así?
-
-207
-00:19:51,275 --> 00:19:53,068
-No, no. Inténtalo de nuevo, Pinoc.
-
-208
-00:19:53,233 --> 00:19:55,107
-¿Así?
-
-209
-00:19:56,487 --> 00:19:58,656
+00:19:56,795 --> 00:19:59,195
 No, hijo. Escucha.
 
-210
-00:20:04,076 --> 00:20:06,661
+206
+00:20:04,503 --> 00:20:06,937
 ¡Eso es!
-¡Vamos, ahora cantemos!
+Vamos. Entonémosla.
+
+207
+00:20:09,274 --> 00:20:10,969
+<i>Cuando estés en líos</i>
+
+208
+00:20:11,043 --> 00:20:12,772
+<i>Por tu bien o por tu mal</i>
+
+209
+00:20:12,844 --> 00:20:14,106
+<i>Dame un silbidito</i>
+
+210
+00:20:15,047 --> 00:20:16,514
+<i>Dame un silbidito</i>
 
 211
-00:20:08,909 --> 00:20:12,415
-Cuando estés en problemas y no
-sepas cuál es el bien y cuál el mal
+00:20:17,783 --> 00:20:19,717
+<i>Y si no pudieras</i>
 
 212
-00:20:12,577 --> 00:20:14,542
-Da un pequeño silvido
+00:20:19,818 --> 00:20:21,479
+<i>Dominar la tentación</i>
 
 213
-00:20:14,709 --> 00:20:16,998
-Da un pequeño silvido
+00:20:21,553 --> 00:20:23,111
+<i>Dame un silbidito</i>
 
 214
-00:20:17,168 --> 00:20:21,087
-Cuando estés en una tentación,
-y el deseo sea muy fuerte
+00:20:23,655 --> 00:20:24,952
+<i>Dame un silbidito</i>
 
 215
-00:20:21,255 --> 00:20:23,340
-Da un pequeño silvido
+00:20:26,792 --> 00:20:28,726
+<i>No olvides silbar</i>
 
 216
-00:20:23,502 --> 00:20:26,088
-Da un pequeño silvido
+00:20:28,827 --> 00:20:30,852
+<i>No basta soplar</i>
 
 217
-00:20:26,258 --> 00:20:30,679
-No sólo un pequeño chillido,
-Frunce y sopla
+00:20:30,963 --> 00:20:33,454
+Y al no poder silbar, ¡grita!
 
 218
-00:20:30,846 --> 00:20:34,429
-- Y si el silvido es débil, grita
+00:20:33,532 --> 00:20:35,159
 - ¿Pepe Grillo?
+- ¡Eso!
 
 219
-00:20:34,599 --> 00:20:38,768
-¡Eso! Toma el camino recto y estrecho si
-comienzas a deslizarte
+00:20:35,233 --> 00:20:37,064
+<i>Si estás portándote bien</i>
 
 220
-00:20:38,935 --> 00:20:40,603
-Da un pequeño silvido
+00:20:37,169 --> 00:20:38,796
+<i>Y te tentara el mal,</i>
 
 221
-00:20:40,770 --> 00:20:42,938
-Da un pequeño silvido
+00:20:38,870 --> 00:20:40,963
+<i>Dame un silbidito</i>
 
 222
-00:20:43,104 --> 00:20:46,524
-Y siempre deja que tu
-conciencia sea tu guía
+00:20:41,039 --> 00:20:43,371
+<i>Dame un silbidito</i>
 
 223
-00:21:15,041 --> 00:21:18,546
-Toma el camino recto y estrecho si
-comienzas a deslizarte
+00:20:43,475 --> 00:20:46,410
+<i>Y siempre tu conciencia mandará</i>
 
 224
-00:21:18,711 --> 00:21:20,632
-Da un pequeño silvido
+00:21:15,240 --> 00:21:17,037
+<i>Si estás portándote bien</i>
 
 225
-00:21:20,796 --> 00:21:23,212
-Da un pequeño silvido
+00:21:17,109 --> 00:21:18,804
+<i>Y te tentara el mal,</i>
 
 226
-00:21:23,382 --> 00:21:27,970
-Y siempre deja que tu
-conciencia sea tu guía
+00:21:18,910 --> 00:21:20,002
+<i>Dame un silbidito</i>
 
 227
-00:21:28,133 --> 00:21:31,056
-Y siempre deja que tu
-conciencia sea tu guía
+00:21:21,179 --> 00:21:22,840
+<i>Dame un silbidito</i>
 
 228
-00:21:31,220 --> 00:21:33,474
-¡Cuidado, Pinoc!
+00:21:23,582 --> 00:21:26,574
+<i>Y siempre tu conciencia mandará</i>
 
 229
-00:21:38,307 --> 00:21:41,143
-- ¿Quién anda ahí?
-- ¡Soy yo!
+00:21:28,053 --> 00:21:30,954
+<i>Y siempre tu conciencia mandará</i>
 
 230
-00:21:41,313 --> 00:21:43,689
-Oh, soy yo.
+00:21:38,696 --> 00:21:40,857
+- ¿Quién anda ahí?
+- Soy yo.
 
 231
-00:21:47,648 --> 00:21:49,693
-Shh, Figaro.
+00:21:40,931 --> 00:21:43,559
+Ah. Soy yo.
 
 232
-00:21:49,861 --> 00:21:52,569
-Hay alguien aquí.
+00:21:49,073 --> 00:21:51,974
+Fígaro.
+Parece que hay alguien.
 
 233
-00:22:13,003 --> 00:22:14,921
-Ten cuidado, Figaro.
+00:22:13,097 --> 00:22:15,657
+Ten cuidado, Fígaro.
 
 234
-00:22:15,088 --> 00:22:18,340
-Puede saltar sobre nosotros
+00:22:15,766 --> 00:22:18,735
+Podría sorprendernos
 en cualquier momento.
 
 235
-00:22:33,601 --> 00:22:36,311
-Está aquí en alguna parte.
+00:22:34,184 --> 00:22:36,277
+Debe estar escondido por aquí.
 
 236
-00:22:36,478 --> 00:22:38,312
+00:22:37,287 --> 00:22:39,517
 ¡Aquí estoy!
 
 237
-00:22:54,198 --> 00:22:57,780
-Oh... Pinocchio.
+00:22:55,939 --> 00:22:58,430
+¡Pinocho!
 
 238
-00:22:57,951 --> 00:23:00,786
-¿Cómo te bajaste de ahí?
+00:22:58,509 --> 00:23:01,103
+¿Cómo llegaste hasta aquí?
 
 239
-00:23:00,953 --> 00:23:03,784
+00:23:01,178 --> 00:23:04,272
 - Me caí.
-- Oh, te caiste.
+- ¿Te caíste?
 
 240
-00:23:03,954 --> 00:23:07,413
-¡Ohh! ¡Estás hablando!
+00:23:05,616 --> 00:23:07,311
+¡Y puedes hablar!
 
 241
-00:23:07,584 --> 00:23:10,127
-- ¡No, no, no!
-- ¡Sí! ¡Y también puedo moverme!
+00:23:07,718 --> 00:23:10,346
+- ¡No!
+- Sí. Y también puedo hablar.
 
 242
-00:23:10,290 --> 00:23:14,710
-No, no, no, tú no pued...
-Estoy soñando en mi sueño.
+00:23:10,454 --> 00:23:14,356
+No. No puede ser.
+¡Estoy soñando!
 
 243
-00:23:14,881 --> 00:23:17,132
-¡Despiértenme!
-¡Despiértenme!
+00:23:14,658 --> 00:23:17,126
+¡Despiértame!
 
 244
-00:23:25,721 --> 00:23:28,803
-Ahora veremos quién está soñando.
+00:23:26,303 --> 00:23:28,703
+¡Ahora veremos quién está soñando!
 
 245
-00:23:32,682 --> 00:23:34,895
-Anda, dí algo.
+00:23:33,343 --> 00:23:35,004
+Vamos. Di algo.
 
 246
-00:23:36,891 --> 00:23:39,146
-Dios... eres gracioso.
-¡Hazlo de nuevo!
+00:23:37,314 --> 00:23:39,578
+Eres gracioso. Hazlo de nuevo.
 
 247
-00:23:39,314 --> 00:23:42,733
-- ¡Puedes hablar!
-- Sí, el Hada Azul vino...
+00:23:39,683 --> 00:23:41,981
+- ¡Sí hablas!
+- Sí.
 
 248
-00:23:42,895 --> 00:23:44,818
-¿El Hada Azul?
+00:23:42,052 --> 00:23:44,316
+- El hada azul bajó...
+- ¿El hada azul?
 
 249
-00:23:44,980 --> 00:23:47,153
-- Y tengo una conciencia.
-- ¡Una conciencia!
+00:23:44,388 --> 00:23:47,551
+- ¡Y tengo una conciencia!
+- ¿Una conciencia?
 
 250
-00:23:47,315 --> 00:23:49,821
-¡Y algún día seré un
-niño de verdad!
+00:23:47,658 --> 00:23:50,320
+Y algún día, seré un niño de verdad.
 
 251
-00:23:49,988 --> 00:23:53,658
-¡Un niño de verdad! Ese es mi deseo.
-¡Se hizo realidad!
+00:23:50,394 --> 00:23:54,592
+¡Un niño de verdad! ¡Es mi deseo!
+Se ha hecho realidad.
 
 252
-00:23:53,820 --> 00:23:58,491
-¡Figaro, mira!
-Está vivo. ¡Y puede hablar!
+00:23:54,698 --> 00:23:58,930
+¡Mira, Fígaro!
+Está vivo. Puede hablar.
 
 253
-00:23:58,662 --> 00:24:01,829
-- Digamos hola a Figaro.
-- Hola a Figaro.
+00:23:59,036 --> 00:24:01,971
+- Dile: "hola" a Fígaro.
+- Hola a Fígaro.
 
 254
-00:24:05,375 --> 00:24:08,836
-Oh, Cleo, casi lo olvido.
+00:24:06,710 --> 00:24:08,769
+Ay, Cleo, casi me olvido.
 
 255
-00:24:09,003 --> 00:24:11,963
-¡Mira!
-¡Es Pinocchio!
+00:24:08,879 --> 00:24:11,973
+¡Mira, es Pinocho!
 
 256
-00:24:12,130 --> 00:24:16,253
-Ella es mi bebita de agua.
-¿No es bonita?
+00:24:12,282 --> 00:24:16,412
+Ella es mi sirenita.
+¿No es linda?
 
 257
-00:24:16,423 --> 00:24:18,092
-Sí, bonita.
+00:24:16,520 --> 00:24:18,181
+¡Sí! ¡Linda!
 
 258
-00:24:23,930 --> 00:24:26,765
-Esto hay que celebrarlo.
+00:24:24,094 --> 00:24:26,722
+Esto merece una celebración.
 
 259
-00:24:26,927 --> 00:24:28,761
+00:24:27,130 --> 00:24:28,324
 ¡Música!
 
 260
-00:24:30,184 --> 00:24:33,311
-Arranca una, Pinocchio.
+00:24:30,434 --> 00:24:32,527
+¡Da la entrada, Pinocho!
 
 261
-00:24:51,450 --> 00:24:55,033
-Mira nada más, ¡una fiesta!
+00:24:52,122 --> 00:24:54,215
+¡Cielos! ¡Una fiesta!
 
 262
-00:24:55,203 --> 00:24:57,037
-¿Me permite?
+00:24:55,759 --> 00:24:57,818
+¿Me presta a su pareja?
 
 263
-00:25:00,623 --> 00:25:03,873
-¿Qué tal si seguimos con la que
-viene, nena?
+00:25:01,231 --> 00:25:04,291
+¿Qué tal si salimos a tomar aire, nena?
 
 264
-00:25:04,042 --> 00:25:07,878
-¡Hey, déjenme salir!
-¡Déjenme salir!
+00:25:05,903 --> 00:25:07,962
+¡Déjenme!
 
 265
-00:25:13,424 --> 00:25:16,551
-Ven, Cleo, únete a la fiesta.
-¡Baila!
+00:25:13,644 --> 00:25:16,613
+Ven, Cleo, tú también. ¡Baila!
 
 266
-00:25:18,797 --> 00:25:20,301
-¡Qué lindo!
-
-267
-00:25:32,646 --> 00:25:35,646
-- ¡Mira que bonito!
-- ¡Oh!
-
-268
-00:25:35,815 --> 00:25:37,270
-¡Auxilio!
-
-269
-00:25:38,650 --> 00:25:39,984
-¿Dónde está la cubeta?
-
-270
-00:25:40,147 --> 00:25:43,321
-¡Auxilio! ¡Agua!
-¿Dónde está el agua?
-
-271
-00:25:43,486 --> 00:25:46,071
-¡Aquí! ¡La tengo!
-¡Aquí hay agua!
-
-272
-00:25:47,445 --> 00:25:50,240
-¡Ayuda!
-¿Dónde está el agua?
-
-273
-00:25:53,328 --> 00:25:57,578
-Eso estuvo cerca.
-Tal vez mejor debamos ir a dormir...
-
-274
-00:25:57,748 --> 00:26:00,414
-...antes de que algo suceda.
-
-275
-00:26:07,088 --> 00:26:09,923
-Hombrecito, has tenido
-una noche agitada.
-
-276
-00:26:17,762 --> 00:26:22,432
-Ahora, cierra los ojos
-y ve a dormir.
-
-277
-00:26:22,595 --> 00:26:24,429
-¿Por qué?
-
-278
-00:26:24,600 --> 00:26:28,436
-Todos tenemos que dormir.
-
-279
-00:26:28,598 --> 00:26:33,147
-Figaro se va a dormir...
-y Cleo...
-
-280
-00:26:33,310 --> 00:26:37,941
-...y además, mañana tenemos
-que ir a la escuela.
-
-281
-00:26:38,110 --> 00:26:40,276
-¿Por qué?
-
-282
-00:26:40,445 --> 00:26:44,615
-Para aprender cosas y...
-
-283
-00:26:44,777 --> 00:26:47,450
-...y ser más inteligentes.
-
-284
-00:26:47,573 --> 00:26:49,447
-¿Por qué?
-
-285
-00:26:50,952 --> 00:26:54,455
-- Porque sí.
-- Oh.
-
-286
-00:27:50,037 --> 00:27:53,664
-- ¡Oh, mira, padre! ¡Mira!
-- Espera, quédate quieto.
-
-287
-00:27:53,827 --> 00:27:57,042
-- ¿Qué son aquellos?
-- Oh, aquellos.
-
-288
-00:27:57,204 --> 00:28:00,961
-Son compañeros de escuela,
-niñas y niños. Ahora anda...
-
-289
-00:28:01,124 --> 00:28:02,958
-- ¿Niños de verdad?
-- Sí.
-
-290
-00:28:03,128 --> 00:28:06,837
-Ahora apresúrate.
-¡Oh, espera! Espera...
-
-291
-00:28:10,384 --> 00:28:13,131
-Aquí tienes una manzana para
-tu maestra. Ahora dá una vuelta...
-
-292
-00:28:13,302 --> 00:28:16,258
-...y déjame mirate.
-
-293
-00:28:18,555 --> 00:28:20,639
-¿Eh?
-Oh, sí, sí.
-
-294
-00:28:20,809 --> 00:28:24,518
-Toma. Ahora anda ya.
-
-295
-00:28:29,107 --> 00:28:31,984
-¡Fig, espera!
-Regresa aquí, Figaro.
-
-296
-00:28:35,319 --> 00:28:37,609
-La escuela no es para tí.
-
-297
-00:28:39,072 --> 00:28:42,821
-- Adiós, padre.
-- Adiós, hijo. Regresa pronto.
-
-298
-00:28:51,748 --> 00:28:54,247
-Escucha, Gideon.
-La alegre risa...
-
-299
-00:28:54,416 --> 00:28:57,915
-...de los niñitos inocentes
-camino hacia la escuela.
-
-300
-00:28:58,085 --> 00:29:01,503
-Pequeñas mentes sedientas
-apresurando la fuente del conocimiento.
-
-301
-00:29:02,964 --> 00:29:06,091
-Escuela, una noble institución.
-
-302
-00:29:06,255 --> 00:29:09,341
-Qué sería de este estúpido
-mundo sin...
-
-303
-00:29:11,427 --> 00:29:13,552
-¡Bueno, bueno bueno!
-
-304
-00:29:13,722 --> 00:29:18,642
-¡Stromboli! Así que ese
-viejo bribón está de regreso.
-
-305
-00:29:20,057 --> 00:29:22,604
-¿Recuerdas, Gideon, la vez
-que te amarré unas cuerdas...
-
-306
-00:29:22,770 --> 00:29:26,563
-...y te hice pasar por
-un títere?
-
-307
-00:29:26,731 --> 00:29:30,567
-Esa vez casi engañamos
-a ese viejo gitano.
-
-308
-00:29:35,279 --> 00:29:37,614
-Un muchachito de madera.
-
-309
-00:29:37,778 --> 00:29:40,283
-¡Un muchachito de madera!
-
-310
-00:29:43,702 --> 00:29:47,621
-¡Mira, Giddy, mira!
-Es grandioso.
-
-311
-00:29:47,788 --> 00:29:51,249
-Un títere viviente y sin cuerdas.
-
-312
-00:29:51,415 --> 00:29:54,165
-Una cosa como esa debe
-valer una fortuna para alguien.
-
-313
-00:29:54,334 --> 00:29:57,169
-Déjame ver.
-
-314
-00:29:57,333 --> 00:29:59,167
-¡Eso es!
-¡Stromboli!
-
-315
-00:29:59,338 --> 00:30:03,298
-Ese viejo gordo farsante
-daría su... Escucha.
-
-316
-00:30:03,467 --> 00:30:07,303
-Si jugamos nuestras cartas bien,
-viviremos como dioses...
-
-317
-00:30:07,467 --> 00:30:10,763
-...o mi nombre no es
-Honest John.
-
-318
-00:30:10,925 --> 00:30:13,307
-Rápido, nos adelantaremos.
-
-319
-00:30:27,774 --> 00:30:30,319
-Ahora es nuestra...
-
-320
-00:30:32,112 --> 00:30:34,488
-No, no, estúpido.
-
-321
-00:30:34,650 --> 00:30:36,905
-No seas torpe.
-
-322
-00:30:37,073 --> 00:30:40,363
-Déjame manejar esto.
-Ahí viene.
-
-323
-00:30:40,533 --> 00:30:44,954
-Oh, sí, Skinny. Como le estaba
-diciendo ayer a la duquesa...
-
-324
-00:30:45,244 --> 00:30:47,247
-¡Oh! Qué torpe de mi parte.
-
-325
-00:30:50,166 --> 00:30:52,621
-Lo siento profundamente.
-
-326
-00:30:52,792 --> 00:30:55,499
-Espero que no te
-hayas lesionado.
-
-327
-00:30:55,669 --> 00:30:58,673
-- Estoy bien.
-- Espléndido.
-
-328
-00:31:00,591 --> 00:31:02,505
-Bien, bien...
-
-329
-00:31:02,676 --> 00:31:04,927
-Es un escolar, ya veo.
-
-330
-00:31:05,091 --> 00:31:08,138
-Mira, Giddy, un hombre de letras.
-
-331
-00:31:09,430 --> 00:31:11,682
-- Aquí está tu libro.
-- Estoy yendo a la escuela.
-
-332
-00:31:11,847 --> 00:31:13,850
-Escuela, oh, sí.
-
-333
-00:31:14,017 --> 00:31:17,810
-Entonces no has oído acerca
-del camino fácil del éxito.
-
-334
-00:31:17,978 --> 00:31:19,813
-¿No?
-
-335
-00:31:19,975 --> 00:31:23,272
-Estoy hablando, muchacho mío,
-del teatro.
-
-336
-00:31:23,440 --> 00:31:26,276
-Aquí está tu manzana.
-¡Luces brillantes, música...
-
-337
-00:31:26,440 --> 00:31:29,277
-...aplausos, fama!
-
-338
-00:31:29,444 --> 00:31:31,442
-- ¡Fama?
-- ¡Sí!
-
-339
-00:31:31,612 --> 00:31:35,407
-Y con esa personalidad,
-ese perfil, ese físico...
-
-340
-00:31:35,571 --> 00:31:39,199
-...él es un actor por naturaleza,
-¿verdad, Giddy?
-
-341
-00:31:39,368 --> 00:31:41,534
-- Pero ahora estoy yendo...
-- Directo a la cima.
-
-342
-00:31:41,703 --> 00:31:45,622
-Puedo ver tu nombre en las luces,
-luces de dos metros de alto.
-
-343
-00:31:45,784 --> 00:31:48,167
-- ¿Cuál es tu nombre?
-- Pinocchio.
-
-344
-00:31:48,332 --> 00:31:51,920
-¡Pinocchio!
-P-l-N...
-
-345
-00:31:52,086 --> 00:31:55,255
-...O... P...
-
-346
-00:31:55,418 --> 00:31:57,340
-Estamos perdiendo
-tiempo valioso.
-
-347
-00:31:57,503 --> 00:31:59,717
-Ven, vamos al teatro.
-
-348
-00:32:00,926 --> 00:32:03,303
-Una vida de actor para mí
-
-349
-00:32:03,466 --> 00:32:05,429
-Un alto sombrero de seda
-y un bastón de plata
-
-350
-00:32:05,591 --> 00:32:07,556
-Un reloj de oro
-con una cadena de diamantes
-
-351
-00:32:08,765 --> 00:32:11,264
-La vida del actor es alegre
-
-352
-00:32:11,433 --> 00:32:13,389
-Es grandioso ser una celebridad
-
-353
-00:32:13,560 --> 00:32:15,975
-Una vida de actor para mí
-
-354
-00:32:33,282 --> 00:32:35,820
-La vida de actor es divertida
-
-355
-00:32:38,868 --> 00:32:42,076
-Qué buena conciencia que soy.
-
-356
-00:32:42,246 --> 00:32:46,456
-Tarde el primer día. Igual, él no va
-a tener muchos problemas...
-
-357
-00:32:46,626 --> 00:32:48,831
-...desde aquí a la escuela.
-
-358
-00:32:50,415 --> 00:32:53,752
-- ¡Un desfile!
-- Una vida de actor para mí.
-
-359
-00:32:54,965 --> 00:32:57,421
-Una vida de actor para mí
-
-360
-00:32:57,592 --> 00:32:59,635
-- ¿¡Ah!?
-- Un bigote encerado y un tapado de nutria
-
-361
-00:32:59,796 --> 00:33:03,596
-- Un carro con pony y un carnero
-- Es Pinoc. ¡Hey!
-
-362
-00:33:03,763 --> 00:33:05,681
-- La vida de un actor es divertida
-- ¿Adónde vas?
-
-363
-00:33:05,847 --> 00:33:07,724
-Usas un copete en el pelo
-
-364
-00:33:07,885 --> 00:33:09,808
-- Andas en coche y cuatro...
-- ¡Espera!
-
-365
-00:33:09,970 --> 00:33:11,810
-- Paras y compras en la tienda de dulces
-- ¡Alto!
-
-366
-00:33:11,975 --> 00:33:13,936
-- Una vida de actor para mí
-- ¡Quédate ahí! ¡Pinoc!
-
-367
-00:33:15,141 --> 00:33:17,647
-Una vida de actor para mí
-
-368
-00:33:17,814 --> 00:33:19,853
-- Con las ropas más finas
-- Hey, Pinoc.
-
-369
-00:33:20,023 --> 00:33:22,567
-- Y montones de maní y gaseosa...
-- ¡Hey!
-
-370
-00:33:22,729 --> 00:33:25,276
-- ¿Qué fue eso?
-- ¡Oh, es Pepe!
-
-371
-00:33:25,444 --> 00:33:27,400
-- ¿Qué haces ahí arriba?
-- ¿Quién?
-
-372
-00:33:27,571 --> 00:33:30,615
-¿Qué? ¿Quién?
-¿Pepe? ¿Dónde?
-
-373
-00:33:32,784 --> 00:33:35,369
-Muchacho, debes estar viendo cosas.
-
-374
-00:33:35,536 --> 00:33:37,745
-Oh, no, esa es mi
-conciencia. Él...
-
-375
-00:33:37,913 --> 00:33:41,243
-Espera, espera. Cálmate.
-
-376
-00:33:41,413 --> 00:33:44,872
-No hay nada allá arriba
-a qué temerle.
-
-377
-00:33:46,043 --> 00:33:48,378
-¡Oh!
-
-378
-00:33:58,552 --> 00:34:00,387
-¡Pinoc!
-
-379
-00:34:00,553 --> 00:34:03,845
-¡Pinoc! Aquí.
-
-380
-00:34:04,973 --> 00:34:07,223
-- Aquí.
-- ¡Oh, Pepe!
-
-381
-00:34:07,392 --> 00:34:11,019
-- Voy a ser un actor.
-- Bien, hijo, tómalo con calma.
-
-382
-00:34:11,182 --> 00:34:13,227
-¿Recuerdas lo que te dije
-acerca de la tentación?
-
-383
-00:34:13,396 --> 00:34:16,143
-Bueno, eso es él.
-
-384
-00:34:16,313 --> 00:34:19,859
-Oh, no, Pepe.
-Ese es el Sr. Honest John.
-
-385
-00:34:20,022 --> 00:34:22,694
-¿Honest John?
-
-386
-00:34:23,862 --> 00:34:27,861
-Quítame esta cosa.
-¡Sácame de aquí!
-
-387
-00:34:34,787 --> 00:34:37,203
-¡Sácame de aquí!
-
-388
-00:34:44,627 --> 00:34:46,753
-¡Oh!
-
-389
-00:34:50,673 --> 00:34:53,008
-Muy bien, esto es
-lo que les diremos:
-
-390
-00:34:53,169 --> 00:34:56,297
-Que no puedes ir al teatro,
-dí "Gracias de todos modos"...
-
-391
-00:34:56,466 --> 00:34:59,512
-...que lo lamentas pero
-debes ir a la escuela.
-
-392
-00:34:59,674 --> 00:35:02,762
-¡Pinocchio!
-
-393
-00:35:02,931 --> 00:35:06,680
-¡Oh, Pinocchio!
-
-394
-00:35:06,851 --> 00:35:09,394
-Ahí vienen, Pinoc.
-Ahora diles.
-
-395
-00:35:09,557 --> 00:35:13,897
-¡Oh, muchachito!
-¡Allí estás!
-
-396
-00:35:14,064 --> 00:35:18,358
-Bueno, ¿dónde estábamos?
-Ah, sí. ¡Yendo al teatro!
-
-397
-00:35:18,527 --> 00:35:20,774
-¡Adiós, Pepe!
-¡Adiós!
-
-398
-00:35:20,944 --> 00:35:24,239
-¿Adiós? ¿Adiós?
-
-399
-00:35:24,402 --> 00:35:26,574
-- Hey, Pinoc, no puedes...
-- Un alto sombrero de seda...
-
-400
-00:35:26,738 --> 00:35:28,571
-- Un reloj de oro...
-- Ahí va.
-
-401
-00:35:28,742 --> 00:35:30,616
-¿Qué voy a hacer?
-Correré a decirle a su padre.
-
-402
-00:35:30,785 --> 00:35:33,704
-- La vida de actor es alegre...
-- No, eso sería alcahuetear.
-
-403
-00:35:33,871 --> 00:35:36,247
-Iré por el yo mismo.
-
-404
-00:35:41,793 --> 00:35:44,668
-Damas y caballeros...
-
-405
-00:35:44,836 --> 00:35:47,880
-...para concluír el desempeño
-de este grandioso show...
-
-406
-00:35:48,047 --> 00:35:53,259
-...Stromboli the maestro exhibicionista...
-ese soy yo...
-
-407
-00:35:53,426 --> 00:35:56,719
-...y con especial permiso
-de la administración...
-
-408
-00:35:56,886 --> 00:35:59,805
-...ese soy yo también...
-
-409
-00:35:59,971 --> 00:36:02,056
-...está presentándoles
-a ustedes algo...
-
-410
-00:36:02,224 --> 00:36:05,516
-...que absolutamente se
-rehusarán a creer.
-
-411
-00:36:07,226 --> 00:36:09,312
-Se ve como una
-venta de liquidación.
-
-412
-00:36:09,480 --> 00:36:12,774
-Presentando a la
-única marioneta...
-
-413
-00:36:12,940 --> 00:36:15,151
-...que puede cantar
-y bailar...
-
-414
-00:36:15,317 --> 00:36:19,529
-...absolutamente sin la ayuda
-de las cuerdas.
-
-415
-00:36:20,779 --> 00:36:23,322
-Eso espero.
-
-416
-00:36:23,490 --> 00:36:28,159
-¡El único e inigualable Pinocchio!
-
-417
-00:36:29,118 --> 00:36:31,871
-Cuánta publicidad.
-
-418
-00:36:42,295 --> 00:36:45,505
-No tengo cuerdas
-para sostenerm...
-
-419
-00:36:49,633 --> 00:36:52,302
-Anda, haz un tonto de tí.
-
-420
-00:36:52,425 --> 00:36:54,510
-Entonces tal vez
-escucharás a tu conciencia.
-
-421
-00:37:02,768 --> 00:37:05,102
-Lindo chico.
-
-422
-00:37:10,356 --> 00:37:12,816
-No tengo cuerdas
-para sostenerme
-
-423
-00:37:12,983 --> 00:37:15,526
-Para irritarme,
-o para hacerme enojar
-
-424
-00:37:15,694 --> 00:37:18,153
-Tenía cuerdas,
-pero ahora soy libre
-
-425
-00:37:18,321 --> 00:37:20,990
-No hay cuerdas sobre mí
-
-426
-00:37:21,114 --> 00:37:23,575
-¡Iuju! ¡Viva!
-
-427
-00:37:23,740 --> 00:37:26,326
-Esa es la única manera de ser
-
-428
-00:37:26,492 --> 00:37:28,952
-Quiero que el mundo sepa
-
-429
-00:37:29,119 --> 00:37:31,579
-Que ya más nada me preocupa
-
-430
-00:37:31,746 --> 00:37:33,747
-Ya no tengo cuerdas,
-así que puedo divertirme
-
-431
-00:37:33,915 --> 00:37:36,833
-- ¿Qué te dije, eh?
-- No estoy amarrado a nadie
-
-432
-00:37:37,001 --> 00:37:39,460
-Ellos tienen la cuerdas,
-pero como puedes ver
-
-433
-00:37:39,628 --> 00:37:42,296
-No hay mas cuerdas en mí
-
-434
-00:37:49,593 --> 00:37:52,179
-No tienes cuerdas
-Tus brazos son libres
-
-435
-00:37:52,346 --> 00:37:54,931
-Para amarme por el ZuiderZee
-
-436
-00:37:55,097 --> 00:37:57,182
-Ja,ja,ja
-Si me cortejaras
-
-437
-00:37:57,349 --> 00:37:59,266
-Tiraría mis cuerdas por tí
-
-438
-00:38:14,360 --> 00:38:16,362
-No tienes cuerdas
-Comme ci, comme ca
-
-439
-00:38:16,528 --> 00:38:18,781
-Tu savoir faire
-es ooo-la-la
-
-440
-00:38:18,946 --> 00:38:20,782
-Tengo cuerdas,
-pero entre nous
-
-441
-00:38:20,949 --> 00:38:23,115
-Las cortaría por tí
-
-442
-00:38:40,378 --> 00:38:42,714
-Abajo donde el Volga fluye
-
-443
-00:38:42,881 --> 00:38:44,884
-Hay una cita rusa
-
-444
-00:38:45,049 --> 00:38:47,134
-Con lvango y yo
-
-445
-00:38:47,301 --> 00:38:50,386
-Pero yo prefiero ir contigo
-
-446
-00:39:23,994 --> 00:39:26,496
-There are no strings on me
-
-447
-00:39:36,252 --> 00:39:38,589
-Les gusta.
-
-448
-00:39:38,755 --> 00:39:40,590
-Es un éxito.
-
-449
-00:39:40,757 --> 00:39:43,676
-Dios, tal vez estaba equivocado.
-
-450
-00:39:53,932 --> 00:39:58,478
-Bueno, supongo que ya
-no me necesitará más.
-
-451
-00:39:58,644 --> 00:40:01,522
-¿De todos modos, qué quiere
-un actor con su conciencia?
-
-452
-00:40:09,485 --> 00:40:12,236
-¿Qué pudo haberle pasado?
-
-453
-00:40:14,280 --> 00:40:17,074
-¿Dónde podría estar a esta hora?
-
-454
-00:40:18,742 --> 00:40:21,786
-Mejor salgo de nuevo
-a buscarlo.
-
-455
-00:40:26,081 --> 00:40:30,375
-Y recuerden, nadie come
-un bocado hasta que lo encuentre.
-
-456
-00:41:03,441 --> 00:41:05,732
-...no tengo cadenas en mí.
-
-457
-00:41:08,153 --> 00:41:11,029
-- ¡Bravo, Pinocchio!
-- Les gusto.
-
-458
-00:41:11,197 --> 00:41:13,113
-Doscientos.
-
-459
-00:41:13,281 --> 00:41:16,492
-- ¡Eres sensacional!
-- ¿Quieres decir que soy bueno?
-
-460
-00:41:16,659 --> 00:41:19,744
-Trescientos.
-
-461
-00:41:19,910 --> 00:41:22,579
-¡Eres colosal!
-
-462
-00:41:22,747 --> 00:41:25,874
-¿Eso quiere decir
-que soy un actor?
-
-463
-00:41:26,041 --> 00:41:30,044
-Claro. Te empujaré al
-ojo del público.
-
-464
-00:41:30,211 --> 00:41:34,172
-Tu cara, estará en la
-lengua de todos.
-
-465
-00:41:34,339 --> 00:41:37,173
-- ¿En serio?
-- Sí... ¿eh?
-
-466
-00:41:37,341 --> 00:41:39,884
-Mira esto.
-
-467
-00:41:48,681 --> 00:41:52,977
-Para tí, mi pequeño Pinocchio.
-
-468
-00:41:53,144 --> 00:41:55,352
-¿Para mí?
-¡Gracias!
-
-469
-00:41:55,520 --> 00:41:58,605
-Correré a casa y le
-contaré a mi padre.
-
-470
-00:42:00,190 --> 00:42:02,649
-¿A casa?
-
-471
-00:42:02,817 --> 00:42:05,569
-Oh, claro. A casa con
-tu padre.
-
-472
-00:42:06,861 --> 00:42:09,071
-¡Eso es muy cómico!
-
-473
-00:42:09,238 --> 00:42:13,074
-- ¿Es decir que es gracioso?
-- ¡Oh, claro! Sí.
-
-474
-00:42:13,242 --> 00:42:16,453
-- Volveré por la mañana.
-- Volver por la mañana.
-
-475
-00:42:17,620 --> 00:42:19,787
-Ir a casa.
-
-476
-00:42:25,834 --> 00:42:29,210
-Esa será tu casa...
-
-477
-00:42:29,378 --> 00:42:31,837
-...donde yo pueda
-encontrarte siempre.
-
-478
-00:42:32,005 --> 00:42:35,174
-- ¡No, no, no!
-- ¡Sí, sí, sí!
-
-479
-00:42:35,341 --> 00:42:38,968
-Me perteneces a mí.
-
-480
-00:42:39,134 --> 00:42:41,095
-Recorreremos el mundo.
-
-481
-00:42:41,261 --> 00:42:43,597
-París. Londres.
-
-482
-00:42:43,762 --> 00:42:48,225
-Monte Carlo.
-Constantinopla.
-
-483
-00:42:48,392 --> 00:42:51,352
-- ¡No, no!
-- ¡Sí!
-
-484
-00:42:51,519 --> 00:42:53,811
-¡Comenzamos esta noche!
-
-485
-00:42:58,022 --> 00:43:02,483
-Harás un montón de dinero...
-
-486
-00:43:02,651 --> 00:43:04,319
-...¡para mí!
-
-487
-00:43:04,486 --> 00:43:08,823
-Y cuando te estés
-poniendo demasiado viejo...
-
-488
-00:43:08,990 --> 00:43:13,160
-...harás una buena...
-¡fogata!
-
-489
-00:43:15,202 --> 00:43:18,414
-¡Déjame salir de aquí! ¡Me escaparé!
-¡No puedes encerrarme!
-
-490
-00:43:18,580 --> 00:43:20,831
-¡Silencio! ¡Cállate...
-
-491
-00:43:20,999 --> 00:43:24,168
-...antes de que te golpee, bobo!
-
-492
-00:43:25,669 --> 00:43:27,669
-Buenas noches...
-
-493
-00:43:28,921 --> 00:43:32,173
-...mi pequeña mina de oro
-de madera.
-
-494
-00:43:37,344 --> 00:43:40,262
-¡No! ¡No, espera!
-¡Déjame salir!
-
-495
-00:43:40,429 --> 00:43:43,305
-¡Se lo diré a mi padre!
-
-496
-00:43:43,473 --> 00:43:46,558
-¡Vamos, marchando!
-
-497
-00:43:52,603 --> 00:43:55,523
-¡Pepe!
-¡Pepe!
-
-498
-00:43:56,941 --> 00:43:59,110
-Oh, Pepe,
-¿dónde estás?
-
-499
-00:44:00,859 --> 00:44:03,070
-¡Pepe Grillo!
-
-500
-00:44:23,585 --> 00:44:27,545
-Bien, ahí se va, sentado
-en la cima de la fama...
-
-501
-00:44:27,713 --> 00:44:29,798
-...con el mundo a sus pies.
-
-502
-00:44:29,965 --> 00:44:33,341
-Siempre puedo decir
-que lo conocí desde antes.
-
-503
-00:44:35,885 --> 00:44:38,888
-Sólo me iré de esta
-silenciosa vida.
-
-504
-00:44:45,308 --> 00:44:48,061
-Me hubiera gustado
-desearle suerte al menos.
-
-505
-00:44:48,228 --> 00:44:50,563
-¡Claro!
-¿Por qué no?
-
-506
-00:44:58,943 --> 00:45:01,319
-Pinocchio.
-
-507
-00:45:01,487 --> 00:45:06,491
-Pinocchio. Soy yo, tu
-viejo amigo Pepe, ¿me recuerdas?
-
-508
-00:45:06,657 --> 00:45:09,784
-¡Pepe!
-¡Me alegro mucho de verte!
-
-509
-00:45:09,952 --> 00:45:12,621
-¡Pinocchio!
-¿Qué ha pasado?
-
-510
-00:45:14,247 --> 00:45:16,622
-- ¿Qué te ha hecho ese tipo?
-- Oh, él es malo.
-
-511
-00:45:16,790 --> 00:45:19,292
-Dijo que iba a empujar mi cara
-en los ojos de todos.
-
-512
-00:45:19,459 --> 00:45:21,668
-- ¿Sí?
-- 1Y sólo porque soy un ladrillo de oro...
-
-513
-00:45:21,834 --> 00:45:24,170
-...me va a cortar y hacer
-una fogata!
-
-514
-00:45:24,336 --> 00:45:27,798
-¿En serio?
-Bueno, no te preocupes, hijo.
-
-515
-00:45:27,964 --> 00:45:31,174
-Te sacaré de aquí en un
-abrir y cerrar de ojos.
-
-516
-00:45:31,342 --> 00:45:35,928
-Esto es... tan fácil como...
-desenrollar un...
-
-517
-00:45:44,519 --> 00:45:46,895
-Está todo oxidado.
-
-518
-00:45:49,270 --> 00:45:53,983
-- ¡Necesita aceite!
-- Necesita aceite... Necesita aceite...
-
-519
-00:45:54,150 --> 00:45:56,819
-Eso fue lo que yo dije.
-
-520
-00:46:06,284 --> 00:46:08,869
-Debe ser un modelo viejo.
-
-521
-00:46:09,036 --> 00:46:11,038
-¿Quieres decir que no
-puedes abrirlo?
-
-522
-00:46:11,203 --> 00:46:13,955
-Sí.
-
-523
-00:46:14,123 --> 00:46:16,499
-Se ve bastante irremediable.
-
-524
-00:46:16,667 --> 00:46:19,001
-Sólo un milagro podría
-sacarnos de aquí.
-
-525
-00:46:19,167 --> 00:46:21,337
-Diablos.
-
-526
-00:46:22,546 --> 00:46:24,547
-¡Pinocchio!
-
-527
-00:46:25,880 --> 00:46:27,965
-¡Pinocchio!
-
-528
-00:46:39,642 --> 00:46:41,643
-¡Arre!
-
-529
-00:46:50,650 --> 00:46:52,818
-Pinocch...
-
-530
-00:47:00,448 --> 00:47:03,282
-Qué buena conciencia
-resulté ser.
-
-531
-00:47:03,449 --> 00:47:05,909
-Debí haberte escuchado
-a tí, Pepe.
-
-532
-00:47:06,076 --> 00:47:10,204
-No, fue mi culpa. No debí
-haberte abandonado.
-
-533
-00:47:10,372 --> 00:47:13,541
-Supongo que nunca más
-volveré a ver a mi padre.Guess l´ll never see
-my father again.
-
-534
-00:47:15,458 --> 00:47:17,710
-Sé positivo, hijo.
-
-535
-00:47:17,875 --> 00:47:22,171
-Podría ser peor.
-Sé optimista, como yo.
-
-536
-00:47:27,801 --> 00:47:31,512
-Tómalo con calma, hijo.
-
-537
-00:47:31,680 --> 00:47:34,139
-Vamos, sopla.
-
-538
-00:47:35,723 --> 00:47:37,976
-Ese es mi chico.
-
-539
-00:47:40,977 --> 00:47:43,855
-Al menos paró de llover.
-
-540
-00:47:45,940 --> 00:47:49,067
-¡Hey, esa estrella otra vez!
-La dama, la... ¡Oh!
-
-541
-00:47:49,232 --> 00:47:51,984
-- ¡El hada!
-- ¿Qué dirá ella?
-
-542
-00:47:53,570 --> 00:47:57,448
-- ¿Qué le voy a decir?
-- Debes decirle la verdad.
-
-543
-00:48:05,994 --> 00:48:09,873
-- Oh, Pinocchio.
-- Eh... ¡hola!
-
-544
-00:48:10,039 --> 00:48:11,874
-¡Sir Pepe!
-
-545
-00:48:12,041 --> 00:48:16,086
-Pero que sorpresa tan
-placentera.
-
-546
-00:48:16,250 --> 00:48:19,046
-Pinocchio, ¿por qué no
-fuiste a la escuela?
-
-547
-00:48:19,214 --> 00:48:24,133
-- ¿Escuela? Bueno... yo...
-- Anda, dile.
-
-548
-00:48:24,300 --> 00:48:27,136
-Estaba yendo a la escuela
-hasta que conocí a alguien.
-
-549
-00:48:27,302 --> 00:48:31,097
-- ¿Conocer a alguien?
-- Sí, dos grandes monstruos...
-
-550
-00:48:31,264 --> 00:48:33,598
-...¡con grandes ojos verdes!
-
-551
-00:48:35,641 --> 00:48:38,310
-¿Mostruos?
-
-552
-00:48:38,436 --> 00:48:42,230
-- ¿No tuviste miedo?
-- No, pero me metieron en un gran saco.
-
-553
-00:48:44,396 --> 00:48:47,901
-¡No me digas!
-¿Y adónde estaba Sir Pepe?
-
-554
-00:48:48,066 --> 00:48:50,735
-Oh, ¿Pepe?
-
-555
-00:48:50,860 --> 00:48:52,945
-No me metas en esto.
-
-556
-00:48:53,113 --> 00:48:55,530
-Lo pusieron en un saco chiquito.
-
-557
-00:48:55,698 --> 00:48:58,657
-- ¡No!
-- ¡Sí!
-
-558
-00:48:58,825 --> 00:49:01,327
-- ¿Cómo te escapaste?
-- No lo hice.
-
-559
-00:49:01,493 --> 00:49:04,162
-Me cortaron y me hicieron
-fogata.
-
-560
-00:49:06,705 --> 00:49:08,623
+00:25:19,283 --> 00:25:20,614
 ¡Oh, mira!
 
-561
-00:49:08,790 --> 00:49:11,460
-¡Mi nariz!
-¿Qué paso?
+267
+00:25:24,821 --> 00:25:26,584
+<i>Tra-la-la-la juguetes son</i>
 
-562
-00:49:11,626 --> 00:49:13,836
-Tal vez no hayas estado diciendo
-la verdad, Pinocchio.
+268
+00:25:26,657 --> 00:25:30,252
+<i>Tra-la-la mi regalo</i>
 
-563
-00:49:14,003 --> 00:49:18,089
-- ¿"Tal vez"?
-- Oh, pero si lo hice, cada palabra.
+269
+00:25:33,030 --> 00:25:35,123
+¡Mira! ¡Qué lindo!
 
-564
-00:49:23,175 --> 00:49:26,429
-¡Por favor, ayúdenme!
-Lo siento terriblemente.
+270
+00:25:39,469 --> 00:25:41,164
+¿Dónde está el balde?
 
-565
-00:49:26,595 --> 00:49:30,515
-Ves, Pinocchio, una mentira
-sigue creciendo y creciendo...
+271
+00:25:41,271 --> 00:25:43,831
+¡Agua! ¿Dónde está el agua?
 
-566
-00:49:30,682 --> 00:49:32,850
-...hasta que es tan evidente
-como la nariz en tu cara.
+272
+00:25:43,941 --> 00:25:47,342
+¡Aquí está! La tengo. Aquí hay agua.
+¡Mucha agua!
 
-567
-00:49:33,016 --> 00:49:35,226
-Tiene razón, Pinoc.
-Mejor dí la verdad.
+273
+00:25:48,011 --> 00:25:50,104
+¿Dónde está el agua?
 
-568
-00:49:35,393 --> 00:49:38,354
-Nunca volveré a mentir.
-De verdad, no lo haré.
+274
+00:25:54,284 --> 00:25:56,275
+¡Vaya susto!
 
-569
-00:49:38,520 --> 00:49:41,855
-Por favor, Su Excelencia...
-Quise decir, Señorita Hada.
+275
+00:25:56,353 --> 00:26:00,153
+Tal vez debamos acostarnos
+antes de que otra cosa suceda.
 
-570
-00:49:42,023 --> 00:49:44,440
-Dale otra oportunidad,
-por favor.
+276
+00:26:07,664 --> 00:26:09,996
+Tuviste una noche agitada, pequeño.
 
-571
-00:49:44,608 --> 00:49:47,277
+277
+00:26:18,375 --> 00:26:23,244
+Ahora, cierra los ojos y duérmete.
+
+278
+00:26:23,347 --> 00:26:24,678
+¿Por qué?
+
+279
+00:26:25,549 --> 00:26:28,916
+Toda la gente tiene que dormir.
+
+280
+00:26:29,019 --> 00:26:33,183
+Fígaro duerme. Al igual que Cleo.
+
+281
+00:26:33,256 --> 00:26:37,522
+Además, mañana
+tienes que ir a la escuela.
+
+282
+00:26:38,695 --> 00:26:40,720
+¿Por qué?
+
+283
+00:26:40,831 --> 00:26:45,165
+Para que aprendas cosas
+
+284
+00:26:45,235 --> 00:26:48,102
+y seas más inteligente.
+
+285
+00:26:48,205 --> 00:26:50,230
+¿Por qué?
+
+286
+00:26:51,508 --> 00:26:53,669
+Porque sí.
+
+287
+00:27:50,500 --> 00:27:52,331
+¡Mira, padre! ¡Mira!
+
+288
+00:27:52,436 --> 00:27:54,131
+Espera. No te muevas.
+
+289
+00:27:54,237 --> 00:27:56,228
+¿Qué son ésos?
+
+290
+00:27:56,306 --> 00:28:00,333
+Ah, ésos. Son tus compañeros
+de clase. Niñas y niños.
+
+291
+00:28:00,444 --> 00:28:02,844
+- Ahora, ponte esto.
+- ¿Niños de verdad?
+
+292
+00:28:02,946 --> 00:28:04,914
+Sí. Pero date prisa.
+
+293
+00:28:05,182 --> 00:28:07,343
+Oh, ¡espera!
+
+294
+00:28:10,654 --> 00:28:12,815
+Toma una manzana para tu maestra.
+
+295
+00:28:12,889 --> 00:28:15,790
+Ahora, date vuelta
+y deja que te vea.
+
+296
+00:28:19,162 --> 00:28:21,653
+Ah, sí. Toma.
+
+297
+00:28:23,166 --> 00:28:24,929
+Ahora, vete.
+
+298
+00:28:29,005 --> 00:28:31,098
+¡Espera!
+
+299
+00:28:31,174 --> 00:28:33,108
+Vuelve aquí, Fígaro.
+
+300
+00:28:35,645 --> 00:28:37,704
+La escuela no es para ti.
+
+301
+00:28:39,716 --> 00:28:43,117
+- ¡Adiós, padre!
+- Adiós, hijo. ¡Hasta luego!
+
+302
+00:28:52,028 --> 00:28:53,996
+¡Escucha, Gideón!
+
+303
+00:28:54,064 --> 00:28:58,626
+La alegre risa de niños inocentes
+yendo camino a la escuela.
+
+304
+00:28:58,702 --> 00:29:03,298
+Pequeñas mentes sedientas
+corriendo a la fuente del saber.
+
+305
+00:29:03,373 --> 00:29:06,672
+La escuela: Tan noble institución.
+
+306
+00:29:06,743 --> 00:29:09,541
+¿Qué sería de este mundo sin...
+
+307
+00:29:11,848 --> 00:29:15,750
+¡Vaya, vaya! ¡Stromboli!
+
+308
+00:29:15,852 --> 00:29:19,015
+De modo que ese pillo
+volvió al pueblo, ¿no?
+
+309
+00:29:20,357 --> 00:29:23,087
+¿Recuerdas, Gideón,
+cuando te puse hilos
+
+310
+00:29:23,193 --> 00:29:26,890
+y te hice pasar por títere?
+
+311
+00:29:27,130 --> 00:29:31,157
+¡En aquella ocasión,
+casi engañamos a ese viejo gitano!
+
+312
+00:29:35,939 --> 00:29:39,340
+Un niño de madera.
+¿Quién diría que...?
+
+313
+00:29:39,409 --> 00:29:41,502
+¡Es de madera!
+
+314
+00:29:44,214 --> 00:29:45,841
+¡Mira, Gideón!
+
+315
+00:29:46,349 --> 00:29:48,214
+¡Es increíble!
+
+316
+00:29:48,285 --> 00:29:51,618
+¡Un títere vivo sin hilos!
+
+317
+00:29:51,721 --> 00:29:54,690
+Pagarán una fortuna
+por una cosa así.
+
+318
+00:29:54,758 --> 00:29:57,750
+Déjame ver.
+
+319
+00:29:57,861 --> 00:29:59,726
+¡Eso es! ¡Stromboli!
+
+320
+00:29:59,796 --> 00:30:02,287
+¿Qué no daría ese gordo faquir...?
+
+321
+00:30:02,399 --> 00:30:08,031
+¡Escucha! Si jugamos bien
+nuestras cartas, la tendremos fácil...
+
+322
+00:30:08,104 --> 00:30:11,198
+o dejaré de llamarme
+"El Honrado Juan Malatrampa".
+
+323
+00:30:11,374 --> 00:30:13,638
+¡Deprisa! Lo interceptaremos.
+
+324
+00:30:29,626 --> 00:30:30,854
+Ahora.
+
+325
+00:30:32,329 --> 00:30:34,456
+No. No, tonto.
+
+326
+00:30:34,998 --> 00:30:36,625
+No seas ordinario.
+
+327
+00:30:37,801 --> 00:30:39,928
+Déjamelo a mí.
+
+328
+00:30:40,003 --> 00:30:41,664
+Aquí viene.
+
+329
+00:30:41,771 --> 00:30:45,298
+Como le decía a la duquesa
+apenas ayer...
+
+330
+00:30:45,409 --> 00:30:48,003
+¡Qué torpe soy!
+
+331
+00:30:48,111 --> 00:30:50,739
+¡Qué descuido!
+
+332
+00:30:50,814 --> 00:30:56,309
+Lo siento mucho.
+Espero que no te hayas lastimado.
+
+333
+00:30:56,420 --> 00:30:58,980
+- Estoy bien.
+- ¡Magnífico!
+
+334
+00:31:01,091 --> 00:31:02,922
+¡Vaya, vaya!
+
+335
+00:31:02,993 --> 00:31:05,086
+Ya veo que eres todo un estudioso.
+
+336
+00:31:05,162 --> 00:31:07,926
+Mira, Gideón, un hombre de letras.
+
+337
+00:31:09,933 --> 00:31:12,458
+- Aquí está tu libro.
+- Voy a la escuela.
+
+338
+00:31:12,536 --> 00:31:14,436
+A la escuela. Claro.
+
+339
+00:31:14,504 --> 00:31:18,463
+Entonces, no has oído
+sobre el camino fácil al éxito.
+
+340
+00:31:19,643 --> 00:31:23,636
+¿No? Me refiero, muchacho, al teatro.
+
+341
+00:31:23,713 --> 00:31:28,047
+Toma tu manzana.
+Luces. Música. Aplausos.
+
+342
+00:31:28,151 --> 00:31:29,846
+¡Fama!
+
+343
+00:31:29,953 --> 00:31:31,682
+- ¿Fama?
+- ¡Sí!
+
+344
+00:31:31,788 --> 00:31:36,020
+Y con esa personalidad.
+Ese perfil. Ese físico.
+
+345
+00:31:36,126 --> 00:31:39,823
+Pero si naciste para ser actor.
+¿O no, Gideón?
+
+346
+00:31:39,896 --> 00:31:42,330
+- Es que voy...
+- Derecho al éxito.
+
+347
+00:31:42,399 --> 00:31:46,165
+Si ya veo brillar
+tu nombre con mil luces.
+
+348
+00:31:46,236 --> 00:31:47,999
+¿Cómo dices que te llamas?
+
+349
+00:31:48,071 --> 00:31:51,529
+- Pinocho.
+- ¡Pinocho! P-l-N...
+
+350
+00:31:51,641 --> 00:31:53,506
+O...
+
+351
+00:31:53,577 --> 00:31:55,477
+C-H...
+
+352
+00:31:55,545 --> 00:32:00,209
+Vamos. No perdamos tiempo.
+¡En marcha hacia el teatro!
+
+353
+00:32:00,317 --> 00:32:01,978
+<i>Tra-la-li-la-li</i>
+
+354
+00:32:02,052 --> 00:32:03,747
+<i>El arte es para mí</i>
+
+355
+00:32:03,854 --> 00:32:06,015
+<i>Cantar, bailar y poder gozar</i>
+
+356
+00:32:06,089 --> 00:32:08,080
+<i>Tener dinero para gastar</i>
+
+357
+00:32:08,191 --> 00:32:09,886
+<i>Tra-la-la-la-loi</i>
+
+358
+00:32:09,993 --> 00:32:11,893
+<i>Artista es lo que soy</i>
+
+359
+00:32:11,995 --> 00:32:13,986
+<i>Ya nunca más a la escuela voy</i>
+
+360
+00:32:14,064 --> 00:32:16,157
+<i>Artista es lo que soy</i>
+
+361
+00:32:32,782 --> 00:32:34,443
+<i>Ra-li-ri-li-li</i>
+
+362
+00:32:34,551 --> 00:32:36,610
+<i>El arte es para mí</i>
+
+363
+00:32:40,290 --> 00:32:44,420
+Valiente conciencia que soy.
+Tarde el primer día.
+
+364
+00:32:44,528 --> 00:32:49,056
+Espero que no le pase nada.
+De aquí, a la escuela.
+
+365
+00:32:50,967 --> 00:32:54,425
+<i>- ¡Qué lindo! ¡Un desfile!
+- El arte es para mí</i>
+
+366
+00:32:54,538 --> 00:32:58,133
+<i>Tra-la-ri-la-li
+El arte es para mí</i>
+
+367
+00:32:58,241 --> 00:33:00,141
+<i>Con frac, perchera y mi buen bastón</i>
+
+368
+00:33:00,243 --> 00:33:02,370
+<i>Seré de todos la admiración</i>
+
+369
+00:33:02,445 --> 00:33:05,414
+¡Es Pinocho!
+¡Oye! ¿Adónde vas?
+
+370
+00:33:06,283 --> 00:33:08,217
+<i>Mil golosinas he de comprar</i>
+
+371
+00:33:08,285 --> 00:33:10,913
+<i>Tener dinero para gastar</i>
+
+372
+00:33:10,987 --> 00:33:12,716
+¡Alto!
+
+373
+00:33:12,789 --> 00:33:14,654
+¡Espera! ¡Pinocho!
+
+374
+00:33:14,758 --> 00:33:16,089
+<i>Tra-la-li-la-li</i>
+
+375
+00:33:16,159 --> 00:33:18,593
+<i>El arte es para mí</i>
+
+376
+00:33:19,963 --> 00:33:23,091
+Oye, Pinocho. ¡Oye!
+
+377
+00:33:23,166 --> 00:33:25,896
+- ¿Qué fue eso?
+- ¡Pepe!
+
+378
+00:33:25,969 --> 00:33:29,336
+- ¿Qué haces ahí arriba?
+- ¿Qué? ¿Quién? ¿Cómo?
+
+379
+00:33:29,439 --> 00:33:31,270
+¿Arriba? ¿Dónde?
+
+380
+00:33:33,276 --> 00:33:36,268
+Creo que estás viendo
+visiones, muchacho.
+
+381
+00:33:36,346 --> 00:33:38,177
+No. Es mi conciencia.
+
+382
+00:33:38,281 --> 00:33:41,682
+No. No. No. Relájate.
+
+383
+00:33:41,785 --> 00:33:44,982
+No hay nada
+a qué temerle ahí arriba.
+
+384
+00:34:03,607 --> 00:34:05,370
+¡Por aquí!
+
+385
+00:34:06,710 --> 00:34:09,270
+¡Pepe! ¡Voy a ser artista!
+
+386
+00:34:09,346 --> 00:34:11,507
+Un momento, hijo.
+
+387
+00:34:11,615 --> 00:34:15,051
+¿Recuerdas lo que dije de la tentación?
+
+388
+00:34:15,151 --> 00:34:16,778
+Pues, es él.
+
+389
+00:34:16,853 --> 00:34:20,550
+¡No, Pepe! Él es el señor
+"El honrado Juan Malatrampa".
+
+390
+00:34:20,657 --> 00:34:22,887
+¿El honrado Juan Malatrampa?
+
+391
+00:34:25,962 --> 00:34:28,021
+¡Sácame de aquí!
+
+392
+00:34:51,187 --> 00:34:53,587
+De acuerdo.
+Esto es lo que le dirás.
+
+393
+00:34:53,690 --> 00:34:57,353
+No puedes ir al teatro.
+De cualquier modo, se lo agradeces.
+
+394
+00:34:57,427 --> 00:35:00,487
+Lo lamentas,
+pero tienes que ir a la escuela.
+
+395
+00:35:07,270 --> 00:35:10,068
+Aquí vienen, Pinocho.
+Ahora, díselo.
+
+396
+00:35:11,941 --> 00:35:13,340
+¡Pequeño!
+
+397
+00:35:13,410 --> 00:35:15,844
+Ahí estás.
+¿En dónde me quedé?
+
+398
+00:35:15,912 --> 00:35:19,109
+Ah, sí. ¡En marcha hacia el teatro!
+
+399
+00:35:19,215 --> 00:35:21,706
+¡Adiós, Pepe! ¡Adiós!
+
+400
+00:35:21,785 --> 00:35:24,754
+¿Adiós?
+
+401
+00:35:24,854 --> 00:35:28,051
+¡Oye, Pinocho! No puedes...
+
+402
+00:35:28,124 --> 00:35:30,524
+Allá va. ¿Qué hago ahora?
+
+403
+00:35:30,593 --> 00:35:32,720
+Se lo diré a su padre.
+
+404
+00:35:32,796 --> 00:35:36,061
+No. Eso sería hacer trampa.
+Yo iré tras él.
+
+405
+00:35:42,272 --> 00:35:45,264
+Damas y caballeros,
+
+406
+00:35:45,375 --> 00:35:48,276
+para cerrar con broche de oro
+esta gran función,
+
+407
+00:35:48,378 --> 00:35:52,041
+Stromboli, el gran empresario...
+
+408
+00:35:52,115 --> 00:35:53,605
+Que soy yo.
+
+409
+00:35:53,717 --> 00:35:56,652
+Y por cortesía especial de la empresa...
+
+410
+00:35:56,753 --> 00:36:00,154
+que también soy yo,
+
+411
+00:36:00,256 --> 00:36:02,486
+¡les ofreceremos un número
+
+412
+00:36:02,592 --> 00:36:05,891
+que parece absolutamente increíble!
+
+413
+00:36:07,731 --> 00:36:10,029
+Parece que se agotaron las localidades.
+
+414
+00:36:10,100 --> 00:36:15,504
+¡Les presento al único títere
+que puede bailar y cantar
+
+415
+00:36:15,605 --> 00:36:20,508
+absolutamente
+sin manipulación de hilos!
+
+416
+00:36:21,177 --> 00:36:23,645
+Así lo espero.
+
+417
+00:36:23,747 --> 00:36:28,446
+¡El único! ¡El gran Pinocho!
+
+418
+00:36:31,020 --> 00:36:33,113
+Cuánto aspavientos.
+
+419
+00:36:42,799 --> 00:36:44,426
+<i>Sin hilos yo</i>
+
+420
+00:36:44,501 --> 00:36:46,594
+<i>Puedo mover...</i>
+
+421
+00:36:49,973 --> 00:36:52,703
+Adelante. Haz el ridículo.
+
+422
+00:36:52,809 --> 00:36:55,300
+Quizá entonces
+escuches a tu conciencia.
+
+423
+00:37:10,827 --> 00:37:13,318
+<i>Sin hilos yo me sé mover</i>
+
+424
+00:37:13,396 --> 00:37:15,830
+<i>Yo puedo andar y hasta correr</i>
+
+425
+00:37:15,899 --> 00:37:18,561
+<i>Los tenía y los perdí</i>
+
+426
+00:37:18,668 --> 00:37:21,398
+<i>Soy libre y soy feliz</i>
+
+427
+00:37:21,504 --> 00:37:23,563
+<i>Tri-lu-la-ri-la-la</i>
+
+428
+00:37:24,073 --> 00:37:26,633
+<i>Nadie me maneja a mí</i>
+
+429
+00:37:26,709 --> 00:37:29,337
+<i>Viva la libertad</i>
+
+430
+00:37:29,412 --> 00:37:31,903
+<i>Esto se llama vivir</i>
+
+431
+00:37:32,015 --> 00:37:34,176
+<i>Sin hilos yo...</i>
+
+432
+00:37:34,250 --> 00:37:37,219
+¿Qué les dije, eh?
+
+433
+00:37:37,320 --> 00:37:39,914
+<i>En la tierra sin hilos</i>
+
+434
+00:37:40,023 --> 00:37:42,685
+<i>No hay uno como yo</i>
+
+435
+00:37:49,766 --> 00:37:52,599
+<i>Lindos trucos para mí</i>
+
+436
+00:37:52,702 --> 00:37:55,262
+<i>Yo te quiero a ti
+Yo te quiero a ti</i>
+
+437
+00:37:55,371 --> 00:37:57,396
+<i>Y já, já
+Sí o no</i>
+
+438
+00:37:57,507 --> 00:37:59,566
+<i>Contigo me voy yo</i>
+
+439
+00:38:14,757 --> 00:38:16,884
+<i>No tienes hilos
+Comme çi comme ça</i>
+
+440
+00:38:16,960 --> 00:38:19,121
+<i>Tu savoir faire
+Es ú-la-la!</i>
+
+441
+00:38:19,229 --> 00:38:21,197
+<i>No tengo yo
+Pero entre nous</i>
+
+442
+00:38:21,264 --> 00:38:23,528
+<i>Yo quiero irme contigo</i>
+
+443
+00:38:40,917 --> 00:38:42,976
+<i>Del Volga vengo yo</i>
+
+444
+00:38:43,086 --> 00:38:45,384
+<i>De la Rusia noble soy</i>
+
+445
+00:38:45,455 --> 00:38:47,582
+<i>Un zar me quiere a mí</i>
+
+446
+00:38:47,657 --> 00:38:49,454
+<i>Pero yo te quiero a ti</i>
+
+447
+00:39:24,494 --> 00:39:26,587
+<i>Feliz y soy feliz</i>
+
+448
+00:39:37,840 --> 00:39:41,003
+Les gusta. Es un éxito.
+
+449
+00:39:41,110 --> 00:39:43,977
+Cielos. Tal vez me equivoqué.
+
+450
+00:39:54,524 --> 00:39:55,991
+Bueno...
+
+451
+00:39:56,059 --> 00:39:58,152
+Creo que ya no le hago falta.
+
+452
+00:39:59,228 --> 00:40:02,391
+Pues, ¿para qué quiere
+conciencia un actor?
+
+453
+00:40:09,872 --> 00:40:12,670
+¿Qué pudo haberle pasado?
+
+454
+00:40:14,877 --> 00:40:17,345
+¿Dónde podrá estar a estas horas?
+
+455
+00:40:19,048 --> 00:40:21,573
+Voy a salir a buscarlo de nuevo.
+
+456
+00:40:26,556 --> 00:40:30,822
+Y recuerden: Nadie prueba bocado
+hasta que lo encuentre.
+
+457
+00:40:56,019 --> 00:40:57,953
+<i>No tengo hilos
+Pero sé pensar</i>
+
+458
+00:40:58,021 --> 00:41:00,751
+<i>Cuando hago un negocio
+Lo sé aprovechar</i>
+
+459
+00:41:00,857 --> 00:41:03,758
+<i>Por eso yo puedo
+Brindar con champaña</i>
+
+460
+00:41:03,860 --> 00:41:06,260
+<i>Ningún hilo me ha de enlazar</i>
+
+461
+00:41:08,564 --> 00:41:10,691
+¡Bravo, Pinocho!
+
+462
+00:41:10,767 --> 00:41:13,565
+- ¡Les gusté!
+- 200.
+
+463
+00:41:13,636 --> 00:41:16,935
+- Eres sensacional.
+- Entonces, ¿soy bueno?
+
+464
+00:41:18,608 --> 00:41:22,442
+¡300! ¡Eres colosal!
+
+465
+00:41:23,279 --> 00:41:25,372
+¿Significa que soy un actor?
+
+466
+00:41:26,482 --> 00:41:30,441
+¡Seguro! Yo te impulsaré
+ante el público.
+
+467
+00:41:30,553 --> 00:41:33,989
+Tu fama, asombrará a toda la gente.
+
+468
+00:41:34,791 --> 00:41:36,588
 ¿Sí?
 
+469
+00:41:37,760 --> 00:41:39,819
+¿Qué es esto?
+
+470
+00:41:49,105 --> 00:41:53,439
+¡Para ti, querido Pinocho!
+
+471
+00:41:53,509 --> 00:41:55,943
+¿Para mí? ¡Gracias!
+
+472
+00:41:56,012 --> 00:41:58,503
+Voy a casa a contarle a papá.
+
+473
+00:42:00,750 --> 00:42:02,980
+¿A casa?
+
+474
+00:42:03,086 --> 00:42:06,146
+¡Claro! ¡A casa con tu papá!
+
+475
+00:42:07,356 --> 00:42:10,450
+- Eso es muy cómico.
+- ¿Le parezco gracioso?
+
+476
+00:42:11,360 --> 00:42:13,487
+¡Claro! ¡Sí!
+
+477
+00:42:13,596 --> 00:42:16,656
+- Volveré por la mañana.
+- ¿Volverás mañana?
+
+478
+00:42:18,101 --> 00:42:20,296
+¡Vas a casa!
+
+479
+00:42:26,309 --> 00:42:29,642
+¡Listo! Ésta será tu casa.
+
+480
+00:42:29,712 --> 00:42:32,340
+Donde estés a mi disposición.
+
+481
+00:42:32,448 --> 00:42:35,815
+- ¡No! ¡No! ¡No!
+- ¡Sí! ¡Sí! ¡Sí!
+
+482
+00:42:35,885 --> 00:42:38,615
+Ahora, me perteneces.
+
+483
+00:42:39,622 --> 00:42:41,613
+Viajaremos por el mundo.
+
+484
+00:42:41,691 --> 00:42:44,125
+¡París! ¡Londres!
+
+485
+00:42:44,193 --> 00:42:46,127
+¡Montecarlo!
+
+486
+00:42:46,195 --> 00:42:48,663
+¡Constantinopla!
+
+487
+00:42:48,731 --> 00:42:51,791
+- ¡No! ¡No!
+- ¡Sí!
+
+488
+00:42:51,868 --> 00:42:54,564
+¡Partiremos hoy!
+
+489
+00:42:58,641 --> 00:43:02,042
+Tú, producirás mucho dinero.
+
+490
+00:43:03,246 --> 00:43:04,873
+¡Para mí!
+
+491
+00:43:04,981 --> 00:43:09,384
+Y cuando te pongas muy viejo,
+
+492
+00:43:09,485 --> 00:43:11,749
+alimentarás...
+
+493
+00:43:11,854 --> 00:43:13,981
+¡el fuego!
+
+494
+00:43:15,892 --> 00:43:18,156
+¡Déjeme salir!
+¡Tengo que salir!
+
+495
+00:43:18,227 --> 00:43:21,321
+- ¡No puede tenerme...!
+- ¡Silencio! ¡Cállate!
+
+496
+00:43:21,397 --> 00:43:24,195
+¡Si no quieres que te haga mil pedazos!
+
+497
+00:43:26,102 --> 00:43:28,195
+Buenas noches,
+
+498
+00:43:29,272 --> 00:43:32,708
+mi pequeña mina de oro de madera.
+
+499
+00:43:37,847 --> 00:43:39,576
+¡No! ¡No, espere!
+
+500
+00:43:39,682 --> 00:43:42,947
+¡Suélteme! ¡Se lo diré a mi papá!
+
+501
+00:43:44,020 --> 00:43:47,114
+¡Vamos! ¡Andando! ¡Vamos!
+
+502
+00:43:53,062 --> 00:43:56,031
+¡Pepe!
+
+503
+00:43:57,433 --> 00:43:59,560
+¿Dónde estás, Pepe Grillo?
+
+504
+00:44:01,370 --> 00:44:03,429
+¡Pepe Grillo!
+
+505
+00:44:24,093 --> 00:44:28,086
+Bien. Ahí va.
+Camino a la gloria.
+
+506
+00:44:28,164 --> 00:44:29,893
+Y con el mundo a sus pies.
+
+507
+00:44:30,066 --> 00:44:33,661
+Al menos, podré decir
+que lo conocí cuando no era nadie.
+
+508
+00:44:36,606 --> 00:44:38,938
+Saldré de su vida discretamente.
+
+509
+00:44:46,148 --> 00:44:48,639
+Pero me gustaría desearle suerte.
+
+510
+00:44:48,751 --> 00:44:50,810
+Claro. ¿Por qué no?
+
+511
+00:45:04,333 --> 00:45:07,029
+Soy yo. Tu viejo amigo
+Pepe Grillo. ¿Me recuerdas?
+
+512
+00:45:07,136 --> 00:45:10,299
+¡Pepe! Cielos,
+qué gusto me da verte.
+
+513
+00:45:12,375 --> 00:45:15,867
+¿Qué pasó?
+¿Qué fue lo que te hizo?
+
+514
+00:45:15,978 --> 00:45:19,778
+Dijo que por ser una mina de oro,
+me empujaría ante el público.
+
+515
+00:45:20,850 --> 00:45:24,718
+Que cuando me pusiera viejo,
+me echaría al fuego.
+
+516
+00:45:24,820 --> 00:45:26,651
+¿Eso dijo?
+
+517
+00:45:26,722 --> 00:45:28,451
+Tú no te preocupes.
+
+518
+00:45:28,524 --> 00:45:31,687
+Te sacaré de aquí ahora mismo.
+
+519
+00:45:31,794 --> 00:45:35,992
+Esto no tiene ninguna dificultad.
+Es como si...
+
+520
+00:45:45,174 --> 00:45:47,301
+Está algo oxidado.
+
+521
+00:45:49,879 --> 00:45:52,712
+¡Necesita un poco de aceite!
+
+522
+00:45:54,684 --> 00:45:56,743
+Eso fue lo que dije.
+
+523
+00:46:06,862 --> 00:46:09,490
+Debe ser un modelo antiguo.
+
+524
+00:46:09,565 --> 00:46:12,500
+- Entonces, ¿no puedes abrirlo?
+- No.
+
+525
+00:46:14,837 --> 00:46:17,328
+No hay esperanzas.
+
+526
+00:46:17,406 --> 00:46:20,102
+Sólo un milagro
+nos sacaría de aquí.
+
+527
+00:46:40,229 --> 00:46:42,288
+¡Pinocho!
+
+528
+00:47:00,983 --> 00:47:03,975
+¡Valiente conciencia resulté ser!
+
+529
+00:47:04,086 --> 00:47:06,452
+Debí haberte escuchado, Pepe.
+
+530
+00:47:06,555 --> 00:47:10,753
+No. Es culpa mía.
+No debí dejarte solo.
+
+531
+00:47:10,826 --> 00:47:14,284
+Nunca volveré a ver a mi papá.
+
+532
+00:47:16,265 --> 00:47:19,894
+No te aflijas, hijo.
+No es para tanto.
+
+533
+00:47:19,969 --> 00:47:22,733
+Alégrate. Como yo.
+
+534
+00:47:30,646 --> 00:47:32,113
+No llores, hijo.
+
+535
+00:47:32,181 --> 00:47:34,274
+Vamos. Suénate.
+
+536
+00:47:36,452 --> 00:47:38,511
+Muy bien.
+
+537
+00:47:41,657 --> 00:47:44,956
+Menos mal.
+Ya dejó de llover.
+
+538
+00:47:46,762 --> 00:47:49,629
+¡Es la estrella de nuevo!
+¡Es la señorita!
+
+539
+00:47:49,698 --> 00:47:51,632
+¡El hada!
+
+540
+00:47:51,700 --> 00:47:54,191
+¿Qué irá a decir?
+
+541
+00:47:54,303 --> 00:47:58,000
+- ¿Y qué le digo?
+- Deberías decirle la verdad.
+
+542
+00:48:06,515 --> 00:48:10,451
+- ¡Pinocho!
+- Hola.
+
+543
+00:48:10,519 --> 00:48:12,384
+¡Señor Grillo!
+
+544
+00:48:12,488 --> 00:48:16,652
+¡Vaya! Pero qué agradable sorpresa.
+
+545
+00:48:16,725 --> 00:48:19,626
+Pinocho,
+¿por qué no fuiste a la escuela?
+
+546
+00:48:19,695 --> 00:48:22,357
+¿A la escuela? Bueno...
+
+547
+00:48:23,365 --> 00:48:26,528
+- Anda. Díselo.
+- Iba rumbo a la escuela.
+
+548
+00:48:26,635 --> 00:48:28,865
+- Mas me encontré con alguien.
+- ¿Con alguien?
+
+549
+00:48:28,971 --> 00:48:33,431
+Sí. Eran dos monstruos gigantescos.
+Con enormes ojos verdes.
+
+550
+00:48:36,245 --> 00:48:37,212
+Pero... yo...
+
+551
+00:48:37,313 --> 00:48:40,146
+¿Monstruos? ¿Y no sentiste miedo?
+
+552
+00:48:40,216 --> 00:48:43,276
+No, pero me ataron
+y me metieron en un saco.
+
+553
+00:48:45,054 --> 00:48:48,751
+No me digas.
+¿Y dónde estaba Don Grillo?
+
+554
+00:48:52,094 --> 00:48:56,030
+- ¡A mí no me metas!
+- Lo metieron en un saco pequeño.
+
+555
+00:48:56,098 --> 00:48:57,861
+¡No!
+
+556
+00:48:57,933 --> 00:48:59,594
+¡Sí!
+
+557
+00:48:59,702 --> 00:49:01,829
+- ¿Y cómo escapaste?
+- No escapé.
+
+558
+00:49:01,904 --> 00:49:03,997
+Porque me echaron al fuego.
+
+559
+00:49:07,343 --> 00:49:10,403
+¡Mire! ¡Mi nariz!
+
+560
+00:49:10,513 --> 00:49:12,003
+¿Qué pasa?
+
+561
+00:49:12,081 --> 00:49:14,447
+Tal vez no estés
+diciéndome la verdad.
+
+562
+00:49:14,550 --> 00:49:16,609
+- ¿Tal vez?
+- Le digo la verdad.
+
+563
+00:49:16,719 --> 00:49:18,584
+Palabra por palabra.
+
+564
+00:49:23,726 --> 00:49:26,957
+Por favor, ayúdeme.
+Le pido perdón.
+
+565
+00:49:27,062 --> 00:49:31,226
+¿Lo ves, Pinocho?
+Las mentiras crecen y crecen
+
+566
+00:49:31,300 --> 00:49:33,825
+hasta que saltan a la vista
+como en tu cara.
+
+567
+00:49:33,903 --> 00:49:35,768
+Tiene razón. Di la verdad.
+
+568
+00:49:35,871 --> 00:49:39,034
+Nunca volveré a mentir.
+¡Lo prometo!
+
+569
+00:49:39,108 --> 00:49:42,475
+Por favor, señora juez.
+Digo... señorita hada.
+
+570
+00:49:42,578 --> 00:49:45,103
+Déle otra oportunidad.
+Hágalo por mí.
+
+571
+00:49:45,214 --> 00:49:46,806
+¿Lo hará?
+
 572
-00:49:47,443 --> 00:49:50,278
-Te perdonaré por esta vez.
-Pero recuerda...
+00:49:47,950 --> 00:49:49,645
+Te perdonaré esta vez.
 
 573
-00:49:50,445 --> 00:49:54,989
-...un niño que no será bueno,
-será como hecho de madera.
+00:49:49,752 --> 00:49:53,210
+Pero recuerda:
+Un niño que fue malo
 
 574
-00:49:55,157 --> 00:49:57,408
-- Seremos buenos, ¿no?
-- Seremos buenos, ¿no?
+00:49:53,289 --> 00:49:55,450
+podrá volver a ser de palo.
 
 575
-00:49:57,574 --> 00:50:01,119
-Muy bien. Pero esta será
-la última vez que puedo ayudarlos.
+00:49:55,558 --> 00:49:57,992
+Seremos buenos, ¿verdad?
 
 576
-00:50:07,041 --> 00:50:09,627
-¡Mira, Pepe!
-¡Mi nariz!
+00:49:58,093 --> 00:50:01,551
+Muy bien. Es la última vez
+que podré ayudarte.
 
 577
-00:50:09,793 --> 00:50:12,669
-¡Hey, somos libres!
-¡Vamos, Pinoc!
+00:50:07,436 --> 00:50:10,269
+¡Mira, Pepe Grillo! ¡Mi nariz!
 
 578
-00:50:21,677 --> 00:50:23,803
-- Hasta la vista, Stromboli.
-- ¡Adiós, Sr. Strombo...!
+00:50:10,339 --> 00:50:13,308
+¡Somos libres!
+¡Vamos, Pinocho!
 
 579
-00:50:23,969 --> 00:50:28,014
-¡Silencio! Larguémonos de aquí antes
-de que algo más suceda.
+00:50:13,409 --> 00:50:16,606
+<i>Cuando hago un negocio
+Lo sé aprovechar</i>
 
 580
-00:50:45,068 --> 00:50:48,569
-Una vida de actor es alegre
+00:50:16,679 --> 00:50:19,580
+<i>Por eso yo puedo
+Brindar con champaña</i>
 
 581
-00:50:48,737 --> 00:50:50,738
-Es grandioso ser una celebridad
+00:50:19,648 --> 00:50:22,139
+<i>Ningún hilo me ha de enlazar</i>
 
 582
-00:50:50,905 --> 00:50:54,116
-Una vida de actor para mí
+00:50:22,251 --> 00:50:25,084
+- Buen viaje, Stromboli.
+- Adiós, señor...
 
 583
-00:50:54,282 --> 00:50:57,620
-Y el tonto se enamoró de él...
+00:50:25,154 --> 00:50:28,487
+¡Silencio! Salgamos de aquí
+antes de algo pase.
 
 584
-00:50:57,786 --> 00:51:00,163
-...¡completamente!
+00:50:37,866 --> 00:50:39,356
+<i>Tra-la-ra-li</i>
 
 585
-00:51:03,916 --> 00:51:07,126
-Y todavía cree
-que somos sus amigos.
+00:50:39,468 --> 00:50:41,299
+<i>El arte es para mí</i>
 
 586
-00:51:08,752 --> 00:51:11,129
-Y Stromboli pagó...
+00:50:41,370 --> 00:50:43,270
+<i>Cantar, bailar y poder gozar</i>
 
 587
-00:51:11,296 --> 00:51:13,839
-...¡un montón!
+00:50:43,339 --> 00:50:45,432
+<i>Tener dinero para gastar</i>
 
 588
-00:51:16,341 --> 00:51:19,969
-Eso muestra cuán bajo
-Honest John se encorvará...
+00:50:45,507 --> 00:50:47,304
+<i>Tra-la-ra-la-lai</i>
 
 589
-00:51:20,135 --> 00:51:22,511
-...¿no, Giddy?
+00:50:47,376 --> 00:50:49,276
+<i>Artista es lo que soy</i>
 
 590
-00:51:25,638 --> 00:51:28,016
-Ahora, cochero...
+00:50:49,345 --> 00:50:51,336
+<i>Ya nunca más a la escuela voy</i>
 
 591
-00:51:30,140 --> 00:51:31,977
-...¿cuál es su proposición?
+00:50:51,447 --> 00:50:54,780
+<i>Artista es lo que soy</i>
 
 592
-00:51:32,144 --> 00:51:35,313
-Bien...
+00:50:54,850 --> 00:50:58,308
+¡Y el tonto, se lo creyó!
 
 593
-00:51:35,478 --> 00:51:39,106
-...¿les gustaría, muchachos, hacer
-algo de dinero de verdad?
+00:50:58,387 --> 00:51:01,220
+¡Se tragó el anzuelo!
 
 594
-00:51:40,732 --> 00:51:43,944
-¡Bueno! Y a quién
-tenemos que...
+00:51:04,393 --> 00:51:08,227
+¡Y aun así, nos cree sus amigos!
 
 595
-00:51:45,570 --> 00:51:49,323
-¡No, no! Nada de eso.
+00:51:09,498 --> 00:51:11,864
+¿Y Stromboli pagó?
 
 596
-00:51:49,489 --> 00:51:52,451
-Verás...
+00:51:11,967 --> 00:51:14,401
+Pagó y bastante.
 
 597
-00:51:56,078 --> 00:51:59,581
-Estoy recolectando
-muchachitos estúpidos.
+00:51:16,872 --> 00:51:20,808
+Eso prueba por qué me llaman
+"El honrado Juan Malatrampa".
 
 598
-00:51:59,747 --> 00:52:02,416
-- ¿Muchachitos estúpidos?
-- Tú sabes...
+00:51:20,876 --> 00:51:22,969
+¿O no, Gideón?
 
 599
-00:52:02,540 --> 00:52:05,625
-...esos desobedientes que
-se escapan de la escuela.
+00:51:25,814 --> 00:51:27,873
+Muy bien, cochero...
 
 600
-00:52:05,792 --> 00:52:08,670
-- ¡Oh!
-- Y verás...
+00:51:30,919 --> 00:51:33,353
+- ¿Cuál es su propuesta?
+- Pues...
 
 601
-00:52:12,631 --> 00:52:15,090
-Sí.
+00:51:36,091 --> 00:51:39,720
+¿Les gustaría, amigos,
+ganar dinero de verdad?
 
 602
-00:52:15,258 --> 00:52:17,592
-¡Oh!
+00:51:41,230 --> 00:51:44,427
+Bien.
+¿Y a quién tenemos que...?
 
 603
-00:52:25,514 --> 00:52:28,058
-¡Y los llevo a la Isla del Placer!
+00:51:46,168 --> 00:51:50,070
+No. Nada de eso.
 
 604
-00:52:28,225 --> 00:52:30,978
-Ah, la Isla del Placer.
+00:51:50,172 --> 00:51:52,231
+Verán...
 
 605
-00:52:31,143 --> 00:52:33,980
-¿La Isla del Placer?
-Pero la ley, supongamos que ellos...
+00:51:56,679 --> 00:52:00,206
+Estoy reuniendo niños estúpidos.
 
 606
-00:52:34,147 --> 00:52:37,565
-No, no. No hay riesgos.
+00:52:00,282 --> 00:52:01,909
+¿Niños estúpidos?
 
 607
-00:52:37,732 --> 00:52:40,986
-Ellos nunca vuelven...
+00:52:02,017 --> 00:52:06,852
+Ya saben. De ésos desobedientes
+que se van de pinta de la escuela.
 
 608
-00:52:41,151 --> 00:52:43,612
-...¡como niños!
+00:52:08,357 --> 00:52:10,416
+Y se trata...
 
 609
-00:52:50,284 --> 00:52:53,786
-Tengo un coche cargado
-que sale a medianoche.
+00:52:13,395 --> 00:52:14,828
+Sí.
 
 610
-00:52:53,953 --> 00:52:57,204
-Nos juntaremos en el cruce,
-¡y sin traiciones!
+00:52:25,741 --> 00:52:28,710
+Y los llevo
+a La isla de los Juegos.
 
 611
-00:52:57,371 --> 00:52:59,082
-- No, señor.
-- Den una recorrida...
+00:52:28,777 --> 00:52:31,769
+Ah. A "La isla de los Juegos".
 
 612
-00:52:59,248 --> 00:53:01,958
-...y cualquiera que parezca bueno,
-tráiganmelo a mí.
+00:52:31,880 --> 00:52:34,713
+¿De los juegos? ¿Y
+las autoridades? ¿Y si se enteran?
 
 613
-00:53:02,125 --> 00:53:03,500
+00:52:34,783 --> 00:52:38,446
+No. No. No corremos ningún peligro.
+
+614
+00:52:38,554 --> 00:52:40,886
+Porque nunca vuelven...
+
+615
+00:52:41,990 --> 00:52:44,254
+¡como niños!
+
+616
+00:52:50,999 --> 00:52:54,867
+Ahora bien, tengo un coche lleno
+que saldrá a la medianoche.
+
+617
+00:52:54,937 --> 00:52:58,270
+Nos veremos en el cruce.
+¡Y nada de traicionarme!
+
+618
+00:52:58,340 --> 00:53:00,069
+- No, señor.
+- Búsquenlos.
+
+619
+00:53:00,142 --> 00:53:02,940
+Y tráiganme los
+buenos prospectos que encuentren.
+
+620
+00:53:03,011 --> 00:53:04,444
 - Sí, jefe.
 - Les pagaré bien.
 
-614
-00:53:03,667 --> 00:53:05,836
-- Tengo un montón de oro.
-- Sí, sí.
-
-615
-00:53:07,546 --> 00:53:11,507
-No, señor, ahora nada me detendrá.
-Lo haré bien esta vez.
-
-616
-00:53:11,674 --> 00:53:14,382
-- Más te vale.
-- Lo haré. Me voy a la escuela.
-
-617
-00:53:14,550 --> 00:53:18,387
-- Esa es la cosa, Pinoc.
-- Mejor seré inteligente antes que actor.
-
-618
-00:53:18,552 --> 00:53:22,764
-¡Así se habla! Vamos, perezoso.
-Una carrera a casa.
-
-619
-00:53:29,018 --> 00:53:32,772
-Bueno, bueno, Pinocchio.
-¿Cuál es la prisa?
-
-620
-00:53:32,940 --> 00:53:35,774
-Tengo que ganarle a Pepe.
-Oh, hola.
-
 621
-00:53:35,941 --> 00:53:38,443
-¿Cómo anda el gran actor?
+00:53:04,513 --> 00:53:06,310
+Tengo mucha plata.
 
 622
-00:53:38,610 --> 00:53:41,863
-Ya no quiero ser un actor.
-Stromboli fue terrible.
+00:53:07,549 --> 00:53:10,143
+¡No, señor!
+¡Nada me detendrá ahora!
 
 623
-00:53:42,028 --> 00:53:44,822
-- ¿Ah, sí?
-- Sí, me encerró en una jaula...
+00:53:10,219 --> 00:53:12,687
+- Esta vez, seré bueno.
+- ¡Así se habla!
 
 624
-00:53:44,990 --> 00:53:47,824
-- ¿En serio?
-- Sí, pero ya aprendí mi lección.
+00:53:12,788 --> 00:53:16,383
+- Así será. ¡Me voy a la escuela!
+- ¡Así me gusta, Pinocho!
 
 625
-00:53:47,992 --> 00:53:51,952
-- Voy a...
-- Pobre. Debes ser un manojo de nervios.
+00:53:16,492 --> 00:53:18,551
+Prefiero ser inteligente
+que ser un artista.
 
 626
-00:53:52,119 --> 00:53:55,621
-¡Eso es! ¡Eres un manojo
-de nervios!
+00:53:18,661 --> 00:53:21,391
+¡Bien dicho!
+Vamos, tortuguita.
 
 627
-00:53:55,788 --> 00:53:58,373
-Debemos diagnosticar este
-caso de inmediato.
+00:53:21,497 --> 00:53:23,556
+Te juego una carrera a casa.
 
 628
-00:53:58,541 --> 00:54:00,875
-Rápido, Doctor,
-su libro de apuntes.
+00:53:29,505 --> 00:53:33,202
+¡Vaya, vaya, Pinocho!
+¿Adónde vas con tanta prisa?
 
 629
-00:54:02,627 --> 00:54:05,170
-Dios me libre.
+00:53:33,275 --> 00:53:35,300
+Debo ganarle a Pepe
+a llegar a casa.
 
 630
-00:54:08,255 --> 00:54:11,883
-Mira nada más.
-Justo lo que pensaba.
+00:53:35,377 --> 00:53:36,207
+Ah. Hola.
 
 631
-00:54:12,050 --> 00:54:13,718
-Un ligero toque de
-complicaciones monetarias...
+00:53:36,312 --> 00:53:38,712
+¿Qué cuenta el gran actor?
 
 632
-00:54:13,884 --> 00:54:16,970
-...con artilugios semilunares
-bucolíticos de los trapecios voladores.
+00:53:38,814 --> 00:53:42,147
+No quiero ser actor.
+¡Stromboli fue muy malo!
 
 633
-00:54:18,512 --> 00:54:21,390
-Digamos, "hipopotamus".
+00:53:42,217 --> 00:53:43,707
+- ¡No!
+- Sí.
 
 634
-00:54:21,557 --> 00:54:24,267
-- Hi-po-potamus.
-- ¡Lo sabía!
+00:53:43,819 --> 00:53:46,310
+- Me encerró en una jaula.
+- ¡No!
 
 635
-00:54:24,434 --> 00:54:26,519
-Transmisión compuesta del
-pandemonio con percusión...
+00:53:46,388 --> 00:53:48,219
+¡Sí! Pero aprendí la lección.
 
 636
-00:54:26,687 --> 00:54:29,689
-...y espasmódica
-desintegración frenética.
+00:53:48,324 --> 00:53:50,383
+- Voy a...
+- Pobre. Pobrecillo.
 
 637
-00:54:29,856 --> 00:54:32,106
-- Cierra los ojos, ¿qué es lo que ves?
-- Nada.
+00:53:50,492 --> 00:53:52,255
+Debes ser un manojo de nervios.
 
 638
-00:54:32,273 --> 00:54:34,775
-- Ábrelos. ¿Ahora qué ves?
-- Manchas.
+00:53:52,361 --> 00:53:55,262
+¡Eso es!
+Estás hecho un manojo de nervios.
 
 639
-00:54:34,943 --> 00:54:38,570
-¡Ajá!
-Ahora el corazón.
+00:53:55,831 --> 00:53:58,732
+Debemos diagnosticar de inmediato.
 
 640
-00:54:38,737 --> 00:54:42,448
-¡Oh, Dios mío!
+00:53:58,834 --> 00:54:00,893
+Deprisa, doctor. Su libreta.
 
 641
-00:54:42,614 --> 00:54:45,073
-Una cíncopa palpitante
-del comerciante asesino...
+00:54:03,038 --> 00:54:05,097
+Cielos.
 
 642
-00:54:45,240 --> 00:54:48,077
-...con el débil tonto
-pisando el suelo contento.
+00:54:08,510 --> 00:54:10,501
+Caramba.
 
 643
-00:54:48,242 --> 00:54:50,452
-Rápido, Doctor, ese reporte.
+00:54:10,579 --> 00:54:12,069
+Justo lo que me temí.
 
 644
-00:54:50,620 --> 00:54:54,080
-¡Esto esta perfectamente claro!
+00:54:12,181 --> 00:54:14,513
+Ataque agudo
+de complicaciones monetarias
 
 645
-00:54:55,415 --> 00:54:59,834
-Mi amigo, eres alérgico.
+00:54:14,583 --> 00:54:18,519
+con artilugios bucólicos
+semilunares de trapecio volador.
 
 646
-00:55:00,002 --> 00:55:03,129
-- ¿Alérgico?
-- Sí, y sólo hay una cura.
+00:54:20,589 --> 00:54:23,251
+Di: Hipopótamo.
 
 647
-00:55:03,296 --> 00:55:07,382
-- ¡Vacaciones en la Isla del Placer!
-- ¿Isla del Placer?
+00:54:23,359 --> 00:54:26,260
+¡Lo sabía!
+Transmisión compuesta del pandemonio
 
 648
-00:55:07,548 --> 00:55:10,009
-¡Sí, esa tierra feliz de los
-muchachos despreocupados...
+00:54:26,362 --> 00:54:29,763
+con percusión y desintegración
+frenética espasmódica.
 
 649
-00:55:10,174 --> 00:55:12,343
-...donde cada día es
-un día de fiesta!
+00:54:29,865 --> 00:54:32,527
+- Cierra los ojos. ¿Qué ves?
+- Nada.
 
 650
-00:55:12,511 --> 00:55:16,345
-- Pero no puedo ir, yo...
-- Por supuesto que puedes ir.
+00:54:32,601 --> 00:54:35,365
+- Ábrelos. Ahora, ¿qué ves?
+- Manchas.
 
 651
-00:55:16,513 --> 00:55:19,098
-Te estoy dando mi boleto.
+00:54:36,271 --> 00:54:38,239
+¿Y el corazón?
 
 652
-00:55:21,309 --> 00:55:23,852
-- Toma.
-- ¡Gracias! Pero yo...
+00:54:40,542 --> 00:54:42,908
+¡Por Dios!
 
 653
-00:55:24,020 --> 00:55:28,231
-Oh, insisto.
-Tu salud es lo primero.
+00:54:42,978 --> 00:54:45,640
+Palpitaciones síncopas retardadas
 
 654
-00:55:28,397 --> 00:55:31,858
-Ven, el coche sale
-a la medianoche.
+00:54:45,748 --> 00:54:48,546
+con un triqui-trán
+que fulmina el esternón.
 
 655
-00:55:33,067 --> 00:55:35,735
-Es Isla del Placer para mí
+00:54:48,617 --> 00:54:50,881
+Deprisa, doctor. Ese informe.
 
 656
-00:55:35,903 --> 00:55:37,736
-Donde cada día es
-un día de fiesta
+00:54:51,653 --> 00:54:54,144
+No cabe ninguna duda.
 
 657
-00:55:37,903 --> 00:55:39,905
-Y los chicos no tienen nada
-más que hacer que jugar
+00:54:55,657 --> 00:54:59,593
+Hijo mío, sufres de alergia.
 
 658
-00:55:40,072 --> 00:55:41,948
-¡Pinoc!
+00:54:59,661 --> 00:55:01,219
+¿Alergia?
 
 659
-00:55:42,115 --> 00:55:45,910
-¿Pinoc? Dónde se
-supone que... ¿eh?
+00:55:01,296 --> 00:55:06,290
+Sí. Sólo hay un remedio.
+Descanso en La isla de los juegos.
 
 660
-00:55:46,076 --> 00:55:48,954
-¡Pinocchio! ¡Hey!
-¡Regresa!
+00:55:06,402 --> 00:55:08,233
+- ¿La isla de los juegos?
+- ¡Sí!
 
 661
-00:55:57,208 --> 00:55:59,126
-¡Arre!
+00:55:08,303 --> 00:55:12,569
+La feliz tierra de despreocupados,
+donde todos los días son domingo.
 
 662
-00:56:02,463 --> 00:56:05,215
-Bien...
+00:55:12,641 --> 00:55:14,268
+Pero no puedo ir.
 
 663
-00:56:05,381 --> 00:56:08,175
-...aquí vamos de nuevo.
+00:55:14,343 --> 00:55:16,504
+- Yo...
+- Claro que puedes ir.
 
 664
-00:56:09,386 --> 00:56:12,137
-Mi nombre es Lampwick.
-¿Cuál es el tuyo?
+00:55:16,612 --> 00:55:18,978
+Yo te obsequio mi pasaje.
 
 665
-00:56:12,303 --> 00:56:14,305
-Pinocchio.
+00:55:21,517 --> 00:55:23,815
+- Toma.
+- ¡Gracias!
 
 666
-00:56:14,473 --> 00:56:17,683
-- ¿Ya has estado en la Isla del Placer?
-- No, pero el Sr. Honest John me dio...
+00:55:23,919 --> 00:55:25,853
+Pero yo...
 
 667
-00:56:17,848 --> 00:56:21,894
-Yo tampoco, pero dicen que está
-muy bueno. Sin escuela, sin policías.
+00:55:25,954 --> 00:55:28,320
+Insisto. Tu salud, es lo primero.
 
 668
-00:56:22,060 --> 00:56:25,229
-Puedes destrozar lo que quieras
-y nadie dice una palabra.
+00:55:28,424 --> 00:55:31,587
+Vamos. El coche sale a medianoche.
 
 669
-00:56:25,397 --> 00:56:29,733
-- Honest John me dio...
-- Andar de vagos, comer, tomar.
+00:55:32,327 --> 00:55:34,090
+<i>Tra-la-ra-la-rón</i>
 
 670
-00:56:29,899 --> 00:56:32,026
-- ¡Y todo es gratis!
-- Honest John...
+00:55:34,163 --> 00:55:36,028
+<i>La isla es de turrón</i>
 
 671
-00:56:32,193 --> 00:56:36,029
-Te digo, ese es el lugar.
-¡Ya no puedo esperar!
+00:55:36,131 --> 00:55:37,996
+<i>De chocolates, hay un salón</i>
 
 672
-00:57:13,764 --> 00:57:15,600
-¡Aquí, chicos!
-¡Aquí!
+00:55:38,100 --> 00:55:40,034
+<i>Y de juguetes, hay un montón</i>
 
 673
-00:57:15,766 --> 00:57:18,602
-Busquen su torta, pastel,
-dulces y helado.
+00:55:40,135 --> 00:55:42,501
+¡Pinocho!
 
 674
-00:57:18,769 --> 00:57:21,938
-Coman todo lo que puedan.
-Sean glotones. Llénense
+00:55:43,705 --> 00:55:46,105
+¿Dónde se habrá metido?
 
 675
-00:57:22,103 --> 00:57:26,107
-Todo es gratis, chicos.
-Es gratis. ¡Rápido, rápido, rápido!
+00:55:48,277 --> 00:55:49,801
+¡Regresa!
 
 676
-00:57:26,273 --> 00:57:28,109
-La casa ruda.
-La casa ruda.
+00:55:57,319 --> 00:55:58,581
+¡Arre!
 
 677
-00:57:28,274 --> 00:57:31,194
-Esta es la más ruda, agobiante
-tienda que han visto.
+00:56:02,624 --> 00:56:03,852
+Bueno.
 
 678
-00:57:31,360 --> 00:57:35,029
-- Entren y peleen, chicos.
-- ¡Oh, una riña!
+00:56:05,828 --> 00:56:07,887
+Aquí vamos de nuevo.
 
 679
-00:57:35,196 --> 00:57:37,281
-Vamos, entremos y le escarbemos
-la nariz a alguien.
+00:56:09,565 --> 00:56:11,795
+Yo soy Mechón. ¿Y tú?
 
 680
-00:57:37,448 --> 00:57:39,741
-- ¿Por qué?
-- Sólo para divertirnos.
+00:56:12,568 --> 00:56:13,500
+Pinocho.
 
 681
-00:57:39,907 --> 00:57:42,160
-Está bien, Lampy.
+00:56:14,503 --> 00:56:17,836
+- ¿Has ido a la isla?
+- Pero El Honrado Juan me dio...
 
 682
-00:57:43,910 --> 00:57:45,536
-Calle Tabaco, Calle Tabaco.
+00:56:17,906 --> 00:56:20,500
+Yo tampoco.
+Pero dicen que es fenomenal.
 
 683
-00:57:45,704 --> 00:57:48,205
-Tomen sus cigarros, cigarrillos,
-y tabaco para mascar.
+00:56:20,576 --> 00:56:23,739
+No hay escuela ni policía.
+Puedes destrozar todo
 
 684
-00:57:48,373 --> 00:57:51,417
-Entren y fumen hasta reventar.
-Nadie los puede detener aquí.
+00:56:23,846 --> 00:56:26,815
+...y nadie te dice nada.
+- El Honrado Juan...
 
 685
-00:57:51,583 --> 00:57:53,627
-¡Pinocchio!
+00:56:26,882 --> 00:56:30,045
+Holgazaneas, comes mucho,
+bebes mucho...
 
 686
-00:57:53,793 --> 00:57:57,338
-¡Pinocchio! Hay algún...
-impostor detrás de esto.
+00:56:30,152 --> 00:56:32,347
+- ¡Y todo es gratis!
+- El Honrado Juan...
 
 687
-00:57:57,504 --> 00:57:59,423
-Tengo que sacarlo de aquí.
+00:56:32,421 --> 00:56:35,822
+Ése es el lugar.
+Estoy ansioso por llegar.
 
 688
-00:57:59,589 --> 00:58:01,967
-¡Rápido, rápido, rápido!
-Vean la casa modelo.
+00:57:14,263 --> 00:57:15,855
+¡Por aquí, niños!
 
 689
-00:58:02,132 --> 00:58:05,426
-¡Está abierta para destrucción,
-y es toda suya, muchachos!
+00:57:15,931 --> 00:57:19,230
+¡Pasen por sus pasteles,
+caramelos, pepinillos y helados!
 
 690
-00:58:05,594 --> 00:58:07,970
-¡Es toda suya!
+00:57:19,301 --> 00:57:22,361
+¡Coman lo que quieran!
+¡Traguen! ¡Hártense!
 
 691
-00:58:11,807 --> 00:58:14,475
-¿Qué te diré?
-¿No está bueno esto?
+00:57:22,437 --> 00:57:26,396
+¡Es gratis, niños! ¡Es gratis!
+¡Deprisa! ¡Deprisa!
 
 692
-00:58:14,641 --> 00:58:17,726
-¡Sí! Ser malo es muy
-divertido, ¿no?
+00:57:26,475 --> 00:57:28,409
+¡El jaleo!
 
 693
-00:58:17,893 --> 00:58:21,062
-Sí.
-Mira esa vidriera de colores.
+00:57:28,477 --> 00:57:31,605
+Es el antro más rudo
+y duro que jamás hayan visto.
 
 694
-00:58:26,149 --> 00:58:29,653
-Muy bien, empiecen a trabajar,
-muchachos.
+00:57:31,713 --> 00:57:34,705
+- Entren y armen su jaleo.
+- ¡Cielos, una bronca!
 
 695
-00:58:29,818 --> 00:58:33,155
-¡Vamos, vamos! Cierren las puertes
-y trábenlas fuerte.
+00:57:35,584 --> 00:57:37,575
+Golpeemos a alguien en la nariz.
 
 696
-00:58:34,823 --> 00:58:38,826
-Ahora vayan abajo y
-y preparen las cajas.
+00:57:37,653 --> 00:57:40,144
+- ¿Por qué?
+- Por el puro gusto.
 
 697
-00:58:38,993 --> 00:58:43,246
-Dale a un chico malo suficiente cuerda
-y él solo hará un imbécil de sí mismo.
+00:57:40,255 --> 00:57:42,314
+Bueno, Mechón.
 
 698
-00:58:51,083 --> 00:58:54,171
-¡Pinocchio!
+00:57:44,059 --> 00:57:45,890
+¡El alboroto del tabaco!
 
 699
-00:58:54,337 --> 00:58:56,589
-¿Pinocchio?
+00:57:45,961 --> 00:57:48,589
+¡Tomen cigarrillos,
+habanos y tabaco para mascar!
 
 700
-00:59:00,508 --> 00:59:02,802
-¿Dónde están todos?
+00:57:48,664 --> 00:57:52,964
+¡Pasen y fumen hasta hartarse!
+Nadie los detendrá.
 
 701
-00:59:05,512 --> 00:59:08,014
-El lugar parece un cementerio.
+00:57:55,404 --> 00:57:57,964
+Hay algo sospechoso en todo esto.
 
 702
-00:59:08,181 --> 00:59:10,682
-No me gusta cómo se ve esto.
+00:57:58,073 --> 00:58:00,906
+- Tengo que sacarlo de aquí.
+- ¡Dense prisa!
 
 703
-00:59:10,849 --> 00:59:13,183
-¡Pinocchio!
+00:58:00,976 --> 00:58:04,002
+¿Ven la casa modelo?
+Pasen a hacerla pedazos.
 
 704
-00:59:15,727 --> 00:59:18,063
-Hey, ¿dónde estás?
+00:58:04,112 --> 00:58:07,013
+¡Y es toda suya, niños!
+¡Es toda suya!
 
 705
-00:59:34,699 --> 00:59:37,202
-¿Adónde crees que
-fueron todos los chicos, Lampwick?
+00:58:12,254 --> 00:58:14,654
+¿Qué te dije?
+¿Acaso no es fantástico?
 
 706
-00:59:37,369 --> 00:59:40,538
-Deben estar por ahí en algún
-lugar. ¿A quién le importa?
+00:58:14,756 --> 00:58:17,919
+¡Sí! Hacer travesuras
+es divertido, ¿verdad?
 
 707
-00:59:43,456 --> 00:59:47,500
-- La estás pasando bien, ¿no?
-- Claro que sí.
+00:58:17,993 --> 00:58:21,292
+Claro. Mira ese vitral de colores.
 
 708
-00:59:47,668 --> 00:59:50,878
-Esto sí que es vida,
-¿no, Pinoky?
+00:58:26,702 --> 00:58:29,136
+Muy bien.
+¡Ya es hora, idiotas!
 
 709
-00:59:51,044 --> 00:59:53,422
-¡Sí!
+00:58:30,339 --> 00:58:33,604
+¡Vamos! ¡Vamos!
+Cierren las puertas con cerrojo.
 
 710
-00:59:53,588 --> 00:59:55,839
-¡Claro que sí!
+00:58:35,544 --> 00:58:38,104
+Bajen a preparar las jaulas.
 
 711
-00:59:56,007 --> 00:59:58,341
-¡Fumas igual que
-mi abuela!
+00:58:39,481 --> 00:58:43,781
+¡Entre más les sueltas la rienda,
+más se comportan como asnos!
 
 712
-00:59:59,592 --> 01:00:03,345
-Vamos, dale una buena
-pitada, como esta.
+00:59:00,902 --> 00:59:02,995
+¿Dónde están todos?
 
 713
-01:00:05,804 --> 01:00:08,264
-Está bien, Lampy.
+00:59:06,008 --> 00:59:08,374
+Esto parece un cementerio.
 
 714
-01:00:25,527 --> 01:00:28,237
-Estuvo bueno, ¿no, chico?
+00:59:08,477 --> 00:59:10,536
+Esto no me gusta nada.
 
 715
-01:00:28,405 --> 01:00:31,116
-Bien, tablita.
-Es tu turno.
+00:59:16,018 --> 00:59:18,077
+¿Dónde estás?
 
 716
-01:00:45,626 --> 01:00:48,876
-¿Que pasa, tablita?
-¿Te estás debilitando?
+00:59:35,170 --> 00:59:37,400
+¿Dónde estarán los demás?
 
 717
-01:00:51,422 --> 01:00:55,340
-¡Pinocchio! Mira dónde te
-vengo a encontrar.
+00:59:37,506 --> 00:59:40,737
+Deben andar por ahí.
+Pero ¿qué más te da?
 
 718
-01:00:55,508 --> 01:00:58,176
-¿Cómo pretendes llegar
-a ser un niño de verdad?
+00:59:43,879 --> 00:59:46,347
+Estás pasándotela bien, ¿o no?
 
 719
-01:00:58,300 --> 01:01:00,886
-Mírate. Fumando...
+00:59:46,415 --> 00:59:49,942
+- Por supuesto.
+- Caramba. Esto sí que es vida.
 
 720
-01:01:01,052 --> 01:01:04,764
-...¡jugando pool! ¡Te vienes conmigo
-a casa ahora mismo!
+00:59:50,052 --> 00:59:52,111
+- ¿Te gusta, Pinocho?
+- Sí.
 
 721
-01:01:04,931 --> 01:01:07,600
-¡Hey!
-¿Quién es el escarabajo?
+00:59:53,955 --> 00:59:56,219
+La gran vida.
 
 722
-01:01:07,724 --> 01:01:10,767
-¡Déjame! ¿Bájame de aquí!
-¡Déjame salir!
+00:59:56,291 --> 00:59:58,782
+Así fumaba mi abuela.
 
 723
-01:01:10,934 --> 01:01:14,062
-Él es mi conciencia. Me dice qué
-es lo correcto y qué es lo que está mal.
+00:59:59,795 --> 01:00:02,355
+Vamos. Dale un buen golpe.
 
 724
-01:01:14,229 --> 01:01:18,648
-¿Qué? ¿Te refieres a hacer lo que
-un saltamontes te dice?
+01:00:02,431 --> 01:00:04,331
+Así.
 
 725
-01:01:18,815 --> 01:01:22,027
-¿Saltamontes? ¡Mira aquí,
-imprudente cachorrito!
+01:00:06,368 --> 01:00:08,427
+Está bien, Mechón.
 
 726
-01:01:22,194 --> 01:01:24,279
-No te lastimaría recibir órdenes
-de tu saltamont...
+01:00:25,487 --> 01:00:27,580
+Qué divertido, ¿no, muchacho?
 
 727
-01:01:24,445 --> 01:01:26,613
-...tu conciencia,
-si tuvieras una.
+01:00:29,091 --> 01:00:31,286
+Bien, astilla, es tu turno.
 
 728
-01:01:26,781 --> 01:01:29,950
-Sí, sí, claro. Bola con efecto
-en el hueco de la esquina.
+01:00:45,807 --> 01:00:48,674
+¿Qué pasa, astilla?
+¿Estás perdiendo el pulso?
 
 729
-01:01:41,416 --> 01:01:44,124
-Qué... que...
-¡tú pequeño rufián!
+01:00:53,482 --> 01:00:55,609
+Conque aquí estás.
 
 730
-01:01:44,292 --> 01:01:47,504
-¡Te bajaré de un golpe!
+01:00:55,684 --> 01:00:58,517
+¿Y así esperas convertirte
+en un niño de verdad?
 
 731
-01:01:52,673 --> 01:01:54,509
-Te voy a dividir y ponerte
-junto de nuevo.
+01:00:58,587 --> 01:01:01,078
+¡Qué vergüenza! Fumando.
 
 732
-01:01:54,674 --> 01:01:57,259
-Oh, no lo lastimes, Pepe.
-Él es mi mejor amigo.
+01:01:01,156 --> 01:01:03,021
+Y jugando billar.
 
 733
-01:01:57,427 --> 01:02:00,721
-¿Tu mejor amigo?
+01:01:03,125 --> 01:01:06,094
+¡Vendrás conmigo a casa
+inmediatamente!
 
 734
-01:02:00,887 --> 01:02:03,848
-¿Y yo qué soy?
-Sólo tu conciencia.
+01:01:07,262 --> 01:01:09,628
+- ¿Quién es este bicho?
+- ¡Bájame!
 
 735
-01:02:05,308 --> 01:02:08,726
-Muy bien, así están las cosas.
+01:01:11,266 --> 01:01:14,429
+Es mi conciencia.
+Me dice lo que es bueno y malo.
 
 736
-01:02:08,894 --> 01:02:12,353
-- Pero, Pepe...
-- Enmantecaste tu pan, ahora arréglatelas.
+01:01:14,503 --> 01:01:19,031
+¿Qué? ¿Me dices
+que obedeces a un saltamontes?
 
 737
-01:02:20,861 --> 01:02:22,988
-¡Ja-ja-ja!
-Vamos, ríete.
+01:01:19,141 --> 01:01:22,338
+¿Saltamontes?
+¡Escúchame, mocoso insolente!
 
 738
-01:02:23,155 --> 01:02:27,031
-Haz un imbécil de tí mismo.
-¡Se acabó! Este es el final.
+01:01:22,444 --> 01:01:26,175
+Más te valdría obedecer
+a tu saltamon... A tu conciencia.
 
 739
-01:02:27,199 --> 01:02:30,701
-Pero, Pepe, Lampwick dice que
-sólo se vive una vez.
+01:01:26,281 --> 01:01:28,476
+- Si la tuvieras.
+- Sí. Sí. Sí. Claro.
 
 740
-01:02:30,868 --> 01:02:32,660
-Lampwick.
+01:01:28,550 --> 01:01:30,711
+Pelota con efecto a la tronera.
 
 741
-01:02:32,827 --> 01:02:35,746
-Vamos, vamos. Déjalo ir.
+01:01:41,963 --> 01:01:44,659
+Pero si eres... un gorila.
 
 742
-01:02:40,208 --> 01:02:42,542
-Lampwick.
-¡Lampwick!
+01:01:44,733 --> 01:01:47,031
+¡Te voy a dar una lección!
 
 743
-01:02:43,836 --> 01:02:47,838
-Me enfurece. Después de todo
-lo que intenté hacer por él.
+01:01:53,141 --> 01:01:56,406
+- Te haré pedazos y...
+- No lo lastimes, Pepe Grillo.
 
 744
-01:02:48,005 --> 01:02:52,549
-¿Quién es su conciencia entonces?
-¿Yo o ese rufián de Lampwick?
+01:01:56,511 --> 01:01:59,036
+- Es mi mejor amigo.
+- Vaya.
 
 745
-01:02:52,717 --> 01:02:55,511
-Ya tuve suficiente. Me tomo
-el próximo bote fuera de aquí.
+01:01:59,147 --> 01:02:01,377
+¿Tu mejor amigo?
 
 746
-01:02:55,676 --> 01:02:57,761
-¡Abran esa puerta!
-¡Abran!
+01:02:01,483 --> 01:02:04,714
+¿Y qué soy yo?
+Solamente tu conciencia.
 
 747
-01:02:57,929 --> 01:03:00,263
-¡Quiero irme a casa!
+01:02:05,821 --> 01:02:08,881
+Muy bien. Esto se acabó.
 
 748
-01:03:05,058 --> 01:03:08,186
-¡Vamos, idiotas!
-¡Háganlos mover!
+01:02:08,990 --> 01:02:11,515
+- Pero Pepe Grillo...
+- Tú elegiste.
 
 749
-01:03:08,354 --> 01:03:12,231
-Despabílense.
-No tenemos toda la noche.
+01:02:11,593 --> 01:02:13,959
+Ahora, ¡atente a las consecuencias!
 
 750
-01:03:15,358 --> 01:03:17,902
-¿De dónde vendrán
-todos esos burros?
+01:02:22,704 --> 01:02:25,172
+¡Vamos, ríete!
+Haz el ridículo.
 
 751
-01:03:18,068 --> 01:03:20,529
-Vamos, vamos.
-Agarremos otro.
+01:02:25,240 --> 01:02:27,538
+¡Ya me harté! Se acabó.
 
 752
-01:03:22,238 --> 01:03:25,741
-¿Y cuál es tu nombre?
+01:02:27,609 --> 01:02:31,204
+¡Pero Pepe Grillo!
+Mechón dice que sólo se vive una vez.
 
 753
-01:03:25,907 --> 01:03:29,451
-Muy bien, tú irás.
-¡Adentro!
+01:02:31,279 --> 01:02:32,837
+¡Mechón!
 
 754
-01:03:29,618 --> 01:03:33,120
-Ustedes muchachos harán
-que me den un buen precio.
+01:02:33,048 --> 01:02:36,381
+¡Vamos! ¡Vamos!
+Deja que se vaya.
 
 755
-01:03:33,287 --> 01:03:35,789
-Muy bien,
-¡siguiente!
+01:02:40,689 --> 01:02:41,747
+¡Mechón!
 
 756
-01:03:35,957 --> 01:03:39,626
-- ¿Y cuál vendría a ser tu nombre?
-- Alexander.
+01:02:41,857 --> 01:02:43,916
+¡Mechón!
 
 757
-01:03:39,793 --> 01:03:42,378
-Así que puedes hablar.
+01:02:44,259 --> 01:02:47,592
+Es indignante.
+Después de todo lo que hice por él.
 
 758
-01:03:42,544 --> 01:03:47,048
-Si, señor. ¡Quiero ir a casa
-con mi mamá!
+01:02:48,430 --> 01:02:52,423
+¿Quién es su conciencia?
+¿Yo? ¿O ese gorila de Mechón?
 
 759
-01:03:47,214 --> 01:03:49,882
-¡Regrésenlo!
-¡Todavía puede hablar!
+01:02:52,534 --> 01:02:55,799
+Ya me harté.
+Me iré en el próximo bote.
 
 760
-01:03:51,383 --> 01:03:55,052
-¡Por favor, por favor!
-¡No quiero ser un burro!
+01:02:55,904 --> 01:02:58,236
+Abran la puerta. ¡Abran!
 
 761
-01:03:55,220 --> 01:03:57,638
-- ¡Déjenme salir de aquí!
-- ¡Silencio!
+01:02:58,306 --> 01:03:00,399
+¡Quiero irme a casa!
 
 762
-01:03:57,805 --> 01:04:01,891
-Ustedes chicos la pasaron muy bien.
-Ahora paguen por eso.
+01:03:05,780 --> 01:03:08,749
+¡Vamos, asnos, muévanse!
 
 763
-01:04:02,059 --> 01:04:06,561
-¿"Chicos"? Entonces eso es lo que...
-¡Pinocchio!
+01:03:08,817 --> 01:03:11,718
+¡No se duerman!
+No tenemos toda la noche.
 
 764
-01:04:06,854 --> 01:04:10,398
-Al escuchar a ese
-escarabajo hablar...
+01:03:15,957 --> 01:03:18,118
+¿De dónde salieron todos esos asnos?
 
 765
-01:04:10,565 --> 01:04:14,817
-...pensarías que algo
-nos va a pasar a nosotros.
+01:03:18,226 --> 01:03:20,786
+¡Vamos! ¡Vamos! ¡Saquen más!
 
 766
-01:04:18,528 --> 01:04:20,989
-Conciencia.
-¡Apesta!
+01:03:22,430 --> 01:03:24,762
+¿Cómo te llamas?
 
 767
-01:04:27,451 --> 01:04:29,452
-¿De dónde saca esas cosas?
+01:03:26,101 --> 01:03:29,298
+Bien. Servirás. ¡Adentro!
 
 768
-01:04:29,620 --> 01:04:32,873
-"¿Cómo pretendes ser un
-niño de verdad?"
+01:03:30,338 --> 01:03:32,329
+Pagarán bien por ustedes.
 
 769
-01:04:33,038 --> 01:04:36,584
-¿Qué se cree que soy,
-un asno?
+01:03:34,409 --> 01:03:36,343
+¡El que sigue!
 
 770
-01:04:36,749 --> 01:04:39,169
-¡Por cierto lo eres!
+01:03:36,444 --> 01:03:38,742
+Y tú, ¿cómo te llamas?
 
 771
-01:04:41,837 --> 01:04:44,339
-Hey, te ríes como un burro.
+01:03:38,813 --> 01:03:42,647
+- Alejandro.
+- De modo que puedes hablar.
 
 772
-01:04:48,257 --> 01:04:50,927
-¿Eso salió de adentro mío?
+01:03:42,751 --> 01:03:44,446
+Sí, señor.
 
 773
-01:04:59,183 --> 01:05:01,184
-¿Qué está pasando?
+01:03:44,519 --> 01:03:47,352
+¡Quiero ir a casa con mi mamá!
 
 774
-01:05:04,268 --> 01:05:07,189
-¡Me han traicionado!
-¡Auxilio! ¡Auxilio!
+01:03:47,455 --> 01:03:50,253
+¡Devuélvanlo!
+¡Todavía puede hablar!
 
 775
-01:05:07,356 --> 01:05:10,817
-¡Alguien ayúdeme!
-¡Me han engañado!
+01:03:51,660 --> 01:03:55,619
+¡Por favor! ¡Por favor!
+¡No quiero ser un asno!
 
 776
-01:05:10,984 --> 01:05:14,235
-Por favor, tienes que ayudarme.
-Sé bueno.
+01:03:55,697 --> 01:03:58,325
+- ¡Sáquenme de aquí!
+- ¡Silencio!
 
 777
-01:05:14,402 --> 01:05:16,862
-¡Llama al escarabajo!
-¡Llama a quien sea!
+01:03:58,433 --> 01:04:02,199
+Ya se divirtieron, niños.
+¡Ahora, paguen!
 
 778
-01:05:19,989 --> 01:05:24,326
-¡Mamá! ¡Mamá!
+01:04:02,304 --> 01:04:05,467
+¿Niños? De modo que es eso...
 
 779
-01:05:40,962 --> 01:05:44,717
-- ¿Qué ha pasado?
-- Espero que no sea demasiado tarde.
+01:04:08,209 --> 01:04:10,871
+Por como habla el saltamontes,
 
 780
-01:05:45,884 --> 01:05:48,553
-¿Qué voy a hacer?
+01:04:10,978 --> 01:04:13,947
+creerías que fuera
+a pasarnos algo malo.
 
 781
-01:05:51,555 --> 01:05:55,014
-- ¡Pinocchio!
-- ¡Pepe! ¡Ayúdame, Pepe!
+01:04:18,786 --> 01:04:21,311
+¿Conciencia? ¡Loco!
 
 782
-01:05:55,182 --> 01:05:58,268
-¡Espera, Pinoc! ¡Los chicos,
-los muchachos, son todos burros!
+01:04:27,662 --> 01:04:30,062
+¿De dónde lo saca?
 
 783
-01:05:58,435 --> 01:06:00,685
-¡Oh, tú también!
+01:04:30,164 --> 01:04:33,531
+Así, nunca serás un niño de verdad.
 
 784
-01:06:00,853 --> 01:06:03,312
-¡Vamos, rápido!
-Antes de que te pongas peor.
+01:04:33,634 --> 01:04:35,534
+¿Quién se cree que soy?
 
 785
-01:06:05,231 --> 01:06:07,898
-Por aquí, Pinoc.
-Es la única salida.
+01:04:35,636 --> 01:04:39,128
+- ¿Un burro?
+- ¡Claro que sí!
 
 786
-01:06:16,114 --> 01:06:19,282
-Apúrate... antes de que nos vean.
+01:04:42,510 --> 01:04:44,569
+¡Oye, te ríes como un burro!
 
 787
-01:06:21,367 --> 01:06:23,744
-¡Tienes que saltar!
+01:04:48,749 --> 01:04:50,842
+¿Ese ruido lo hice yo?
 
 788
-01:06:42,008 --> 01:06:44,884
-Pepe.
+01:04:59,594 --> 01:05:01,494
+¿Qué...? ¿Qué pasa?
 
 789
-01:06:45,051 --> 01:06:49,053
-Pepe, ¿estás bien?
+01:05:04,398 --> 01:05:06,457
+¡Auxilio! ¡Me traicionaron!
 
 790
-01:06:49,220 --> 01:06:52,264
-Claro. Pensé que nunca
-lo lograrías.
+01:05:06,534 --> 01:05:08,866
+¡Auxilio! ¡Auxilio!
+¡Ayúdenme!
 
 791
-01:06:54,183 --> 01:06:57,017
-Desde luego se siente bien
-estar de vuelta en...
+01:05:08,936 --> 01:05:11,427
+¡Me embaucaron! ¡Auxilio!
 
 792
-01:06:57,185 --> 01:06:59,854
-...tierra seca.
+01:05:11,539 --> 01:05:13,734
+¡Por favor!
+¡Tienes que ayudarme!
 
 793
-01:07:00,019 --> 01:07:02,522
-Anda, vámonos a casa.
+01:05:13,841 --> 01:05:17,174
+¡Sé bueno! ¡Llama al bicho!
+¡Llama a quien sea!
 
 794
-01:07:03,772 --> 01:07:05,773
-¡Padre!
-¡Padre, estoy en casa!
+01:05:20,381 --> 01:05:21,678
+¡Mamá!
 
 795
-01:07:05,940 --> 01:07:09,568
-- ¡Ya volvimos, Sr. Geppetto!
-- ¡Soy yo, Pinocchio!
+01:05:42,303 --> 01:05:45,136
+- ¿Qué pasó?
+- Ojalá no sea demasiado tarde.
 
 796
-01:07:09,736 --> 01:07:14,322
-- ¡Regresé para quedarme!
-- Aquí, Sr. Geppetto, al fin en casa.
+01:05:46,207 --> 01:05:48,266
+¿Qué voy a hacer?
 
 797
-01:07:14,489 --> 01:07:17,658
-Hey, tal vez está dormido.
+01:05:54,448 --> 01:05:56,279
+- ¡Ayúdame, Pepe Grillo!
+- ¡Deprisa, Pinocho!
 
 798
-01:07:19,659 --> 01:07:22,076
-¡Padre!
-¡Padre, soy yo!
+01:05:56,384 --> 01:05:58,818
+Los niños. Todos.
+¡Se convirtieron en asnos!
 
 799
-01:07:23,912 --> 01:07:27,040
-Pinoc, ven aquí.
+01:05:58,920 --> 01:06:00,888
+¡Tú también!
 
 800
-01:07:27,206 --> 01:07:30,167
-Mira, no está aquí.
+01:06:01,122 --> 01:06:03,750
+¡Vámonos!
+¡Antes de que empeores!
 
 801
-01:07:30,333 --> 01:07:33,334
-Se ha ido.
+01:06:05,826 --> 01:06:08,386
+Por aquí, Pinocho.
+¡Es la única salida!
 
 802
-01:07:33,502 --> 01:07:35,671
-Sí, y Figaro.
+01:06:16,737 --> 01:06:18,398
+¡Date prisa!
 
 803
-01:07:35,838 --> 01:07:38,130
-Y Cleo también.
+01:06:18,472 --> 01:06:20,372
+¡Antes de que nos vean!
 
 804
-01:07:42,716 --> 01:07:45,385
-Quizás algo horrible
-le pasó.
+01:06:22,076 --> 01:06:24,135
+Tienes que saltar.
 
 805
-01:07:45,552 --> 01:07:49,013
-No te preocupes, hijo,
-probablemente no se fue lejos.
+01:06:47,835 --> 01:06:49,598
+¿Estás bien?
 
 806
-01:07:56,810 --> 01:07:59,271
-Hey.
+01:06:49,670 --> 01:06:51,638
+Seguro.
 
 807
-01:07:59,437 --> 01:08:01,273
+01:06:51,706 --> 01:06:53,799
+Nunca pensé que lo lográramos.
+
+808
+01:06:54,675 --> 01:06:57,542
+Qué bien se siente volver a estar...
+
+809
+01:06:57,645 --> 01:06:59,704
+en tierra firme.
+
+810
+01:07:00,648 --> 01:07:02,707
+Anda. Vamos a casa.
+
+811
+01:07:04,151 --> 01:07:06,346
+¡Papá! ¡Papá! ¡Ya llegué!
+
+812
+01:07:06,454 --> 01:07:10,185
+- ¡Ya llegamos, señor Gepetto!
+- Soy yo. Pinocho.
+
+813
+01:07:10,291 --> 01:07:13,283
+- ¡Vine a quedarme!
+- Aquí está, señor Gepetto.
+
+814
+01:07:13,361 --> 01:07:14,851
+¡Al fin, en casa!
+
+815
+01:07:16,063 --> 01:07:18,054
+Tal vez esté dormido.
+
+816
+01:07:20,167 --> 01:07:22,727
+¡Papá! ¡Papá! ¡Soy yo!
+
+817
+01:07:24,372 --> 01:07:26,465
+¡Pinocho! Ven acá.
+
+818
+01:07:27,875 --> 01:07:29,968
+¡Mira! No está ahí.
+
+819
+01:07:30,845 --> 01:07:31,834
+Él...
+
+820
+01:07:31,912 --> 01:07:33,675
+Se fue.
+
+821
+01:07:33,748 --> 01:07:35,978
+Sí. Y Fígaro.
+
+822
+01:07:36,050 --> 01:07:38,143
+Y también... Cleo.
+
+823
+01:07:43,157 --> 01:07:46,058
+Pude haberle pasado algo muy malo.
+
+824
+01:07:46,160 --> 01:07:49,323
+No te aflijas, hijo.
+No debe estar muy lejos.
+
+825
+01:07:59,940 --> 01:08:01,771
 - Es un mensaje.
 - ¿Qué dice?
 
-808
-01:08:01,439 --> 01:08:03,816
-- Es sobre tu padre.
+826
+01:08:01,876 --> 01:08:04,276
+- Habla de tu padre.
 - ¿Dónde está?
 
-809
-01:08:03,983 --> 01:08:06,026
-Aquí dice que...
-
-810
-01:08:06,192 --> 01:08:09,527
-...te anduvo buscando, y...
-que fue tragado por una ballena.
-
-811
-01:08:09,695 --> 01:08:14,573
-- ¿Tragado por una ballena?
-- Sí. Una... ¿una ballena?
-
-812
-01:08:14,739 --> 01:08:17,075
-- Una ballena llamada Monstro.
-- Oh, él está...
-
-813
-01:08:17,241 --> 01:08:19,285
-Pero, espera. Está vivo.
-
-814
-01:08:19,453 --> 01:08:21,163
-¿Vivo? ¿Dónde?
-
-815
-01:08:21,328 --> 01:08:23,997
-Dentro de la ballena,
-en el fondo del mar.
-
-816
-01:08:24,122 --> 01:08:27,666
-- ¿Fondo del mar?
-- Sí. ¡Hey! ¿Adónde vas?
-
-817
-01:08:27,834 --> 01:08:30,002
-Voy a buscarlo.
-
-818
-01:08:30,168 --> 01:08:32,170
-Pero, Pinoc, ¿estás loco?
-
-819
-01:08:32,336 --> 01:08:34,630
-¿No te das cuenta...
-que está en una ballena?
-
-820
-01:08:34,797 --> 01:08:36,964
-Tengo que llegar a él.
-
-821
-01:08:37,131 --> 01:08:39,384
-¡Hey, Pinoc, espera!
-
-822
-01:08:39,549 --> 01:08:41,718
-Escucha, hijo.
-
-823
-01:08:43,844 --> 01:08:45,887
-Pero este Monstro,
-he oído de él.
-
-824
-01:08:46,055 --> 01:08:47,889
-Es una ballena de ballena.
-
-825
-01:08:48,055 --> 01:08:50,641
-Se traga los barcos
-enteros vivos.
-
-826
-01:08:50,808 --> 01:08:54,102
-Átalos bien y fuerte.
-Y además, es peligroso.
-
 827
-01:08:54,268 --> 01:08:56,145
-- Yo...
-- Adiós, Pepe.
+01:08:04,378 --> 01:08:07,870
+Pues, aquí dice
+que salió a buscarte
 
 828
-01:08:56,311 --> 01:09:00,107
-¿Adiós? Podré ser una carnada viva
-aquí abajo, pero voy contigo.
+01:08:07,948 --> 01:08:10,075
+y que se lo tragó una ballena.
 
 829
-01:09:00,273 --> 01:09:03,484
-Bien, vamos.
+01:08:10,184 --> 01:08:13,620
+- ¿Se lo tragó una ballena?
+- Sí.
 
 830
-01:09:03,650 --> 01:09:07,194
-¡Mira hacia abajo!
+01:08:13,721 --> 01:08:15,245
+¿Una ballena?
 
 831
-01:09:14,242 --> 01:09:17,411
-Abran paso ahí abajo.
+01:08:15,356 --> 01:08:17,847
+¡Una ballena llamada Monstruo!
 
 832
-01:09:25,125 --> 01:09:28,794
-Qué gran lugar.
+01:08:17,925 --> 01:08:20,951
+- ¡Espera! Está vivo.
+- ¿Vivo? ¿Dónde?
 
 833
-01:09:40,386 --> 01:09:42,888
-- Vamos, Pepe.
-- Está bien.
+01:08:21,062 --> 01:08:24,259
+Pues, dentro de la ballena.
+En el fondo del mar.
 
 834
-01:09:43,054 --> 01:09:45,639
-Tan pronto como tome
-un poco de lastre.
+01:08:24,365 --> 01:08:27,596
+- ¿En el fondo del mar?
+- Sí. Y...
 
 835
-01:09:45,805 --> 01:09:48,183
-A un lado, hermana.
+01:08:27,702 --> 01:08:30,398
+- ¿Adónde vas?
+- Voy a buscarlo.
 
 836
-01:09:52,811 --> 01:09:55,228
-Bueno, adiós.
+01:08:30,471 --> 01:08:32,871
+Pero Pinocho, ¿estás loco?
 
 837
-01:09:59,774 --> 01:10:02,359
-Lo puse en el extremo equivocado.
+01:08:32,940 --> 01:08:35,204
+¿No ves que está
+dentro de una ballena?
 
 838
-01:10:08,155 --> 01:10:12,034
-Nada mas privado
-que un pez dorado.
+01:08:35,276 --> 01:08:37,039
+Tengo que ir por él.
 
 839
-01:10:12,201 --> 01:10:14,535
-Oh, frío.
+01:08:37,678 --> 01:08:40,078
+¡Oye, Pinocho! ¡Espera!
 
 840
-01:10:18,788 --> 01:10:20,957
-¡Padre!
-
-841
-01:10:31,171 --> 01:10:33,298
-¡Padre!
-
-842
-01:10:39,303 --> 01:10:42,679
-¡Hey, Pinoc, espérame!
-
-843
-01:10:42,847 --> 01:10:44,974
-¡Padre!
-
-844
-01:10:45,138 --> 01:10:49,143
-¡Padre...!
-Él no es mi padre.
-
-845
-01:10:49,308 --> 01:10:51,978
-¡Sr. Geppetto!
-
-846
-01:10:53,271 --> 01:10:55,941
-Hey, qué pas...
-
-847
-01:10:56,106 --> 01:10:58,233
-¡Suéltalo!
-
-848
-01:10:58,400 --> 01:11:01,194
-Sal de aquí, tú pequeño...chorro.
-
-849
-01:11:01,360 --> 01:11:04,196
-¿Qué pasa? No puede un compañero...
-Yo sólo estaba...
-
-850
-01:11:05,613 --> 01:11:08,282
-Sólo estábamos
-buscando a Monstro.
-
-851
-01:11:09,949 --> 01:11:12,536
-Los tengo.
-
-852
-01:11:12,702 --> 01:11:14,868
-¡Padre!
-
-853
-01:11:23,626 --> 01:11:25,962
-¡Padre!
-
-854
-01:11:28,047 --> 01:11:30,215
-Oh, hola.
-
-855
-01:11:35,758 --> 01:11:39,928
-¿Pueden decirme dónde
-puedo encontrar a Monstro?
-
-856
-01:11:40,095 --> 01:11:43,641
-Diablos, están asustados.
-
-857
-01:11:46,976 --> 01:11:49,310
-Discúlpeme, perla...
-
-858
-01:11:51,230 --> 01:11:54,066
-...¿es usted conocida de
-la ballena Monstro?
-
-859
-01:12:00,777 --> 01:12:03,154
-Oh, mantenlo ahí.
-
-860
-01:12:10,535 --> 01:12:13,327
-¡Padre!
-
-861
-01:12:17,455 --> 01:12:19,459
-Hazte a un lado, hijo.
-
-862
-01:12:19,623 --> 01:12:22,624
-Vamos, muchachos, paren con eso.
-Paren con eso.
-
-863
-01:12:26,505 --> 01:12:28,673
-Hey, qué pas...
-
-864
-01:12:28,840 --> 01:12:30,633
-Espera, espera,
-no empujes.
-
-865
-01:12:30,800 --> 01:12:34,343
-Basta. No se amontonen.
-Tómenlo con calma.
-
-866
-01:12:42,100 --> 01:12:44,642
-¡Tranquilo!
-
-867
-01:12:44,810 --> 01:12:48,188
-Firme allí, Nellie.
-Vamos, Pinoc, pregúntales.
-
-868
-01:12:49,522 --> 01:12:52,608
-¿Podría alguien de ustedes decirme
-donde encontrar a Monstro?
-
-869
-01:12:52,775 --> 01:12:55,777
-¡Oh, chico!
-¡Hey!
-
-870
-01:12:58,151 --> 01:13:00,194
-Oh, santo Dios.
-
-871
-01:13:02,236 --> 01:13:04,406
-¡Padre!
-
-872
-01:13:05,783 --> 01:13:09,533
-- ¡Padre!
-- ¡Sr. Geppetto!
-
-873
-01:13:50,272 --> 01:13:53,692
-Ni un bocado por días.
-
-874
-01:13:58,779 --> 01:14:02,449
-No podremos resistir
-por mucho más.
-
-875
-01:14:11,371 --> 01:14:13,082
-Nunca pensé...
-
-876
-01:14:13,247 --> 01:14:17,043
-...que ésto terminaría
-así, Figaro.
-
-877
-01:14:18,210 --> 01:14:21,421
-Hambrientos hasta morir...
-
-878
-01:14:21,586 --> 01:14:24,797
-...en la panza de una ballena.
-
-879
-01:14:24,965 --> 01:14:28,842
-Mi pobre pequeño Pinocchio.
-
-880
-01:14:30,135 --> 01:14:33,806
-Él era un buen chico.
-
-881
-01:14:33,969 --> 01:14:36,891
-No tenemos esperanzas, Figaro.
-
-882
-01:14:41,560 --> 01:14:44,561
-No queda ni un pez.
-
-883
-01:14:44,729 --> 01:14:47,563
-Si este monstruo no
-despierta pronto, me...
-
-884
-01:14:47,730 --> 01:14:49,983
-Me temo que...
-
-885
-01:14:50,151 --> 01:14:51,733
-...estamos rendidos.
-
-886
-01:15:12,249 --> 01:15:14,749
-¡Ahí vienen!
-
-887
-01:15:14,917 --> 01:15:17,836
-¡Atún!
-¡Peces de atún!
-
-888
-01:15:21,256 --> 01:15:25,048
-¡Comida! ¡Comeremos!
-¡Aquí hay uno grande!
-
-889
-01:15:27,928 --> 01:15:31,055
-¡Mantenlos adentro, Figaro!
-
-890
-01:15:32,680 --> 01:15:36,142
-¡Hey! ¡Esperen un minuto!
-¿Han visto...?
-
-891
-01:15:38,435 --> 01:15:40,270
-¡Monstro!
-
-892
-01:15:42,688 --> 01:15:45,357
-¡Debemos salir de aquí!
-
-893
-01:15:52,360 --> 01:15:55,404
-Vamos, Pinoc.
-No me esperes.
-
-894
-01:15:56,781 --> 01:15:58,657
-¡Nunca vi tantos!
-
-895
-01:16:07,706 --> 01:16:11,418
-¡Aquí hay otro!
-¡Suficiento para semanas!
-
-896
-01:16:11,585 --> 01:16:13,418
-Aquí hay uno grande.
-
-897
-01:16:21,464 --> 01:16:23,717
-¡Mantenlos adentro, Figaro!
-
-898
-01:16:57,408 --> 01:17:00,869
-¡Hey, bocón, ábrela!
-¡Tengo que entrar!
-
-899
-01:17:01,160 --> 01:17:03,872
-Se parece al último de ellos.
-
-900
-01:17:07,917 --> 01:17:12,086
-Aquí hay uno grande.
-Sólo quedan unos pocos.
-
-901
-01:17:12,253 --> 01:17:14,628
-¡Debemos trabajar rápido!
-
-902
-01:17:14,796 --> 01:17:17,090
-- ¡Hey!
-- Aquí hay otro.
-
-903
-01:17:17,257 --> 01:17:19,550
-¡Hey, padre!
-
-904
-01:17:19,714 --> 01:17:22,677
-- ¡Padre!
-- ¡No molestes ahora, Pinocchio!
-
-905
-01:17:23,926 --> 01:17:26,345
-- ¡Pinocchio!
-- ¡Padre!
-
-906
-01:17:26,513 --> 01:17:29,431
-¡Pinocchio, hijo mío!
-
-907
-01:17:29,599 --> 01:17:33,600
-¡Hey, padre, aquí estoy!
-
-908
-01:17:33,768 --> 01:17:37,187
-¡Oh, sí!
-¡Pinocchio, mi muchacho!
-
-909
-01:17:37,354 --> 01:17:41,357
-- ¡Estoy tan feliz de verte!
-- ¡Yo también, padre!
-
-910
-01:17:41,524 --> 01:17:45,568
-- ¡Ups!
-- ¡Figaro! Oh, Figaro.
-
-911
-01:17:45,735 --> 01:17:48,570
-¡Cleo!
-¡Oh, Cleo!
-
-912
-01:17:48,737 --> 01:17:51,279
-- Estás aquí también.
-- ¡Sí!
-
-913
-01:17:51,446 --> 01:17:55,076
-¡Estamos todos juntos de nuevo!
-
-914
-01:17:55,240 --> 01:17:58,078
-- Oh, estás hecho sopa.
-- Sí, padre.
-
-915
-01:17:58,245 --> 01:18:00,246
-No debes resfriarte.
-
-916
-01:18:00,411 --> 01:18:04,040
-- ¡Pero vine a salvarte!
-- Sabes que no deberías haber venido.
-
-917
-01:18:04,207 --> 01:18:07,459
-- ¡Pero, padre!
-- Pero estoy tan contento de verte.
-
-918
-01:18:07,626 --> 01:18:10,918
-Déjame tomar tu sombrero.
-
-919
-01:18:11,086 --> 01:18:14,255
-¡Pinocchio!
-
-920
-01:18:14,423 --> 01:18:16,633
-¿Qué pasa?
-
-921
-01:18:16,799 --> 01:18:20,052
-- ¡Esas orejas!
-- ¿Eh? ¿Orejas?
-
-922
-01:18:20,216 --> 01:18:22,136
-Oh, estas.
-
-923
-01:18:22,301 --> 01:18:24,637
-No es nada.
-
-924
-01:18:24,804 --> 01:18:26,638
-Tengo una cola también.
-
-925
-01:18:29,807 --> 01:18:32,101
-¡Pinocchio!
-
-926
-01:18:32,269 --> 01:18:34,562
-¿Qué te ha pasado?
-
-927
-01:18:34,729 --> 01:18:38,230
-Bueno, yo... yo...
-
-928
-01:18:38,398 --> 01:18:40,566
-Bueno, no importa ahora.
-
-929
-01:18:40,733 --> 01:18:42,984
-El viejo Geppetto tiene
-a su pequeño cabezahueca.
-
-930
-01:18:43,149 --> 01:18:45,611
-Y nada más importa.
-
-931
-01:18:45,779 --> 01:18:48,613
-¡Tengo que entrar!
-¡Mi amigo está ahí adentro!
-
-932
-01:18:48,780 --> 01:18:50,991
-¡Vamos, grandulón!
-Te digo que abras...
-
-933
-01:18:51,158 --> 01:18:52,992
-¡Hey!
-¡Ya basta!
-
-934
-01:18:56,453 --> 01:18:59,330
-¡Lárguense, buitres!
-
-935
-01:19:00,996 --> 01:19:05,501
-¿Salir? Oh, no, no, hijo.
-He tratado de todas las maneras.
-
-936
-01:19:05,668 --> 01:19:08,334
-Hasta construí una balsa.
-
-937
-01:19:08,502 --> 01:19:11,336
-¿Una balsa! ¡Eso es!
-
-938
-01:19:11,504 --> 01:19:14,299
-Tomaremos la balsa, y cuando
-la ballena abra su boca...
-
-939
-01:19:14,464 --> 01:19:16,674
-No, no, no, no.
+01:08:40,147 --> 01:08:42,240
 Escúchame, hijo.
 
+841
+01:08:44,452 --> 01:08:48,388
+Me han contado de ese Monstruo.
+Es toda una ballena.
+
+842
+01:08:48,456 --> 01:08:51,323
+¡Se traga barcos enteros!
+
+843
+01:08:51,425 --> 01:08:55,225
+Ata bien el nudo.
+Además, es peligroso. Cielos, yo...
+
+844
+01:08:55,296 --> 01:08:58,265
+- Adiós, Pepe Grillo.
+- ¿Adiós?
+
+845
+01:08:58,332 --> 01:09:00,596
+Aunque acabe sirviendo de carnada,
+iré contigo.
+
+846
+01:09:00,668 --> 01:09:03,228
+Anda. ¡Vamos!
+
+847
+01:09:04,438 --> 01:09:07,100
+¡Cuidado abajo!
+
+848
+01:09:15,015 --> 01:09:17,108
+¡Abran paso!
+
+849
+01:09:25,659 --> 01:09:27,251
+¡Cielos!
+
+850
+01:09:27,328 --> 01:09:29,193
+¡Qué lugar tan grande!
+
+851
+01:09:41,008 --> 01:09:43,374
+- ¡Vamos, Pepe Grillo!
+- De acuerdo.
+
+852
+01:09:43,477 --> 01:09:45,536
+Deja que lleve un lastre.
+
+853
+01:09:46,480 --> 01:09:48,539
+A un lado, nena.
+
+854
+01:09:53,387 --> 01:09:55,480
+Bueno. Adiós.
+
+855
+01:10:01,529 --> 01:10:03,622
+Lo puse al revés.
+
+856
+01:10:09,570 --> 01:10:12,368
+Ninguno tan curioso
+como un carpa dorada.
+
+857
+01:10:14,074 --> 01:10:16,167
+Frío.
+
+858
+01:10:19,346 --> 01:10:21,405
+¡Papá!
+
+859
+01:10:39,867 --> 01:10:42,529
+¡Oye, Pinocho! ¡Espérame!
+
+860
+01:10:43,370 --> 01:10:45,565
+¡Papá!
+
+861
+01:10:48,509 --> 01:10:50,272
+Pero si él no es mi papá.
+
+862
+01:10:50,377 --> 01:10:52,345
+¡Señor Gepetto!
+
+863
+01:10:54,281 --> 01:10:56,374
+¿Qué rayos...?
+
+864
+01:10:57,051 --> 01:10:58,780
+Vete. ¡Suéltame!
+
+865
+01:10:58,886 --> 01:11:00,547
+Vete, pequeño...
+
+866
+01:11:00,654 --> 01:11:02,053
+bicho.
+
+867
+01:11:02,089 --> 01:11:05,354
+¿Qué pasa? ¿Acaso
+no puede uno...? Sólo estaba...
+
+868
+01:11:06,227 --> 01:11:08,422
+Sólo estábamos buscando a Monstruo.
+
+869
+01:11:10,631 --> 01:11:12,724
+Con eso, tuvo.
+
+870
+01:11:13,234 --> 01:11:15,293
+¡Papá!
+
+871
+01:11:29,583 --> 01:11:31,642
+Hola.
+
+872
+01:11:36,257 --> 01:11:39,317
+¿Pueden decirme
+dónde encontrar a Monstruo?
+
+873
+01:11:40,895 --> 01:11:42,089
+¡Ay!
+
+874
+01:11:42,162 --> 01:11:44,062
+Tienen miedo.
+
+875
+01:11:47,735 --> 01:11:49,794
+Disculpe, señorita perla.
+
+876
+01:11:51,839 --> 01:11:54,637
+¿Conoce usted a Monstruo, la ballena?
+
+877
+01:12:01,315 --> 01:12:03,408
+No te vayas.
+
+878
+01:12:12,760 --> 01:12:14,819
+¡Papá!
+
+879
+01:12:18,032 --> 01:12:20,023
+A un lado, hijo.
+
+880
+01:12:20,134 --> 01:12:21,965
+Vamos, circulen.
+
+881
+01:12:22,036 --> 01:12:24,129
+Circulen ya.
+
+882
+01:12:27,808 --> 01:12:29,867
+¿Qué pasa?
+
+883
+01:12:30,511 --> 01:12:34,208
+No me empujen, señores.
+No empujen.
+
+884
+01:12:42,656 --> 01:12:45,022
+¡Quieto! ¡Quieto!
+
+885
+01:12:45,125 --> 01:12:46,820
+Quieto, muchacho.
+
+886
+01:12:46,894 --> 01:12:49,829
+Adelante, Pinocho.
+Pregúntales.
+
+887
+01:12:49,897 --> 01:12:52,866
+¿Alguno sabe dónde vive Monstruo?
+
+888
+01:12:53,467 --> 01:12:55,458
+¡Despacio!
+
+889
+01:12:58,806 --> 01:13:00,671
+Muchas gracias.
+
+890
+01:13:03,010 --> 01:13:04,841
+¡Papá!
+
+891
+01:13:08,215 --> 01:13:10,308
+¡Señor Gepetto!
+
+892
+01:13:50,858 --> 01:13:53,452
+¡Hace días que no probamos bocado!
+
+893
+01:13:59,800 --> 01:14:02,735
+No podremos resistir mucho más.
+
+894
+01:14:11,612 --> 01:14:13,944
+Nunca pensé
+
+895
+01:14:14,048 --> 01:14:16,744
+que acabaría así, Fígaro.
+
+896
+01:14:18,452 --> 01:14:20,977
+Morir de hambre...
+
+897
+01:14:22,056 --> 01:14:24,115
+...dentro de una ballena.
+
+898
+01:14:25,592 --> 01:14:27,651
+¡Mi pobrecito Pinocho!
+
+899
+01:14:30,497 --> 01:14:32,897
+Era tan buen niño.
+
+900
+01:14:34,435 --> 01:14:36,767
+Es inútil, Fígaro.
+
+901
+01:14:42,109 --> 01:14:44,168
+¡No queda un solo pez!
+
+902
+01:14:44,945 --> 01:14:48,142
+Si el monstruo no despierta pronto,
+
+903
+01:14:48,248 --> 01:14:50,341
+mucho temo que...
+
+904
+01:14:50,451 --> 01:14:52,510
+será nuestro fin.
+
+905
+01:15:12,639 --> 01:15:15,039
+¡Aquí vienen!
+
+906
+01:15:15,142 --> 01:15:17,702
+¡Atunes! ¡Atunes!
+
+907
+01:15:21,515 --> 01:15:24,814
+¡Comida! ¡Vamos a comer!
+
+908
+01:15:24,885 --> 01:15:26,978
+Aquí hay uno grande.
+
+909
+01:15:28,488 --> 01:15:30,718
+¡Que no se escapen, Fígaro!
+
+910
+01:15:33,060 --> 01:15:35,392
+¡Esperen! ¡Esperen un momento!
+
+911
+01:15:35,495 --> 01:15:37,554
+¿Han visto a...?
+
+912
+01:15:38,732 --> 01:15:40,825
+¡Monstruo!
+
+913
+01:15:43,136 --> 01:15:45,627
+¡Tenemos que salir de aquí!
+
+914
+01:15:52,980 --> 01:15:55,210
+¡Vamos, Pinocho! ¡No me esperes!
+
+915
+01:15:57,351 --> 01:15:59,410
+¡Nunca vi tantos juntos!
+
+916
+01:16:08,195 --> 01:16:11,858
+Ahí va otro más.
+¡Hay suficiente para un mes!
+
+917
+01:16:11,932 --> 01:16:14,025
+¡Aquí va uno grande!
+
+918
+01:16:22,075 --> 01:16:24,100
+¡Guárdalos bien, Fígaro!
+
+919
+01:16:57,811 --> 01:17:01,247
+¡Oye, bola de grasa, abre la boca!
+¡Tengo que entrar ahí!
+
+920
+01:17:01,748 --> 01:17:03,409
+Parece que se acaban.
+
+921
+01:17:08,555 --> 01:17:11,718
+Otro grande.
+¡Quedan pocos!
+
+922
+01:17:12,626 --> 01:17:14,992
+¡Debemos trabajar rápido!
+
+923
+01:17:15,996 --> 01:17:17,657
+¡Aquí va otro!
+
+924
+01:17:17,764 --> 01:17:19,925
+¡Papá!
+
+925
+01:17:21,234 --> 01:17:24,226
+Ahora no tengo tiempo, Pinocho.
+
+926
+01:17:24,304 --> 01:17:27,330
+- ¡Pinocho!
+- ¡Papá!
+
+927
+01:17:27,441 --> 01:17:29,909
+¡Pinocho! ¡Hijo mío!
+
+928
+01:17:29,976 --> 01:17:33,070
+¡Aquí estoy, papá!
+
+929
+01:17:34,314 --> 01:17:37,681
+¡Sí! ¡Pinocho, mi niño!
+
+930
+01:17:37,784 --> 01:17:41,242
+- ¡Qué gusto me da verte!
+- También a mí, papá.
+
+931
+01:17:42,589 --> 01:17:43,817
+¡Fígaro!
+
+932
+01:17:46,193 --> 01:17:47,592
+¡Cleo!
+
+933
+01:17:47,661 --> 01:17:50,687
+¡Oh, Cleo! ¡Tú también estás aquí!
+
+934
+01:17:50,797 --> 01:17:54,096
+Sí. Todos juntos otra vez.
+
+935
+01:17:55,769 --> 01:17:58,863
+- Estás empapado.
+- Sí, papá.
+
+936
+01:17:58,972 --> 01:18:01,839
+- Pero puedes resfriarte.
+- Vine a salvarte.
+
+937
+01:18:01,942 --> 01:18:05,309
+- No debiste venir.
+- Pero papá.
+
+938
+01:18:05,378 --> 01:18:08,108
+Pero me alegra mucho verte.
+
+939
+01:18:08,181 --> 01:18:10,342
+Te quitaré tu sombrero.
+
 940
-01:19:16,841 --> 01:19:20,595
-Ella sólo abre su boca
-cuando está comiendo.
+01:18:15,355 --> 01:18:18,847
+- ¿Qué pasa?
+- Esas orejas.
 
 941
-01:19:20,760 --> 01:19:22,928
-Entonces entra todo junto.
+01:18:19,559 --> 01:18:20,651
+¿Orejas?
 
 942
-01:19:23,096 --> 01:19:24,929
-Y nada sale para afuera.
+01:18:20,727 --> 01:18:22,820
+Ah, éstas.
 
 943
-01:19:25,097 --> 01:19:27,265
-- Oh.
-- Estamos perdidos, Pinocchio.
+01:18:23,997 --> 01:18:26,898
+Ah, no es nada.
+También tengo cola.
 
 944
-01:19:27,433 --> 01:19:31,184
-Ven. Hagamos una linda fogata
-y cocinemos algo de pescado.
+01:18:32,873 --> 01:18:35,000
+¿Qué te pasó?
 
 945
-01:19:31,352 --> 01:19:35,189
-- ¡Una fogata!
-- Sí, y comeremos todos juntos otra vez.
+01:18:35,075 --> 01:18:38,238
+Es que yo...
 
 946
-01:19:35,353 --> 01:19:37,774
-¡Una gran fogata!
-Con mucho humo.
+01:18:38,345 --> 01:18:40,905
+- Yo...
+- No importa.
 
 947
-01:19:37,942 --> 01:19:39,775
-¿Humo? Oh, sí, claro.
+01:18:41,014 --> 01:18:43,414
+Gepetto ha recuperado a su pequeño.
 
 948
-01:19:39,943 --> 01:19:41,692
-Un pescado ahumado
-va a quedar muy rico.
+01:18:43,517 --> 01:18:45,985
+Y con eso basta.
 
 949
-01:19:41,860 --> 01:19:45,363
-- Rápido, algo de madera.
-- ¡Pinocchio, la silla no!
+01:18:47,087 --> 01:18:48,918
+¡Tengo que entrar!
+¡Mi amigo está adentro!
 
 950
-01:19:45,530 --> 01:19:47,821
-Rápido, padre.
-¡Más madera!
+01:18:49,022 --> 01:18:51,684
+¡Vamos, gigantona!
+¡Que abras la boca!
 
 951
-01:19:47,989 --> 01:19:50,031
-¿Dónde nos sentaremos si...?
+01:18:52,893 --> 01:18:54,986
+¡No molesten!
 
 952
-01:19:50,199 --> 01:19:53,368
-No lo necesitaremos.
-¡Vamos a salir!
+01:18:56,930 --> 01:18:59,398
+¡Váyanse, buitres!
 
 953
-01:19:53,536 --> 01:19:55,662
-¿Salir?
-¿Pero cómo?
+01:19:01,434 --> 01:19:05,928
+¿Salir? No. No. No.
+Intenté por todos los medios.
 
 954
-01:19:55,829 --> 01:19:59,874
-- ¡La haremos estornudar!
-- ¿Hacerla estornudar?
+01:19:06,039 --> 01:19:08,701
+Incluso, construí una balsa.
 
 955
-01:20:00,040 --> 01:20:04,210
-Oh, eso la hará enojar.
+01:19:08,775 --> 01:19:11,767
+¿Una balsa? ¡Eso es!
 
 956
-01:20:25,348 --> 01:20:27,725
-¡Bueno, es cuestion de tiempo!
+01:19:11,878 --> 01:19:14,711
+Subimos a la balsa
+y cuando abra la boca...
 
 957
-01:20:32,813 --> 01:20:36,857
-- !No va a funcionar!
-- ¡Rápido, padre! ¡Sube abordo!
+01:19:14,781 --> 01:19:17,215
+No. No. No. No.
+Escucha, hijo.
 
 958
-01:20:37,025 --> 01:20:40,820
-- ¡Nunca pasaremos por esos dientes!
-- ¡Si lo haremos!
+01:19:17,284 --> 01:19:21,186
+Sólo abre la boca cuando come.
 
 959
-01:20:40,985 --> 01:20:44,823
-¡Hey! ¿Adónde te vas?
-¡Espérame!
+01:19:21,254 --> 01:19:25,850
+Es cuando todo entra.
+Nada sale.
 
 960
-01:20:44,990 --> 01:20:47,783
-¡Sosténganse!
-¡Aquí vamos!
+01:19:25,926 --> 01:19:27,951
+Es inútil, Pinocho.
 
 961
-01:20:55,829 --> 01:20:57,290
-Salud.
+01:19:28,061 --> 01:19:31,622
+Ven. Preparemos un buen fuego
+para cocinar el pescado.
 
 962
-01:20:59,250 --> 01:21:02,833
-- ¡Estamos volviendo!
-- ¡No, lo lograremos! ¡Más rápido!
+01:19:31,731 --> 01:19:33,392
+¡Un fuego! ¡Eso es!
 
 963
-01:21:05,336 --> 01:21:07,881
-¡No tiene sentido!
-¡Estamos perdidos!
+01:19:33,466 --> 01:19:35,798
+Sí. Para comer juntos otra vez.
 
 964
-01:21:15,593 --> 01:21:17,678
-¡Lo logramos!
+01:19:35,902 --> 01:19:38,530
+¡Mucho fuego! ¡Y mucho humo!
 
 965
-01:21:24,100 --> 01:21:26,478
-¡Mira!
-¡Ahora se enojó!
+01:19:38,605 --> 01:19:42,234
+¿Humo? Sí. Claro.
+El pescado ahumado sabrá bien.
 
 966
-01:21:32,273 --> 01:21:34,441
-¡Te dije que la enfureceríamos!
+01:19:42,309 --> 01:19:46,040
+- Pronto. ¡Leña!
+- ¡La silla no, Pinocho!
 
 967
-01:21:44,614 --> 01:21:46,740
-- ¡Se fue!
-- ¿Adónde se fue?
+01:19:46,112 --> 01:19:48,637
+Rápido, papá. ¡Más leña!
 
 968
-01:21:46,908 --> 01:21:49,577
-¡Cuidado!
+01:19:48,748 --> 01:19:51,740
+- ¿Y en qué nos sentaremos si...?
+- No la necesitaremos.
 
 969
-01:21:49,699 --> 01:21:52,078
-¡Resistan!
+01:19:51,818 --> 01:19:54,082
+¡Vamos a salir!
 
 970
-01:22:05,964 --> 01:22:08,463
-Ahí viene de nuevo.
-¡Rápido!
+01:19:54,154 --> 01:19:56,122
+¿A salir? Pero ¿cómo?
 
 971
-01:22:08,630 --> 01:22:11,426
-¡Trata de matarnos!
-¡Rema, hijo!
+01:19:56,223 --> 01:20:00,557
+- La haremos estornudar.
+- ¿Estornudar?
 
 972
-01:22:20,934 --> 01:22:22,434
-¡Para atrás!
+01:20:01,828 --> 01:20:04,319
+¡Pero eso la enfurecerá!
 
 973
-01:22:24,226 --> 01:22:26,394
-¡Cuidado!
-¡Salta!
+01:20:25,785 --> 01:20:27,844
+¡Ya era hora!
 
 974
-01:22:33,109 --> 01:22:35,902
-¡Padre! ¡Padre!
+01:20:33,460 --> 01:20:37,624
+- ¡No funcionará!
+- Deprisa, papá. ¡Sube!
 
 975
-01:22:36,069 --> 01:22:38,488
-¡Oh, padre!
+01:20:37,697 --> 01:20:41,292
+- ¡Nunca saldremos de aquí!
+- ¡Te digo que sí!
 
 976
-01:22:38,655 --> 01:22:41,615
-Pinocchio, nada hacia la orilla.
-Nada hacia la orilla.
+01:20:41,368 --> 01:20:45,202
+¡Oigan! ¿Adónde van?
+¡Espérenme!
 
 977
-01:22:45,325 --> 01:22:46,994
-¡Resiste, padre!
+01:20:45,305 --> 01:20:47,432
+¡Resiste! ¡Aquí vamos!
 
 978
-01:22:47,158 --> 01:22:49,996
-Sál... vate.
+01:20:56,549 --> 01:20:58,517
+Salud.
 
 979
-01:23:58,461 --> 01:24:00,547
-Pinocchio...
+01:20:59,819 --> 01:21:03,277
+- ¡Estamos regresando!
+- ¡No! ¡Iremos más rápido!
 
 980
-01:24:00,714 --> 01:24:02,757
-...sálvate.
+01:21:05,558 --> 01:21:08,322
+¡No tiene caso! ¡Estamos perdidos!
 
 981
-01:24:03,966 --> 01:24:05,843
-No te preocupes por mí, hijo.
+01:21:16,303 --> 01:21:18,168
+¡Lo logramos!
 
 982
-01:24:07,676 --> 01:24:11,388
-Sálvate tú, Pinocchio.
+01:21:24,811 --> 01:21:26,904
+¡Mira! ¡Se enojó!
 
 983
-01:24:13,473 --> 01:24:15,764
-¿Pinocchio?
+01:21:33,019 --> 01:21:34,919
+¡Te dije que se enfurecería!
 
 984
-01:24:17,226 --> 01:24:19,059
-¡Oh, Pinocchio!
+01:21:45,031 --> 01:21:47,226
+- ¡Se fue!
+- ¿Dónde está?
 
 985
-01:24:20,268 --> 01:24:22,102
-Pinocchi...
+01:21:47,334 --> 01:21:49,393
+¡Cuidado!
 
 986
-01:24:33,987 --> 01:24:35,821
-Mi muchacho.
+01:21:50,337 --> 01:21:52,396
+¡Sujétate!
 
 987
-01:24:39,991 --> 01:24:43,244
-Mi valiente muchachito.
+01:22:06,553 --> 01:22:09,044
+¡Aquí viene! ¡Deprisa!
 
 988
-01:24:51,834 --> 01:24:57,088
-Prueba que eres audaz,
-sincero y generoso...
+01:22:09,122 --> 01:22:11,920
+¡Intenta matarnos! ¡Rema, hijo!
 
 989
-01:24:57,255 --> 01:25:01,589
-...y algún día serás
-un niño de verdad.
+01:22:21,434 --> 01:22:23,527
+¡Regresemos!
 
 990
-01:25:01,757 --> 01:25:04,343
-Despierta, Pinocchio.
+01:22:25,205 --> 01:22:27,696
+¡Cuidado! ¡Salta!
 
 991
-01:25:04,510 --> 01:25:06,386
-Despierta.
+01:22:33,813 --> 01:22:36,611
+¡Papá!
 
 992
-01:25:11,929 --> 01:25:15,350
-¡Padre!
-¿Por qué lloras?
+01:22:39,252 --> 01:22:42,153
+¡Nada, Pinocho!
+¡Hacia la playa!
 
 993
-01:25:15,516 --> 01:25:19,062
-Porque... estás muerto,
-Pinocchio.
+01:22:45,592 --> 01:22:47,492
+¡Resiste, papá!
 
 994
-01:25:19,225 --> 01:25:20,938
-¡No! No lo estoy.
+01:22:47,594 --> 01:22:49,824
+Sálvate... tú.
 
 995
-01:25:21,105 --> 01:25:24,773
-Sí, si lo estás.
-Recuéstate.
+01:24:01,201 --> 01:24:03,226
+Sálvate.
 
 996
-01:25:24,941 --> 01:25:27,276
-Pero, padre, estoy vivo.
-¿Ves?
+01:24:04,370 --> 01:24:06,463
+No te preocupes por mí, hijo.
 
 997
-01:25:27,443 --> 01:25:31,279
-Y... y soy...
+01:24:08,241 --> 01:24:10,232
+Sálvate.
 
 998
-01:25:31,445 --> 01:25:36,030
-...soy de verdad.
-¡Soy un niño de verdad!
+01:24:34,934 --> 01:24:37,027
+¡Hijo mío!
 
 999
-01:25:36,198 --> 01:25:40,660
-¡Estás vivo!
-¡Y eres un niño de verdad!
+01:24:40,373 --> 01:24:44,332
+¡Mi valiente pequeño!
 
 1000
-01:25:40,827 --> 01:25:44,453
-- ¡Sí! ¡Viva!
-- ¡Un niño de verdad!
+01:24:52,619 --> 01:24:57,921
+Demuestra que eres bueno,
+sincero y generoso
 
 1001
-01:25:44,621 --> 01:25:47,332
-¡Esto merece una
-celebración!
+01:24:58,024 --> 01:25:01,084
+y llegarás a ser un niño de verdad.
 
 1002
-01:25:53,793 --> 01:25:56,464
-¡Profesor,
-ponga mucha música!
+01:25:02,362 --> 01:25:04,762
+¡Despierta, Pinocho!
 
 1003
-01:26:10,098 --> 01:26:13,976
-Bien, esto es prácticamente
-donde yo entré.
+01:25:04,964 --> 01:25:07,057
+¡Despierta!
 
 1004
-01:26:30,570 --> 01:26:32,948
-Gracias, mi señora.
+01:25:12,772 --> 01:25:14,569
+¡Papá!
 
 1005
-01:26:33,115 --> 01:26:36,076
-Merecía ser un
-niño de verdad.
+01:25:14,641 --> 01:25:17,940
+- ¿Por qué estás llorando?
+- Porque...
 
 1006
-01:26:36,243 --> 01:26:38,659
-Y de seguro fue
-muy lindo que...
+01:25:18,044 --> 01:25:19,568
+estás muerto.
 
 1007
-01:26:42,913 --> 01:26:44,830
-¡Mira nada más!
+01:25:19,646 --> 01:25:21,637
+¡No! No lo estoy.
 
 1008
-01:26:47,626 --> 01:26:49,502
-Y de oro sólido.
+01:25:21,748 --> 01:25:24,376
+Sí. Sí lo estás.
 
 1009
-01:26:51,503 --> 01:26:54,338
-¡Oh, creo que es elegantísimo!
+01:25:24,450 --> 01:25:28,113
+- Acuéstate...
+- ¡Pero papá! ¡Estoy vivo! ¿Lo ves?
 
 1010
-01:26:58,507 --> 01:27:03,510
-Cuando tu corazón
-está en tu sueño
+01:25:28,221 --> 01:25:29,483
+Y...
 
 1011
-01:27:03,677 --> 01:27:06,180
-Ningún pedido
+01:25:29,589 --> 01:25:31,648
+Y soy...
 
 1012
-01:27:06,347 --> 01:27:11,183
-Es demasiado extremo
+01:25:32,325 --> 01:25:33,917
+Soy...
 
 1013
-01:27:11,351 --> 01:27:14,520
-Cuando deseas
+01:25:33,993 --> 01:25:36,587
+Un niño. ¡Un niño de verdad!
 
 1014
-01:27:14,686 --> 01:27:18,773
-Sobre una estrella
+01:25:36,663 --> 01:25:39,291
+¡Estás vivo!
 
 1015
-01:27:18,939 --> 01:27:22,108
-Tus sueños
+01:25:39,399 --> 01:25:42,766
+¡Y eres un niño de verdad!
 
 1016
-01:27:22,273 --> 01:27:27,112
-Se hacen realidad
+01:25:42,835 --> 01:25:45,099
+¡De carne y hueso!
 
 1017
-01:27:27,280 --> 01:27:33,325
-Verás que tus sueños
-se hacen realidad
+01:25:45,171 --> 01:25:47,935
+¡Esto, hay que celebrarlo!
+
+1018
+01:25:54,247 --> 01:25:57,011
+¡Maestro! ¡Mucha música!
+
+1019
+01:26:10,597 --> 01:26:13,998
+¡Vaya! Prácticamente,
+yo ya no pinto de nada.
+
+1020
+01:26:31,684 --> 01:26:33,652
+Gracias, señorita.
+
+1021
+01:26:33,720 --> 01:26:35,813
+Merecía ser un niño de verdad.
+
+1022
+01:26:36,656 --> 01:26:39,489
+Y fue un gran detalle de su parte...
+
+1023
+01:26:44,197 --> 01:26:45,892
+¡Válgame Dios!
+
+1024
+01:26:48,134 --> 01:26:50,193
+¡Y es de oro puro!
+
+1025
+01:26:52,472 --> 01:26:54,633
+¡Pero qué fabuloso!
+
+1026
+01:26:59,545 --> 01:27:04,380
+<i>Con un rayo de ilusión</i>
+
+1027
+01:27:04,484 --> 01:27:11,413
+<i>Viene a ti la estrella azul</i>
+
+1028
+01:27:12,558 --> 01:27:19,487
+<i>Lo que pidas al soñar</i>
+
+1029
+01:27:19,565 --> 01:27:24,002
+<i>Lo hará</i>
+
+1030
+01:27:25,838 --> 01:27:28,306
+<i>Su luz</i>
