@@ -1262,8 +1262,7 @@ COMING FROM?
 
 293
 00:13:18,241 --> 00:13:22.344
-[ barking  
-"Blue Skiddoo"] 
+ 
 
 294
 00:13:23,275 --> 00:13:26.620
@@ -1644,8 +1643,7 @@ GREAT JOB.
 
 380
 00:16:50,172 --> 00:16:54.000
-[ rhythmic croaking,  
-trumpeting, chattering] 
+ 
 
 381
 00:16:54,034 --> 00:16:57.482
@@ -2026,8 +2024,7 @@ UH-OH.
 
 467
 00:20:51,724 --> 00:20:54.068
-[ elephant trumpeting,  
-monkey chattering] 
+ 
 
 468
 00:20:54,103 --> 00:20:55.655
@@ -2035,8 +2032,7 @@ WHAT'S THAT NOISE?
 
 469
 00:20:55,689 --> 00:20:58.551
-[ rhythmic croaking,  
-trumpeting, chattering] 
+ 
 
 470
 00:20:58,586 --> 00:21:00.172
@@ -2062,8 +2058,7 @@ IT'S CALLED A PUPPY'S DAY.
 
 475
 00:21:10,482 --> 00:21:15.000
-[ Blue oohing,  
-monkey chattering] 
+ 
 
 476
 00:21:19,068 --> 00:21:24.000

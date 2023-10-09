@@ -69,8 +69,7 @@ LET US IN.
 
 17
 00:01:08,767 --> 00:01:12.100
-( barks "not by the hair 
- of my chin-y, chin, chin" )
+
 
 18
 00:01:12,133 --> 00:01:14.800

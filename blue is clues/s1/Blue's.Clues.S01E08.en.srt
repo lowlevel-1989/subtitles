@@ -1453,8 +1453,7 @@ YOU SINK-AND-FLOAT EXPERT.
 
 332
 00:15:56,034 --> 00:15:59.655
-[ barking 
-"Blue Skiddoo"]
+
 
 333
 00:16:02,000 --> 00:16:03.965
@@ -1648,8 +1647,7 @@ YOU DID A REALLY GOOD JOB.
 
 377
 00:18:32,034 --> 00:18:33.689
-[ barking 
-"Blue Skiddoo"]
+
 
 378
 00:18:35,344 --> 00:18:37.586
