@@ -1,0 +1,4601 @@
+1
+00:00:06,000 --> 00:00:12,074
+_
+
+2
+00:00:12,912 --> 00:00:17,906
+El Hombre y el Monstruo
+
+3
+00:01:29,222 --> 00:01:30,450
+Adelante.
+
+4
+00:01:32,525 --> 00:01:35,756
+- ¿Qué sucede, Poole?
+- Señor, son las 2:45...
+
+5
+00:01:35,828 --> 00:01:38,490
+y su discurso en la universidad
+es a las 3:00.
+
+6
+00:01:38,564 --> 00:01:40,156
+Así es, Poole.
+
+7
+00:01:43,536 --> 00:01:47,597
+- ¿Sabes algo, Poole? Eres un entrometido.
+- Sí, señor.
+
+8
+00:01:47,674 --> 00:01:50,074
+Pero no sé qué haría sin ti.
+
+9
+00:01:50,143 --> 00:01:51,167
+Gracias, señor.
+
+10
+00:01:51,244 --> 00:01:55,112
+Tu sentido del deber es tan firme
+como el peñón de Gibraltar.
+
+11
+00:01:55,214 --> 00:01:59,116
+- Ni Bach puede con él.
+- Sí, señor. Gracias, señor.
+
+12
+00:01:59,185 --> 00:02:01,551
+Me temo que llegará tarde, señor.
+
+13
+00:02:01,754 --> 00:02:04,120
+Veo que quieres deshacerte de mí.
+
+14
+00:02:05,124 --> 00:02:06,785
+Está bien, Poole.
+
+15
+00:02:16,102 --> 00:02:18,263
+Son unas rosas muy bellas, Poole.
+
+16
+00:02:19,205 --> 00:02:20,797
+Gracias, señor.
+
+17
+00:02:31,617 --> 00:02:35,348
+- ¿Usará el sobretodo o la capa, señor?
+- Dame la capa.
+
+18
+00:03:18,398 --> 00:03:21,026
+- Buenas tardes, Jasper.
+- Buenas tardes, señor.
+
+19
+00:03:21,601 --> 00:03:24,092
+- Lindo día, ¿verdad?
+- Así es, señor.
+
+20
+00:03:24,704 --> 00:03:27,104
+- Vamos a St. Simon's.
+- Sí, señor.
+
+21
+00:03:41,054 --> 00:03:42,419
+Agente.
+
+22
+00:03:44,357 --> 00:03:46,985
+- ¿Cómo está, señor?
+- Muy bien. Gracias, señor.
+
+23
+00:03:50,129 --> 00:03:52,154
+No te necesitaré más por hoy, Jasper.
+
+24
+00:03:52,231 --> 00:03:54,495
+El Dr. Lanyon me llevará a donde iré luego.
+
+25
+00:03:54,567 --> 00:03:55,829
+Sí, señor.
+
+26
+00:04:00,073 --> 00:04:02,564
+- ¿Cómo está, Dr. Jekyll?
+- Bien, ¿y usted?
+
+27
+00:04:07,280 --> 00:04:09,544
+- Hola, Hampton.
+- Buenas tardes, señor.
+
+28
+00:04:10,316 --> 00:04:13,911
+El auditorio está lleno, señor.
+Siempre es así cuando usted habla.
+
+29
+00:04:14,220 --> 00:04:15,517
+¡No me adules!
+
+30
+00:04:36,876 --> 00:04:39,811
+- Espero que Jekyll se porte bien hoy.
+- Siempre se porta bien.
+
+31
+00:04:39,879 --> 00:04:41,938
+Los vejetes están listos para otro susto.
+
+32
+00:04:42,014 --> 00:04:45,506
+Apuesto a que su amigo se trae algo
+entre manos otra vez, Dr. Lanyon.
+
+33
+00:04:45,585 --> 00:04:49,043
+Jekyll es siempre sensacional,
+sus teorías son espectaculares.
+
+34
+00:04:49,122 --> 00:04:50,111
+Caballeros...
+
+35
+00:04:51,657 --> 00:04:53,386
+Londres está tan llena de niebla...
+
+36
+00:04:54,794 --> 00:04:56,955
+que ha penetrado nuestras mentes...
+
+37
+00:04:57,530 --> 00:04:59,794
+y ha fijado límites a nuestra visión.
+
+38
+00:05:00,867 --> 00:05:03,392
+Como hombres de ciencia,
+debemos ser curiosos...
+
+39
+00:05:03,469 --> 00:05:05,801
+y tener la audacia de mirar a través...
+
+40
+00:05:05,872 --> 00:05:08,204
+de las maravillas que esconde.
+
+41
+00:05:08,774 --> 00:05:11,766
+Hoy no me detendré
+en los secretos del cuerpo humano...
+
+42
+00:05:11,844 --> 00:05:13,835
+en la salud y en la enfermedad.
+
+43
+00:05:14,046 --> 00:05:16,606
+Hoy quiero hablarles
+de una maravilla mayor...
+
+44
+00:05:16,682 --> 00:05:18,445
+El alma del hombre.
+
+45
+00:05:20,253 --> 00:05:24,314
+Mi análisis de esta alma,
+la psiquis humana...
+
+46
+00:05:25,057 --> 00:05:28,254
+me lleva a creer
+que el hombre no es realmente uno...
+
+47
+00:05:28,761 --> 00:05:30,558
+sino realmente dos.
+
+48
+00:05:31,497 --> 00:05:35,160
+Uno lucha por alcanzar
+las grandezas de la vida.
+
+49
+00:05:35,701 --> 00:05:37,794
+Lo llamaremos su yo bueno.
+
+50
+00:05:38,404 --> 00:05:41,703
+El otro busca una expresión de impulsos...
+
+51
+00:05:41,774 --> 00:05:45,437
+que lo envuelve en una oscura
+relación animal con la tierra.
+
+52
+00:05:46,212 --> 00:05:48,737
+A éste podríamos llamarlo el yo malo.
+
+53
+00:05:50,316 --> 00:05:53,843
+Los dos libran una batalla eterna
+en la naturaleza del hombre...
+
+54
+00:05:53,986 --> 00:05:56,181
+y, sin embargo, no pueden separarse.
+
+55
+00:05:56,422 --> 00:05:59,220
+Y esa unión significa la represión del mal.
+
+56
+00:05:59,292 --> 00:06:01,055
+El remordimiento del bien.
+
+57
+00:06:01,327 --> 00:06:05,923
+Ahora bien, si estas dos partes
+pudieran ser separadas...
+
+58
+00:06:06,399 --> 00:06:09,095
+cuánto más libre
+estaría el bien en nosotros.
+
+59
+00:06:09,235 --> 00:06:11,362
+Qué alturas sería capaz de escalar.
+
+60
+00:06:12,405 --> 00:06:14,873
+Y el denominado mal, una vez liberado...
+
+61
+00:06:14,941 --> 00:06:18,274
+se realizaría en sí mismo
+y ya no nos molestaría.
+
+62
+00:06:18,978 --> 00:06:21,469
+Creo que no falta mucho tiempo...
+
+63
+00:06:21,948 --> 00:06:24,246
+para que esta separación sea posible.
+
+64
+00:06:25,017 --> 00:06:26,917
+En mis experimentos, descubrí...
+
+65
+00:06:26,986 --> 00:06:29,784
+que ciertos químicos tienen el poder...
+
+66
+00:06:33,292 --> 00:06:36,420
+No me digas, puede separarme en dos
+como a una ameba.
+
+67
+00:06:36,495 --> 00:06:39,726
+- ¡Diantre! Es maravilloso.
+- Confieso que esto es demasiado para mí.
+
+68
+00:06:39,799 --> 00:06:42,996
+¿Por qué no te quedas en casa
+y mandas tu otro yo a la conferencia?
+
+69
+00:06:43,069 --> 00:06:45,867
+¿Dividir a un ser humano en dos?
+¡Es ridículo!
+
+70
+00:06:45,938 --> 00:06:48,031
+Voy a tratar de analizar mi psiquis.
+
+71
+00:06:48,107 --> 00:06:52,100
+- No esperaba que estuvieras de acuerdo.
+- ¿De acuerdo? Hablas como un lunático.
+
+72
+00:06:52,178 --> 00:06:54,112
+Pero espero que recuerdes...
+
+73
+00:06:54,180 --> 00:06:56,910
+que tenemos una consulta
+con la duquesa de Densmore.
+
+74
+00:06:56,983 --> 00:06:58,280
+- No iré.
+- ¿Qué?
+
+75
+00:06:58,351 --> 00:07:01,912
+Dale a la duquesa mis saludos
+y un poco de aceite de castor.
+
+76
+00:07:02,555 --> 00:07:06,616
+La vi ayer. Está algo atacada, y me temo
+que es más del espíritu que del cuerpo.
+
+77
+00:07:06,692 --> 00:07:09,786
+- Iré a las guardias gratuitas.
+- Amigo, sé razonable.
+
+78
+00:07:09,862 --> 00:07:12,956
+Sabes cuánto insistió la duquesa
+en que fueras.
+
+79
+00:07:13,032 --> 00:07:15,262
+No puedes ignorarla
+por los casos de caridad.
+
+80
+00:07:15,334 --> 00:07:16,426
+¿No puedo?
+
+81
+00:07:16,602 --> 00:07:19,070
+Lo que no se puede hacer
+siempre me tienta.
+
+82
+00:07:19,138 --> 00:07:20,571
+Como quieras.
+
+83
+00:07:20,640 --> 00:07:23,609
+Pero recuerda que esta noche
+cenaremos con los Carew.
+
+84
+00:07:23,676 --> 00:07:26,577
+- Te recogeré más tarde.
+- Gracias. Estaré en las guardias.
+
+85
+00:07:26,646 --> 00:07:27,738
+Te veo a las 9:00.
+
+86
+00:07:30,182 --> 00:07:32,742
+Mary, ¿qué haces con esas muletas?
+
+87
+00:07:33,419 --> 00:07:35,910
+No puedo andar sin ellas, señor.
+
+88
+00:07:35,988 --> 00:07:38,047
+Claro que puedes, Mary.
+
+89
+00:07:38,124 --> 00:07:41,958
+Te lo dije ayer.
+Créeme, no puedo hacer nada por ti.
+
+90
+00:07:43,896 --> 00:07:46,057
+Le creo, señor...
+
+91
+00:07:46,132 --> 00:07:48,566
+pero no puedo caminar sin ellas, señor.
+
+92
+00:07:48,634 --> 00:07:50,829
+Claro que puedes. Dámelas.
+
+93
+00:07:51,470 --> 00:07:53,062
+No tengas miedo.
+
+94
+00:07:54,507 --> 00:07:57,271
+Ahora camina, Mary. Vamos. Ven hacia mí.
+
+95
+00:07:57,476 --> 00:07:58,773
+Sí, señor.
+
+96
+00:08:01,614 --> 00:08:03,980
+Camina, Mary. Vamos.
+
+97
+00:08:06,419 --> 00:08:10,219
+Muy bien, señor. Puedo caminar, señor.
+
+98
+00:08:10,289 --> 00:08:13,258
+- Claro que puedes.
+- ¡Puedo caminar, señor!
+
+99
+00:08:27,773 --> 00:08:29,468
+Vamos, Sra. Lucas.
+
+100
+00:08:31,610 --> 00:08:34,170
+- Le duele, ¿verdad?
+- Sí, señor.
+
+101
+00:08:34,847 --> 00:08:37,645
+A veces, un doctor
+debe hacerle mal para hacerle bien.
+
+102
+00:08:37,717 --> 00:08:38,775
+Sí, señor.
+
+103
+00:08:38,851 --> 00:08:41,445
+Y si un doctor piensa
+que una operación es necesaria...
+
+104
+00:08:41,520 --> 00:08:43,249
+no hay nada que temer, ¿verdad?
+
+105
+00:08:43,322 --> 00:08:46,120
+- No, señor.
+- Quiero que sepa que se curará.
+
+106
+00:08:46,192 --> 00:08:47,887
+Le creo, señor.
+
+107
+00:08:48,928 --> 00:08:51,260
+Jekyll, no tenemos mucho tiempo.
+
+108
+00:08:51,597 --> 00:08:53,758
+Lo siento. Temo que me perderé la cena.
+
+109
+00:08:53,833 --> 00:08:55,528
+Iré luego al baile.
+
+110
+00:08:55,601 --> 00:08:58,536
+- ¿Cuál es el problema?
+- Debo operar a esta paciente ahora.
+
+111
+00:08:58,604 --> 00:09:01,038
+¿Por qué no lo hace uno de los cirujanos?
+
+112
+00:09:01,107 --> 00:09:02,506
+Son bastante capaces.
+
+113
+00:09:02,575 --> 00:09:05,237
+Quizá, pero prefiero hacerlo yo.
+
+114
+00:09:05,911 --> 00:09:08,903
+¿Puedes disculparme
+con el general Carew y Muriel, por favor?
+
+115
+00:09:08,981 --> 00:09:10,209
+Como quieras.
+
+116
+00:09:10,349 --> 00:09:13,079
+Lanyon, discúlpame con el General...
+
+117
+00:09:13,319 --> 00:09:15,514
+y yo mismo lo haré con Muriel.
+
+118
+00:09:15,788 --> 00:09:16,777
+Está bien.
+
+119
+00:09:16,856 --> 00:09:17,948
+Sí, Srta. Muriel.
+
+120
+00:09:18,023 --> 00:09:20,150
+¿Habrá pastel de almendras
+y café, Hobson?
+
+121
+00:09:20,226 --> 00:09:23,559
+- Creo que no, señorita.
+- Quiero que haya pastel de almendras.
+
+122
+00:09:23,629 --> 00:09:25,722
+- Consíguelo ya.
+- Está bien, señorita.
+
+123
+00:09:25,798 --> 00:09:29,666
+- ¿Qué pasa con los pasteles de almendras?
+- Al Dr. Jekyll le gustan, papá.
+
+124
+00:09:29,735 --> 00:09:31,896
+Malcriarás a ese novio tuyo.
+
+125
+00:09:31,971 --> 00:09:34,371
+- Me gusta malcriarlo.
+- Eso veo.
+
+126
+00:09:34,540 --> 00:09:35,871
+¿Y qué hay de tu padre?
+
+127
+00:09:35,941 --> 00:09:38,375
+Tú ya eres
+la criatura más malcriada del mundo.
+
+128
+00:09:38,444 --> 00:09:39,843
+Dr. Lanyon.
+
+129
+00:09:40,112 --> 00:09:42,012
+Lanyon. Es un placer verlo.
+
+130
+00:09:42,081 --> 00:09:44,242
+Puntual para cenar, puntual para todo.
+
+131
+00:09:44,316 --> 00:09:45,305
+¿Cómo está, señor?
+
+132
+00:09:45,384 --> 00:09:47,648
+- ¡Qué lema impresionante!
+- ¿Cómo está?
+
+133
+00:09:47,720 --> 00:09:50,120
+- ¿Y Jekyll?
+- Se quedó a realizar una operación.
+
+134
+00:09:50,189 --> 00:09:52,214
+- ¿No vendrá?
+- Vendrá después de la cena.
+
+135
+00:09:52,291 --> 00:09:53,918
+Me pidió que lo disculpara.
+
+136
+00:09:53,993 --> 00:09:56,553
+Espero que el paciente merezca
+la atención de Jekyll.
+
+137
+00:09:56,629 --> 00:10:00,030
+- Es una mujer de las guardias gratuitas.
+- La guardia gratuita.
+
+138
+00:10:00,399 --> 00:10:03,300
+Jekyll dedica demasiado tiempo
+a esos pacientes humildes.
+
+139
+00:10:03,369 --> 00:10:04,563
+Por eso lo amo.
+
+140
+00:10:04,637 --> 00:10:07,470
+Tonterías, cariño.
+Deberías poner los pies en la tierra.
+
+141
+00:10:07,540 --> 00:10:10,407
+- El Sr. Utterson.
+- Utterson.
+
+142
+00:10:11,444 --> 00:10:14,106
+De todas maneras,
+le prometí a Harry el primer vals.
+
+143
+00:10:14,180 --> 00:10:16,546
+Si llega tarde, me pondré furiosa con él.
+
+144
+00:10:32,231 --> 00:10:35,462
+Sabe, me alegra que Jekyll llegue tarde.
+
+145
+00:10:36,068 --> 00:10:39,162
+Me veré obligado a bailar
+un vals delicioso.
+
+146
+00:10:47,480 --> 00:10:48,811
+Gracias.
+
+147
+00:10:50,149 --> 00:10:53,209
+Hola, General. Lamento llegar tarde, señor.
+
+148
+00:10:54,253 --> 00:10:57,950
+El arrepentimiento es una virtud, Jekyll,
+pero es mejor ser puntual.
+
+149
+00:10:58,123 --> 00:11:00,387
+En 40 años,
+nunca he llegado tarde a cenar.
+
+150
+00:11:00,459 --> 00:11:02,256
+Es un récord admirable, señor.
+
+151
+00:11:02,328 --> 00:11:04,796
+Sólo es cuestión de entrenamiento.
+A la edad de...
+
+152
+00:11:04,864 --> 00:11:08,823
+General, ¿no habrá olvidado
+que éste es nuestro baile?
+
+153
+00:11:08,901 --> 00:11:11,961
+Claro que no, Sra. Dakin.
+Lo esperaba ansioso.
+
+154
+00:11:12,037 --> 00:11:13,766
+Nos vemos después, Jekyll.
+
+155
+00:11:13,939 --> 00:11:14,963
+¿Me permites?
+
+156
+00:11:15,040 --> 00:11:16,837
+- No debería.
+- Pero lo harás.
+
+157
+00:11:20,713 --> 00:11:22,840
+- ¿Era bonita?
+- Deslumbrante.
+
+158
+00:11:23,048 --> 00:11:24,811
+- ¿Quién?
+- Tu paciente.
+
+159
+00:11:24,884 --> 00:11:26,943
+Pensaba en otra persona.
+
+160
+00:11:27,219 --> 00:11:29,084
+¿Por quién volverás a retrasarte?
+
+161
+00:11:29,154 --> 00:11:31,145
+- ¿Me estás reprendiendo?
+- Claro.
+
+162
+00:11:31,657 --> 00:11:34,023
+- ¿Porque me odias?
+- Claro, tonto.
+
+163
+00:11:34,727 --> 00:11:37,457
+Entonces, ¿saldrás al jardín
+adonde yo pueda soportarlo?
+
+164
+00:11:37,530 --> 00:11:39,327
+- Claro que no.
+- ¿Por qué no?
+
+165
+00:11:39,665 --> 00:11:42,998
+- Papá se pondría furioso.
+- Le haría bien.
+
+166
+00:11:43,869 --> 00:11:47,566
+No está mirando. Le está enseñando
+a la Sra. Dakin a bailar el vals.
+
+167
+00:11:55,514 --> 00:11:57,505
+- No puedo quedarme mucho.
+- Sólo para siempre.
+
+168
+00:11:57,583 --> 00:11:59,517
+Ni siquiera la mitad de eso.
+
+169
+00:12:09,194 --> 00:12:12,527
+Ahora, mi pequeña,
+repréndeme, ridiculízame, ódiame...
+
+170
+00:12:12,798 --> 00:12:14,493
+pero no me alejes de ti.
+
+171
+00:12:14,833 --> 00:12:17,393
+Tonto. ¿Lamentas haber llegado tarde?
+
+172
+00:12:17,770 --> 00:12:19,328
+- No.
+- ¿No?
+
+173
+00:12:19,405 --> 00:12:22,340
+- De lo contrario, no te habrías enojado.
+- No te perdonaré...
+
+174
+00:12:22,408 --> 00:12:25,002
+Si no te hubieras enojado,
+no te verías tan bonita.
+
+175
+00:12:25,077 --> 00:12:26,635
+¿Así les hablas a tus pacientes?
+
+176
+00:12:26,712 --> 00:12:29,510
+Si no te hubieras visto tan bonita,
+habría postergado...
+
+177
+00:12:29,582 --> 00:12:31,277
+- Disculpa.
+- No más palabras.
+
+178
+00:12:31,350 --> 00:12:32,374
+¿Y bien?
+
+179
+00:12:34,253 --> 00:12:37,086
+Habría postergado decirte
+que te amo mucho...
+
+180
+00:12:37,156 --> 00:12:39,249
+y que no deseo esperar más.
+
+181
+00:12:39,325 --> 00:12:41,418
+Quiero que te cases conmigo ahora.
+
+182
+00:12:41,493 --> 00:12:44,929
+Cariño, lo deseo con todo mi corazón.
+Sabes que es así.
+
+183
+00:12:45,464 --> 00:12:46,931
+Pero papá es tan difícil.
+
+184
+00:12:46,999 --> 00:12:49,092
+No quiero casarme con tu padre.
+
+185
+00:12:49,168 --> 00:12:51,193
+No me molesta tener un suegro difícil.
+
+186
+00:12:51,270 --> 00:12:53,204
+Tú valdrás la pena, cariño mío.
+
+187
+00:12:53,272 --> 00:12:55,263
+No creo que me ames seriamente.
+
+188
+00:12:55,341 --> 00:12:59,573
+Te amo mejor aún. Te amo alegremente,
+felizmente, dulcemente.
+
+189
+00:12:59,979 --> 00:13:02,971
+Te amo tanto que podría reír y cantar y...
+
+190
+00:13:03,048 --> 00:13:05,539
+No debería arruinarlo intentando cantar.
+
+191
+00:13:06,318 --> 00:13:09,754
+Cariño, persuadiré a tu padre
+para que nos deje casar ahora.
+
+192
+00:13:09,989 --> 00:13:11,684
+No puedo esperar más.
+
+193
+00:13:12,091 --> 00:13:15,754
+Iremos a Devon de luna de miel
+y viviremos de amor y frutillas...
+
+194
+00:13:15,828 --> 00:13:17,261
+y mirando el mar.
+
+195
+00:13:17,329 --> 00:13:20,162
+- Y la luz de la luna.
+- La infinita luz de la luna.
+
+196
+00:13:21,200 --> 00:13:23,498
+Te amo de verdad.
+
+197
+00:13:24,770 --> 00:13:28,103
+Tanto que me asusta.
+
+198
+00:13:31,176 --> 00:13:34,339
+Has abierto una puerta en mí
+hacia otro mundo.
+
+199
+00:13:34,413 --> 00:13:37,849
+Antes, mi trabajo era todo.
+
+200
+00:13:37,916 --> 00:13:41,283
+Vivía inmerso en los misterios
+de la ciencia, lo desconocido.
+
+201
+00:13:41,787 --> 00:13:45,348
+Pero ahora,
+lo desconocido tiene tu rostro...
+
+202
+00:13:46,892 --> 00:13:50,293
+me mira con tus ojos.
+
+203
+00:13:53,499 --> 00:13:55,865
+Desearía que este momento
+durara para siempre.
+
+204
+00:13:55,934 --> 00:14:00,098
+Puedes hacer que dure, cariño. Te amo.
+
+205
+00:14:00,939 --> 00:14:02,839
+Debemos estar siempre juntos.
+
+206
+00:14:03,876 --> 00:14:06,436
+Siempre tú y yo.
+
+207
+00:14:06,512 --> 00:14:08,070
+Apartados del mundo.
+
+208
+00:14:08,380 --> 00:14:09,904
+Te amo, cariño.
+
+209
+00:14:11,216 --> 00:14:12,444
+Te amo.
+
+210
+00:14:13,252 --> 00:14:15,686
+Entonces, ¿quién podrá separarnos?
+
+211
+00:14:17,523 --> 00:14:20,185
+- Mi dulce amigo.
+- Mi amor.
+
+212
+00:14:52,357 --> 00:14:54,587
+Debes usar zapatos
+que hagan ruido, Hobson.
+
+213
+00:14:54,660 --> 00:14:56,127
+Sí, señor. Gracias, señor.
+
+214
+00:14:56,195 --> 00:14:58,629
+El General le pide
+que entre a la casa, señorita.
+
+215
+00:14:58,697 --> 00:15:02,133
+- Sus invitados preguntan por usted.
+- Ya voy, Hobson.
+
+216
+00:15:45,744 --> 00:15:47,837
+- Gracias por venir.
+- Buenas noches, Muriel.
+
+217
+00:15:47,913 --> 00:15:50,313
+- Te veías preciosa esta noche.
+- Gracias.
+
+218
+00:15:50,382 --> 00:15:52,612
+- Adiós, cariño.
+- Buenas noches, General.
+
+219
+00:15:52,684 --> 00:15:55,312
+No recuerdo haberme divertido tanto.
+
+220
+00:15:55,888 --> 00:15:59,415
+- Te veré mañana en el té, querida.
+- Sí. No lo olvidaré, Sra. Dakin.
+
+221
+00:15:59,491 --> 00:16:01,186
+Buenas noches.
+
+222
+00:16:01,593 --> 00:16:04,027
+Jekyll, muchacho.
+¿Querías hablar conmigo?
+
+223
+00:16:04,096 --> 00:16:06,860
+Disculpe, señor,
+pero nos haría muy felices...
+
+224
+00:16:06,932 --> 00:16:09,366
+si fijara una fecha más próxima
+para nuestra boda.
+
+225
+00:16:09,434 --> 00:16:10,901
+Ya les anuncié...
+
+226
+00:16:10,969 --> 00:16:13,938
+que se casarán
+en el aniversario de mi propia boda.
+
+227
+00:16:14,006 --> 00:16:16,634
+- Pero faltan ocho meses, señor.
+- ¿Cuál es el problema?
+
+228
+00:16:16,708 --> 00:16:18,869
+Llevamos dos meses
+comprometidos, señor.
+
+229
+00:16:18,944 --> 00:16:20,104
+No entendemos por qué...
+
+230
+00:16:20,179 --> 00:16:22,374
+Supongo que tengo ciertos derechos.
+
+231
+00:16:22,447 --> 00:16:26,383
+- Así es. Por eso le estamos preguntando.
+- ¿A qué se debe la impaciencia?
+
+232
+00:16:26,451 --> 00:16:28,612
+No es apropiado.
+
+233
+00:16:28,687 --> 00:16:31,986
+Lo siento, señor, pero no considero
+que su objeción sea seria.
+
+234
+00:16:32,057 --> 00:16:33,786
+¿Estás escuchando, Lanyon?
+
+235
+00:16:34,226 --> 00:16:37,024
+¿Es ésta otra prueba de tu excentricidad?
+
+236
+00:16:37,262 --> 00:16:40,493
+Si es excéntrico ser impaciente
+en el amor, señor, lo soy.
+
+237
+00:16:40,599 --> 00:16:42,362
+Esto es claramente indecente.
+
+238
+00:16:42,434 --> 00:16:45,096
+Papá, ¿para ti es justo
+mantenernos alejados tanto tiempo?
+
+239
+00:16:45,170 --> 00:16:49,163
+- Esperé cinco años a tu madre.
+- Tiene un temperamento férreo, General.
+
+240
+00:16:49,241 --> 00:16:51,641
+Sí, me enorgullezco de ello.
+
+241
+00:16:51,710 --> 00:16:53,905
+Por favor,
+no me haga esperar tanto a Muriel.
+
+242
+00:16:53,979 --> 00:16:56,345
+Muchacho, debes dejar esos asuntos
+en mis manos.
+
+243
+00:16:56,415 --> 00:16:59,316
+Sabes, se deben respetar
+las buenas costumbres.
+
+244
+00:16:59,484 --> 00:17:01,884
+- Buenas noches.
+- Buenas noches, señor.
+
+245
+00:17:02,421 --> 00:17:04,582
+- Buenas noches, Lanyon.
+- Buenas noches, señor.
+
+246
+00:17:04,656 --> 00:17:06,146
+<i>Au revoir</i>, cariño.
+
+247
+00:17:07,593 --> 00:17:08,582
+Vamos, Lanyon.
+
+248
+00:17:08,660 --> 00:17:10,958
+- Buenas noches, Muriel.
+- Buenas noches.
+
+249
+00:17:18,637 --> 00:17:21,538
+- Me temo que ofendiste al General.
+- ¿Ofenderlo?
+
+250
+00:17:22,241 --> 00:17:24,766
+Lamento no haber estrangulado
+a la vieja morsa.
+
+251
+00:17:24,843 --> 00:17:27,539
+¿Lo escuchaste? "¡Esperar!"
+
+252
+00:17:27,880 --> 00:17:29,973
+¿Por qué demonios hay que esperar?
+
+253
+00:17:32,084 --> 00:17:35,417
+Espero que las responsabilidades
+conyugales te hagan sentar cabeza.
+
+254
+00:17:35,487 --> 00:17:38,217
+No me caso para sentar cabeza.
+Me caso para enloquecer.
+
+255
+00:17:38,290 --> 00:17:42,192
+- Enloquecer de amor, vida y experimentos.
+- Tus experimentos son absurdos.
+
+256
+00:17:42,261 --> 00:17:46,220
+La ciencia no te interesa en absoluto.
+No tienes sueños ni curiosidad.
+
+257
+00:17:46,298 --> 00:17:48,789
+Hay límites que no se deberían traspasar.
+
+258
+00:17:48,867 --> 00:17:52,735
+Sí. Supongo que no es apropiado.
+Lanyon, los límites no existen.
+
+259
+00:17:53,038 --> 00:17:54,130
+Mira esa lámpara de gas.
+
+260
+00:17:54,206 --> 00:17:56,697
+Existe gracias a la curiosidad
+de un hombre.
+
+261
+00:17:56,775 --> 00:17:58,970
+Londres continuaría iluminada
+por antorchas.
+
+262
+00:17:59,044 --> 00:18:02,207
+Y espera. Un día,
+Londres brillará, incandescente...
+
+263
+00:18:02,281 --> 00:18:05,216
+y será tan hermosa
+que hasta tú te emocionarás.
+
+264
+00:18:05,284 --> 00:18:07,684
+Me gusta Londres tal cual es...
+
+265
+00:18:07,753 --> 00:18:10,551
+y no estoy interesado
+en tus métodos y vericuetos.
+
+266
+00:18:10,622 --> 00:18:13,614
+Pero los secretos y las maravillas
+están en los vericuetos...
+
+267
+00:18:13,692 --> 00:18:15,387
+En la ciencia y en la vida.
+
+268
+00:18:15,460 --> 00:18:16,757
+Mira el...
+
+269
+00:18:19,131 --> 00:18:22,658
+¡Está bien, bestia, golpéame!
+¡Te denunciaré!
+
+270
+00:18:30,842 --> 00:18:32,571
+¿Está malherida?
+
+271
+00:18:32,878 --> 00:18:34,470
+¿Dónde vive esta muchacha?
+
+272
+00:18:34,546 --> 00:18:36,673
+Arriba, la primera puerta a la izquierda.
+
+273
+00:18:36,748 --> 00:18:38,238
+Súbala.
+
+274
+00:18:41,353 --> 00:18:42,684
+Dejen pasar al caballero.
+
+275
+00:18:42,754 --> 00:18:44,551
+¿La tiene, caballero?
+
+276
+00:18:45,590 --> 00:18:48,218
+- ¿Aquí arriba?
+- Sí. Cuidado con su cabeza.
+
+277
+00:18:49,594 --> 00:18:50,959
+¡Cállense todos!
+
+278
+00:18:55,167 --> 00:18:56,862
+¿Qué era ese alboroto?
+
+279
+00:18:57,903 --> 00:19:00,167
+- Un amigo de Ivy Pearson...
+- Te diré algo...
+
+280
+00:19:00,238 --> 00:19:02,035
+¡Cállate! Un amigo de Ivy...
+
+281
+00:19:03,275 --> 00:19:06,403
+Ese cerdo. Me golpeó, ¿no?
+
+282
+00:19:06,478 --> 00:19:09,641
+¡Deseará no haberlo hecho!
+
+283
+00:19:09,715 --> 00:19:13,014
+No le tengo miedo.
+¡Le dispararé en la cara!
+
+284
+00:19:13,318 --> 00:19:15,616
+Me mató, eso es lo que hizo.
+
+285
+00:19:15,887 --> 00:19:19,618
+Me quebró la mandíbula y la rodilla.
+¡Lo atraparé!
+
+286
+00:19:24,763 --> 00:19:26,458
+Mire dónde me pateó.
+
+287
+00:19:28,400 --> 00:19:31,301
+Es sólo una magulladura.
+Estará bien en unos días.
+
+288
+00:19:31,370 --> 00:19:35,136
+De todas maneras, no debería usar
+ligas tan ajustadas. Le hacen daño.
+
+289
+00:19:36,742 --> 00:19:38,835
+Impiden la circulación.
+
+290
+00:19:42,614 --> 00:19:44,946
+Le agradezco que se preocupe por mí.
+
+291
+00:19:45,017 --> 00:19:48,111
+Cualquiera puede ver
+que es un caballero de verdad.
+
+292
+00:19:48,720 --> 00:19:51,883
+Es el tipo de persona
+por el que una mujer haría algo.
+
+293
+00:19:55,827 --> 00:19:58,523
+- ¿Qué pasa?
+- El tipo me golpeó aquí, también.
+
+294
+00:19:58,597 --> 00:20:02,431
+Me quebró la costilla. Eso fue lo que hizo.
+Me voy a desmayar.
+
+295
+00:20:05,137 --> 00:20:06,866
+No está malherida.
+
+296
+00:20:07,773 --> 00:20:10,264
+Pero un poco de descanso
+no le vendrá mal.
+
+297
+00:20:10,709 --> 00:20:12,870
+¿Cree que debería quedarme en cama?
+
+298
+00:20:13,311 --> 00:20:15,711
+No conozco un lugar mejor
+para descansar.
+
+299
+00:20:16,882 --> 00:20:19,874
+Está bien. No mire.
+
+300
+00:21:21,713 --> 00:21:23,203
+¿Aún le duele?
+
+301
+00:21:29,121 --> 00:21:30,247
+¡Eh!
+
+302
+00:21:32,023 --> 00:21:33,251
+Lanyon.
+
+303
+00:21:33,825 --> 00:21:35,053
+Ya voy.
+
+304
+00:21:37,929 --> 00:21:40,989
+Soy médico, y ese beso será mi honorario.
+
+305
+00:21:45,003 --> 00:21:46,095
+¿Y bien?
+
+306
+00:21:49,541 --> 00:21:51,702
+Regrese pronto, ¿sí?
+
+307
+00:21:51,943 --> 00:21:54,810
+- Lo siento. Me temo que no puedo.
+- Claro que puede.
+
+308
+00:21:55,013 --> 00:21:56,139
+Pronto.
+
+309
+00:21:57,516 --> 00:21:59,848
+- Buenas noches.
+- Regrese.
+
+310
+00:22:07,726 --> 00:22:10,593
+<i>Regrese pronto, ¿sí?</i>
+
+311
+00:22:11,930 --> 00:22:13,295
+<i>Claro que puede.</i>
+
+312
+00:22:14,166 --> 00:22:17,465
+<i>Regrese pronto...</i>
+
+313
+00:22:19,337 --> 00:22:23,671
+- Tu conducta fue desagradable.
+- ¿Mi conducta? Una chica bonita me besó.
+
+314
+00:22:23,742 --> 00:22:25,369
+¿Debería haber llamado al agente?
+
+315
+00:22:25,443 --> 00:22:27,240
+- Hasta creo que me gustó.
+- ¿Qué?
+
+316
+00:22:27,312 --> 00:22:30,304
+Sí. No es una cuestión de conducta,
+sino de instinto elemental.
+
+317
+00:22:30,382 --> 00:22:32,509
+Deberías controlar esos instintos.
+
+318
+00:22:32,584 --> 00:22:35,144
+¿Estás insinuando
+que tú puedes o lo haces?
+
+319
+00:22:35,520 --> 00:22:38,011
+Podemos controlar las acciones,
+no los impulsos.
+
+320
+00:22:38,089 --> 00:22:40,922
+Quizá olvidaste
+que estás comprometido con Muriel.
+
+321
+00:22:41,226 --> 00:22:42,454
+¿OIvidarlo?
+
+322
+00:22:43,662 --> 00:22:46,495
+¿Puede un hombre
+que muere de sed olvidar el agua?
+
+323
+00:22:47,699 --> 00:22:51,100
+¿Sabes lo que sucedería con esa sed
+si se le negara el agua?
+
+324
+00:22:51,169 --> 00:22:54,468
+Si te entiendo bien,
+creo que estás hablando indecentemente.
+
+325
+00:22:54,873 --> 00:22:56,966
+¡Qué palabras usas!
+
+326
+00:22:57,042 --> 00:23:00,876
+¿Por qué no eres sincero
+y admites a tu otro yo indecente?
+
+327
+00:23:00,946 --> 00:23:03,244
+No. Prefieres ocultarlo,
+simular que no existe.
+
+328
+00:23:03,315 --> 00:23:06,079
+- Debes aceptar ciertas cosas.
+- No quiero aceptar.
+
+329
+00:23:06,151 --> 00:23:10,383
+Amo la pureza, no sólo de mi conducta,
+sino de mis pensamientos y deseos.
+
+330
+00:23:10,455 --> 00:23:12,821
+- Hay una sola forma de lograrlo.
+- ¿Cómo?
+
+331
+00:23:13,158 --> 00:23:16,525
+- Separando nuestras dos naturalezas.
+- Tú y tus teorías absurdas.
+
+332
+00:23:16,595 --> 00:23:20,190
+No es científico
+no admitir la posibilidad de algo.
+
+333
+00:23:20,265 --> 00:23:21,630
+Estás loco.
+
+334
+00:23:21,733 --> 00:23:24,702
+¿Loco, Lanyon? Ya veremos.
+
+335
+00:24:06,811 --> 00:24:08,073
+Adelante.
+
+336
+00:24:16,755 --> 00:24:17,847
+¿Qué sucede, Poole?
+
+337
+00:24:17,922 --> 00:24:21,949
+Disculpe la interrupción, señor,
+pero, ¿durmió anoche, señor?
+
+338
+00:24:22,027 --> 00:24:23,255
+No te preocupes por mí.
+
+339
+00:24:23,328 --> 00:24:27,628
+Sí, señor, pero hace tres días que sólo
+desayuna con una taza de té. ¡Su salud!
+
+340
+00:24:27,699 --> 00:24:30,998
+Poole, no viniste hasta aquí
+para preguntarme por mi salud, ¿verdad?
+
+341
+00:24:31,069 --> 00:24:34,300
+Uno de los sirvientes del general Carew
+trajo esto, señor.
+
+342
+00:24:43,248 --> 00:24:46,411
+La Srta. Muriel me regaña
+por haber faltado a la cena anoche.
+
+343
+00:24:46,484 --> 00:24:49,214
+Ve y dile que iré a cenar mañana.
+
+344
+00:24:49,287 --> 00:24:50,652
+Muy bien, señor.
+
+345
+00:26:12,837 --> 00:26:17,706
+Mi querida Muriel:
+Si muero, será en aras de la ciencia.
+
+346
+00:26:18,843 --> 00:26:23,837
+Te amaré siempre, hasta la eternidad
+
+347
+00:27:31,716 --> 00:27:35,015
+<i>Cásate conmigo ahora.</i>
+<i>No puedo esperar más.</i>
+
+348
+00:27:35,086 --> 00:27:36,815
+<i>Claramente indecente.</i>
+
+349
+00:27:36,888 --> 00:27:38,321
+<i>Mire dónde me pateó.</i>
+
+350
+00:27:38,389 --> 00:27:39,879
+<i>Tu conducta fue desagradable.</i>
+
+351
+00:27:39,958 --> 00:27:42,552
+<i>¡No es apropiado!</i>
+
+352
+00:27:42,627 --> 00:27:45,892
+<i>Lamento no haberlo</i>
+<i>estrangulado. ¡Estrangúlalo!</i>
+
+353
+00:27:45,964 --> 00:27:47,955
+<i>¡Indecente!</i>
+
+354
+00:27:48,032 --> 00:27:51,524
+<i>¿Puede un hombre que muere de sed</i>
+<i>olvidar el agua?</i>
+
+355
+00:27:51,603 --> 00:27:53,002
+<i>Es desagradable.</i>
+
+356
+00:27:53,137 --> 00:27:54,229
+<i>Estás loco.</i>
+
+357
+00:27:54,305 --> 00:27:56,398
+<i>Regrese pronto, ¿sí?</i>
+
+358
+00:27:57,575 --> 00:27:58,974
+<i>Regrese.</i>
+
+359
+00:29:03,441 --> 00:29:04,533
+¡Soy libre!
+
+360
+00:29:06,110 --> 00:29:07,600
+¡Al fin soy libre!
+
+361
+00:29:12,250 --> 00:29:14,844
+¿Loco, Lanyon? ¿Carew?
+
+362
+00:29:15,386 --> 00:29:18,253
+Hipócritas, negadores de la vida.
+
+363
+00:29:18,523 --> 00:29:20,753
+Si pudieran verme ahora...
+
+364
+00:29:20,825 --> 00:29:22,588
+¿qué pensarían?
+
+365
+00:30:00,064 --> 00:30:02,999
+- ¿Quién es?
+- ¿Quién está allí?
+
+366
+00:30:10,241 --> 00:30:13,233
+Dr. Jekyll, señor.
+
+367
+00:30:14,312 --> 00:30:15,745
+¿Es usted?
+
+368
+00:30:17,181 --> 00:30:18,944
+¿Me oye, señor?
+
+369
+00:30:20,284 --> 00:30:23,117
+¡Déjeme entrar, señor!
+
+370
+00:30:33,798 --> 00:30:38,235
+Lo siento, señor. Creí oír una voz extraña.
+
+371
+00:30:38,336 --> 00:30:41,362
+Tienes razón.
+Había alguien aquí. Un amigo mío.
+
+372
+00:30:41,439 --> 00:30:44,431
+Se llama Hyde. El Sr. Hyde.
+
+373
+00:30:44,776 --> 00:30:46,869
+Se fue por la puerta de atrás.
+
+374
+00:31:16,841 --> 00:31:20,470
+Cásate conmigo ahora, cariño.
+No sabes cuánto te necesito.
+
+375
+00:31:21,179 --> 00:31:24,342
+Lo deseo con todo mi corazón, pero papá...
+
+376
+00:31:24,415 --> 00:31:27,873
+- Hablaré con él. Lo convenceré.
+- No. Déjame hablar a mí.
+
+377
+00:31:28,419 --> 00:31:30,614
+Trataré de que cambie de idea en el viaje.
+
+378
+00:31:30,688 --> 00:31:32,053
+- ¿Un viaje?
+- Sí.
+
+379
+00:31:32,590 --> 00:31:34,888
+Cariño, tenía miedo de decírtelo...
+
+380
+00:31:34,959 --> 00:31:37,553
+pero papá me llevará a Bath mañana.
+
+381
+00:31:37,628 --> 00:31:40,028
+No tiene derecho a alejarte de mí.
+
+382
+00:31:40,098 --> 00:31:42,089
+¿Por qué debemos soportar esto?
+
+383
+00:31:43,234 --> 00:31:45,828
+- ¿Quieres casarte conmigo?
+- Con todo mi corazón.
+
+384
+00:31:45,903 --> 00:31:48,633
+Nos casaremos sin su consentimiento.
+Di que sí, cariño.
+
+385
+00:31:48,706 --> 00:31:50,674
+Nos iremos de luna de miel a París.
+
+386
+00:31:50,742 --> 00:31:52,869
+Seremos tan gloriosamente felices...
+
+387
+00:31:52,944 --> 00:31:55,276
+que hasta los franceses nos envidiarán.
+
+388
+00:31:55,346 --> 00:31:58,975
+Estoy muy contenta y tentada,
+pero no quiero lastimar a mi papá.
+
+389
+00:31:59,050 --> 00:32:01,450
+Sólo lastimarías un poco su vanidad.
+
+390
+00:32:01,519 --> 00:32:03,851
+Me harás un daño mayor si te niegas.
+
+391
+00:32:03,921 --> 00:32:06,048
+Sé paciente, sólo por un tiempo.
+
+392
+00:32:06,924 --> 00:32:09,119
+Estoy segura de convencerlo en el viaje.
+
+393
+00:32:09,193 --> 00:32:12,219
+- Pero, Muriel...
+- Cariño, ¿no me amas lo suficiente...
+
+394
+00:32:12,630 --> 00:32:14,257
+para esperar un poco?
+
+395
+00:32:17,568 --> 00:32:19,968
+Claro que te amo lo suficiente, querida.
+
+396
+00:32:21,372 --> 00:32:22,862
+Y esperaré.
+
+397
+00:32:53,571 --> 00:32:54,833
+Adelante.
+
+398
+00:33:00,645 --> 00:33:02,875
+Una carta de Bath, señor.
+
+399
+00:33:15,159 --> 00:33:18,060
+La Srta. Muriel estará fuera un mes más.
+
+400
+00:33:18,796 --> 00:33:21,788
+- Ni siquiera puedo ir a verla.
+- Siento oír eso, señor.
+
+401
+00:33:22,767 --> 00:33:25,167
+- Otro mes.
+- Disculpe, señor...
+
+402
+00:33:25,236 --> 00:33:28,501
+pero creo que debería distraerse un poco.
+
+403
+00:33:29,207 --> 00:33:31,835
+¿Distraerme? ¿Qué sugieres, Poole?
+
+404
+00:33:31,909 --> 00:33:33,774
+Debería salir, señor.
+
+405
+00:33:33,845 --> 00:33:37,645
+Londres ofrece muchas distracciones
+para un caballero como usted, señor.
+
+406
+00:33:37,715 --> 00:33:40,684
+Sí, pero un caballero como yo
+no se aprovecharía de ellas.
+
+407
+00:33:40,751 --> 00:33:44,687
+Los caballeros como yo deben cuidarse
+mucho de lo que hacen y dicen.
+
+408
+00:33:44,856 --> 00:33:46,619
+- Eso es todo.
+- Sí, señor.
+
+409
+00:37:18,235 --> 00:37:21,602
+¡Oiga! ¿Qué hace ahí abajo?
+
+410
+00:37:22,740 --> 00:37:26,335
+Busco a la joven
+que ocupa el pequeño nido.
+
+411
+00:37:26,410 --> 00:37:29,038
+Si se refiere a Ivy Pearson, ella no está.
+
+412
+00:37:30,714 --> 00:37:32,978
+¿Sabe dónde puedo encontrarla?
+
+413
+00:37:33,050 --> 00:37:36,645
+Si la necesitara,
+la buscaría en el teatro de variedades.
+
+414
+00:37:36,720 --> 00:37:39,655
+¡Gracias!
+
+415
+00:37:40,324 --> 00:37:44,522
+¡Váyase! ¿Por quién me toma? ¡Lárguese!
+
+416
+00:38:07,184 --> 00:38:09,379
+- ¡Aléjese!
+- No hice nada.
+
+417
+00:38:09,453 --> 00:38:12,581
+TEATRO DE VARIEDADES
+
+418
+00:38:44,588 --> 00:38:47,079
+Tráigame rápido una botella de champán.
+
+419
+00:38:47,858 --> 00:38:50,190
+- ¿Qué mira?
+- Nada, señor.
+
+420
+00:39:32,670 --> 00:39:36,868
+¿Qué espera? ¿Una propina? ¡Váyase!
+
+421
+00:39:38,209 --> 00:39:39,506
+¡Qué tipo!
+
+422
+00:39:44,048 --> 00:39:46,710
+- Lo siento, señor.
+- ¡Cerdo!
+
+423
+00:39:49,553 --> 00:39:50,952
+¡Qué tipo raro!
+
+424
+00:39:56,560 --> 00:39:58,027
+Bebamos un trago.
+
+425
+00:40:29,126 --> 00:40:30,354
+Está bien.
+
+426
+00:40:32,930 --> 00:40:35,626
+Luces y hablas bonito, cariño.
+
+427
+00:40:35,699 --> 00:40:37,860
+Eso dicen.
+
+428
+00:40:38,569 --> 00:40:41,561
+- No eres engreída, ¿verdad?
+- Tengo mis virtudes.
+
+429
+00:40:43,307 --> 00:40:46,743
+- ¡Charlie!
+- ¡Caray, allí está Irv! Ya regreso.
+
+430
+00:40:48,045 --> 00:40:49,171
+¡Venga!
+
+431
+00:40:52,049 --> 00:40:55,450
+Dígale a esa mujerzuela que venga a beber
+una botella de vino conmigo.
+
+432
+00:40:55,519 --> 00:40:57,214
+- Sí, señor.
+- Muy bien.
+
+433
+00:41:02,526 --> 00:41:04,653
+El caballero te invita a beber vino con él.
+
+434
+00:41:04,728 --> 00:41:07,094
+¿Sí? ¿Y qué?
+
+435
+00:41:07,164 --> 00:41:09,064
+Ven si sabes lo que te conviene.
+
+436
+00:41:09,133 --> 00:41:10,896
+Con ése no se juega.
+
+437
+00:41:10,968 --> 00:41:13,493
+Me dejaste muda. Me interesa.
+
+438
+00:41:14,471 --> 00:41:15,961
+Me arriesgaré.
+
+439
+00:41:18,042 --> 00:41:20,203
+- ¿Dónde está?
+- Te acompañaré.
+
+440
+00:41:31,588 --> 00:41:35,183
+Es un gran honor para mí.
+Te vi cuando entraste, querida.
+
+441
+00:41:35,259 --> 00:41:36,749
+"Claro", me dije...
+
+442
+00:41:36,827 --> 00:41:40,126
+"es una chica muy bonita
+para desperdiciar con mi compañía."
+
+443
+00:41:41,131 --> 00:41:42,723
+Pero eres bonita.
+
+444
+00:41:42,966 --> 00:41:45,662
+Y qué figura, querida.
+
+445
+00:41:48,539 --> 00:41:52,498
+Una copa de champán. Por ti, querida.
+
+446
+00:41:52,943 --> 00:41:54,342
+Por tu belleza.
+
+447
+00:42:02,219 --> 00:42:04,483
+- Debo irme.
+- Irte. ¿Adónde?
+
+448
+00:42:05,122 --> 00:42:07,317
+- A casa.
+- ¿Llamas a eso casa?
+
+449
+00:42:07,458 --> 00:42:11,724
+- Esa pocilga tuya en Diadem Court.
+- Pocilga, ¿no? Basta.
+
+450
+00:42:12,062 --> 00:42:14,553
+Me gustas cuando te enojas, querida.
+
+451
+00:42:14,832 --> 00:42:16,697
+¿Cómo sabes dónde vivo?
+
+452
+00:42:17,668 --> 00:42:19,898
+Te vi en la calle y te seguí.
+
+453
+00:42:19,970 --> 00:42:22,029
+Cariño, mereces algo mejor que eso.
+
+454
+00:42:22,106 --> 00:42:24,267
+Deberías vivir en un lugar acorde a ti.
+
+455
+00:42:24,341 --> 00:42:26,468
+El palacio de Buckingham, supongo.
+
+456
+00:42:28,645 --> 00:42:32,581
+Así me gustas más. Siéntate, querida.
+Siéntate un momento.
+
+457
+00:42:32,783 --> 00:42:36,549
+Deberías vivir en un lugar
+que diera realce a tu bello cuerpo...
+
+458
+00:42:36,687 --> 00:42:39,155
+cabellos rubios y rostro pálido.
+
+459
+00:42:39,656 --> 00:42:42,489
+La ropa también debería ser acorde.
+Sedas, ¿sí?
+
+460
+00:42:42,726 --> 00:42:45,194
+¿Y un brazalete, también?
+
+461
+00:42:45,596 --> 00:42:49,191
+¿Champán para beber? ¿Qué te parece?
+
+462
+00:42:49,633 --> 00:42:51,533
+¿Y cómo voy a conseguirlo?
+
+463
+00:42:52,469 --> 00:42:56,906
+¿Tú qué crees, mi brillante pajarita?
+
+464
+00:43:00,144 --> 00:43:04,080
+No soy un caballero, pero tengo dinero.
+
+465
+00:43:05,149 --> 00:43:07,276
+Quizá no te agrade.
+
+466
+00:43:07,351 --> 00:43:11,685
+- No eres ninguna belleza.
+- Tienes razón. No soy bello.
+
+467
+00:43:12,423 --> 00:43:14,516
+¿Quizá prefieras un caballero?
+
+468
+00:43:14,925 --> 00:43:18,793
+Uno de esos caballeros educados,
+virtuosos y honorables.
+
+469
+00:43:19,663 --> 00:43:22,860
+Uno de esos hipócritas
+a los que les gustan tus piernas...
+
+470
+00:43:22,933 --> 00:43:24,798
+pero que critican tus ligas.
+
+471
+00:43:24,868 --> 00:43:26,995
+¿De qué estás hablando?
+
+472
+00:43:27,371 --> 00:43:28,929
+Mi pobre inocente.
+
+473
+00:43:29,306 --> 00:43:32,298
+No sabes de qué estoy hablando.
+
+474
+00:43:33,477 --> 00:43:35,877
+Bueno, me tienes miedo, ¿no?
+
+475
+00:43:35,946 --> 00:43:39,541
+- ¡No! No te tengo miedo.
+- ¿No? Bien.
+
+476
+00:43:39,616 --> 00:43:43,108
+Oye. ¿Estás intentando robarte a mi chica,
+sucio idiota?
+
+477
+00:43:43,187 --> 00:43:45,781
+- Regresa. Yo te enseñaré...
+- ¡Siéntate!
+
+478
+00:43:45,856 --> 00:43:48,791
+- Te romperé tu maldito...
+- ¡Vete de aquí!
+
+479
+00:43:58,635 --> 00:44:02,071
+- No lo habrías hecho.
+- ¿No? ¿Por qué no?
+
+480
+00:44:02,339 --> 00:44:04,933
+Este lugar fue hecho para eso.
+
+481
+00:44:05,442 --> 00:44:07,342
+- Vamos.
+- Basta. Déjame ir.
+
+482
+00:44:07,411 --> 00:44:10,437
+- No. No te irás.
+- ¡Suéltame! ¡Me iré!
+
+483
+00:44:11,748 --> 00:44:13,215
+¡Me iré a casa!
+
+484
+00:44:13,984 --> 00:44:15,246
+¡Siéntate!
+
+485
+00:44:16,353 --> 00:44:18,412
+Perdóname, querida.
+
+486
+00:44:18,489 --> 00:44:21,049
+Te hago daño porque te amo.
+
+487
+00:44:21,525 --> 00:44:23,356
+Te deseo...
+
+488
+00:44:23,894 --> 00:44:27,159
+y lo que deseo, lo obtengo.
+
+489
+00:44:27,698 --> 00:44:29,859
+Te lo aseguro, no soy una belleza...
+
+490
+00:44:30,467 --> 00:44:32,833
+pero detrás de esta apariencia...
+
+491
+00:44:33,604 --> 00:44:37,802
+encontrarás a un gran hombre.
+
+492
+00:44:38,175 --> 00:44:39,540
+Mírame.
+
+493
+00:44:40,377 --> 00:44:43,608
+¿Crees que dejaría que alguien
+se interponga en mi camino?
+
+494
+00:44:44,014 --> 00:44:45,106
+Te amo.
+
+495
+00:44:45,249 --> 00:44:47,809
+Te amo. ¿Entiendes?
+
+496
+00:44:48,852 --> 00:44:50,319
+¿Vendrás conmigo?
+
+497
+00:44:53,490 --> 00:44:55,720
+Vendrás conmigo.
+
+498
+00:45:08,205 --> 00:45:09,695
+Adelante, señor.
+
+499
+00:45:11,408 --> 00:45:14,969
+- Supongo que su amo salió.
+- Sí, señor. Así es.
+
+500
+00:45:15,045 --> 00:45:16,876
+Nunca está cuando vengo.
+
+501
+00:45:17,314 --> 00:45:19,942
+Dígale a su amo que recibí una carta
+del general Carew.
+
+502
+00:45:20,017 --> 00:45:23,612
+Dice que el Dr. Jekyll no contestó
+ninguna de las cartas de la Srta. Muriel.
+
+503
+00:45:23,687 --> 00:45:26,281
+- Está preocupada por él.
+- Se lo diré, señor.
+
+504
+00:45:26,423 --> 00:45:29,085
+Me complace saber
+que no está confinado en su cama.
+
+505
+00:45:29,159 --> 00:45:32,959
+Disculpe, señor,
+en mi opinión, mi amo no está bien.
+
+506
+00:45:33,030 --> 00:45:35,225
+Rara vez ve a sus pacientes, señor.
+
+507
+00:45:35,299 --> 00:45:38,166
+Yo mismo no lo he visto durante días.
+
+508
+00:45:38,368 --> 00:45:41,895
+A menudo entra y sale
+por la puerta de atrás del laboratorio.
+
+509
+00:45:43,106 --> 00:45:44,937
+Debo irme, Poole. Adiós.
+
+510
+00:45:53,917 --> 00:45:57,216
+- ¿Quién es?
+- Soy yo, querida, tu casera.
+
+511
+00:45:57,287 --> 00:45:58,879
+Adelante, Sra. Hawkins.
+
+512
+00:46:00,290 --> 00:46:02,451
+¿Cómo estás, querida?
+
+513
+00:46:03,860 --> 00:46:05,350
+No te molestes en contestar.
+
+514
+00:46:05,429 --> 00:46:08,159
+Puedo ver por mí misma
+que no estás muy bien...
+
+515
+00:46:08,231 --> 00:46:09,721
+y no me extraña.
+
+516
+00:46:09,833 --> 00:46:13,860
+- Toma, te traje el periódico.
+- Gracias, Sra. Hawkins.
+
+517
+00:46:14,104 --> 00:46:16,095
+Estás bebiendo una taza de té.
+
+518
+00:46:16,173 --> 00:46:18,733
+Si no te molesta,
+me sentaré contigo un momento.
+
+519
+00:46:18,809 --> 00:46:20,606
+Estoy agotada.
+
+520
+00:46:22,245 --> 00:46:24,110
+¿Una taza de té, Sra. Hawkins?
+
+521
+00:46:24,181 --> 00:46:26,513
+Gracias, querida. Me vendrá bien.
+
+522
+00:46:26,583 --> 00:46:29,143
+Después de todo, un vecino es un vecino.
+
+523
+00:46:29,920 --> 00:46:32,047
+Te tengo una sorpresa.
+
+524
+00:46:32,456 --> 00:46:35,482
+Es un inquilino mío,
+un muchacho muy prometedor.
+
+525
+00:46:35,559 --> 00:46:38,187
+Se llama Arvis, y me dijo...
+
+526
+00:46:38,328 --> 00:46:41,092
+"¿Quién es la chica bonita
+que tiene la sala?
+
+527
+00:46:41,164 --> 00:46:44,656
+"Me pregunto si le interesaría
+acompañarme al teatro de variedades...
+
+528
+00:46:44,735 --> 00:46:46,464
+"una de estas noches.
+
+529
+00:46:46,603 --> 00:46:49,595
+"Pregúntele," me dijo.
+Mi consejo, querida...
+
+530
+00:46:49,673 --> 00:46:52,198
+No. No quiero oír nada más.
+
+531
+00:46:52,576 --> 00:46:55,044
+Tienes miedo
+de lo que te hará Hyde, ¿verdad?
+
+532
+00:46:55,112 --> 00:46:56,579
+No, no tengo miedo.
+
+533
+00:46:56,680 --> 00:47:01,083
+Si ese tipo fuera mi hombre,
+él no se atrevería a tocarme...
+
+534
+00:47:01,284 --> 00:47:03,309
+no si supiera lo que le conviene.
+
+535
+00:47:03,387 --> 00:47:07,346
+Es una bestia, querida, y en mi opinión...
+
+536
+00:47:24,775 --> 00:47:27,505
+- ¿Qué quiere?
+- Vine por la renta, señor.
+
+537
+00:47:27,611 --> 00:47:30,739
+- Se la pagará cuando venza.
+- Muy bien, señor.
+
+538
+00:47:38,522 --> 00:47:40,683
+¿Qué quería esa vieja roñosa?
+
+539
+00:47:41,291 --> 00:47:43,919
+Me trajo el periódico.
+
+540
+00:47:44,094 --> 00:47:46,221
+- ¿Qué más?
+- Nada.
+
+541
+00:47:46,730 --> 00:47:49,164
+¿No me estás mintiendo, verdad,
+mi pajarita?
+
+542
+00:47:49,232 --> 00:47:50,961
+No, no te estoy mintiendo.
+
+543
+00:47:51,034 --> 00:47:52,661
+Si te descubro mintiendo...
+
+544
+00:47:52,736 --> 00:47:55,261
+esto no será nada
+comparado con lo que te haré.
+
+545
+00:47:55,338 --> 00:47:56,635
+¡No es nada!
+
+546
+00:48:20,964 --> 00:48:23,296
+El general Sir Danvers Carew
+y su hija Muriel
+
+547
+00:48:23,366 --> 00:48:25,891
+regresaron a Londres
+después de un mes en Bath.
+
+548
+00:48:31,274 --> 00:48:32,605
+Ven aquí.
+
+549
+00:48:38,315 --> 00:48:42,445
+Siéntate para que pueda verte, cariño.
+
+550
+00:48:47,924 --> 00:48:50,893
+- Dilo en voz alta.
+- ¿De qué estás hablando?
+
+551
+00:48:52,829 --> 00:48:56,128
+¿No crees que puedo leer
+tus pensamientos, ramera?
+
+552
+00:48:56,600 --> 00:48:59,899
+Me odias, ¿verdad? ¡No soy bueno para ti!
+
+553
+00:49:00,003 --> 00:49:02,938
+No soy un caballero
+bueno y generoso como...
+
+554
+00:49:03,740 --> 00:49:08,234
+Esos caballeros buenos y generosos
+que dan gusto mirar y tan...
+
+555
+00:49:09,412 --> 00:49:11,175
+¡Cobardes! ¡Debiluchos!
+
+556
+00:49:14,918 --> 00:49:17,216
+Dime que me odias. Por favor, corderita.
+
+557
+00:49:17,287 --> 00:49:20,279
+Mi querida, dulce y bella pajarita,
+dime que me odias.
+
+558
+00:49:20,357 --> 00:49:23,793
+- No sé de qué estás hablando.
+- ¿No lo sabes, corderita?
+
+559
+00:49:24,828 --> 00:49:28,355
+- ¿Entonces no me odias?
+- No.
+
+560
+00:49:29,933 --> 00:49:33,266
+Si no me odias, debes amarme.
+
+561
+00:49:33,637 --> 00:49:37,095
+- ¿No es así, chiquita? ¿No es así?
+- Sí.
+
+562
+00:49:38,809 --> 00:49:42,905
+Cómo debes amarme. Quiero oírtelo decir.
+
+563
+00:49:43,346 --> 00:49:46,804
+- Dilo. Vamos, mi mujerzuela. ¡Dilo!
+- ¡Sí!
+
+564
+00:49:46,883 --> 00:49:48,214
+Claro.
+
+565
+00:49:52,322 --> 00:49:54,950
+Te tengo malas noticias, querida.
+
+566
+00:49:56,026 --> 00:49:57,288
+Muy malas.
+
+567
+00:50:00,730 --> 00:50:03,255
+Me iré por unos días.
+
+568
+00:50:06,770 --> 00:50:10,206
+Caramba, pareces contenta.
+
+569
+00:50:11,474 --> 00:50:14,307
+- Estás contenta, ¿verdad?
+- No, no lo estoy.
+
+570
+00:50:14,377 --> 00:50:15,969
+¡Estás contenta!
+
+571
+00:50:17,614 --> 00:50:20,708
+Pero los placeres
+duran poco en el mundo, cariño...
+
+572
+00:50:21,384 --> 00:50:24,444
+y el tuyo es muy incierto...
+
+573
+00:50:25,856 --> 00:50:29,519
+porque no sabes
+cuándo regresaré. ¿Verdad?
+
+574
+00:50:30,427 --> 00:50:32,657
+- No.
+- "No."
+
+575
+00:50:33,797 --> 00:50:36,527
+Recuerda que me perteneces, ¿me oyes?
+
+576
+00:50:38,301 --> 00:50:41,737
+Te lo advierto, si haces algo
+que no me guste mientras no estoy...
+
+577
+00:50:41,805 --> 00:50:44,296
+por insignificante que sea...
+
+578
+00:50:44,875 --> 00:50:48,333
+te mostraré el significado del horror.
+
+579
+00:50:57,721 --> 00:50:59,382
+¿Te vas ahora?
+
+580
+00:51:01,591 --> 00:51:03,286
+- ¿Esta noche?
+- Ahora.
+
+581
+00:51:04,828 --> 00:51:07,319
+¿Por qué, cariño, me sorprendes?
+
+582
+00:51:08,899 --> 00:51:11,333
+¿Qué despedida sería ésa?
+
+583
+00:51:12,669 --> 00:51:15,502
+No querrías que me fuera
+esta noche, ¿verdad?
+
+584
+00:51:15,839 --> 00:51:19,206
+¿Me dejarías ir esta noche? ¿Sí?
+
+585
+00:51:21,378 --> 00:51:24,074
+- No.
+- Claro que no.
+
+586
+00:51:24,948 --> 00:51:27,314
+No sería digno de nuestro gran amor.
+
+587
+00:51:30,620 --> 00:51:33,817
+No, querida, no me iré ahora.
+
+588
+00:51:34,991 --> 00:51:39,724
+Pasaré la noche aquí contigo
+como tú deseas.
+
+589
+00:51:40,263 --> 00:51:41,855
+Di: "Como yo deseo."
+
+590
+00:51:43,366 --> 00:51:46,927
+- "Como yo deseo."
+- Muy bien, mi pajarita.
+
+591
+00:51:47,904 --> 00:51:51,340
+La última noche es siempre la más dulce.
+
+592
+00:51:52,375 --> 00:51:55,606
+Y ésta será una gran despedida.
+
+593
+00:51:56,112 --> 00:51:58,046
+Una gran despedida.
+
+594
+00:51:59,049 --> 00:52:02,143
+No sé si podré separarme de ti.
+
+595
+00:52:02,218 --> 00:52:04,812
+Quizá sólo llegaré hasta la puerta...
+
+596
+00:52:04,888 --> 00:52:07,948
+y la visión de tus lágrimas
+harán que regrese.
+
+597
+00:52:09,092 --> 00:52:12,619
+- ¿Te complace eso, querida?
+- Sí.
+
+598
+00:52:13,530 --> 00:52:17,261
+¿Entonces por qué no lo demuestras?
+¿Por qué no bailas?
+
+599
+00:52:18,034 --> 00:52:21,333
+¿Por qué no cantas? ¡Canta, querida!
+
+600
+00:52:21,972 --> 00:52:23,735
+¡Canta, mi palomita!
+
+601
+00:52:24,140 --> 00:52:26,938
+¡Levántate y canta! ¿Me oyes?
+
+602
+00:52:49,332 --> 00:52:52,267
+Querida, mira qué ajustada está tu liga.
+
+603
+00:52:52,502 --> 00:52:54,231
+No debes usarla tan ajustada.
+
+604
+00:52:54,304 --> 00:52:57,398
+Magullará tu bella y tierna carne.
+
+605
+00:53:28,438 --> 00:53:29,928
+Su té, señor.
+
+606
+00:53:32,208 --> 00:53:33,835
+Gracias, Poole.
+
+607
+00:53:34,811 --> 00:53:36,836
+Saldré en un momento.
+
+608
+00:53:37,680 --> 00:53:41,616
+- La Srta. Muriel regresa hoy a Londres.
+- Muy bien, señor.
+
+609
+00:53:45,055 --> 00:53:47,888
+- ¿Ves esta llave, Poole?
+- Sí, señor.
+
+610
+00:53:49,159 --> 00:53:52,822
+Es la llave de la puerta de atrás
+del laboratorio, señor.
+
+611
+00:53:55,198 --> 00:53:57,496
+Ya no la usaré.
+
+612
+00:54:07,477 --> 00:54:11,038
+A partir de ahora,
+sólo usaré la puerta del frente.
+
+613
+00:54:11,881 --> 00:54:13,143
+Sí, señor.
+
+614
+00:54:28,698 --> 00:54:32,065
+Entrégale esto a la Srta. Ivy Pearson,
+en Diadem Court, Soho.
+
+615
+00:54:32,802 --> 00:54:36,294
+- ¿Algún mensaje, señor?
+- No. Entrégaselo y regresa.
+
+616
+00:54:37,807 --> 00:54:41,834
+- Hyde te matará uno de estos días.
+- Ojalá me matara. Ojalá lo hiciera.
+
+617
+00:54:41,911 --> 00:54:43,674
+¿Por qué no huyes?
+
+618
+00:54:43,746 --> 00:54:46,306
+¿Adónde? Me encontraría donde estuviera.
+
+619
+00:54:46,382 --> 00:54:49,681
+¿Y por qué no vas con la policía?
+Ellos sabrían qué hacer con Hyde.
+
+620
+00:54:49,752 --> 00:54:51,276
+No. Tengo miedo.
+
+621
+00:54:52,055 --> 00:54:54,683
+No hay nadie que pueda ayudarme.
+
+622
+00:54:54,958 --> 00:54:58,018
+¿A quién le interesa
+lo que le pasa a la gente como yo?
+
+623
+00:55:00,964 --> 00:55:01,988
+Adelante.
+
+624
+00:55:05,668 --> 00:55:07,499
+¿La Srta. Ivy Pearson?
+
+625
+00:55:09,172 --> 00:55:12,767
+- Soy yo.
+- Mi amo, el Dr. Jekyll, le envía esto.
+
+626
+00:55:12,842 --> 00:55:16,039
+- ¿El Dr. Henry L. Jekyll?
+- Así es.
+
+627
+00:55:16,446 --> 00:55:19,244
+Dijo que no esperara respuesta.
+Adiós, señorita.
+
+628
+00:55:24,120 --> 00:55:26,088
+No conozco al Dr. Jekyll.
+
+629
+00:55:29,325 --> 00:55:30,792
+¡50 libras!
+
+630
+00:55:31,394 --> 00:55:34,386
+Bueno, él te conoce, querida.
+
+631
+00:55:35,231 --> 00:55:36,755
+¡Estoy sorprendida!
+
+632
+00:55:37,100 --> 00:55:39,898
+50 libras del famoso Dr. Jekyll.
+
+633
+00:55:39,969 --> 00:55:43,496
+Es un gran caballero,
+siempre ayuda a los que lo necesitan.
+
+634
+00:55:43,573 --> 00:55:46,201
+Querida, si te envía 50 libras...
+
+635
+00:55:46,276 --> 00:55:48,210
+es porque está interesado en ti.
+
+636
+00:55:48,278 --> 00:55:51,145
+¿Por qué no vas
+y se lo agradeces como corresponde?
+
+637
+00:55:51,247 --> 00:55:54,239
+Luego podrías contarle todo
+acerca de Hyde.
+
+638
+00:55:54,317 --> 00:55:57,844
+Él le enseñará a ese tipo
+cómo comportarse. Ya verás.
+
+639
+00:55:58,154 --> 00:56:01,385
+Me hiciste sufrir tanto
+y ahora no me dices nada.
+
+640
+00:56:01,457 --> 00:56:04,893
+Ningún hombre jamás necesitó o amó
+a alguien...
+
+641
+00:56:04,961 --> 00:56:06,861
+como yo te necesito y te amo.
+
+642
+00:56:07,030 --> 00:56:09,055
+No sé qué decir...
+
+643
+00:56:09,132 --> 00:56:11,794
+pero si hubieras estado enfermo,
+habría sido diferente.
+
+644
+00:56:11,868 --> 00:56:13,460
+Estuve enfermo, cariño.
+
+645
+00:56:13,536 --> 00:56:16,130
+¿Por qué no me lo dijiste?
+Hubiera regresado.
+
+646
+00:56:16,206 --> 00:56:19,141
+No estaba enfermo del cuerpo.
+Estaba enfermo del alma.
+
+647
+00:56:19,209 --> 00:56:22,906
+Los sufrimientos del espíritu
+son muy difíciles de comunicar...
+
+648
+00:56:22,979 --> 00:56:24,446
+incluso a los que amas.
+
+649
+00:56:24,514 --> 00:56:28,814
+¿Crees que hay algo de ti
+que yo no entendería?
+
+650
+00:56:28,885 --> 00:56:32,343
+Sé que eres dulce y comprensiva, pero...
+
+651
+00:56:34,891 --> 00:56:36,791
+no puedo explicártelo.
+
+652
+00:56:38,528 --> 00:56:41,395
+Hice experimentos
+con conocimientos peligrosos.
+
+653
+00:56:43,233 --> 00:56:47,192
+Recorrí un camino extraño y peligroso.
+
+654
+00:56:48,705 --> 00:56:50,229
+Ayúdame a regresar.
+
+655
+00:56:50,873 --> 00:56:52,534
+Oh, cariño.
+
+656
+00:56:52,675 --> 00:56:55,473
+Cuando seas enteramente mío
+para amar y cuidar...
+
+657
+00:56:55,612 --> 00:56:59,241
+seré paciente como la tierra contigo.
+
+658
+00:56:59,682 --> 00:57:03,083
+Entonces no esperemos más.
+Casémonos ya.
+
+659
+00:57:03,286 --> 00:57:07,245
+Lo deseo con todo mi corazón.
+Tómame. Y hazlo pronto.
+
+660
+00:57:07,557 --> 00:57:10,048
+Te amo y quiero ayudarte.
+
+661
+00:57:17,967 --> 00:57:20,026
+No esperaba encontrarlo aquí, señor.
+
+662
+00:57:20,103 --> 00:57:22,901
+Acabo de disculparme con Muriel.
+
+663
+00:57:23,640 --> 00:57:26,404
+- ¿Y conmigo?
+- Permítame hacerlo con usted, señor...
+
+664
+00:57:26,476 --> 00:57:28,569
+y confiar en que será indulgente.
+
+665
+00:57:29,112 --> 00:57:31,842
+Aún no ha explicado nada, señor.
+
+666
+00:57:33,316 --> 00:57:36,046
+No estuve bien, señor. Estuve enfermo.
+
+667
+00:57:36,352 --> 00:57:37,478
+¿Enfermo?
+
+668
+00:57:38,988 --> 00:57:41,388
+Claro, en ese caso,
+no hablaremos más del tema.
+
+669
+00:57:41,457 --> 00:57:44,585
+Gracias, señor. ¿Podría aprovechar
+aún más su indulgencia?
+
+670
+00:57:44,661 --> 00:57:48,620
+- Sí. ¿De qué se trata?
+- Su consentimiento para casarnos.
+
+671
+00:57:48,731 --> 00:57:51,393
+Por favor, papá. Di que sí.
+Harry me necesita.
+
+672
+00:57:51,467 --> 00:57:54,436
+- Ya te lo dije.
+- Somos muy infelices separados.
+
+673
+00:57:54,504 --> 00:57:57,598
+Por favor, papá. Éste es el pedido
+más importante de mi vida.
+
+674
+00:57:57,674 --> 00:58:01,508
+- No veo por qué debería cambiar de idea.
+- ¿Mi felicidad no es razón suficiente?
+
+675
+00:58:01,577 --> 00:58:04,637
+Se lo aseguro, señor, no se arrepentirá.
+
+676
+00:58:04,714 --> 00:58:08,673
+Para ser franco, Jekyll,
+su conducta no me satisface en absoluto.
+
+677
+00:58:09,519 --> 00:58:12,579
+- No comprendo, señor.
+- Espero que un hombre de su posición...
+
+678
+00:58:12,655 --> 00:58:15,249
+respete ciertas tradiciones.
+
+679
+00:58:16,192 --> 00:58:20,686
+Deseo que siente cabeza
+antes de confiar mi hija a su cuidado.
+
+680
+00:58:21,097 --> 00:58:23,429
+Es demasiado inconstante e impaciente...
+
+681
+00:58:23,499 --> 00:58:25,763
+Créame, esos errores serán corregidos.
+
+682
+00:58:25,835 --> 00:58:28,804
+- Le doy mi palabra de honor.
+- Por favor, papá.
+
+683
+00:58:28,905 --> 00:58:31,032
+Se trata de mi vida.
+
+684
+00:58:31,908 --> 00:58:33,170
+Por favor.
+
+685
+00:58:35,478 --> 00:58:38,106
+Bien, veo que haces caso omiso
+de lo que digo.
+
+686
+00:58:38,815 --> 00:58:41,340
+Jekyll, recuerde que me dio
+su palabra honor.
+
+687
+00:58:41,417 --> 00:58:42,645
+Sí, señor.
+
+688
+00:58:43,319 --> 00:58:46,152
+Muy bien. Se casarán el mes que viene.
+
+689
+00:58:46,322 --> 00:58:50,190
+Venga a cenar mañana y lo anunciaremos
+formalmente a nuestros amigos.
+
+690
+00:58:50,259 --> 00:58:52,386
+Gracias, señor.
+¡Diantre, me ha hecho feliz!
+
+691
+00:58:52,462 --> 00:58:55,556
+- Podría cantar o bailar o rodar un aro...
+- Jekyll, no.
+
+692
+00:58:55,631 --> 00:58:58,896
+Disculpe, señor. Hasta mañana, cariño.
+
+693
+00:59:00,570 --> 00:59:02,470
+- Adiós, señor.
+- Adiós.
+
+694
+00:59:14,317 --> 00:59:16,251
+¡Poole, querido amigo!
+
+695
+00:59:16,953 --> 00:59:20,480
+- ¡Soy un hombre muy feliz!
+- ¡Me alegra oírlo!
+
+696
+00:59:20,556 --> 00:59:23,389
+¡Feliz, diantre! ¡Feliz!
+
+697
+00:59:23,659 --> 00:59:27,390
+"...el día jocundo posa sus pies
+en las cimas brumosas de las montañas."
+
+698
+00:59:27,463 --> 00:59:28,555
+Sí, señor.
+
+699
+00:59:29,098 --> 00:59:30,793
+¿Me permite su capa, señor?
+
+700
+00:59:30,867 --> 00:59:33,665
+Sí, Poole. Toma, querido amigo.
+
+701
+00:59:34,103 --> 00:59:36,264
+Me casaré, Poole. El mes que viene.
+
+702
+00:59:36,339 --> 00:59:39,365
+Imagina. En unas semanas,
+ella estará bajo este mismo techo...
+
+703
+00:59:39,442 --> 00:59:42,002
+en esta misma sala, como mi esposa.
+
+704
+00:59:42,278 --> 00:59:44,746
+Imagina, Poole, y déjame ver tu rostro.
+
+705
+00:59:44,947 --> 00:59:48,815
+¡Sí, señor! ¡Permítame felicitarlo, señor!
+
+706
+00:59:50,553 --> 00:59:53,716
+- "Si la música nutre el amor, toquen."
+- Sí.
+
+707
+01:00:19,782 --> 01:00:21,306
+Disculpe, señor...
+
+708
+01:00:21,384 --> 01:00:24,478
+pero la Srta. Pearson lo espera
+en el consultorio.
+
+709
+01:00:24,554 --> 01:00:25,578
+¿Pearson?
+
+710
+01:00:25,655 --> 01:00:28,215
+La joven a la que le envió el sobre, señor.
+
+711
+01:00:29,559 --> 01:00:32,926
+- ¿Qué desea?
+- Quiere hacerle una consulta, señor.
+
+712
+01:00:39,135 --> 01:00:42,593
+- Muy bien. Tráela hasta aquí.
+- Sí, señor.
+
+713
+01:01:03,993 --> 01:01:07,224
+- ¡Pero si es usted, señor!
+- Así es.
+
+714
+01:01:08,965 --> 01:01:10,796
+¿Quién lo hubiera imaginado?
+
+715
+01:01:11,234 --> 01:01:15,398
+¿Quién hubiera imaginado
+que encontraría al célebre Dr. Jekyll?
+
+716
+01:01:17,473 --> 01:01:21,136
+- Así que usted me envió este dinero.
+- Sí.
+
+717
+01:01:22,945 --> 01:01:26,642
+Desde el momento que lo vi,
+supe que tenía un corazón generoso.
+
+718
+01:01:27,083 --> 01:01:31,110
+- ¿Pero por qué lo hizo, señor?
+- Alguien me dijo que lo necesitaba.
+
+719
+01:01:31,187 --> 01:01:32,484
+- ¿Quién, señor?
+- Olvídelo.
+
+720
+01:01:32,555 --> 01:01:36,286
+Lo importante es que lo tiene.
+Y que se lo merece.
+
+721
+01:01:36,359 --> 01:01:38,156
+No puedo aceptarlo, señor.
+
+722
+01:01:38,861 --> 01:01:40,658
+- ¿Por qué no?
+- ¿Por qué?
+
+723
+01:01:42,298 --> 01:01:44,789
+¡Por esto!
+
+724
+01:01:44,934 --> 01:01:47,368
+Bonito, ¿no? Fue con un látigo.
+
+725
+01:01:48,137 --> 01:01:49,832
+¡Qué horrible!
+
+726
+01:01:50,740 --> 01:01:53,004
+Le daré una loción para que se alivie.
+
+727
+01:01:53,075 --> 01:01:55,976
+Gracias, señor,
+pero una loción no me sanará, señor.
+
+728
+01:01:56,045 --> 01:02:00,004
+No, señor. Es más que eso, señor.
+Necesito ayuda.
+
+729
+01:02:00,283 --> 01:02:02,046
+No puedo soportarlo más.
+
+730
+01:02:02,218 --> 01:02:04,550
+- ¿Qué sucede?
+- Se trata de Hyde, señor.
+
+731
+01:02:05,688 --> 01:02:09,419
+Es él quien lo ha hecho, y mucho más
+de lo que puedo contar, señor.
+
+732
+01:02:09,492 --> 01:02:12,359
+No es humano, señor. Es una bestia.
+
+733
+01:02:12,428 --> 01:02:15,761
+No me deja ir, y yo tengo miedo de huir.
+
+734
+01:02:16,666 --> 01:02:20,602
+¡Intenté ahogarme, pero no puedo!
+
+735
+01:02:22,271 --> 01:02:24,205
+¡Y si no me ayuda...
+
+736
+01:02:24,473 --> 01:02:27,738
+usted que tiene el corazón
+más generoso del mundo, señor...
+
+737
+01:02:28,544 --> 01:02:30,842
+deme veneno para que pueda matarme!
+
+738
+01:02:30,913 --> 01:02:34,178
+- ¿Por qué no fue con la policía?
+- Tenía miedo.
+
+739
+01:02:35,051 --> 01:02:38,179
+Usted no lo conoce, señor.
+No es un hombre. Es un demonio.
+
+740
+01:02:38,254 --> 01:02:40,415
+Lee los pensamientos.
+
+741
+01:02:40,489 --> 01:02:42,787
+¡Le tengo miedo!
+
+742
+01:02:43,059 --> 01:02:46,324
+¡Si se entera de que estuve aquí hoy,
+no sé lo que hará!
+
+743
+01:02:46,395 --> 01:02:49,626
+¡No será nada humano, señor! ¡Sálveme!
+
+744
+01:02:51,133 --> 01:02:53,658
+¡Apártelo de mí!
+¡Haré lo que usted me pida!
+
+745
+01:02:53,970 --> 01:02:55,699
+Seré su esclava.
+
+746
+01:02:56,772 --> 01:02:58,000
+¡Ayúdeme!
+
+747
+01:03:08,651 --> 01:03:10,516
+Usted es bueno.
+
+748
+01:03:11,887 --> 01:03:14,947
+No permitirá que regrese con él,
+¿verdad, señor?
+
+749
+01:03:16,859 --> 01:03:18,417
+Usted es un ángel.
+
+750
+01:03:28,638 --> 01:03:30,663
+Haré lo que me pida.
+
+751
+01:03:31,974 --> 01:03:34,204
+No soy tan mala como piensa...
+
+752
+01:03:35,011 --> 01:03:37,070
+ni tampoco soy fea.
+
+753
+01:03:39,315 --> 01:03:42,216
+Trabajaré para usted. Seré su esclava.
+
+754
+01:03:42,952 --> 01:03:44,442
+Lo amaré.
+
+755
+01:03:46,989 --> 01:03:49,219
+Yo le gusté una vez, ¿verdad?
+
+756
+01:03:51,460 --> 01:03:53,087
+¿Por qué no...?
+
+757
+01:04:08,144 --> 01:04:11,671
+Le doy mi palabra de que Hyde
+nunca más volverá a molestarla.
+
+758
+01:04:11,747 --> 01:04:14,307
+¡No, señor!
+¡Él regresará y me matará, señor!
+
+759
+01:04:14,684 --> 01:04:17,016
+No regresará. Yo me ocuparé de eso.
+
+760
+01:04:17,086 --> 01:04:20,112
+Pero usted no lo conoce, señor.
+No es humano.
+
+761
+01:04:21,057 --> 01:04:24,356
+Le di mi palabra y nunca falto a ella.
+
+762
+01:04:25,895 --> 01:04:29,763
+No volverá a ver a Hyde. Créame.
+
+763
+01:04:33,669 --> 01:04:35,398
+Le creo, señor.
+
+764
+01:04:46,082 --> 01:04:48,573
+- Ahora debe irse.
+- Sí, señor.
+
+765
+01:05:15,945 --> 01:05:19,574
+Disculpe, señor,
+¿será una reunión importante?
+
+766
+01:05:19,782 --> 01:05:23,047
+No particularmente.
+Estarán los amigotes del general Carew.
+
+767
+01:05:23,552 --> 01:05:25,713
+No validarían el matrimonio...
+
+768
+01:05:25,788 --> 01:05:28,723
+a menos que fuera anunciado formalmente
+en una cena.
+
+769
+01:05:28,791 --> 01:05:32,352
+Quizá pronto esté dando
+una cena formal usted mismo, señor.
+
+770
+01:05:32,428 --> 01:05:33,827
+Quizá, Poole.
+
+771
+01:05:33,896 --> 01:05:36,126
+- ¿Llamo al coche, señor?
+- No, gracias.
+
+772
+01:05:36,198 --> 01:05:38,359
+- Caminar por el parque me hará bien.
+- Sí.
+
+773
+01:05:38,567 --> 01:05:40,899
+- Es temprano.
+- Me alegro de que sea así.
+
+774
+01:05:40,970 --> 01:05:44,064
+Querida, te deseo la mayor
+de las felicidades.
+
+775
+01:05:44,140 --> 01:05:46,540
+- Gracias, Dr. Lanyon.
+- ¿Cómo está, General?
+
+776
+01:06:06,228 --> 01:06:09,857
+"¡No conoces la muerte, pájaro inmortal!"
+
+777
+01:06:10,800 --> 01:06:13,496
+"No te hallará caído
+generación hambrienta..."
+
+778
+01:06:17,039 --> 01:06:19,599
+"No conoces la muerte..."
+
+779
+01:06:38,561 --> 01:06:41,655
+"No conoces la muerte..."
+
+780
+01:07:18,100 --> 01:07:20,295
+¡Pero está muerto!
+
+781
+01:07:45,027 --> 01:07:46,426
+Es tarde.
+
+782
+01:07:50,900 --> 01:07:54,267
+- Es muy extraño, no oí nada.
+- No entiendo.
+
+783
+01:07:59,241 --> 01:08:02,904
+Claro, es un hombre muy ocupado.
+Probablemente se vio demorado.
+
+784
+01:08:03,846 --> 01:08:06,212
+¿Le habrá pasado algo a Harry,
+Sr. Utterson?
+
+785
+01:08:06,282 --> 01:08:08,978
+¿En una noche como ésta,
+querida? Tonterías.
+
+786
+01:08:09,051 --> 01:08:10,541
+¿Y por qué se demora?
+
+787
+01:08:10,619 --> 01:08:14,282
+Tranquila, querida.
+No es su tardanza. Es tu impaciencia.
+
+788
+01:08:14,356 --> 01:08:16,256
+Llegará en cualquier momento.
+
+789
+01:08:17,393 --> 01:08:18,724
+Espero que sí.
+
+790
+01:08:39,682 --> 01:08:42,981
+Espero que Hyde se pudra donde esté...
+
+791
+01:08:43,085 --> 01:08:45,383
+y que arda en el infierno.
+
+792
+01:08:48,958 --> 01:08:51,392
+Y espero que el Dr. Jekyll...
+
+793
+01:08:51,460 --> 01:08:54,691
+se acuerde de Ivy de vez en cuando.
+
+794
+01:08:56,131 --> 01:08:57,928
+Él es un ángel.
+
+795
+01:08:59,168 --> 01:09:01,762
+Por ti, mi ángel.
+
+796
+01:09:35,404 --> 01:09:37,929
+Pensaste que no regresaría, ¿verdad?
+
+797
+01:09:38,007 --> 01:09:41,704
+Creíste más en la palabra
+del hipócrita de Jekyll que en la mía.
+
+798
+01:09:41,777 --> 01:09:44,177
+¿La palabra de Jekyll contra la de Hyde?
+
+799
+01:09:44,346 --> 01:09:47,611
+¡Sé todo lo que haces
+y todo lo que piensas!
+
+800
+01:09:48,350 --> 01:09:50,215
+¡Te arrodillaste ante él...
+
+801
+01:09:50,285 --> 01:09:52,753
+el hombre que odio
+más que a nadie en el mundo!
+
+802
+01:09:54,590 --> 01:09:57,252
+"Seré su esclava. Lo amaré.
+
+803
+01:09:57,760 --> 01:09:59,660
+"Usted es un ángel, señor."
+
+804
+01:10:00,596 --> 01:10:03,292
+Querías que él te amara, ¿verdad?
+
+805
+01:10:03,732 --> 01:10:05,757
+Te daré un amante ahora.
+
+806
+01:10:06,702 --> 01:10:10,433
+- ¡Su nombre es muerte!
+- ¡No! ¡No fue así!
+
+807
+01:10:14,777 --> 01:10:19,077
+¿No fue así, mi pajarita?
+Mi pequeño estornino.
+
+808
+01:10:19,848 --> 01:10:23,579
+¡Mientes, mujerzuela!
+¡Tienes aquí su dinero!
+
+809
+01:10:24,486 --> 01:10:25,817
+Has de ser el demonio.
+
+810
+01:10:25,888 --> 01:10:28,118
+Allí sólo estábamos el Dr. Jekyll y yo.
+
+811
+01:10:28,190 --> 01:10:30,681
+¡Él no te lo habría dicho! ¡No, no lo haría!
+
+812
+01:10:30,759 --> 01:10:33,159
+¿Lo haría?
+
+813
+01:10:33,262 --> 01:10:34,627
+Escucha, querida.
+
+814
+01:10:35,464 --> 01:10:37,955
+Te contaré un secreto.
+
+815
+01:10:38,033 --> 01:10:39,967
+¡Un secreto tan grande...
+
+816
+01:10:40,335 --> 01:10:43,236
+que los que lo comparten conmigo
+no pueden vivir!
+
+817
+01:10:45,474 --> 01:10:48,204
+¡Yo soy Jekyll!
+
+818
+01:10:50,479 --> 01:10:54,745
+¡Yo soy el ángel
+al que querías servir y amar!
+
+819
+01:10:55,284 --> 01:10:58,344
+¡Y ahora te tomaré fuertemente
+entre mis brazos!
+
+820
+01:10:58,420 --> 01:11:01,150
+Fuertemente, mi corderita. ¡Mi paloma!
+
+821
+01:11:01,423 --> 01:11:02,720
+¡Mi pájaro!
+
+822
+01:11:25,414 --> 01:11:28,178
+Tranquila, cariño.
+
+823
+01:11:29,017 --> 01:11:32,043
+Tranquila, mi paloma.
+
+824
+01:11:32,855 --> 01:11:36,291
+Tranquila, mi pequeña esposa.
+
+825
+01:11:38,093 --> 01:11:41,392
+¿No es Hyde el amante de tu corazón?
+
+826
+01:11:55,511 --> 01:11:57,570
+¡Algo horrible está pasando ahí arriba!
+
+827
+01:11:57,646 --> 01:11:59,477
+- ¿Oyeron?
+- Vamos.
+
+828
+01:12:03,952 --> 01:12:06,182
+- ¡Demonio asesino!
+- ¡Socorro!
+
+829
+01:12:12,227 --> 01:12:13,922
+¡Deténganlo!
+
+830
+01:12:26,642 --> 01:12:29,941
+- El monstruo hizo esto.
+- Lo conozco. Se llama Hyde.
+
+831
+01:13:04,146 --> 01:13:07,047
+- Déjeme entrar. Soy amigo del Dr. Jekyll.
+- ¡Él no está!
+
+832
+01:13:07,115 --> 01:13:09,743
+¡Lo sé, imbécil! Me dijo que lo esperara.
+
+833
+01:13:09,818 --> 01:13:14,084
+- ¡Deberá regresar más tarde!
+- ¡Abra la puerta, o la romperé!
+
+834
+01:13:22,965 --> 01:13:25,593
+Querida, no puedo decirte
+cuánto lo siento...
+
+835
+01:13:25,734 --> 01:13:30,296
+pero deseo de todo corazón que Jekyll
+tenga una explicación.
+
+836
+01:13:30,372 --> 01:13:32,966
+- Buenas noches, señor.
+- Buenas noches, Lanyon.
+
+837
+01:13:34,643 --> 01:13:37,874
+Golpearé a ese sinvergüenza de Jekyll
+si lo vuelvo a ver.
+
+838
+01:13:37,946 --> 01:13:40,210
+No, papá.
+Algo terrible debe de haber pasado.
+
+839
+01:13:40,282 --> 01:13:42,648
+Estoy segura de que tendrá una razón.
+Creo en él.
+
+840
+01:13:42,718 --> 01:13:45,209
+Te prohíbo volver a ver a ese hombre.
+
+841
+01:13:45,387 --> 01:13:48,220
+Lo amo, papá, y me casaré con él.
+
+842
+01:13:48,290 --> 01:13:51,657
+Muriel, no volverás a ver a ese hombre.
+
+843
+01:13:51,793 --> 01:13:54,387
+- Deprisa, deme un lápiz y papel.
+- Sí, señor.
+
+844
+01:13:54,463 --> 01:13:57,398
+Oye. Prepárate para llevar un mensaje.
+
+845
+01:13:57,599 --> 01:13:58,861
+Sí, señor.
+
+846
+01:14:04,039 --> 01:14:06,473
+- Hola, Briggs.
+- Buenas noches, señor.
+
+847
+01:14:07,709 --> 01:14:09,609
+Disculpe, señor.
+
+848
+01:14:09,678 --> 01:14:11,771
+Un mensajero trajo esto
+hace un momento.
+
+849
+01:14:11,847 --> 01:14:14,748
+- ¿En serio?
+- Dijo que era muy importante, señor.
+
+850
+01:14:17,686 --> 01:14:21,884
+Querido Lanyon, estoy mortalmente
+afligido y te ruego que hagas lo que pido.
+
+851
+01:14:21,957 --> 01:14:26,394
+Ve a mi laboratorio, toma del gabinete E
+
+852
+01:14:26,461 --> 01:14:30,625
+las ampollas siguientes
+y llévalas a tu casa.
+
+853
+01:14:30,699 --> 01:14:33,827
+Permanece allí a la medianoche,
+un hombre te pedirá el paquete.
+
+854
+01:14:33,902 --> 01:14:37,838
+Ponlo en sus manos.
+En nombre de Dios, no me falles.
+
+855
+01:14:37,906 --> 01:14:41,205
+Henry Jekyll. Ampollas A, H, S, T, R, M.
+
+856
+01:14:44,313 --> 01:14:46,406
+Saldré, Briggs, pero regresaré pronto.
+
+857
+01:14:46,481 --> 01:14:47,709
+Sí, señor.
+
+858
+01:14:51,887 --> 01:14:54,583
+Puedes acostarte.
+No te necesitaré más por esta noche.
+
+859
+01:14:54,656 --> 01:14:55,987
+Gracias, señor.
+
+860
+01:15:14,876 --> 01:15:17,344
+- Vengo de parte del Dr. Jekyll.
+- Adelante.
+
+861
+01:15:19,848 --> 01:15:21,440
+¿Lo tiene?
+
+862
+01:15:22,250 --> 01:15:23,581
+Sígame.
+
+863
+01:15:29,091 --> 01:15:30,456
+¿Lo tiene?
+
+864
+01:15:32,060 --> 01:15:35,655
+Adelante, señor. Se olvida de que no tengo
+el placer de conocerlo.
+
+865
+01:15:35,931 --> 01:15:37,523
+Disculpe, Dr. Lanyon.
+
+866
+01:15:37,599 --> 01:15:40,067
+Sabe a qué vengo. El Dr. Jekyll me envió.
+
+867
+01:15:40,168 --> 01:15:43,797
+- Es importante. Un paquete. ¿Está aquí?
+- Sí.
+
+868
+01:15:48,677 --> 01:15:51,510
+Aquí está, pero antes de entregárselo...
+
+869
+01:15:51,646 --> 01:15:54,444
+debo asegurarme
+de que el Dr. Jekyll está a salvo.
+
+870
+01:15:55,050 --> 01:15:56,847
+- ¿Dónde está?
+- Está sano y salvo.
+
+871
+01:15:56,918 --> 01:15:59,079
+- Le llevaré esto.
+- Iré con usted.
+
+872
+01:15:59,187 --> 01:16:02,281
+- Debo comprobar que está a salvo.
+- ¡Eso no es asunto suyo!
+
+873
+01:16:02,357 --> 01:16:03,449
+No se entrometa.
+
+874
+01:16:03,525 --> 01:16:06,426
+Lléveme con el Dr. Jekyll,
+o no saldrá de esta sala.
+
+875
+01:16:06,595 --> 01:16:08,062
+Le advierto, Lanyon, déjeme ir.
+
+876
+01:16:08,130 --> 01:16:10,496
+Si da un paso más hacia la puerta...
+
+877
+01:16:10,565 --> 01:16:12,760
+- le dispararé.
+- No sabe lo que hace.
+
+878
+01:16:12,834 --> 01:16:15,302
+No puedo decirle nada.
+Pregúntele a Jekyll mañana.
+
+879
+01:16:15,370 --> 01:16:19,170
+Me aseguraré de que el Dr. Jekyll
+está a salvo, o lo haré responsable.
+
+880
+01:16:21,543 --> 01:16:24,239
+Por última vez, Lanyon, ¿me dejará ir?
+
+881
+01:16:24,312 --> 01:16:26,177
+Por última vez, no.
+
+882
+01:16:27,516 --> 01:16:29,177
+Muy bien, Lanyon.
+
+883
+01:16:30,152 --> 01:16:32,382
+Será su responsabilidad.
+
+884
+01:17:05,487 --> 01:17:06,886
+Lanyon...
+
+885
+01:17:08,056 --> 01:17:11,423
+¿me permite beber este vaso
+e irme sin más preguntas?
+
+886
+01:17:11,693 --> 01:17:14,127
+Llegué demasiado lejos
+como para no ver el final.
+
+887
+01:17:14,196 --> 01:17:16,721
+¡Piénselo antes de tomar una decisión!
+
+888
+01:17:17,065 --> 01:17:19,056
+¿Quiere seguir siendo como es...
+
+889
+01:17:19,134 --> 01:17:22,865
+o quiere que sus ojos y su alma
+sean asaltados por una visión...
+
+890
+01:17:22,938 --> 01:17:24,667
+que aterraría al mismo demonio?
+
+891
+01:17:24,739 --> 01:17:28,641
+- No me persuadirá con esa historia.
+- Muy bien, Lanyon.
+
+892
+01:17:30,178 --> 01:17:32,806
+Recuerde los votos a su profesión.
+
+893
+01:17:33,248 --> 01:17:37,309
+Lo que verá es un secreto
+que jura no revelar.
+
+894
+01:17:41,356 --> 01:17:44,519
+Usted que se burló
+de los milagros de la ciencia...
+
+895
+01:17:45,160 --> 01:17:49,358
+usted que negó el poder del hombre
+de ver dentro de su propia alma...
+
+896
+01:17:49,965 --> 01:17:52,729
+usted que ridiculizó a sus superiores.
+
+897
+01:17:53,702 --> 01:17:54,760
+¡Mire!
+
+898
+01:19:16,851 --> 01:19:20,810
+No puedo creer lo que vi. No entiendo.
+
+899
+01:19:21,089 --> 01:19:23,887
+- Estoy en tus manos.
+- Es horrible.
+
+900
+01:19:24,292 --> 01:19:28,160
+- Soy un asesino, Lanyon. Ayúdame.
+- No mereces ayuda, Jekyll.
+
+901
+01:19:28,263 --> 01:19:30,527
+Has cometido la mayor de las blasfemias.
+
+902
+01:19:30,599 --> 01:19:31,691
+Te advertí...
+
+903
+01:19:31,766 --> 01:19:35,065
+que no se podían violar las tradiciones
+del hombre sin ser maldecido.
+
+904
+01:19:35,136 --> 01:19:37,263
+Aún no lo creo.
+
+905
+01:19:37,606 --> 01:19:39,039
+No seas mi inquisidor, Lanyon.
+
+906
+01:19:39,107 --> 01:19:41,302
+No me juzgues. Ayúdame.
+Estoy en tus manos.
+
+907
+01:19:41,376 --> 01:19:45,472
+No mereces ayuda
+ni piedad después de la muerte.
+
+908
+01:19:46,381 --> 01:19:50,044
+Eres un rebelde,
+y mira lo que has hecho de ti.
+
+909
+01:19:51,386 --> 01:19:54,184
+Estás bajo el poder de ese monstruo
+que has creado.
+
+910
+01:19:54,255 --> 01:19:56,883
+- Nunca más tomaré esa droga.
+- Sí.
+
+911
+01:19:57,225 --> 01:19:59,955
+Me dijiste que esta noche
+te convertiste en ese monstruo...
+
+912
+01:20:00,028 --> 01:20:01,928
+contra tu voluntad.
+
+913
+01:20:02,464 --> 01:20:04,762
+- Sucederá otra vez.
+- Nunca más. Estoy seguro.
+
+914
+01:20:04,833 --> 01:20:08,894
+- Pelearé contra él. Lo venceré.
+- Es demasiado tarde. No puedes vencerlo.
+
+915
+01:20:09,304 --> 01:20:12,705
+- Te ha vencido él a ti.
+- No. Lucharé contra él.
+
+916
+01:20:13,108 --> 01:20:16,441
+Sé que no volverá a suceder. Ayúdame.
+
+917
+01:20:18,780 --> 01:20:21,180
+¿Prometes, al menos,
+no preparar más esa droga?
+
+918
+01:20:21,249 --> 01:20:22,546
+Con mi corazón.
+
+919
+01:20:25,020 --> 01:20:27,511
+¿Y Muriel?
+
+920
+01:20:32,260 --> 01:20:33,852
+Me apartaré de ella.
+
+921
+01:20:36,831 --> 01:20:38,799
+Iré a verla mañana.
+
+922
+01:20:41,670 --> 01:20:43,137
+La dejaré libre.
+
+923
+01:21:01,156 --> 01:21:03,750
+ASESINATO, SOHO. - Anoche
+ocurrió un asesinato,
+
+924
+01:21:03,825 --> 01:21:05,759
+Ivy Pearson, de Diadem Court,
+
+925
+01:21:05,827 --> 01:21:08,057
+fue asesinada
+por un hombre llamado Hyde.
+
+926
+01:21:24,512 --> 01:21:25,843
+Oh, Dios...
+
+927
+01:21:26,715 --> 01:21:28,580
+no era mi intención.
+
+928
+01:21:29,884 --> 01:21:33,945
+Vi una luz,
+pero no pude ver adónde me llevaba.
+
+929
+01:21:35,824 --> 01:21:38,793
+Traspasé tu dominio.
+
+930
+01:21:40,962 --> 01:21:44,955
+Fui más lejos de lo que debí.
+
+931
+01:21:46,534 --> 01:21:47,762
+Perdóname.
+
+932
+01:21:48,570 --> 01:21:49,594
+Ayúdame.
+
+933
+01:23:14,656 --> 01:23:17,181
+Disculpe, señor. Es el Dr. Jekyll.
+
+934
+01:23:19,227 --> 01:23:22,196
+- Dile que no estamos en casa, Hobson.
+- Papá, no, hazlo por mí.
+
+935
+01:23:22,263 --> 01:23:23,594
+¿Osa entrar a esta casa?
+
+936
+01:23:23,665 --> 01:23:25,496
+No tenemos el derecho de juzgarlo.
+
+937
+01:23:25,567 --> 01:23:28,365
+¿Juzgarlo? ¿Estás loca?
+El tipo es un canalla.
+
+938
+01:23:28,436 --> 01:23:31,098
+No permitiré que hables mal de él.
+
+939
+01:23:31,172 --> 01:23:33,072
+- Que pase, Hobson.
+- Pero yo...
+
+940
+01:23:35,743 --> 01:23:37,176
+No sé qué ha hecho...
+
+941
+01:23:37,245 --> 01:23:39,713
+pero es mejor persona
+que cualquiera de nosotros.
+
+942
+01:23:39,781 --> 01:23:43,114
+- ¡Silencio! ¡No quiero oír nada más!
+- ¡Hablaré!
+
+943
+01:23:43,184 --> 01:23:46,017
+Nunca lo entendimos
+ni tratamos de entenderlo.
+
+944
+01:23:46,087 --> 01:23:49,022
+Intentaste amoldarlo a tus deseos.
+No luché por él.
+
+945
+01:23:49,090 --> 01:23:52,150
+No sé lo que le sucedió,
+pero sé que está sufriendo...
+
+946
+01:23:52,227 --> 01:23:55,025
+y es por nuestra culpa,
+la mía más que nada.
+
+947
+01:23:55,697 --> 01:23:57,756
+Lo amo y voy a ayudarlo.
+
+948
+01:23:57,832 --> 01:24:01,324
+¡Esto es absurdo! ¡No lo permitiré!
+
+949
+01:24:09,811 --> 01:24:11,836
+No es bienvenido, señor.
+
+950
+01:24:12,447 --> 01:24:16,611
+Si hubiera sido mi decisión,
+le habría cerrado la puerta.
+
+951
+01:24:37,372 --> 01:24:38,737
+Discúlpame.
+
+952
+01:24:44,679 --> 01:24:46,476
+Cariño, ¿estás enfermo?
+
+953
+01:24:47,015 --> 01:24:48,676
+- ¿Qué sucede?
+- ¿Qué?
+
+954
+01:24:49,517 --> 01:24:50,882
+¿Qué sucede?
+
+955
+01:24:51,352 --> 01:24:53,843
+Cariño, ¿por qué estás sufriendo?
+
+956
+01:24:54,422 --> 01:24:56,652
+- Dime qué sucede.
+- ¿Decirte?
+
+957
+01:24:59,494 --> 01:25:01,485
+He venido a decirte...
+
+958
+01:25:03,231 --> 01:25:05,961
+He venido a dejarte en libertad.
+
+959
+01:25:08,036 --> 01:25:10,004
+- ¿Dejarme en libertad?
+- Sí.
+
+960
+01:25:10,338 --> 01:25:11,532
+¿Qué estás diciendo?
+
+961
+01:25:11,606 --> 01:25:13,938
+Si alguna vez me amaste,
+dime cuál es el problema.
+
+962
+01:25:14,008 --> 01:25:15,737
+¡Todo es un problema!
+
+963
+01:25:18,313 --> 01:25:21,805
+Ya no tengo derecho a ti.
+
+964
+01:25:21,883 --> 01:25:24,249
+- Pero ésa es mi decisión.
+- No.
+
+965
+01:25:24,319 --> 01:25:27,254
+Cariño, dímelo. ¿Qué sucede?
+
+966
+01:25:30,058 --> 01:25:32,356
+No. No tienes que explicar nada.
+
+967
+01:25:32,493 --> 01:25:35,053
+Sea lo que fuere,
+sé que no has hecho nada innoble.
+
+968
+01:25:35,129 --> 01:25:36,596
+¡Por favor, querida!
+
+969
+01:25:36,664 --> 01:25:38,928
+Por favor, ángel de Dios...
+
+970
+01:25:40,201 --> 01:25:41,930
+no digas nada más.
+
+971
+01:25:44,739 --> 01:25:46,263
+Te dejo en libertad.
+
+972
+01:25:47,008 --> 01:25:49,909
+Cariño, ¿es todo lo que vas a decirme?
+
+973
+01:25:49,978 --> 01:25:52,708
+- ¿Ya no me deseas?
+- ¿Desearte?
+
+974
+01:25:53,681 --> 01:25:57,117
+Te deseo tanto
+que envidio a los condenados.
+
+975
+01:25:59,687 --> 01:26:02,281
+- Estoy condenado.
+- No sabes lo que dices.
+
+976
+01:26:03,157 --> 01:26:04,590
+¿Crees que te dejaría ir?
+
+977
+01:26:04,659 --> 01:26:07,059
+Sólo dime que me amas, y seré tuya.
+
+978
+01:26:07,128 --> 01:26:09,096
+No me ocultes nada, cariño.
+
+979
+01:26:09,163 --> 01:26:12,792
+- Te amo y te ayudaré.
+- Mi amor. Cariño mío.
+
+980
+01:26:13,301 --> 01:26:14,825
+Bella mía...
+
+981
+01:26:15,269 --> 01:26:19,296
+si pudiera tomarte entre mis brazos,
+si sólo pudiera tocarte...
+
+982
+01:26:21,309 --> 01:26:22,708
+Piénsalo.
+
+983
+01:26:24,045 --> 01:26:27,208
+No me atrevería a volver a tocarte...
+
+984
+01:26:28,049 --> 01:26:31,416
+- en este mundo o en el próximo.
+- ¿Qué me estás ocultando?
+
+985
+01:26:31,486 --> 01:26:34,148
+Confía en mí. Cree en mí. Te ayudaré.
+
+986
+01:26:34,222 --> 01:26:38,022
+No. ¡No merezco ayuda, Muriel!
+¡Estoy en el infierno!
+
+987
+01:26:43,398 --> 01:26:45,889
+- ¡Debo apartarme de ti!
+- ¡Pero no lo permitiré!
+
+988
+01:26:45,967 --> 01:26:48,527
+- No.
+- Iré contigo adonde digas.
+
+989
+01:26:48,636 --> 01:26:51,104
+Te ayudaré con lo que sea.
+
+990
+01:26:52,540 --> 01:26:55,668
+¡Si sólo pudiera tenerte, daría mi alma...
+
+991
+01:26:55,743 --> 01:26:58,177
+pero no tengo alma!
+
+992
+01:26:59,714 --> 01:27:01,477
+¡Es insoportable!
+
+993
+01:27:02,717 --> 01:27:05,584
+- ¡Soy un muerto viviente!
+- ¡No te dejaré ir!
+
+994
+01:27:06,554 --> 01:27:09,887
+Querido, amor mío,
+no sufras, tranquilízate.
+
+995
+01:27:10,024 --> 01:27:13,790
+Descansa. No digas nada más.
+Tranquilízate y descansa.
+
+996
+01:27:22,370 --> 01:27:26,500
+- Déjame ir. Déjame ir ya.
+- No. Te amo. No te dejaré ir.
+
+997
+01:27:27,075 --> 01:27:29,305
+Te amo.
+
+998
+01:27:30,545 --> 01:27:32,536
+- Cariño mío.
+- ¡No!
+
+999
+01:27:33,915 --> 01:27:36,850
+Renuncio a ti porque te amo.
+
+1000
+01:27:37,618 --> 01:27:41,179
+Ésta es mi prueba. Éste es mi castigo.
+
+1001
+01:27:41,923 --> 01:27:43,686
+Oh, Dios, ¿me oyes?
+
+1002
+01:28:49,457 --> 01:28:51,448
+Oh, Dios. No lo permitas.
+
+1003
+01:28:52,326 --> 01:28:53,588
+¡Sálvame!
+
+1004
+01:29:57,525 --> 01:30:00,756
+¡Ayúdame! ¡Papá, ayúdame!
+
+1005
+01:30:11,005 --> 01:30:12,529
+¡Ayúdame, Hobson!
+
+1006
+01:30:35,496 --> 01:30:38,431
+¡Ayúdenme! ¡Policía!
+
+1007
+01:30:39,467 --> 01:30:41,128
+Quédate aquí. ¡Yo iré!
+
+1008
+01:30:59,654 --> 01:31:01,087
+Por aquí, agente.
+
+1009
+01:31:01,489 --> 01:31:02,751
+¡Deténganlo!
+
+1010
+01:31:28,182 --> 01:31:30,150
+¡Ayuda! ¡Policía!
+
+1011
+01:31:42,396 --> 01:31:44,455
+Ésta es el arma, doctor.
+
+1012
+01:31:47,301 --> 01:31:50,600
+Sé de quién es este bastón.
+Puedo llevarlos con el hombre.
+
+1013
+01:31:50,705 --> 01:31:52,195
+¡Tírenla abajo!
+
+1014
+01:31:52,740 --> 01:31:54,230
+Vamos, Bill. Dale un empujón.
+
+1015
+01:32:01,882 --> 01:32:05,750
+- ¡Ésta también está cerrada!
+- ¡Abra en nombre de la ley!
+
+1016
+01:32:06,854 --> 01:32:09,516
+¡Tírenla abajo!
+
+1017
+01:32:25,206 --> 01:32:28,141
+- ¿Dónde está?
+- Huyó por la puerta de atrás.
+
+1018
+01:32:28,209 --> 01:32:29,335
+¡Vamos!
+
+1019
+01:32:29,910 --> 01:32:33,004
+- ¡No te quedes mirando, idiota!
+- Sí, señor.
+
+1020
+01:32:42,757 --> 01:32:44,748
+Esa puerta está cerrada por fuera.
+
+1021
+01:32:44,825 --> 01:32:46,452
+Entonces vayan por el frente.
+
+1022
+01:32:46,527 --> 01:32:47,789
+Vamos, Scobie.
+
+1023
+01:32:47,928 --> 01:32:49,657
+- Quédense aquí.
+- ¡Esperen!
+
+1024
+01:32:50,331 --> 01:32:53,789
+- Ha escapado, señor.
+- Su hombre no ha escapado.
+
+1025
+01:33:04,645 --> 01:33:05,737
+¡Es él!
+
+1026
+01:33:06,847 --> 01:33:08,838
+¡Allí está! ¡Él es el hombre!
+
+1027
+01:33:09,350 --> 01:33:14,117
+- Pero, doctor, esto es imposible.
+- ¡Lo sé, pero él es el hombre!
+
+1028
+01:33:14,922 --> 01:33:18,119
+- Lo siento, señor. Parece hablar en serio...
+- ¡Mire!
+
+1029
+01:33:36,410 --> 01:33:37,934
+- ¡Vamos!
+- ¡Agárrenlo!
+
+1030
+01:33:41,849 --> 01:33:43,817
+¡Vamos!
+
+1031
+01:33:46,921 --> 01:33:48,479
+¡Cierren esa puerta!
+
+1032
+01:33:49,990 --> 01:33:53,084
+- ¡Cierren esa puerta!
+- ¡No dejen que se escape!
+
+1033
+01:33:54,728 --> 01:33:56,025
+¡Cuidado!
+
+1034
+01:34:07,942 --> 01:34:10,342
+- ¡Quieto, muchacho!
+- ¡Suelta el cuchillo!
+
+1035
+01:34:49,216 --> 01:34:50,683
+Dr. Jekyll.
+
+1036
+01:35:20,047 --> 01:35:24,984
+Fin
