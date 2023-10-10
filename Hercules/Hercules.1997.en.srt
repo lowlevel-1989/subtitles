@@ -1,5853 +1,5621 @@
 1
-00:00:18,392 --> 00:00:21,938
-Long ago, in the far away land
-of ancient Greece...
+00:00:35,619 --> 00:00:39,372
+Long ago,
+in the faraway land of ancient Greece,
 
 2
-00:00:22,104 --> 00:00:24,815
-there was a golden age
-of powerful gods...
+00:00:39,456 --> 00:00:44,919
+there was a golden age of powerful
+gods and extraordinary heroes.
 
 3
-00:00:24,982 --> 00:00:27,652
-and extraordinay heroes.
+00:00:45,003 --> 00:00:50,883
+And the greatest and strongest of all
+these heroes was the mighty Hercules.
 
 4
-00:00:27,818 --> 00:00:30,780
-And the greatest and strongest
-of all these heroes...
+00:00:50,968 --> 00:00:54,470
+But what is the measure of a true hero?
 
 5
-00:00:30,947 --> 00:00:33,658
-was the mighty Hercules.
+00:00:54,555 --> 00:00:57,557
+- Ah, that is what our stoy is...
+- Will you listen to him?
 
 6
-00:00:33,824 --> 00:00:36,494
-But what is the measure
-of a true hero?
+00:00:57,641 --> 00:01:00,560
+He's makin' the story sound like
+some Greek tragedy.
 
 7
-00:00:36,661 --> 00:00:38,746
-Ah, that is what our stoy is...
+00:01:00,644 --> 00:01:04,230
+- Lighten up, dude.
+- We'll take it from here, darling.
 
 8
-00:00:38,913 --> 00:00:40,248
-Will you listen to him?
-
-9
-00:00:40,414 --> 00:00:43,292
-He's makin' the story
-sound like some Greek tragedy.
-
-10
-00:00:43,459 --> 00:00:44,877
-Lighten up, dude.
-
-11
-00:00:45,044 --> 00:00:47,004
-We'll take it from here, darling.
-
-12
-00:00:47,171 --> 00:00:49,006
+00:01:04,314 --> 00:01:07,567
 You go, girl.
 
-13
-00:00:50,508 --> 00:00:52,552
-We are the muses...
+9
+00:01:07,651 --> 00:01:13,656
+We are the Muses, goddesses of
+the arts and proclaimers of heroes.
 
-14
-00:00:52,718 --> 00:00:56,305
-goddesses of the arts
-and proclaimers of heroes.
-
-15
-00:00:56,472 --> 00:00:58,140
+10
+00:01:13,741 --> 00:01:15,533
 Heroes like Hercules.
 
-16
-00:00:58,307 --> 00:01:00,184
-Honey, you mean "Hunk-ules".
+11
+00:01:15,617 --> 00:01:17,577
+Honey, you mean "Hunk-ules."
 
-17
-00:01:00,351 --> 00:01:02,562
+12
+00:01:17,661 --> 00:01:19,912
 Ooh, I'd like to make
 some sweet music with him...
 
+13
+00:01:19,997 --> 00:01:26,961
+Our story actually begins long before
+Hercules, many aeons ago.
+
+14
+00:01:27,286 --> 00:01:28,725
+<i><font color=yellow>♪ Ah</i>
+
+15
+00:01:28,756 --> 00:01:31,841
+<i><font color=yellow>♪ Back when the world was new</i>
+
+16
+00:01:31,925 --> 00:01:34,761
+<i><font color=yellow>- ♪ Whoa!
+<font color=yellow>- ♪ The planet Earth was down on its luck</i>
+
+17
+00:01:34,845 --> 00:01:40,683
+<i><font color=yellow>♪ And everywhere gigantic brutes
+called Titans ran amok</i>
+
 18
-00:01:02,728 --> 00:01:05,398
-Our story actually begins...
+00:01:40,768 --> 00:01:43,936
+<i><font color=yellow>♪ It was a nasty place</i>
 
 19
-00:01:05,565 --> 00:01:07,608
-long before Hercules...
+00:01:44,021 --> 00:01:46,939
+<i><font color=yellow>♪ There was a mess
+wherever you stepped</i>
 
 20
-00:01:07,733 --> 00:01:09,819
-many eons ago.
+00:01:47,024 --> 00:01:52,278
+<i><font color=yellow>♪ Where chaos reigned and the
+earthquakes and volcanoes never slept</i>
 
 21
-00:01:09,944 --> 00:01:11,487
-Ah
+00:01:52,362 --> 00:01:53,362
+<i><font color=yellow>♪ Whoo! Say it, girlfriend!</i>
 
 22
-00:01:11,654 --> 00:01:14,532
-Back when the world was new
+00:01:53,447 --> 00:01:55,072
+<i><font color=yellow>♪ And then along came Zeus</i>
 
 23
-00:01:14,699 --> 00:01:17,368
-- Whoa!
-- The planet Earth was down on its luck
+00:01:55,157 --> 00:01:57,950
+<i><font color=yellow>- ♪ He hurled his thunderbolt
+<font color=yellow>- ♪ He zapped</i>
 
 24
-00:01:17,535 --> 00:01:23,791
-And everywhere gigantic brutes
-called Titans ran amok
+00:01:58,035 --> 00:02:00,953
+<i><font color=yellow>- ♪ Locked those suckers in a vault
+<font color=yellow>- ♪ They're trapped</i>
 
 25
-00:01:23,958 --> 00:01:26,794
-It was a nasty place
+00:02:01,038 --> 00:02:05,416
+<i><font color=yellow>♪ And on his own
+stopped chaos in its tracks</i>
 
 26
-00:01:26,961 --> 00:01:29,547
-There was a mess
-wherever you stepped
+00:02:05,501 --> 00:02:06,959
+<i><font color=yellow>♪ And that's the gospel truth</i>
 
 27
-00:01:29,714 --> 00:01:34,343
-Where chaos reigned and earthquakes
-and volcanoes never slept
+00:02:07,044 --> 00:02:11,547
+<i><font color=yellow>♪ The guy was too "Type A" to just relax</i>
 
 28
-00:01:34,510 --> 00:01:35,970
-Whoo! Say it, girlfriend!
+00:02:11,632 --> 00:02:13,508
+<i><font color=yellow>♪ And that's the world's first dish</i>
 
 29
-00:01:36,137 --> 00:01:37,555
-And then along came Zeus
+00:02:13,592 --> 00:02:14,592
+<i><font color=yellow>♪ Yeah, baby.</i>
 
 30
-00:01:37,722 --> 00:01:40,516
-- He hurled his thunderbolt
-- He zapped
+00:02:14,676 --> 00:02:17,470
+<i><font color=yellow>♪ Zeus tamed the globe
+while still in his youth</i>
 
 31
-00:01:40,683 --> 00:01:44,061
-- Locked those suckers in a vault
-- They're trapped
+00:02:17,554 --> 00:02:20,515
+<i><font color=yellow>♪ Though, honey it may seem impossible</i>
 
 32
-00:01:44,228 --> 00:01:47,940
-And on his own
-stopped chaos in its tracks
+00:02:20,599 --> 00:02:23,810
+<i><font color=yellow>♪ That's the gospel truth</i>
 
 33
-00:01:48,107 --> 00:01:49,567
-And that's the gospel truth
+00:02:23,894 --> 00:02:28,523
+<i><font color=yellow>♪ On Mount Olympus life was neat
+And smooth as sweet vermouth</i>
 
 34
-00:01:49,734 --> 00:01:54,155
-The guy was too "TypeA"
-to just relax
+00:02:29,566 --> 00:02:32,693
+<i><font color=yellow>♪ Although, honey
+it may seem impossible</i>
 
 35
-00:01:54,322 --> 00:01:57,158
-- And that's the world's first dish
-- Yeah, baby.
+00:02:32,778 --> 00:02:39,116
+<i><font color=yellow>♪ That's the gospel truth</i>
 
 36
-00:01:57,325 --> 00:02:00,286
-Zeus tamed the globe
-while still in his youth
+00:02:40,953 --> 00:02:45,456
+<i><font color=yellow>♪ Yeah, yeah</i>
 
 37
-00:02:00,453 --> 00:02:03,122
-Though, honey
-it may seem impossible
+00:02:45,541 --> 00:02:47,708
+<i><font color=yellow>♪ Hey, hey, hey</i>
 
 38
-00:02:03,247 --> 00:02:06,417
-That's the gospel truth
+00:02:49,586 --> 00:02:52,296
+<i><font color=yellow>♪ Hey, yeah ♪</i>
 
 39
-00:02:06,584 --> 00:02:08,836
-On Mount Olympus life was neat
-
-40
-00:02:09,003 --> 00:02:11,214
-And smooth as sweet vermouth
-
-41
-00:02:12,173 --> 00:02:15,301
-Although, honey
-it may seem impossible
-
-42
-00:02:15,468 --> 00:02:21,807
-That's the gospel truth
-
-43
-00:02:21,974 --> 00:02:25,770
-- Ah, ah
-- Ah
-
-44
-00:02:25,895 --> 00:02:29,941
-- Ah, ah
-- Oh, yeah, yeah
-
-45
-00:02:30,066 --> 00:02:33,986
-- Ah, ah
-- Hey, hey, hey
-
-46
-00:02:34,153 --> 00:02:38,157
-- Ah, ah
-- Hey, yeah
-
-47
-00:03:01,222 --> 00:03:03,266
+00:03:18,532 --> 00:03:20,700
 Hercules!
 
-48
-00:03:04,642 --> 00:03:06,477
+40
+00:03:21,785 --> 00:03:24,120
 Behave yourself.
 
-49
-00:03:08,855 --> 00:03:12,191
+41
+00:03:27,541 --> 00:03:29,458
 Oh, look at this.
 
-50
-00:03:12,358 --> 00:03:13,818
+42
+00:03:29,543 --> 00:03:31,794
 Look how cute he is.
 
-51
-00:03:18,781 --> 00:03:21,450
-Hah! Oh, he's strong...
+43
+00:03:37,467 --> 00:03:40,761
+Hah! Oh, he's strong like his dad, hmm?
 
-52
-00:03:21,617 --> 00:03:23,494
-like his dad, hmm?
+44
+00:03:40,846 --> 00:03:45,057
+Whoa! Excuse me! Hot stuff coming through!
+Excuse me. One side, Ares.
 
-53
-00:03:23,661 --> 00:03:25,496
-Whoa! Excuse me!
-Hot stuff coming through!
-
-54
-00:03:25,663 --> 00:03:27,748
-Excuse me.
-One side, Ares.
-
-55
-00:03:28,666 --> 00:03:31,419
+45
+00:03:45,142 --> 00:03:48,728
 Why, Hermes, they're lovely.
 
-56
-00:03:31,586 --> 00:03:33,838
-Yeah, you know, I had Orpheus
-do the arrangement.
+46
+00:03:48,812 --> 00:03:51,272
+Yeah, you know,
+I had Orpheus do the arrangement.
 
-57
-00:03:34,005 --> 00:03:36,340
+47
+00:03:51,356 --> 00:03:53,566
 Isn't that too nutty?
 
-58
-00:03:36,507 --> 00:03:39,302
-Fabulous party. You know, I haven't
-seen this much love in a room...
+48
+00:03:53,650 --> 00:03:54,775
+Fabulous party. You know,
 
-59
-00:03:39,468 --> 00:03:41,846
+49
+00:03:54,860 --> 00:03:58,821
+I haven't seen this much love in a room
 since Narcissus discovered himself.
 
-60
-00:03:44,307 --> 00:03:46,809
-Dear, keep those
-away from the baby.
+50
+00:04:01,325 --> 00:04:04,160
+Dear, keep those away from the baby.
 
-61
-00:03:46,976 --> 00:03:49,061
+51
+00:04:04,244 --> 00:04:06,412
 Oh, he won't hurt himself.
 
-62
-00:03:49,228 --> 00:03:51,606
+52
+00:04:06,496 --> 00:04:08,956
 Let the kid have a little fun.
 
-63
-00:04:00,781 --> 00:04:03,826
+53
+00:04:18,008 --> 00:04:19,675
 On behalf of my son,
-I want to thank you all...
 
-64
-00:04:03,993 --> 00:04:06,871
+54
+00:04:19,760 --> 00:04:24,263
+I want to thank you all
 for your wonderful gifts!
 
-65
-00:04:07,038 --> 00:04:08,664
+55
+00:04:24,348 --> 00:04:26,015
 What about our gift, dear?
 
-66
-00:04:08,831 --> 00:04:11,876
+56
+00:04:26,099 --> 00:04:29,268
 Well, let's see here.
 We'll take... Hmm, yes.
 
-67
-00:04:12,043 --> 00:04:16,547
-A little cirrus and, uh, hmm,
-a touch of nimbostratus...
+57
+00:04:29,353 --> 00:04:33,940
+A little cirrus
+and a touch of nimbostratus
 
-68
-00:04:16,714 --> 00:04:20,134
+58
+00:04:34,024 --> 00:04:37,526
 and a dash of cumulus.
 
-69
-00:04:24,013 --> 00:04:27,266
-His name is Pegasus...
+59
+00:04:41,198 --> 00:04:44,450
+His name is Pegasus,
 
-70
-00:04:27,433 --> 00:04:30,311
+60
+00:04:44,534 --> 00:04:47,745
 and he's all yours, son.
 
-71
-00:04:42,281 --> 00:04:43,741
+61
+00:04:59,216 --> 00:05:01,092
 Mind his head.
 
-72
-00:04:43,908 --> 00:04:45,701
+62
+00:05:01,176 --> 00:05:03,094
 He's so tiny.
 
-73
-00:04:51,123 --> 00:04:52,959
+63
+00:05:08,225 --> 00:05:10,142
 My boy.
 
-74
-00:04:53,084 --> 00:04:55,837
+64
+00:05:10,227 --> 00:05:13,270
 My little Hercules.
 
-75
-00:04:57,046 --> 00:04:58,422
+65
+00:05:14,189 --> 00:05:15,898
 How sentimental.
 
-76
-00:04:59,924 --> 00:05:02,176
-You know, I haven't been
-this choked up...
+66
+00:05:16,984 --> 00:05:19,652
+You know,
+I haven't been this choked up
 
-77
-00:05:02,343 --> 00:05:05,096
+67
+00:05:19,736 --> 00:05:23,239
 since I got a hunk of moussaka
-caught in my throat!
+caught in my throat! Huh?
 
-78
-00:05:05,263 --> 00:05:07,557
-Huh?
+68
+00:05:25,033 --> 00:05:26,909
+So is this an audience or a mosaic?
 
-79
-00:05:07,682 --> 00:05:09,559
-So is this an audience
-or a mosaic?
-
-80
-00:05:09,725 --> 00:05:12,061
+69
+00:05:26,994 --> 00:05:29,453
 Hey, how you doin'?
 Lookin' good. Nice dress.
 
-81
-00:05:12,228 --> 00:05:14,730
-So, Hades,
-you finally made it.
+70
+00:05:29,538 --> 00:05:34,000
+So, Hades, you finally made it.
+How are things in the underworld?
 
-82
-00:05:14,897 --> 00:05:16,607
-How are things
-in the underworld?
+71
+00:05:34,084 --> 00:05:37,003
+Well, they're just fine.
+You know, a little dark, a little gloomy.
 
-83
-00:05:16,774 --> 00:05:19,527
-Well, they're just fine. You know,
-a little dark, a little gloomy.
-
-84
-00:05:19,652 --> 00:05:21,863
+72
+00:05:37,087 --> 00:05:39,255
 And, as always,
 hey, full of dead people.
 
-85
-00:05:22,029 --> 00:05:25,116
+73
+00:05:39,339 --> 00:05:40,506
 What are you gonna do? Ah!
+
+74
+00:05:40,590 --> 00:05:43,384
 There's the little sunspot.
+Little snootchie.
 
-86
-00:05:25,283 --> 00:05:29,203
-Little snootchie. And here is a sucker
-for the little sucker.
+75
+00:05:43,468 --> 00:05:46,554
+And here is a sucker
+for the little sucker, eh?
 
-87
-00:05:29,370 --> 00:05:31,038
-Eh? Here you go.
-You just...
+76
+00:05:46,638 --> 00:05:48,431
+Here you go. Ya just...
 
-88
-00:05:33,708 --> 00:05:35,251
+77
+00:05:51,120 --> 00:05:52,393
 Sheesh!
 
-89
-00:05:35,418 --> 00:05:37,545
+78
+00:05:52,728 --> 00:05:54,562
 Uh, powerful little tyke.
 
-90
-00:05:37,712 --> 00:05:41,090
+79
+00:05:54,646 --> 00:05:58,357
 Come on, Hades. Don't be such a stiff.
 Join the celebration!
 
-91
-00:05:41,257 --> 00:05:43,634
-Hey. Love to, babe...
+80
+00:05:58,442 --> 00:05:59,608
+Hey.
 
-92
-00:05:43,801 --> 00:05:46,554
-but unlike you gods
-lounging about up here...
+81
+00:05:59,693 --> 00:06:03,904
+Love to, babe, but unlike you gods
+lounging about up here,
 
-93
-00:05:46,721 --> 00:05:49,056
-I regrettably
-have a full-time gig...
+82
+00:06:03,989 --> 00:06:06,532
+I regrettably have a full-time gig
 
-94
-00:05:49,223 --> 00:05:52,685
+83
+00:06:06,616 --> 00:06:10,161
 that you, by the way,
 so charitably bestowed on me, Zeus.
 
-95
-00:05:52,852 --> 00:05:56,147
-So, can't.
-Love to, but can't.
+84
+00:06:10,245 --> 00:06:13,247
+So, can't. Love to, but can't.
 
-96
-00:05:56,314 --> 00:05:59,984
+85
+00:06:13,331 --> 00:06:17,251
 You ought to slow down.
 You'll work yourself to death.
 
-97
-00:06:00,151 --> 00:06:02,987
+86
+00:06:17,335 --> 00:06:20,296
 Hah! Work yourself to death!
 
-98
-00:06:05,323 --> 00:06:06,824
+87
+00:06:22,424 --> 00:06:24,258
 Oh, I kill myself!
 
-99
-00:06:07,825 --> 00:06:10,578
+88
+00:06:24,676 --> 00:06:28,054
 If only. If only.
 
-100
-00:06:10,745 --> 00:06:15,041
-If there's one god you don't want
-to get steamed up, it's Hades.
+89
+00:06:28,138 --> 00:06:32,308
+If there's one god you don't want to
+get steamed up, it's Hades.
 
-101
-00:06:15,208 --> 00:06:17,752
+90
+00:06:32,392 --> 00:06:35,102
 'Cause he had an evil plan.
 
-102
-00:06:17,919 --> 00:06:22,381
-He ran the underworld
+91
+00:06:35,187 --> 00:06:39,690
+<i><font color=yellow>♪ He ran the underworld</i>
 
-103
-00:06:22,548 --> 00:06:26,302
-But thought the dead
-were dull and uncouth
+92
+00:06:39,775 --> 00:06:43,569
+<i><font color=yellow>♪ But thought the dead
+were dull and uncouth</i>
 
-104
-00:06:26,469 --> 00:06:29,764
-He was as mean
-as he was ruthless
+93
+00:06:43,653 --> 00:06:47,114
+<i><font color=yellow>♪ He was as mean as he was ruthless</i>
 
-105
-00:06:29,931 --> 00:06:33,809
-And that's the gospel truth
+94
+00:06:47,199 --> 00:06:51,160
+<i><font color=yellow>♪ And that's the gospel truth</i>
 
-106
-00:06:33,976 --> 00:06:38,606
-He had a plan
-to shake things up
+95
+00:06:51,244 --> 00:06:55,581
+<i><font color=yellow>♪ He had a plan to shake things up</i>
 
-107
-00:06:38,773 --> 00:06:48,115
-And that's the gospel truth
+96
+00:06:55,665 --> 00:07:02,671
+<i><font color=yellow>♪ And that's the gospel truth ♪</i>
 
-108
-00:06:53,955 --> 00:06:55,581
+97
+00:07:11,181 --> 00:07:12,348
 Pain!
 
-109
-00:06:55,748 --> 00:06:58,668
-Coming,
-your most lugubriousness. Ow!
+98
+00:07:12,432 --> 00:07:15,851
+Coming, your most lugubriousness. Ow!
 
-110
-00:07:02,046 --> 00:07:05,633
-- Panic!
-- Oh, I'm sory. I can handle it!
+99
+00:07:19,147 --> 00:07:20,106
+Panic!
 
-111
-00:07:13,349 --> 00:07:16,018
+100
+00:07:20,190 --> 00:07:23,025
+Oh, I'm sory. I can handle it!
+
+101
+00:07:30,450 --> 00:07:33,369
 - Pain! Oh!
 - And Panic!
 
-112
-00:07:16,185 --> 00:07:18,187
-Reporting for duty!
+102
+00:07:33,453 --> 00:07:35,287
+- Reporting for duty!
+- Reporting for duty!
 
-113
-00:07:18,354 --> 00:07:21,649
-Fine, fine, fine. Just let me know
+103
+00:07:35,372 --> 00:07:36,372
+Fine, fine, fine.
+
+104
+00:07:36,456 --> 00:07:39,708
+Just let me know
 the instant the Fates arrive.
 
-114
-00:07:21,816 --> 00:07:23,526
+105
+00:07:39,793 --> 00:07:40,918
 Oh. They're here.
 
-115
-00:07:23,693 --> 00:07:27,029
+106
+00:07:41,002 --> 00:07:44,421
 What? The Fates are here,
 and you didn't tell me?
 
-116
-00:07:28,281 --> 00:07:33,202
-We are worms!
-Worthless worms!
+107
+00:07:45,507 --> 00:07:50,553
+- We are worms! Worthless worms!
+- We are worms! Worthless worms!
 
-117
-00:07:33,369 --> 00:07:36,873
-Memo to me, memo to me:
-maim you after my meeting.
+108
+00:07:50,637 --> 00:07:55,182
+Memo to me, memo to me.
+Maim you after my meeting.
 
-118
-00:07:40,126 --> 00:07:45,256
-Darling, hold that mortal's
-thread of life...
+109
+00:07:57,352 --> 00:08:02,648
+Darling, hold that mortal's thread of life
 
-119
-00:07:45,423 --> 00:07:47,758
+110
+00:08:02,732 --> 00:08:05,526
 good and tight.
 
-120
-00:07:52,346 --> 00:07:53,890
+111
+00:08:09,614 --> 00:08:11,240
 Incoming!
 
-121
-00:08:02,940 --> 00:08:05,276
-Ladies.
-I am so sorry that I'm...
+112
+00:08:20,041 --> 00:08:22,668
+Ladies! I am so sorry that I'm...
 
-122
-00:08:05,443 --> 00:08:07,445
+113
+00:08:22,752 --> 00:08:23,752
 - Late!
+- Late!
+
+114
+00:08:23,837 --> 00:08:27,047
 - We knew you would be.
+- We know everything.
 
-123
-00:08:07,612 --> 00:08:09,697
-We know eveything.
-
-124
-00:08:09,864 --> 00:08:11,949
+115
+00:08:27,132 --> 00:08:29,216
 - Past.
 - Present.
 
-125
-00:08:12,116 --> 00:08:13,993
-And future.
+116
+00:08:29,301 --> 00:08:31,343
+And Future.
 
-126
-00:08:14,160 --> 00:08:17,038
-Indoor plumbing.
-It's gonna be big.
+117
+00:08:31,428 --> 00:08:34,305
+Indoor plumbing, it's gonna be big.
 
-127
-00:08:17,205 --> 00:08:19,707
-Great, gr... Anyway, see, ladies, I
-was at this party and I lost track of...
+118
+00:08:34,389 --> 00:08:37,141
+Great, great. Anyway, see, ladies,
+I was at this party, and I lost track of...
 
-128
-00:08:19,874 --> 00:08:23,669
+119
+00:08:37,225 --> 00:08:40,519
 - We know!
 - Yeah. I know you know.
 
-129
-00:08:23,836 --> 00:08:26,839
-So here's the deal. Zeus...
+120
+00:08:40,604 --> 00:08:44,190
+So here's the deal. Zeus,
 
-130
-00:08:27,006 --> 00:08:30,885
-Mr High and Mighty, Mr "Hey, You,
-Get Off Of My Cloud",... now he has...
+121
+00:08:44,274 --> 00:08:48,027
+Mr High and Mighty, Mr "Hey, you,
+get off of my cloud," now he has...
 
-131
-00:08:31,052 --> 00:08:34,222
+122
+00:08:48,111 --> 00:08:51,614
 - A bouncing baby brat.
 - We know!
 
-132
-00:08:34,388 --> 00:08:37,099
-I know you know!
-I know. I got it.
+123
+00:08:51,698 --> 00:08:55,868
+I know you know. I know.
+I got it. I got the concept.
 
-133
-00:08:37,266 --> 00:08:39,602
-I got the concept.
-So let me just ask:
+124
+00:08:55,952 --> 00:08:56,911
+So let me just ask.
 
-134
-00:08:39,769 --> 00:08:42,813
-is this kid gonna mess up
+125
+00:08:56,995 --> 00:09:00,080
+Is this kid gonna mess up
 my hostile takeover bid, or what?
 
-135
-00:08:42,980 --> 00:08:45,441
-- What do you think?
-- Oh, no you don't.
+126
+00:09:00,165 --> 00:09:01,248
+What do you think?
 
-136
-00:08:45,608 --> 00:08:48,903
-We're not supposed
-to reveal the future.
+127
+00:09:01,333 --> 00:09:05,711
+Oh, no you don't.
+We're not supposed to reveal the future.
 
-137
-00:08:49,862 --> 00:08:51,614
-Oh, wait. I'm sorry.
-Time out. Can I...
+128
+00:09:06,963 --> 00:09:09,006
+Wait. I'm sorry. Time out. Can I...
 
-138
-00:08:51,781 --> 00:08:53,491
-Can I ask you a question by the way?
+129
+00:09:09,090 --> 00:09:10,716
+Can I ask you a question, by the way?
 Are you...
 
-139
-00:08:53,658 --> 00:08:55,952
+130
+00:09:10,800 --> 00:09:12,968
 Did you cut your hair or something?
 You look fabulous.
 
-140
-00:08:56,118 --> 00:08:58,454
-I mean, you look like a Fate
-worse than death.
+131
+00:09:13,053 --> 00:09:16,639
+I mean, you look like
+a Fate worse than death.
 
-141
-00:09:00,414 --> 00:09:02,208
-Oh, gross!
+132
+00:09:18,141 --> 00:09:21,769
+- Oh, gross!
+- Yech! It's blinkin'!
 
-142
-00:09:02,375 --> 00:09:04,418
-Yech! It's blinkin'!
-
-143
-00:09:06,504 --> 00:09:10,216
+133
+00:09:23,647 --> 00:09:26,232
 Ladies, please.
-My fate...
 
-144
-00:09:10,383 --> 00:09:12,468
-is in your lovely hands.
+134
+00:09:26,316 --> 00:09:29,818
+My fate is in your lovely hands.
 
-145
-00:09:12,635 --> 00:09:15,304
-- Oh.
+135
+00:09:29,903 --> 00:09:32,488
+- Yeah!
 - Oh, all right.
 
-146
-00:09:18,140 --> 00:09:22,603
-In 18 years precisely...
+136
+00:09:35,200 --> 00:09:39,787
+In 18 years precisely,
 
-147
-00:09:22,770 --> 00:09:25,231
-the planets will align...
+137
+00:09:39,871 --> 00:09:45,876
+the planets will align ever so nicely.
 
-148
-00:09:25,398 --> 00:09:28,526
-ever so nicely.
-
-149
-00:09:28,651 --> 00:09:29,777
+138
+00:09:45,961 --> 00:09:47,127
 Ay, verse. Oy.
 
-150
-00:09:29,944 --> 00:09:32,488
-The time to act
-will be at hand.
+139
+00:09:47,212 --> 00:09:49,838
+The time to act will be at hand.
 
-151
-00:09:32,655 --> 00:09:36,868
+140
+00:09:49,923 --> 00:09:54,260
 Unleash the Titans,
 your monstrous band.
 
-152
-00:09:36,993 --> 00:09:38,369
+141
+00:09:54,344 --> 00:09:55,719
 Mm-hmm. Good, good.
 
-153
-00:09:38,536 --> 00:09:43,791
+142
+00:09:55,804 --> 00:10:01,100
 Then the once-proud Zeus
-will finally fall...
+will finally fall,
 
-154
-00:09:43,958 --> 00:09:46,919
-and you, Hades...
+143
+00:10:01,184 --> 00:10:07,439
+and you, Hades, will rule all!
 
-155
-00:09:47,086 --> 00:09:50,089
-will rule all!
-
-156
-00:09:50,256 --> 00:09:52,800
+144
+00:10:07,524 --> 00:10:10,192
 Yes! Hades rules!
 
-157
-00:09:52,967 --> 00:09:57,138
-- A word of caution to this tale.
-- Excuse me?
+145
+00:10:10,277 --> 00:10:13,237
+A word of caution to this tale.
 
-158
-00:09:57,305 --> 00:10:01,934
-Should Hercules fight,
-you will fail.
+146
+00:10:13,321 --> 00:10:14,488
+Excuse me?
 
-159
-00:10:06,772 --> 00:10:08,941
+147
+00:10:14,572 --> 00:10:19,159
+Should Hercules fight, you will fail.
+
+148
+00:10:24,040 --> 00:10:26,125
 What?
 
-160
-00:10:09,108 --> 00:10:11,819
-Okay, fine, fine.
-I'm cool. I'm fine.
+149
+00:10:26,209 --> 00:10:29,169
+Okay, fine, fine. I'm cool. I'm fine.
 
-161
-00:10:13,529 --> 00:10:17,074
-Pain? Panic?
-Got a little riddle for ya.
+150
+00:10:30,880 --> 00:10:34,466
+Pain? Panic? Got a little riddle for ya.
 
-162
-00:10:17,241 --> 00:10:20,369
+151
+00:10:34,551 --> 00:10:37,720
 How do you kill a god?
 
-163
-00:10:20,536 --> 00:10:22,121
-I do not know!
+152
+00:10:37,804 --> 00:10:41,265
+- I do not know!
+- You can't. They're immortal?
 
-164
-00:10:22,288 --> 00:10:23,915
-You can't. They're immortal?
+153
+00:10:41,349 --> 00:10:43,600
+Bingo! They're immortal.
 
-165
-00:10:24,081 --> 00:10:25,750
-Bingo! They're immortal!
-
-166
-00:10:25,917 --> 00:10:30,546
+154
+00:10:43,685 --> 00:10:48,897
 So, first you got to turn
-the little sunspot...
+the little sunspot mortal.
 
-167
-00:10:30,713 --> 00:10:32,548
-mortal.
-
-168
-00:11:01,285 --> 00:11:03,788
+155
+00:11:18,178 --> 00:11:20,346
 - Huh?
 - Wha... What is it?
 
-169
-00:11:03,955 --> 00:11:05,748
-The baby!
+156
+00:11:20,930 --> 00:11:22,264
+- The baby!
+- The baby!
 
-170
-00:11:11,337 --> 00:11:15,383
-Hercules! Oh!
+157
+00:11:28,104 --> 00:11:30,230
+Hercules!
 
-171
-00:11:17,802 --> 00:11:23,432
+158
+00:11:30,531 --> 00:11:31,318
+Oh!
+
+159
+00:11:34,986 --> 00:11:40,616
 No!
 
-172
-00:11:23,599 --> 00:11:25,017
+160
+00:11:40,784 --> 00:11:42,534
 Now we did it!
 
-173
-00:11:25,184 --> 00:11:27,270
+161
+00:11:42,619 --> 00:11:44,703
 Zeus is gonna use us
 for target practice!
 
-174
-00:11:27,436 --> 00:11:29,564
-Just hang on to the kid, Panic!
+162
+00:11:44,788 --> 00:11:46,705
+Just hang onto the kid, Panic.
 
-175
-00:11:33,526 --> 00:11:36,612
-Hurry! Let's just kill the kid
+163
+00:11:50,502 --> 00:11:51,502
+Hurry!
+
+164
+00:11:51,586 --> 00:11:54,004
+Let's just kill the kid
 and get it over with, okay?
 
-176
-00:11:36,779 --> 00:11:39,907
+165
+00:11:54,089 --> 00:11:58,258
 Here you go, kid.
 A little Grecian formula.
 
-177
-00:11:41,534 --> 00:11:45,371
+166
+00:11:58,927 --> 00:12:02,721
 Look at that! He's changing.
 Can we do it now?
 
-178
-00:11:45,538 --> 00:11:48,666
-No, no, no. He has to drink
-the whole potion.
+167
+00:12:02,806 --> 00:12:07,976
+No, no, no, he has to drink the whole potion.
+Every last drop.
 
-179
-00:11:48,833 --> 00:11:51,919
-- Evey last drop!
-- Who's there?
+168
+00:12:08,061 --> 00:12:09,269
+Who's there?
 
-180
-00:11:57,550 --> 00:11:59,760
+169
+00:12:14,734 --> 00:12:16,985
 Alcmene, over here.
 
-181
-00:12:00,887 --> 00:12:03,848
+170
+00:12:18,238 --> 00:12:21,281
 Oh, you poor thing.
 
-182
-00:12:04,015 --> 00:12:05,892
-- Oh, don't cy.
+171
+00:12:21,366 --> 00:12:23,617
+- Don't cry.
 - Is anybody there?
 
-183
-00:12:06,058 --> 00:12:08,269
+172
+00:12:23,701 --> 00:12:25,452
 - Now?
 - Now.
 
-184
-00:12:09,562 --> 00:12:12,732
-Oh. Well, he must
-have been abandoned.
+173
+00:12:28,039 --> 00:12:30,082
+Well, he must have been abandoned.
 
-185
-00:12:12,899 --> 00:12:15,401
-Amphityon, for so many years...
+174
+00:12:30,166 --> 00:12:33,001
+Amphitryon, for so many years
 
-186
-00:12:15,568 --> 00:12:18,821
+175
+00:12:33,086 --> 00:12:36,171
 we've prayed to the gods
 to bless us with a child.
 
-187
-00:12:18,988 --> 00:12:21,240
-Perhaps they've answered
-our prayers.
+176
+00:12:36,256 --> 00:12:40,300
+- Perhaps they've answered our prayers.
+- Perhaps they have.
 
-188
-00:12:21,407 --> 00:12:22,909
-Perhaps they have.
-
-189
-00:12:23,075 --> 00:12:24,952
+177
+00:12:40,385 --> 00:12:42,052
 "Hercules"?
 
-190
-00:12:44,597 --> 00:12:46,724
+178
+00:13:01,531 --> 00:13:04,032
 Help, help, help!
 
-191
-00:12:46,891 --> 00:12:49,143
+179
+00:13:04,117 --> 00:13:06,785
 Hades is gonna kill us
 when he finds out what happened.
 
-192
-00:12:49,310 --> 00:12:51,896
+180
+00:13:06,870 --> 00:13:09,288
 You mean, if he finds out.
 
-193
-00:12:52,063 --> 00:12:54,440
+181
+00:13:09,372 --> 00:13:11,623
 Of course he's gonna f...
 
-194
-00:12:54,607 --> 00:12:57,485
+182
+00:13:11,708 --> 00:13:14,001
 If. If is good.
 
-195
-00:12:58,569 --> 00:13:03,241
-It was tragic. Zeus led all the gods
+183
+00:13:15,712 --> 00:13:17,504
+It was tragic.
+
+184
+00:13:17,589 --> 00:13:20,632
+Zeus led all the gods
 on a frantic search.
 
-196
-00:13:03,407 --> 00:13:07,286
+185
+00:13:20,717 --> 00:13:24,595
 But by the time they found the baby,
 it was too late.
 
+186
+00:13:24,679 --> 00:13:29,266
+<i><font color=yellow>- ♪ Young Herc was mortal now
+<font color=yellow>- ♪ Mmm</i>
+
+187
+00:13:29,517 --> 00:13:33,270
+<i><font color=yellow>♪ But since he did not drink the last drop</i>
+
+188
+00:13:33,396 --> 00:13:36,356
+<i><font color=yellow>♪ He still retained his godlike strength</i>
+
+189
+00:13:36,441 --> 00:13:39,485
+<i><font color=yellow>♪ So thank his lucky stars</i>
+
+190
+00:13:39,569 --> 00:13:40,736
+<i><font color=yellow>♪ Tell it, girl.</i>
+
+191
+00:13:41,070 --> 00:13:44,656
+<i><font color=yellow>- ♪ But Zeus and Hera wept
+<font color=yellow>- ♪ Ooh, ooh, ooh</i>
+
+192
+00:13:46,075 --> 00:13:49,828
+<i><font color=yellow>♪ Because their son
+could never come home</i>
+
+193
+00:13:49,913 --> 00:13:56,877
+<i><font color=yellow>♪ They'd have to watch their precious
+baby grow up from afar</i>
+
+194
+00:13:56,961 --> 00:14:01,924
+<i><font color=yellow>♪ Though Hades' horrid plan</i>
+
+195
+00:14:02,008 --> 00:14:05,594
+<i><font color=yellow>♪ Was hatched before
+Herc cut his first tooth</i>
+
+196
+00:14:05,678 --> 00:14:09,473
+<i><font color=yellow>- ♪ Ahh
+<font color=yellow>- ♪ The boy grew stronger every day</i>
+
 197
-00:13:07,453 --> 00:13:12,083
-- Young Herc was mortal now
-- Mmm
+00:14:09,599 --> 00:14:13,852
+<i><font color=yellow>♪ And that's the gospel truth</i>
 
 198
-00:13:12,250 --> 00:13:15,795
-But since he did not drink
-the last drop
+00:14:13,937 --> 00:14:20,609
+<i><font color=yellow>♪ The gospel truth ♪</i>
 
 199
-00:13:15,962 --> 00:13:19,048
-He still retained
-his godlike strength
-
-200
-00:13:19,215 --> 00:13:23,761
-- So thank his lucky stars
-- Tell it, girl.
-
-201
-00:13:23,928 --> 00:13:28,766
-- But Zeus and Hera wept
-- Ooh, ooh, ooh
-
-202
-00:13:28,933 --> 00:13:32,562
-Because their son
-could never come home
-
-203
-00:13:32,728 --> 00:13:35,314
-They'd have to watch
-their precious baby
-
-204
-00:13:35,481 --> 00:13:39,443
-Grow up from a far
-
-205
-00:13:39,610 --> 00:13:44,532
-Though Hades' horrid plan
-
-206
-00:13:44,699 --> 00:13:47,910
-Was hatched before Herc
-cut his first tooth
-
-207
-00:13:48,077 --> 00:13:52,248
-- Ahh
-- The boy grew stronger everyday
-
-208
-00:13:52,415 --> 00:13:56,544
-And that's the gospel truth
-
-209
-00:13:56,711 --> 00:14:04,552
-The gospel truth
-
-210
-00:14:14,145 --> 00:14:16,272
+00:14:31,371 --> 00:14:33,622
 Hercules, slow down!
 
-211
-00:14:20,109 --> 00:14:22,278
+200
+00:14:36,960 --> 00:14:37,960
 Look out!
 
-212
-00:14:22,445 --> 00:14:24,113
+201
+00:14:40,046 --> 00:14:41,463
 Oops! S-S-sorry, guys!
 
-213
-00:14:24,280 --> 00:14:26,449
-- Hey, watch where you're goin'!
+202
+00:14:41,548 --> 00:14:43,882
+- Hey, watch where you're goin'.
 - Sunday driver!
 
-214
-00:14:30,953 --> 00:14:32,622
+203
+00:14:48,096 --> 00:14:49,930
 Thanks, son.
 
-215
-00:14:32,788 --> 00:14:36,417
+204
+00:14:50,014 --> 00:14:53,767
 When old Penelope twisted her ankle
 back there, I thought we were done for.
 
-216
-00:14:36,584 --> 00:14:39,795
-- No problem, Pop.
-- Uh, don't-don't-don't unload just yet.
+205
+00:14:53,851 --> 00:14:55,185
+No problem, Pop.
 
-217
-00:14:39,962 --> 00:14:41,839
-First, I have to finagle
-with Phideas.
+206
+00:14:55,270 --> 00:14:59,064
+Uh, don't-don't-don't unload just yet.
+First, I have to finagle with Phideas.
 
-218
-00:14:42,006 --> 00:14:43,341
+207
+00:14:59,148 --> 00:15:00,524
 Okay.
 
-219
-00:14:44,550 --> 00:14:46,552
-Oops. sorry, Penelope.
+208
+00:15:02,777 --> 00:15:03,902
+Oops. Sorry, Penelope.
 
-220
-00:14:46,719 --> 00:14:49,972
-Now, Hercules, this time,
-please just...
+209
+00:15:03,987 --> 00:15:07,239
+Now, Hercules, this time, please just...
 
-221
-00:14:50,139 --> 00:14:52,266
-I know, I know.
+210
+00:15:07,323 --> 00:15:09,616
+I know. I know.
 
-222
-00:14:52,433 --> 00:14:54,810
+211
+00:15:09,701 --> 00:15:11,577
 Stay by the cart.
 
-223
-00:14:54,977 --> 00:14:56,812
+212
+00:15:12,245 --> 00:15:14,204
 That's my boy.
 
-224
-00:15:00,983 --> 00:15:02,485
+213
+00:15:17,834 --> 00:15:19,793
 Oh, my goodness. Whoa!
 
-225
-00:15:02,652 --> 00:15:04,320
+214
+00:15:19,877 --> 00:15:21,628
 Careful!
 
-226
-00:15:05,488 --> 00:15:07,865
+215
+00:15:22,755 --> 00:15:25,173
 - Why, thank you.
 - No problem.
 
-227
-00:15:08,032 --> 00:15:11,327
-Why, Hercules! I-I-It's you!
+216
+00:15:25,258 --> 00:15:27,551
+Why, Hercules!
 
-228
-00:15:11,494 --> 00:15:15,122
-- Let me, let me help you with that.
+217
+00:15:27,635 --> 00:15:28,719
+I-I-It's you!
+
+218
+00:15:28,803 --> 00:15:31,930
+- Let me help you with that.
 - No, no, no, no, no. I got it!
 
-229
-00:15:15,289 --> 00:15:17,250
-I'm fine.
-You just run along.
+219
+00:15:32,015 --> 00:15:34,683
+I'm fine. You just run along.
 
-230
-00:15:17,416 --> 00:15:19,085
+220
+00:15:34,767 --> 00:15:36,351
 - Are you sure?
 - Oh, yes.
 
-231
-00:15:19,252 --> 00:15:21,128
+221
+00:15:36,436 --> 00:15:38,020
 Absolutely.
 
-232
-00:15:24,882 --> 00:15:27,176
+222
+00:15:42,233 --> 00:15:44,526
 Yo! Give it here!
 
-233
-00:15:27,343 --> 00:15:29,220
+223
+00:15:44,611 --> 00:15:46,612
 Hey, you need an extra guy?
 
-234
-00:15:30,471 --> 00:15:32,640
+224
+00:15:49,198 --> 00:15:50,824
 Uh, sorry, Herc.
 
-235
-00:15:32,807 --> 00:15:35,351
-Uh, we already got five...
+225
+00:15:50,992 --> 00:15:54,661
+Uh, we already got five,
+and we want to keep it an even number.
 
-236
-00:15:35,518 --> 00:15:37,270
-and we want to keep it
-an even number.
+226
+00:15:54,746 --> 00:15:56,538
+Hey, wait a second. Five isn't an even...
 
-237
-00:15:37,436 --> 00:15:39,772
-- Hey, wait a second. Five isn't an ev...
+227
+00:15:56,623 --> 00:15:58,498
 - See ya, Herc.
-
-238
-00:15:39,939 --> 00:15:42,608
 - What a geek!
+
+228
+00:15:58,583 --> 00:16:02,669
 - Destructo Boy.
+- Maybe we should call him "Jerkules."
 
-239
-00:15:42,733 --> 00:15:45,319
-- Maybe we should call him "Jerkules".
+229
+00:16:09,510 --> 00:16:11,136
 - Yeah!
+- Heads up!
 
-240
-00:15:52,201 --> 00:15:53,744
-Heads up!
+230
+00:16:11,220 --> 00:16:12,387
+I-I got it!
 
-241
-00:15:53,911 --> 00:15:55,830
-- I-I got it!
-- No! Stop!
+231
+00:16:12,472 --> 00:16:13,930
+No! Stop!
 
-242
-00:15:59,125 --> 00:16:02,170
-Uh-oh. Oh, no.
+232
+00:16:16,708 --> 00:16:17,979
+Uh-oh.
 
-243
-00:16:03,462 --> 00:16:05,006
+233
+00:16:18,478 --> 00:16:19,728
+Oh, no.
+
+234
+00:16:20,855 --> 00:16:22,731
 It's okay.
 
-244
-00:16:12,054 --> 00:16:14,015
+235
+00:16:29,280 --> 00:16:30,989
 Hey! Whoa!
 
-245
-00:16:19,896 --> 00:16:22,815
+236
+00:16:36,663 --> 00:16:40,165
 - Son!
 - Hang on, Pop! Be right back!
 
-246
-00:16:22,982 --> 00:16:25,818
-Oh, my! Oh, no! Don't!
-Oh, no, no, no, no!
+237
+00:16:40,249 --> 00:16:42,793
+Oh, my! Oh, no! Don't! No, no, no, no!
 
-247
-00:16:25,985 --> 00:16:28,446
+238
+00:16:42,877 --> 00:16:45,253
 No, no, no, no, no, no!
 
-248
-00:16:33,951 --> 00:16:35,620
+239
+00:16:51,219 --> 00:16:53,178
 Watch out!
 
-249
-00:16:50,968 --> 00:16:54,305
+240
+00:17:08,277 --> 00:17:10,779
 Nice catch, Jerkules.
 
-250
-00:16:54,472 --> 00:16:57,225
-Son.
+241
+00:17:11,614 --> 00:17:13,365
+Son...
 
-251
-00:16:57,391 --> 00:17:02,355
-This is the last straw,
-Amphityon!
+242
+00:17:14,617 --> 00:17:19,204
+This is the last straw, Amphitryon!
 
-252
-00:17:02,522 --> 00:17:04,023
+243
+00:17:19,789 --> 00:17:21,415
 That boy is a menace!
 
-253
-00:17:04,190 --> 00:17:07,068
+244
+00:17:21,499 --> 00:17:24,292
 He's too dangerous
 to be around normal people!
 
-254
-00:17:08,653 --> 00:17:10,905
+245
+00:17:26,129 --> 00:17:28,338
 He didn't mean any harm.
 He's just a kid.
 
-255
-00:17:11,072 --> 00:17:15,034
-He-He just can't control
-his strength.
+246
+00:17:28,423 --> 00:17:32,259
+He-He just can't control his strength.
 
-256
-00:17:15,201 --> 00:17:19,497
+247
+00:17:32,343 --> 00:17:34,219
 I'm warning you.
-You keep that-that-that...
 
-257
-00:17:19,664 --> 00:17:21,249
+248
+00:17:34,303 --> 00:17:38,473
+You keep that-that-that...
 freak away from here!
 
-258
-00:17:21,415 --> 00:17:23,626
+249
+00:17:38,558 --> 00:17:41,184
 Freak! Yeah, go away!
 
-259
-00:17:37,014 --> 00:17:41,227
-Son, you shouldn't let those things
-they said back there get to ya.
+250
+00:17:53,407 --> 00:17:58,702
+Ah, son, you shouldn't let those things
+they said back there get to you.
 
-260
-00:17:41,394 --> 00:17:43,980
-But, Pop, they're right.
-I-I am a freak.
+251
+00:17:58,786 --> 00:18:03,915
+But, Pop, they're right. I-I am a freak.
+I-I try to fit in. I really do.
 
-261
-00:17:44,146 --> 00:17:47,358
-I-I try to fit in.
-I really do.
-
-262
-00:17:47,525 --> 00:17:49,110
+252
+00:18:04,417 --> 00:18:06,501
 I just can't.
 
-263
-00:17:50,528 --> 00:17:53,948
-Sometimes I feel like...
+253
+00:18:07,670 --> 00:18:13,425
+Sometimes I feel like
+I really don't belong here,
 
-264
-00:17:54,115 --> 00:17:56,826
-like I really
-don't belong here...
+254
+00:18:14,510 --> 00:18:18,346
+like I'm supposed to be someplace else.
 
-265
-00:17:56,993 --> 00:18:01,789
-like I'm supposed to be
-someplace else.
-
-266
-00:18:01,956 --> 00:18:04,000
+255
+00:18:19,265 --> 00:18:21,349
 Hercules, son...
 
-267
-00:18:04,166 --> 00:18:06,002
+256
+00:18:21,434 --> 00:18:23,393
 I know it doesn't make any sense.
 
+257
+00:18:34,238 --> 00:18:39,451
+<i><font color=yellow>♪ I have often dreamed of a far off place</i>
+
+258
+00:18:39,535 --> 00:18:44,956
+<i><font color=yellow>♪ Where a great, warm welcome
+will be waiting for me</i>
+
+259
+00:18:45,041 --> 00:18:50,128
+<i><font color=yellow>♪ Where the crowds will cheer
+when they see my face</i>
+
+260
+00:18:50,213 --> 00:18:56,009
+<i><font color=yellow>♪ And a voice keeps sayin'
+this is where I'm meant to be</i>
+
+261
+00:18:56,719 --> 00:18:59,596
+<i><font color=yellow>♪ I will find my way</i>
+
+262
+00:18:59,680 --> 00:19:02,057
+<i><font color=yellow>♪ I can go the distance</i>
+
+263
+00:19:02,141 --> 00:19:04,893
+<i><font color=yellow>♪ I'll be there someday</i>
+
+264
+00:19:04,977 --> 00:19:07,270
+<i><font color=yellow>♪ If I can be strong</i>
+
+265
+00:19:07,355 --> 00:19:09,815
+<i><font color=yellow>♪ I know every mile</i>
+
+266
+00:19:09,982 --> 00:19:13,068
+<i><font color=yellow>♪ Will be worth my while</i>
+
+267
+00:19:14,028 --> 00:19:20,575
+<i><font color=yellow>♪ I would go most anywhere to feel like I</i>
+
 268
-00:18:16,888 --> 00:18:19,599
-I have often dreamed
+00:19:21,077 --> 00:19:25,080
+<i><font color=yellow>♪ Belong ♪</i>
 
 269
-00:18:19,724 --> 00:18:21,934
-Of a far-offplace
+00:19:28,459 --> 00:19:30,168
+Hercules,
 
 270
-00:18:22,101 --> 00:18:27,607
-Where a great, warm welcome
-will be waiting for me
+00:19:30,253 --> 00:19:35,549
+there's something your mother and I
+have been meaning to tell ya.
 
 271
-00:18:27,773 --> 00:18:29,942
-Where the crowds will cheer
-
-272
-00:18:30,109 --> 00:18:32,778
-When they see my face
-
-273
-00:18:32,904 --> 00:18:38,492
-And a voice keeps sayin'
-this is where I'm meant to be
-
-274
-00:18:39,619 --> 00:18:42,288
-I will find my way
-
-275
-00:18:42,455 --> 00:18:44,457
-I can go the distance
-
-276
-00:18:44,624 --> 00:18:47,585
-I'll be there someday
-
-277
-00:18:47,752 --> 00:18:50,004
-If I can be strong
-
-278
-00:18:50,171 --> 00:18:52,590
-I know every mile
-
-279
-00:18:52,757 --> 00:18:55,468
-Will be worth my while
-
-280
-00:18:56,802 --> 00:19:03,601
-I would go most anywhere
-to feel like I
-
-281
-00:19:03,726 --> 00:19:07,897
-Belong
-
-282
-00:19:11,275 --> 00:19:14,278
-Hercules, there's something
-your mother and I...
-
-283
-00:19:14,445 --> 00:19:18,157
-have been meaning to, to tell ya.
-
-284
-00:19:18,324 --> 00:19:22,328
+00:19:35,633 --> 00:19:39,594
 But if you found me,
 then where did I come from?
 
-285
-00:19:22,495 --> 00:19:24,914
+272
+00:19:39,679 --> 00:19:41,638
 Why was I left here?
 
-286
-00:19:25,081 --> 00:19:29,627
+273
+00:19:42,390 --> 00:19:47,102
 This was around your neck
 when we found you.
 
-287
-00:19:31,963 --> 00:19:33,881
+274
+00:19:48,521 --> 00:19:51,022
 It's the symbol of the gods.
 
-288
-00:19:34,048 --> 00:19:37,593
+275
+00:19:51,607 --> 00:19:55,026
 This is it! Don't you see?
-Maybe they have the answers.
+Maybe they have the answers!
 
-289
-00:19:37,760 --> 00:19:39,887
+276
+00:19:55,111 --> 00:19:56,945
 I'll go to the temple of Zeus and...
 
-290
-00:19:42,557 --> 00:19:45,893
-Ma, Pop...
+277
+00:19:59,657 --> 00:20:02,367
+Ma, Pop,
 
-291
-00:19:46,060 --> 00:19:50,565
+278
+00:20:03,035 --> 00:20:06,621
 you're the greatest parents
 anyone could have, but...
 
-292
-00:19:50,731 --> 00:19:52,567
+279
+00:20:07,915 --> 00:20:09,499
 I-I gotta know.
 
-293
-00:20:11,252 --> 00:20:13,963
-I am on my way
+280
+00:20:28,269 --> 00:20:31,271
+<i><font color=yellow>♪ I am on my way</i>
 
-294
-00:20:14,130 --> 00:20:16,132
-I can go the distance
+281
+00:20:31,355 --> 00:20:33,398
+<i><font color=yellow>♪ I can go the distance</i>
 
-295
-00:20:16,299 --> 00:20:18,885
-I don't care how far
+282
+00:20:33,482 --> 00:20:36,192
+<i><font color=yellow>♪ I don't care how far</i>
 
-296
-00:20:19,051 --> 00:20:21,304
-Somehow, I'll be strong
+283
+00:20:36,319 --> 00:20:38,612
+<i><font color=yellow>♪ Somehow, I'll be strong</i>
 
-297
-00:20:21,470 --> 00:20:23,723
-I know every mile
+284
+00:20:38,696 --> 00:20:41,114
+<i><font color=yellow>♪ I know every mile</i>
 
-298
-00:20:23,890 --> 00:20:27,435
-Will be worth my while
+285
+00:20:41,198 --> 00:20:44,743
+<i><font color=yellow>♪ Will be worth my while</i>
 
-299
-00:20:27,602 --> 00:20:30,521
-I would go most anywhere
+286
+00:20:44,827 --> 00:20:47,913
+<i><font color=yellow>♪ I would go most anywhere</i>
 
-300
-00:20:30,688 --> 00:20:36,527
-To find where I belong
+287
+00:20:47,997 --> 00:20:54,336
+<i><font color=yellow>♪ To find where I belong ♪</i>
 
-301
-00:20:55,671 --> 00:20:57,715
-Oh, mighty Zeus...
+288
+00:21:13,022 --> 00:21:15,023
+Oh, mighty Zeus,
 
-302
-00:20:57,882 --> 00:21:02,094
-please, hear me
-and, and answer my prayer.
+289
+00:21:15,107 --> 00:21:19,319
+please, hear me and answer my prayer.
 
-303
-00:21:02,261 --> 00:21:05,348
-I need to know:
+290
+00:21:19,403 --> 00:21:21,279
+I need to know.
+
+291
+00:21:21,364 --> 00:21:22,781
 Who am I?
 
-304
-00:21:05,515 --> 00:21:07,975
+292
+00:21:22,865 --> 00:21:25,367
 Wh-Where do I belong?
 
-305
-00:21:14,065 --> 00:21:15,942
+293
+00:21:31,803 --> 00:21:33,676
 Huh?
 
-306
-00:21:21,239 --> 00:21:25,701
+294
+00:21:38,214 --> 00:21:40,131
 My boy.
+
+295
+00:21:40,216 --> 00:21:42,384
 My little Hercules.
 
-307
-00:21:28,579 --> 00:21:30,790
-Hey, hey, hey.
-Hold on, kiddo!
+296
+00:21:45,763 --> 00:21:48,098
+Hey, hey, hey. Hold on, kiddo!
 
-308
-00:21:30,915 --> 00:21:33,167
+297
+00:21:48,182 --> 00:21:49,307
 What's your hurry?
-After all these years...
 
-309
-00:21:33,334 --> 00:21:36,796
-is this the kind of hello
-you give your father?
+298
+00:21:49,392 --> 00:21:53,353
+After all these years, is this the kind of
+hello you give your father?
 
-310
-00:21:36,921 --> 00:21:38,548
+299
+00:21:54,772 --> 00:21:55,939
 F-F-Father?
 
-311
-00:21:38,714 --> 00:21:41,676
-Didn't know you had
-a famous father, did you?
+300
+00:21:56,023 --> 00:21:59,025
+Didn't know you had a famous father,
+did you?
 
-312
-00:21:41,843 --> 00:21:43,678
+301
+00:21:59,110 --> 00:22:01,736
 Surprise!
 
-313
-00:21:44,846 --> 00:21:46,848
+302
+00:22:02,154 --> 00:22:04,197
 Look how you've grown.
 
-314
-00:21:47,014 --> 00:21:49,684
+303
+00:22:04,281 --> 00:22:09,619
 Why, you've got your mother's
-beautiful eyes...
+beautiful eyes and my strong chin.
 
-315
-00:21:49,809 --> 00:21:51,936
-and my strong chin.
-
-316
-00:21:52,103 --> 00:21:54,939
+304
+00:22:10,621 --> 00:22:12,205
 - Hah!
 - I-I don't understand.
 
-317
-00:21:55,106 --> 00:21:58,985
+305
+00:22:12,289 --> 00:22:16,334
 If you're my father,
 that would make me a...
 
-318
-00:21:59,151 --> 00:22:00,528
-A god.
+306
+00:22:16,419 --> 00:22:19,587
+- A god.
+- A god.
 
-319
-00:22:00,695 --> 00:22:03,197
-A god. A god!
+307
+00:22:19,672 --> 00:22:20,714
+A god!
 
-320
-00:22:03,364 --> 00:22:05,825
+308
+00:22:20,798 --> 00:22:22,382
 Hey, you wanted answers,
-and by thunder...
 
-321
-00:22:05,992 --> 00:22:08,578
-you're old enough now
-to know the truth.
+309
+00:22:22,466 --> 00:22:25,969
+and by thunder, you're old enough
+now to know the truth.
 
-322
-00:22:08,744 --> 00:22:12,331
+310
+00:22:26,053 --> 00:22:29,639
 But why did you leave me on Earth?
 Didn't you want me?
 
-323
-00:22:12,456 --> 00:22:17,086
-Of course we did. Your mother and I
+311
+00:22:29,765 --> 00:22:31,307
+Of course we did.
+
+312
+00:22:31,392 --> 00:22:34,352
+Your mother and I
 loved you with all our hearts.
 
-324
-00:22:17,253 --> 00:22:20,798
-But someone stole you from us
-and turned you mortal...
+313
+00:22:34,437 --> 00:22:38,106
+Someone stole you from us
+and turned you mortal,
 
-325
-00:22:20,965 --> 00:22:24,218
+314
+00:22:38,190 --> 00:22:41,192
 and only gods
 can live on Mount Olympus.
 
-326
-00:22:24,385 --> 00:22:25,845
+315
+00:22:41,694 --> 00:22:43,194
 And you can't do a thing?
 
-327
-00:22:26,012 --> 00:22:27,972
-I can't, Hercules,
-but you can.
+316
+00:22:43,279 --> 00:22:45,321
+I can't, Hercules, but you can.
 
-328
-00:22:28,097 --> 00:22:31,142
+317
+00:22:45,406 --> 00:22:48,491
 R-Really? W-What?
 I'll do anything.
 
-329
-00:22:31,309 --> 00:22:34,520
+318
+00:22:48,576 --> 00:22:51,870
 Hercules, if you can prove yourself
-a true hero on Earth...
+a true hero on Earth,
 
-330
-00:22:34,687 --> 00:22:36,647
-your godhood
-will be restored.
+319
+00:22:51,954 --> 00:22:53,955
+your godhood will be restored!
 
-331
-00:22:36,814 --> 00:22:39,650
+320
+00:22:54,040 --> 00:22:56,458
 A true hero. Great!
 
-332
-00:22:39,817 --> 00:22:43,237
-Uh, exactly how do you become
-a true hero?
+321
+00:22:57,084 --> 00:23:00,587
+Uh, exactly how do you
+become a true hero?
 
-333
-00:22:43,404 --> 00:22:47,783
+322
+00:23:00,671 --> 00:23:05,175
 First, you must seek out Philoctetes,
 the trainer of heroes.
 
-334
-00:22:47,950 --> 00:22:50,745
-Seek out Philoctetes.
-Right. I'll...
+323
+00:23:05,259 --> 00:23:08,053
+Seek out Philoctetes. Right. I'll...
 
-335
-00:22:50,912 --> 00:22:52,997
+324
+00:23:08,137 --> 00:23:10,346
 - Whoa!
 - Whoa! Hold your horses!
 
-336
-00:22:53,164 --> 00:22:54,999
+325
+00:23:10,431 --> 00:23:12,307
 Which reminds me.
 
-337
-00:23:01,130 --> 00:23:04,342
-Ha-ha! You probably
-don't remember Pegasus...
-
-338
-00:23:04,509 --> 00:23:07,094
+326
+00:23:18,398 --> 00:23:24,486
+Ha-ha! You probably don't remember Pegasus,
 but you two go way back, son.
 
-339
-00:23:14,936 --> 00:23:16,896
+327
+00:23:32,244 --> 00:23:34,120
 Oh, Pegasus!
 
-340
-00:23:17,063 --> 00:23:18,981
-He's a magnificent horse...
-
-341
-00:23:19,148 --> 00:23:21,567
+328
+00:23:34,497 --> 00:23:39,584
+He's a magnificent horse
 with the brain of a bird.
 
-342
-00:23:24,195 --> 00:23:27,114
-I'll find Philoctetes,
-become a true hero!
+329
+00:23:41,295 --> 00:23:44,422
+I'll find Philoctetes
+and become a true hero.
 
-343
-00:23:27,281 --> 00:23:28,533
+330
+00:23:44,507 --> 00:23:45,840
 That's the spirit!
 
-344
-00:23:28,699 --> 00:23:32,995
+331
+00:23:45,925 --> 00:23:47,467
 I won't let you down, Father!
+
+332
+00:23:49,225 --> 00:23:50,067
 Yee-hah!
 
-345
-00:23:33,162 --> 00:23:35,206
+333
+00:23:50,554 --> 00:23:52,472
 Good luck, son.
 
-346
-00:23:38,125 --> 00:23:40,503
-I will beat the odds
+334
+00:23:55,184 --> 00:23:57,894
+<i><font color=yellow>♪ I will beat the odds</i>
 
-347
-00:23:40,670 --> 00:23:42,505
-I can go the distance
+335
+00:23:57,978 --> 00:23:59,771
+<i><font color=yellow>♪ I can go the distance</i>
 
-348
-00:23:42,672 --> 00:23:44,924
-I will face the world
+336
+00:23:59,855 --> 00:24:02,357
+<i><font color=yellow>♪ I will face the world</i>
 
-349
-00:23:45,091 --> 00:23:47,051
-Fearless, proud and strong
+337
+00:24:02,441 --> 00:24:04,442
+<i><font color=yellow>♪ Fearless, proud and strong</i>
 
-350
-00:23:47,218 --> 00:23:49,470
-I will please the gods
+338
+00:24:04,527 --> 00:24:06,903
+<i><font color=yellow>♪ I will please the gods</i>
 
-351
-00:23:49,637 --> 00:23:51,472
-I can go the distance
+339
+00:24:06,987 --> 00:24:08,822
+<i><font color=yellow>♪ I can go the distance</i>
 
-352
-00:23:51,639 --> 00:23:54,100
-Till I find my hero's welcome
+340
+00:24:08,906 --> 00:24:14,911
+<i><font color=yellow>♪ Till I find my hero's welcome
+right where I</i>
 
-353
-00:23:54,267 --> 00:23:57,395
-Right where I
+341
+00:24:15,037 --> 00:24:22,001
+<i><font color=yellow>♪ Belong ♪</i>
 
-354
-00:23:57,562 --> 00:24:10,199
-Belong
-
-355
-00:24:32,638 --> 00:24:34,265
+342
+00:24:50,431 --> 00:24:52,071
 Whoa!
 
-356
-00:24:36,434 --> 00:24:38,769
-- You sure
-this is the right place?
+343
+00:24:53,909 --> 00:24:55,535
+You sure this is the right place?
 
-357
-00:24:50,031 --> 00:24:51,866
-- What's the matter, little guy?
+344
+00:25:06,922 --> 00:25:09,458
+What's the matter, little guy?
 You stuck?
 
-358
-00:24:52,033 --> 00:24:56,204
+345
+00:25:09,472 --> 00:25:12,926
 - Whoa! Hey, butt out, buddy!
 - Ugh!
 
-359
-00:24:56,370 --> 00:24:58,873
+346
+00:25:13,596 --> 00:25:16,431
 Girls! Stop! Stop!
-Come back! Come back, come back!
+Come back, come back, come back.
 
-360
-00:24:59,040 --> 00:25:02,001
+347
+00:25:16,861 --> 00:25:19,806
 Whoa, whoa! Oh, jeez!
 
-361
-00:25:02,168 --> 00:25:05,796
+348
+00:25:19,973 --> 00:25:22,000
 Wait! Whoa, whoa, whoa!
 Oh, nymphs!
 
-362
-00:25:05,963 --> 00:25:08,633
+349
+00:25:22,021 --> 00:25:25,982
 - They can't keep their hands off me.
 - Hey!
 
-363
-00:25:12,845 --> 00:25:14,889
+350
+00:25:30,154 --> 00:25:32,147
 What's the matter?
 You never seen a satyr before?
 
-364
-00:25:15,056 --> 00:25:17,725
-Uh, no.
-Can you help us?
+351
+00:25:32,232 --> 00:25:35,033
+Uh, no. Can you help us?
 
-365
-00:25:17,850 --> 00:25:22,563
+352
+00:25:35,117 --> 00:25:38,786
 We're looking for someone
 called Philoctetes.
 
-366
-00:25:22,730 --> 00:25:24,565
-- Call me Phil.
+353
+00:25:39,830 --> 00:25:41,164
+Call me Phil.
+
+354
+00:25:41,248 --> 00:25:42,624
 - Phil!
-
-367
-00:25:24,732 --> 00:25:27,068
 - Ow!
-- Boy, am I glad to meet you!
 
-368
-00:25:27,235 --> 00:25:30,363
-I'm Hercules,
-and this is Pegasus.
+355
+00:25:42,708 --> 00:25:45,376
+Boy, am I glad to meet you!
+I'm Hercules.
 
-369
-00:25:32,156 --> 00:25:34,825
-Animals. Disgusting.
+356
+00:25:46,045 --> 00:25:47,962
+And this is Pegasus.
 
-370
-00:25:34,951 --> 00:25:38,162
+357
+00:25:49,340 --> 00:25:51,507
+Animals! Disgusting!
+
+358
+00:25:52,009 --> 00:25:53,218
 I need your help.
+
+359
+00:25:53,302 --> 00:25:55,386
 I want to become a hero, a true hero.
 
-371
-00:25:40,081 --> 00:25:42,166
-sorry, kid.
-Can't help ya.
+360
+00:25:57,389 --> 00:26:00,266
+- Sorry, kid. Can't help ya.
+- Wait!
 
-372
-00:25:42,333 --> 00:25:44,043
-- Wait.
+361
+00:26:01,268 --> 00:26:02,352
 - Whoo!
+- Uh, sorry.
 
-373
-00:25:44,210 --> 00:25:46,128
-Uh, sorry. Why not?
+362
+00:26:02,436 --> 00:26:07,065
+- Why not?
+- Two words, I am retired.
 
-374
-00:25:46,295 --> 00:25:49,757
-Two words: I am retired.
-
-375
-00:25:51,008 --> 00:25:52,718
+363
+00:26:08,192 --> 00:26:10,068
 Look, I gotta do this.
 
-376
-00:25:52,885 --> 00:25:54,720
-Haven't you ever had a dream...
+364
+00:26:10,152 --> 00:26:11,861
+Haven't you ever had a dream,
 
-377
-00:25:54,887 --> 00:25:57,473
+365
+00:26:11,946 --> 00:26:14,656
 something you wanted so bad
 you'd do anything?
 
-378
-00:26:00,226 --> 00:26:03,437
+366
+00:26:17,493 --> 00:26:20,828
 Kid, come inside.
-I want to show you somethin'.
+I want to show you something.
 
-379
-00:26:11,946 --> 00:26:14,907
+367
+00:26:29,088 --> 00:26:32,215
 Watch it! That was part
 of the mast of the Argo.
 
-380
-00:26:15,074 --> 00:26:16,701
+368
+00:26:32,299 --> 00:26:34,050
 - The Argo?
 - Yeah.
 
-381
-00:26:16,868 --> 00:26:20,371
-Who do you think taught Jason
-how to sail? Cleopatra?
+369
+00:26:34,134 --> 00:26:36,344
+Who do you think
+taught Jason how to sail?
 
-382
-00:26:20,538 --> 00:26:22,957
-I trained
-all those would-be heroes.
+370
+00:26:36,428 --> 00:26:37,720
+Cleopatra?
 
-383
-00:26:23,124 --> 00:26:27,879
+371
+00:26:37,805 --> 00:26:40,265
+I trained all those would-be heroes.
+
+372
+00:26:40,391 --> 00:26:45,186
 Odysseus, Perseus, Theseus.
-A lot of "yeuseus".
+A lot of "yeuseus."
 
-384
-00:26:28,045 --> 00:26:30,548
-And every single one
-of those bums let me down...
+373
+00:26:45,271 --> 00:26:49,607
+And every single one of those bums
+let me down flatter than a discus.
 
-385
-00:26:30,715 --> 00:26:32,466
-flatter than a discus.
+374
+00:26:49,692 --> 00:26:52,193
+None of 'em could go the distance.
 
-386
-00:26:32,633 --> 00:26:35,553
-None of'em
-could go the distance.
-
-387
-00:26:35,720 --> 00:26:38,514
+375
+00:26:52,903 --> 00:26:55,697
 And then there was Achilles.
 
-388
-00:26:38,681 --> 00:26:40,516
-Now there was a guy
-who had it all...
-
-389
-00:26:40,683 --> 00:26:42,518
+376
+00:26:55,864 --> 00:26:59,909
+Now, there was a guy who had it all,
 the build, the foot speed.
 
-390
-00:26:42,685 --> 00:26:44,604
-He could jab.
-He could take a hit.
+377
+00:26:59,994 --> 00:27:04,414
+He could jab, he could take a hit,
+he could keep on comin'.
 
-391
-00:26:44,770 --> 00:26:47,148
-He could keep on comin'.
+378
+00:27:04,498 --> 00:27:07,166
+But that furshlugginer heel of his!
 
-392
-00:26:47,315 --> 00:26:49,859
-But that furshlugginer
-heel of his!
-
-393
-00:26:50,026 --> 00:26:54,822
+379
+00:27:07,251 --> 00:27:10,169
 He barely gets nicked there once
-and kaboom! He's history.
+and kaboom!
 
-394
-00:26:57,074 --> 00:26:58,701
+380
+00:27:10,671 --> 00:27:12,213
+He's history.
+
+381
+00:27:14,216 --> 00:27:16,009
 Yeah, I had a dream once.
 
-395
-00:26:58,868 --> 00:27:02,246
+382
+00:27:16,093 --> 00:27:19,595
 I dreamed I was gonna train
 the greatest hero there ever was.
 
-396
-00:27:02,413 --> 00:27:06,542
-So great, the gods would hang
-a picture of him in the stars...
+383
+00:27:19,680 --> 00:27:25,977
+So great, the gods would hang a picture
+of him in the stars all across the sky,
 
-397
-00:27:06,709 --> 00:27:08,211
-all across the sky...
-
-398
-00:27:08,377 --> 00:27:12,006
+384
+00:27:26,061 --> 00:27:29,314
 and people would say,
-"That's Phil's boy".
+"That's Phil's boy."
 
-399
-00:27:12,173 --> 00:27:14,091
+385
+00:27:29,398 --> 00:27:31,316
 That's right.
 
-400
-00:27:14,258 --> 00:27:16,135
+386
+00:27:31,400 --> 00:27:33,192
 Eh, but dreams are for rookies.
 
-401
-00:27:16,302 --> 00:27:18,179
+387
+00:27:33,277 --> 00:27:35,445
 A guy can only take
 so much disappointment.
 
-402
-00:27:18,346 --> 00:27:20,389
-But I'm different
-than those other guys, Phil.
+388
+00:27:35,529 --> 00:27:37,822
+But I'm different than
+those other guys, Phil!
 
-403
-00:27:20,556 --> 00:27:24,644
+389
+00:27:37,906 --> 00:27:41,242
 I can go the distance.
-Come on. I'll show ya.
+Come on. I'll show you.
 
-404
-00:27:24,810 --> 00:27:26,771
-Jeez. You don't give up, do ya?
+390
+00:27:42,244 --> 00:27:43,995
+Geez! You don't give up, do ya?
 
-405
-00:27:26,938 --> 00:27:29,190
+391
+00:27:44,079 --> 00:27:45,413
 Watch this.
 
-406
-00:27:32,610 --> 00:27:34,529
+392
+00:27:49,877 --> 00:27:51,836
 Holy Hera.
 
-407
-00:27:34,695 --> 00:27:38,032
+393
+00:27:51,920 --> 00:27:55,340
 You know, maybe if I...
 No! Snap out of it!
 
-408
-00:27:38,199 --> 00:27:40,243
-I'm too old to get mixed up
-in this stuff again.
+394
+00:27:55,424 --> 00:27:57,550
+I'm too old
+to get mixed up in this stuff again.
 
-409
-00:27:40,409 --> 00:27:42,078
-But if I don't become
-a true hero...
+395
+00:27:57,634 --> 00:28:01,971
+But if I don't become a true hero, I'll
+never be able to rejoin my father, Zeus.
 
-410
-00:27:42,245 --> 00:27:45,248
-I'll never be able
-to rejoin my father Zeus.
+396
+00:28:02,431 --> 00:28:03,473
+Hold it!
 
-411
-00:27:45,414 --> 00:27:48,417
-Hold it.
+397
+00:28:03,557 --> 00:28:06,601
 Zeus is your father, right?
 
+398
+00:28:07,519 --> 00:28:11,105
+Zeus. The big guy. He's your daddy.
+
+399
+00:28:11,190 --> 00:28:12,982
+Mr Lightning Bolts!
+
+400
+00:28:13,067 --> 00:28:15,151
+Read me a book, would ya, Da-da?
+
+401
+00:28:15,235 --> 00:28:18,279
+Zeus! "Once upon a time..."
+
+402
+00:28:18,364 --> 00:28:19,530
+It's the truth!
+
+403
+00:28:19,615 --> 00:28:21,157
+Please!
+
+404
+00:28:23,619 --> 00:28:26,287
+<i><font color=yellow>♪ So you wanna be a hero, kid</i>
+
+405
+00:28:26,372 --> 00:28:27,872
+<i><font color=yellow>♪ Well, whoop-de-do</i>
+
+406
+00:28:28,791 --> 00:28:31,209
+<i><font color=yellow>♪ I have been around the block before</i>
+
+407
+00:28:31,293 --> 00:28:33,711
+<i><font color=yellow>♪ With blockheads just like you</i>
+
+408
+00:28:33,796 --> 00:28:36,047
+<i><font color=yellow>♪ Each and every one a disappointment</i>
+
+409
+00:28:36,131 --> 00:28:39,717
+<i><font color=yellow>♪ Pain for which there ain't no ointment</i>
+
+410
+00:28:39,802 --> 00:28:43,346
+<i><font color=yellow>♪ So much for excuses
+Though a kid of "Zeus" is</i>
+
+411
+00:28:43,430 --> 00:28:46,682
+<i><font color=yellow>♪ Askin' me to jump into the fray</i>
+
 412
-00:27:48,584 --> 00:27:50,419
-Uh-huh.
+00:28:46,767 --> 00:28:49,685
+<i><font color=yellow>♪ My answer is two words</i>
 
 413
-00:27:50,586 --> 00:27:54,048
-Zeus, the big guy.
-He's your daddy.
-
-414
-00:27:54,215 --> 00:27:58,135
-Mr. Lightning Bolts!
-Read me a book, would ya, Da-Da?
-
-415
-00:27:58,302 --> 00:28:01,138
-Zeus!
-"Once upon a time..."
-
-416
-00:28:01,305 --> 00:28:03,891
-- It's the truth!
-- Please!
-
-417
-00:28:06,477 --> 00:28:08,604
-So you wanna be a hero, kid
-
-418
-00:28:08,771 --> 00:28:11,732
-Well, whoop-de-do
-
-419
-00:28:11,899 --> 00:28:13,901
-I have been
-around the block before
-
-420
-00:28:14,068 --> 00:28:16,362
-With blockheads just like you
-
-421
-00:28:16,529 --> 00:28:18,739
-Each and everyone
-a disappointment
-
-422
-00:28:18,906 --> 00:28:22,368
-Pain for which
-there ain't no ointment
-
-423
-00:28:22,535 --> 00:28:25,997
-So much for excuses
-Though a kid of Zeus is
-
-424
-00:28:26,163 --> 00:28:29,458
-Askin 'me to jump
-into the fray
-
-425
-00:28:29,625 --> 00:28:32,336
-My answer is two words
-
-426
-00:28:35,464 --> 00:28:36,799
+00:28:52,564 --> 00:28:54,107
 Okay.
 
-427
-00:28:36,966 --> 00:28:38,301
-You mean you'll do it?
-
-428
-00:28:38,467 --> 00:28:40,428
+414
+00:28:54,191 --> 00:28:56,359
+- You mean you'll do it?
 - You win.
+
+415
+00:28:56,443 --> 00:28:58,736
 - You won't be sorry, Phil.
-
-429
-00:28:40,595 --> 00:28:42,847
 - Oh, gods.
-- So when do we start? Can we start now?
 
-430
-00:28:43,014 --> 00:28:44,849
+416
+00:28:58,821 --> 00:29:00,530
+So when do we start?
+Can we start now?
+
+417
+00:29:00,916 --> 00:29:02,756
 Oy, vay.
 
+418
+00:29:02,866 --> 00:29:07,745
+<i><font color=yellow>♪ I'd given up hope
+that someone would come along</i>
+
+419
+00:29:07,830 --> 00:29:12,792
+<i><font color=yellow>♪ A fella who'd ring the bell for once
+Not the gong</i>
+
+420
+00:29:12,876 --> 00:29:15,169
+<i><font color=yellow>♪ The kind who wins trophies</i>
+
+421
+00:29:15,254 --> 00:29:17,171
+<i><font color=yellow>♪ Won't settle for low fees</i>
+
+422
+00:29:17,256 --> 00:29:19,549
+<i><font color=yellow>♪ At least semipro fees</i>
+
+423
+00:29:19,633 --> 00:29:22,552
+<i><font color=yellow>♪ But, no, I get the greenhorn</i>
+
+424
+00:29:22,636 --> 00:29:27,098
+<i><font color=yellow>♪ I've been out to pasture, pal
+My ambition gone</i>
+
+425
+00:29:27,182 --> 00:29:31,894
+<i><font color=yellow>♪ Content to spend lazy days
+and to graze my lawn</i>
+
+426
+00:29:31,979 --> 00:29:34,397
+<i><font color=yellow>♪ But you need an advisor</i>
+
+427
+00:29:34,481 --> 00:29:36,774
+<i><font color=yellow>♪ A satyr, but wiser</i>
+
+428
+00:29:36,859 --> 00:29:39,527
+<i><font color=yellow>♪ A good merchandiser and... whoa</i>
+
+429
+00:29:40,070 --> 00:29:41,779
+<i><font color=yellow>♪ There goes my ulcer</i>
+
+430
+00:29:41,864 --> 00:29:46,534
+<i><font color=yellow>♪ I'm down to one last hope
+and I hope it's you</i>
+
 431
-00:28:46,017 --> 00:28:48,853
-I'd given up hope
-that someone would come
+00:29:46,618 --> 00:29:51,164
+<i><font color=yellow>♪ Though, kid, you're not exactly
+a dream come true</i>
 
 432
-00:28:49,020 --> 00:28:50,646
-Along
+00:29:51,457 --> 00:29:55,960
+<i><font color=yellow>♪ I trained enough turkeys
+Who never came through</i>
 
 433
-00:28:50,813 --> 00:28:53,107
-A fella who'd ring the bell
-for once
+00:29:56,044 --> 00:29:59,547
+<i><font color=yellow>♪ You're my one last hope
+So you'll have to do</i>
 
 434
-00:28:53,274 --> 00:28:55,401
-Not the gong
+00:29:59,882 --> 00:30:01,299
+Rule number six.
 
 435
-00:28:55,568 --> 00:28:57,820
-The kind who wins trophies
-
-436
-00:28:57,987 --> 00:29:00,281
-Won't settle for low fees
-
-437
-00:29:00,448 --> 00:29:02,200
-At least semipro fees
-
-438
-00:29:02,366 --> 00:29:05,244
-But, no
-I get the greenhorn
-
-439
-00:29:05,411 --> 00:29:09,707
-I've been out to pasture, pal
-My ambition gone
-
-440
-00:29:09,874 --> 00:29:14,545
-Content to spend lazy days
-and to graze my lawn
-
-441
-00:29:14,712 --> 00:29:17,048
-But you need an advisor
-
-442
-00:29:17,215 --> 00:29:19,467
-A satyr, but wiser
-
-443
-00:29:19,634 --> 00:29:23,262
-A good merchandiser
-and... whoa
-
-444
-00:29:23,429 --> 00:29:27,225
-There goes my ulcer
-I'm down to one last hope, and I hope
-
-445
-00:29:27,391 --> 00:29:29,185
-It's you
-
-446
-00:29:29,352 --> 00:29:33,981
-Though, kid, you're not
-exactly a dream come true
-
-447
-00:29:34,148 --> 00:29:36,275
-It rained enough turkeys
-
-448
-00:29:36,442 --> 00:29:38,736
-- Who nevercame through
-- Whoa!
-
-449
-00:29:38,903 --> 00:29:41,489
-You're my one last hope
-so you'll have to do
-
-450
-00:29:42,740 --> 00:29:46,452
-Rule number six:
-when rescuing a damsel...
-
-451
-00:29:46,619 --> 00:29:48,579
+00:30:01,383 --> 00:30:05,761
+When rescuing a damsel,
 always handle with care.
 
-452
-00:29:50,498 --> 00:29:52,333
+436
+00:30:07,764 --> 00:30:09,474
 No!
 
+437
+00:30:10,851 --> 00:30:13,728
+Rule number 95, kid. Concentrate!
+
+438
+00:30:15,814 --> 00:30:17,648
+Rule number 96.
+
+439
+00:30:18,066 --> 00:30:19,484
+Aim!
+
+440
+00:30:20,402 --> 00:30:25,156
+<i><font color=yellow>♪ Demigods have faced the odds
+And ended up a mockery</i>
+
+441
+00:30:25,240 --> 00:30:30,077
+<i><font color=yellow>♪ Don't believe the stories
+That you read on all the crockery</i>
+
+442
+00:30:30,162 --> 00:30:34,832
+<i><font color=yellow>♪ To be a true hero, kid, is a dying art</i>
+
+443
+00:30:34,917 --> 00:30:37,251
+<i><font color=yellow>♪ Like paintin' a masterpiece</i>
+
+444
+00:30:37,336 --> 00:30:39,670
+<i><font color=yellow>♪ It's a work of heart</i>
+
+445
+00:30:39,755 --> 00:30:42,089
+<i><font color=yellow>♪ It takes more than sinew</i>
+
+446
+00:30:42,174 --> 00:30:44,509
+<i><font color=yellow>♪ Comes down to what's in you</i>
+
+447
+00:30:44,593 --> 00:30:48,221
+<i><font color=yellow>♪ You have to continue to grow</i>
+
+448
+00:30:48,305 --> 00:30:50,598
+Now, that's more like it!
+
+449
+00:30:50,682 --> 00:30:56,145
+<i><font color=yellow>♪ I'm down to one last shot
+And my last high note</i>
+
+450
+00:30:56,980 --> 00:31:01,943
+<i><font color=yellow>♪ Before that blasted underworld
+gets my goat</i>
+
+451
+00:31:02,027 --> 00:31:04,195
+<i><font color=yellow>♪ My dreams are on you, kid</i>
+
+452
+00:31:04,279 --> 00:31:06,489
+<i><font color=yellow>♪ Go make 'em come true</i>
+
 453
-00:29:53,668 --> 00:29:56,420
-Rule number 95, kid: concentrate!
+00:31:06,573 --> 00:31:08,533
+<i><font color=yellow>♪ Climb that uphill slope</i>
 
 454
-00:29:58,631 --> 00:30:00,883
-Rule number 96:
+00:31:08,617 --> 00:31:10,993
+<i><font color=yellow>♪ Keep pushin' that envelope</i>
 
 455
-00:30:01,050 --> 00:30:03,094
-aim!
+00:31:11,078 --> 00:31:12,787
+<i><font color=yellow>♪ You're my one last hope</i>
 
 456
-00:30:03,261 --> 00:30:05,388
-Demigods have faced the odds
+00:31:12,871 --> 00:31:18,626
+<i><font color=yellow>♪ And, kid, it's up to you ♪</i>
 
 457
-00:30:05,555 --> 00:30:07,765
-And ended up a mockey
-
-458
-00:30:07,932 --> 00:30:09,475
-Don't believe the stories
-
-459
-00:30:09,642 --> 00:30:12,979
-That you read
-on all the crockey
-
-460
-00:30:13,145 --> 00:30:17,483
-To be a true hero, kid
-is a dyin' art
-
-461
-00:30:17,650 --> 00:30:20,194
-Like paintin' a masterpiece
-
-462
-00:30:20,361 --> 00:30:22,321
-It's a work of heart
-
-463
-00:30:22,488 --> 00:30:24,657
-It takes more than sinew
-
-464
-00:30:24,824 --> 00:30:27,201
-Comes down to what's in you
-
-465
-00:30:27,368 --> 00:30:30,997
-You have to continue to grow
-
-466
-00:30:31,163 --> 00:30:33,207
-Now that's more like it!
-
-467
-00:30:33,374 --> 00:30:35,793
-I'm down to one lastshot
-
-468
-00:30:35,960 --> 00:30:39,630
-And my last high note
-
-469
-00:30:39,797 --> 00:30:44,969
-Before that blasted underworld
-gets my goat
-
-470
-00:30:45,136 --> 00:30:46,888
-My dreams are on you, kid
-
-471
-00:30:47,054 --> 00:30:49,140
-Go make 'em come true
-
-472
-00:30:49,307 --> 00:30:51,058
-Climb that uphill slope
-
-473
-00:30:51,225 --> 00:30:53,644
-Keep pushin 'that envelope
-
-474
-00:30:53,811 --> 00:30:55,479
-You're my one last hope
-
-475
-00:30:55,646 --> 00:30:58,900
-And, kid, it's up to
-
-476
-00:30:59,066 --> 00:31:02,904
-You
-
-477
-00:31:03,070 --> 00:31:04,614
+00:31:20,337 --> 00:31:21,837
 Yeah!
 
-478
-00:31:07,158 --> 00:31:09,035
+458
+00:31:22,732 --> 00:31:23,837
+Ha, ha, ha!
+
+459
+00:31:24,091 --> 00:31:26,342
 Did you see that?
 
-479
-00:31:09,202 --> 00:31:12,496
+460
+00:31:26,426 --> 00:31:29,136
 Next stop, Olympus.
 
-480
-00:31:12,663 --> 00:31:14,540
-All right.
-Just take it easy, champ.
+461
+00:31:29,805 --> 00:31:31,847
+All right, just take it easy, champ.
 
-481
-00:31:14,707 --> 00:31:16,709
-I am ready.
-I want to get off this island.
+462
+00:31:31,932 --> 00:31:34,183
+I am ready. I want to get off this island.
 
-482
-00:31:16,876 --> 00:31:19,337
-I want to see battles
-and monsters.
+463
+00:31:34,268 --> 00:31:36,686
+I want to see battles and monsters.
 
-483
-00:31:19,504 --> 00:31:21,339
+464
+00:31:36,770 --> 00:31:38,604
 Rescue some damsels.
 
-484
-00:31:21,506 --> 00:31:23,591
+465
+00:31:38,689 --> 00:31:40,773
 You know, heroic stuff.
 
-485
-00:31:23,758 --> 00:31:27,053
-- Well.
+466
+00:31:41,233 --> 00:31:44,402
+- Well...
 - Aw, come on, Phil!
 
-486
-00:31:27,220 --> 00:31:30,556
-Well, okay, okay.
-You want a road test? Saddle up, kid.
+467
+00:31:44,486 --> 00:31:47,905
+Well, okay. Okay, you want a road test?
+Saddle up, kid.
 
-487
-00:31:30,723 --> 00:31:34,185
+468
+00:31:47,990 --> 00:31:50,324
 - We're goin' to Thebes!
 - Ya-hoo!
 
-488
-00:31:34,352 --> 00:31:36,938
+469
+00:31:51,451 --> 00:31:54,245
 - So what's in Thebes?
 - A lot of problems.
 
-489
-00:31:37,104 --> 00:31:40,107
+470
+00:31:54,329 --> 00:31:57,873
 It's a big, tough town.
 Good place to start buildin' a rep.
 
-490
-00:31:42,777 --> 00:31:44,320
-Sounds like your basic DID...
+471
+00:31:59,960 --> 00:32:04,255
+Sounds like your basic DID,
+Damsel in Distress.
 
-491
-00:31:44,487 --> 00:31:47,281
-- Hyah!
-- Damsel in distress!
-
-492
-00:31:53,955 --> 00:31:56,374
+472
+00:32:11,179 --> 00:32:13,681
 Not so fast, sweetheart.
 
-493
-00:31:56,541 --> 00:31:58,876
-I swear, Nessus.
-Put me down or I'll...
+473
+00:32:13,765 --> 00:32:16,267
+I swear, Nessus. Put me down or I'll...
 
-494
-00:31:59,043 --> 00:32:02,755
-Whoo!
-I like 'em fiey!
+474
+00:32:17,352 --> 00:32:19,312
+Whoo! I like 'em fiey!
 
-495
-00:32:02,922 --> 00:32:05,842
-Now remember, kid.
+475
+00:32:19,396 --> 00:32:21,147
+Now, remember, kid.
+
+476
+00:32:21,231 --> 00:32:23,149
 First, analyse the situation.
 
-496
-00:32:06,008 --> 00:32:09,846
+477
+00:32:23,233 --> 00:32:25,484
 Don't just barrel in there
 without thinking. Eh?
 
-497
-00:32:11,055 --> 00:32:12,640
+478
+00:32:28,280 --> 00:32:29,989
 He's losin' points for this!
 
-498
-00:32:12,807 --> 00:32:15,142
+479
+00:32:30,073 --> 00:32:32,033
 - You don't know what you're...
 - Halt!
 
-499
-00:32:17,770 --> 00:32:20,481
+480
+00:32:35,037 --> 00:32:37,830
 Step aside, two legs.
 
-500
-00:32:20,648 --> 00:32:24,235
+481
+00:32:37,914 --> 00:32:41,751
 Pardon me, my good, uh, uh, sir.
 
-501
-00:32:24,402 --> 00:32:26,237
-I'll have to ask you to release
-that young...
+482
+00:32:41,835 --> 00:32:43,586
+I'll have to ask you to
+release that young...
 
-502
-00:32:26,404 --> 00:32:29,156
+483
+00:32:43,670 --> 00:32:46,631
 - Keep movin', junior.
 - Lady.
 
-503
-00:32:29,323 --> 00:32:32,869
+484
+00:32:46,715 --> 00:32:50,217
 But you... Are-Aren't you
 a damsel in distress?
 
-504
-00:32:33,035 --> 00:32:36,080
-I'm a damsel.
-I'm in distress.
+485
+00:32:50,302 --> 00:32:53,387
+I'm a damsel, I'm in distress.
 
-505
-00:32:36,247 --> 00:32:39,166
-I can handle this.
-Have a nice day.
+486
+00:32:53,472 --> 00:32:56,274
+I can handle this. Have a nice day.
 
-506
-00:32:39,333 --> 00:32:41,169
-Uh...
+487
+00:32:56,793 --> 00:33:02,045
+Uh... Ma'am, I'm afraid you may be
+too close to the situation to realise...
 
-507
-00:32:41,335 --> 00:32:44,338
-Ma'am, I'm afraid you may be too close
-to the situation to realize...
+488
+00:33:03,858 --> 00:33:08,152
+- Ohhh! What are you doin'? Get your sword!
+- Sword. Right, right.
 
-508
-00:32:46,090 --> 00:32:49,552
-Ohhh! What are you doin'?
-Get your sword!
-
-509
-00:32:49,719 --> 00:32:54,348
-Sword. Right, right. Rule number 15:
+489
+00:33:08,236 --> 00:33:11,405
+Rule number 15,
 a hero is only as good as his weapon!
 
-510
-00:33:02,190 --> 00:33:05,318
+490
+00:33:20,499 --> 00:33:22,708
 Whoa, whoa, whoa! Hold it! Hold on!
 He's gotta do it on his own.
 
-511
-00:33:05,484 --> 00:33:08,487
-Come on, kid!
-Concentrate!
+491
+00:33:22,793 --> 00:33:25,836
+Come on, kid! Concentrate!
 
-512
-00:33:08,654 --> 00:33:10,198
+492
+00:33:25,921 --> 00:33:27,588
 Use your head!
 
-513
-00:33:11,532 --> 00:33:13,034
-Oh.
+493
+00:33:35,263 --> 00:33:38,057
+All right! Not bad, kid!
 
-514
-00:33:17,788 --> 00:33:20,708
-All right!
-Not bad, kid!
-
-515
-00:33:20,875 --> 00:33:23,377
+494
+00:33:38,141 --> 00:33:41,227
 Not exactly what I had in mind,
 but not bad.
 
-516
-00:33:26,130 --> 00:33:28,925
+495
+00:33:44,147 --> 00:33:47,900
 Oh, gee, miss.
-I'm, I'm really sorry.
+I'm, I'm really sorry. That was dumb.
 
-517
-00:33:29,091 --> 00:33:31,219
-- Oh.
-- That was dumb.
-
-518
-00:33:31,385 --> 00:33:32,720
+496
+00:33:48,402 --> 00:33:50,027
 Yeah.
 
-519
-00:33:33,888 --> 00:33:35,306
+497
+00:33:51,238 --> 00:33:52,613
 Excuse me.
 
-520
-00:33:40,895 --> 00:33:44,023
-Nice work! Excelente.
+498
+00:33:57,744 --> 00:34:01,372
+Nice work! Excelente!
 
-521
-00:33:44,190 --> 00:33:46,234
+499
+00:34:01,456 --> 00:34:03,541
 Is Wonderboy here for real?
 
-522
-00:33:46,400 --> 00:33:50,321
+500
+00:34:03,625 --> 00:34:07,411
 What are you talkin' about?
 Of course he's real. Whoa!
 
-523
-00:33:51,489 --> 00:33:56,077
-And by the way, sweet cheeks.
-I'm real too.
+501
+00:34:08,588 --> 00:34:13,300
+And by the way, sweet cheeks,
+I'm real, too.
 
-524
-00:33:56,244 --> 00:33:57,745
+502
+00:34:13,432 --> 00:34:14,737
 Ugh!
 
-525
-00:33:57,912 --> 00:34:00,998
+503
+00:34:15,905 --> 00:34:18,983
 Yee-hah! Ya-hoo!
 
-526
-00:34:07,171 --> 00:34:08,965
+504
+00:34:25,172 --> 00:34:26,979
 Whoa!
 
-527
-00:34:35,283 --> 00:34:37,201
+505
+00:34:52,549 --> 00:34:54,633
 - How was that, Phil?
-- Reign it in, rookie.
+- Rein it in, rookie.
 
-528
-00:34:37,368 --> 00:34:40,204
+506
+00:34:54,718 --> 00:34:57,553
 You can get away with mistakes
-like those in the minor decathlons...
+like those in the minor decathlons,
 
-529
-00:34:40,371 --> 00:34:42,957
+507
+00:34:57,637 --> 00:35:00,264
 but this is the big leagues!
 
-530
-00:34:43,124 --> 00:34:44,834
+508
+00:35:00,348 --> 00:35:02,266
 At least I beat him, didn't I?
 
-531
-00:34:45,001 --> 00:34:48,462
+509
+00:35:02,350 --> 00:35:06,145
 Next time, don't let your guard down
 because of a pair of big goo-goo eyes!
 
-532
-00:34:48,629 --> 00:34:51,299
+510
+00:35:06,272 --> 00:35:11,484
 D-oh! It's like I keep tellin' ya.
+You gotta stay focused, and... You...
 
-533
-00:34:51,424 --> 00:34:54,218
-You gotta stay focused,
-and you...
+511
+00:35:20,994 --> 00:35:24,121
+Are you, uh, all right. Miss, uh...
 
-534
-00:35:03,603 --> 00:35:06,772
-Are you, uh, all right,
-Miss, uh...
+512
+00:35:24,206 --> 00:35:28,083
+Megara. My friends call me Meg.
+At least, they would if I had any friends.
 
-535
-00:35:06,939 --> 00:35:08,858
-Megara.
-My friends call me Meg.
-
-536
-00:35:09,025 --> 00:35:10,860
-At least they would
-if I had any friends.
-
-537
-00:35:11,027 --> 00:35:15,489
+513
+00:35:28,168 --> 00:35:32,880
 So did they give you a name
 along with all those rippling pectorals?
 
-538
-00:35:15,656 --> 00:35:19,535
+514
+00:35:32,716 --> 00:35:36,708
 Uh, uh, uh, I'm, um, uh...
 
-539
-00:35:19,702 --> 00:35:22,121
+515
+00:35:36,886 --> 00:35:39,512
 - Uh, uh...
 - Are you always this articulate?
 
-540
-00:35:22,288 --> 00:35:25,208
-Hercules. My...
-My name is Hercules.
+516
+00:35:39,596 --> 00:35:42,640
+Hercules. My... My name is Hercules.
 
-541
-00:35:26,417 --> 00:35:29,587
+517
+00:35:43,183 --> 00:35:46,185
 Herc... Huh.
 I think I prefer Wonderboy.
 
-542
-00:35:29,754 --> 00:35:33,883
+518
+00:35:47,020 --> 00:35:51,273
 So, uh, uh... How-how-how'd you
 get mixed up with the, uh...
 
-543
-00:35:34,050 --> 00:35:36,469
+519
+00:35:51,358 --> 00:35:53,818
 Pinhead with hooves?
 Well, you know how men are.
 
-544
-00:35:36,636 --> 00:35:40,515
-They think "No" means "Yes" and
-"Get lost" means "Take me. I'm yours".
+520
+00:35:53,902 --> 00:35:57,655
+They think that "No" means "Yes," and
+"Get lost" means "Take me, I'm yours."
 
-545
-00:35:43,059 --> 00:35:46,437
-Don't wory. Shorty here
-can explain it to ya later.
+521
+00:36:00,158 --> 00:36:03,118
+Don't worry.
+Shorty here can explain it to ya later.
 
-546
-00:35:46,604 --> 00:35:48,773
+522
+00:36:03,912 --> 00:36:08,749
 Well, thanks for everything, Herc.
-
-547
-00:35:48,940 --> 00:35:51,734
 It's been a real slice.
 
-548
-00:35:51,901 --> 00:35:54,987
+523
+00:36:09,251 --> 00:36:12,628
 Wait! Um, can we give you a ride?
 
-549
-00:35:58,241 --> 00:36:01,827
+524
+00:36:16,424 --> 00:36:19,301
 Uh, I don't think your pinto
 likes me very much.
 
-550
-00:36:01,994 --> 00:36:04,664
-Pegasus? Oh, no.
-Don't be silly.
-
-551
-00:36:04,830 --> 00:36:07,542
+525
+00:36:19,386 --> 00:36:24,348
+Pegasus? Oh, no. Don't be silly.
 He'd be more than happy to... Ow!
 
-552
-00:36:09,335 --> 00:36:12,046
-I'll be all right.
-I'm a big tough girl.
+526
+00:36:26,434 --> 00:36:32,231
+I'll be all right. I'm a big, tough girl.
+I tie my own sandals and everything.
 
-553
-00:36:12,213 --> 00:36:14,340
-I tie my own sandals
-and everything.
-
-554
-00:36:16,634 --> 00:36:18,052
+527
+00:36:33,817 --> 00:36:35,860
 Bye-bye, Wonderboy.
 
-555
-00:36:19,262 --> 00:36:21,722
+528
+00:36:36,278 --> 00:36:37,778
 Bye.
 
-556
-00:36:21,889 --> 00:36:25,017
-She's somethin'.
-Isn't she, Phil?
+529
+00:36:38,905 --> 00:36:42,324
+She's something. Isn't she, Phil?
 
-557
-00:36:25,184 --> 00:36:27,895
+530
+00:36:42,409 --> 00:36:45,119
 Yeah, ye... Oh, yeah.
-She's really somethin'.
+She's really something.
 
-558
-00:36:28,062 --> 00:36:31,107
+531
+00:36:45,203 --> 00:36:46,662
 A real pain in the patella!
+
+532
+00:36:46,746 --> 00:36:49,957
 Earth to Herc!
+Come in, Herc! Come in, Herc!
 
-559
-00:36:31,274 --> 00:36:32,692
-Come in, Herc!
-Come in, Herc!
-
-560
-00:36:32,817 --> 00:36:35,403
+533
+00:36:50,041 --> 00:36:52,877
 We got a job to do, remember?
 
-561
-00:36:35,570 --> 00:36:37,280
+534
+00:36:52,961 --> 00:36:54,712
 Thebes is still waitin'.
 
-562
-00:36:37,446 --> 00:36:39,824
+535
+00:36:54,796 --> 00:36:57,673
 Yeah. Yeah. I know.
 
-563
-00:36:51,294 --> 00:36:53,087
+536
+00:37:08,476 --> 00:37:10,603
 Aw, how cute.
 
-564
-00:36:53,254 --> 00:36:56,007
+537
+00:37:10,687 --> 00:37:13,314
 A couple of rodents
-lookin' for a theme park.
+looking for a theme park.
 
-565
-00:36:56,174 --> 00:36:57,884
+538
+00:37:13,398 --> 00:37:16,859
 Who you callin' a rodent, sister?
+I'm a bunny!
 
-566
-00:36:58,009 --> 00:37:00,970
-- I'm a bunny!
-- A-And I'm his gopher!
+539
+00:37:16,943 --> 00:37:18,360
+A-And I'm his gopher!
 
-567
-00:37:01,137 --> 00:37:03,055
+540
+00:37:19,210 --> 00:37:20,117
 Ta-dah!
 
-568
-00:37:03,222 --> 00:37:05,474
+541
+00:37:20,196 --> 00:37:22,031
 I thought I smelled a rat.
 
-569
-00:37:05,641 --> 00:37:08,561
-- Meg.
-- Speak of the devil.
+542
+00:37:22,115 --> 00:37:23,824
+Meg?
 
-570
-00:37:08,728 --> 00:37:12,773
+543
+00:37:23,909 --> 00:37:25,743
+Speak of the devil.
+
+544
+00:37:25,827 --> 00:37:29,914
 Meg, my little flower, my little bird,
-my little nut. Meg.
+my little nut, Meg.
 
-571
-00:37:12,940 --> 00:37:14,775
+545
+00:37:29,998 --> 00:37:31,957
 What exactly happened here?
 
-572
-00:37:14,942 --> 00:37:17,612
-I thought you were gonna persuade
-the river guardian to join my team...
+546
+00:37:32,042 --> 00:37:34,043
+I thought you were gonna
+persuade the river guardian
 
-573
-00:37:17,778 --> 00:37:21,365
-for the uprising, and here I am,
+547
+00:37:34,127 --> 00:37:35,711
+to join my team for the uprising,
+
+548
+00:37:35,795 --> 00:37:38,589
+and here I am,
 kind of river guardian-less.
 
-574
-00:37:21,532 --> 00:37:25,536
-I gave it my best shot, but
-he made me an offer I had to refuse.
+549
+00:37:38,673 --> 00:37:42,718
+I gave it my best shot,
+but he made me an offer I had to refuse.
 
-575
-00:37:25,703 --> 00:37:27,997
-Fine. So instead of subtracting
-two years from your sentence...
+550
+00:37:42,802 --> 00:37:45,429
+Fine. So, instead of subtracting
+two years from your sentence,
 
-576
-00:37:28,164 --> 00:37:30,124
+551
+00:37:45,513 --> 00:37:47,264
 hey, I'm gonna add two on, okay?
 
-577
-00:37:30,291 --> 00:37:32,376
-- Give that your best shot.
-- Look. It wasn't my fault.
+552
+00:37:47,349 --> 00:37:48,432
+Give that your best shot.
 
-578
-00:37:32,543 --> 00:37:35,213
+553
+00:37:48,516 --> 00:37:51,560
+It wasn't my fault.
 It was this wonderboy, Hercules.
 
-579
-00:37:35,379 --> 00:37:38,799
-Hercules.
+554
+00:37:52,395 --> 00:37:56,190
+Hercules?
 Why does that name ring a bell?
 
-580
-00:37:38,966 --> 00:37:41,802
+555
+00:37:56,274 --> 00:37:59,109
 I don't know.
 Um, maybe we owe him money?
 
-581
-00:37:41,969 --> 00:37:46,516
+556
+00:37:59,194 --> 00:38:03,781
 - What was that name again?
 - Hercules.
 
-582
-00:37:46,682 --> 00:37:48,559
-He comes on with this big,
-innocent farm boy routine...
+557
+00:38:03,865 --> 00:38:05,950
+He comes on with
+this big, innocent farm boy routine,
 
-583
-00:37:48,726 --> 00:37:50,603
+558
+00:38:06,034 --> 00:38:07,743
 but I could see through that
 in a Peloponnesian minute.
 
-584
-00:37:50,770 --> 00:37:54,649
-Wait a minute. Wasn't Hercules the name
+559
+00:38:07,827 --> 00:38:08,786
+Wait a minute.
+
+560
+00:38:08,870 --> 00:38:12,081
+Wasn't Hercules the name
 of that kid we were supposed to...
 
-585
-00:37:54,815 --> 00:37:58,110
-Oh, my gods!
+561
+00:38:12,165 --> 00:38:14,208
+- Oh, my gods!
+- Oh, my gods!
+
+562
+00:38:14,292 --> 00:38:15,668
 Run for it!
 
-586
-00:37:58,277 --> 00:38:01,614
+563
+00:38:15,752 --> 00:38:18,963
 So you took care of him, huh?
 
-587
-00:38:01,781 --> 00:38:03,699
-Dead as a doornail.
+564
+00:38:19,047 --> 00:38:21,048
+Dead as a door nail.
 
-588
-00:38:03,866 --> 00:38:06,702
+565
+00:38:21,132 --> 00:38:23,968
 Weren't those your exact words?
 
-589
-00:38:06,827 --> 00:38:08,579
-This might be
-a different Hercules.
+566
+00:38:24,052 --> 00:38:25,928
+This might be a different Hercules.
 
-590
-00:38:08,746 --> 00:38:12,416
+567
+00:38:26,012 --> 00:38:29,682
 Yeah! I mean, Hercules
 is a very popular name nowadays!
 
-591
-00:38:12,583 --> 00:38:15,920
+568
+00:38:29,766 --> 00:38:33,143
 Remember, like, a few years ago,
-every other boy was named Jason...
+every other boy was named Jason,
 
-592
-00:38:16,045 --> 00:38:17,588
-and the girls
-were all named Brittany?
+569
+00:38:33,228 --> 00:38:34,937
+and the girls were all named Brittany?
 
-593
-00:38:17,755 --> 00:38:22,343
-I'm about to rearrange
-the cosmos...
+570
+00:38:35,021 --> 00:38:39,566
+I'm about to rearrange the cosmos,
 
-594
-00:38:22,468 --> 00:38:25,805
-and the one schlemiel
-who can louse it up...
+571
+00:38:39,651 --> 00:38:46,615
+and the one schlemiel who can louse
+it up is waltzing around in the woods!
 
-595
-00:38:25,972 --> 00:38:29,267
-is waltzing around in the woods!
-
-596
-00:38:33,688 --> 00:38:35,398
+572
+00:38:50,745 --> 00:38:52,663
 Wait. Wait, big guy.
 
-597
-00:38:35,565 --> 00:38:38,401
+573
+00:38:52,747 --> 00:38:55,124
 - We can still cut in on his waltzing.
-- That's right.
+- That's right!
 
-598
-00:38:38,568 --> 00:38:41,279
+574
+00:38:55,208 --> 00:38:58,377
 And-And at least we made him mortal.
 That's a good thing.
 
-599
-00:38:41,404 --> 00:38:42,780
+575
+00:38:58,461 --> 00:39:00,087
 Didn't we?
 
-600
-00:38:42,947 --> 00:38:46,200
-Hmm. Fortunately
-for the three of you...
+576
+00:39:02,048 --> 00:39:03,590
+Hmm. Fortunately for the three of you,
 
-601
-00:38:46,367 --> 00:38:50,204
+577
+00:39:03,675 --> 00:39:07,511
 we still have time to correct
 this rather egregious oversight.
 
-602
-00:38:50,371 --> 00:38:54,000
-And this time, no foul-ups.
+578
+00:39:07,595 --> 00:39:11,056
+And this time, no foul-ups. Wow!
 
-603
-00:38:56,836 --> 00:38:59,505
-Wow!
-
-604
-00:38:59,672 --> 00:39:03,176
+579
+00:39:16,896 --> 00:39:20,357
 - Is that all one town?
 - One town, a million troubles.
 
-605
-00:39:03,301 --> 00:39:05,052
+580
+00:39:20,442 --> 00:39:24,695
 The one and only Thebes.
-
-606
-00:39:05,219 --> 00:39:07,471
 The Big Olive itself.
 
-607
-00:39:07,638 --> 00:39:10,474
+581
+00:39:24,779 --> 00:39:27,990
 If you can make it there,
 you can make it anywhere.
 
-608
-00:39:17,899 --> 00:39:20,818
+582
+00:39:35,040 --> 00:39:39,376
 Stick with me, kid.
-The city is a dangerous place.
+This city is a dangerous place.
 
-609
-00:39:22,612 --> 00:39:26,365
+583
+00:39:39,461 --> 00:39:43,464
 - Look where you're goin', numbskull!
 - Hey, I'm walkin' here!
 
-610
-00:39:26,532 --> 00:39:28,826
-See what I mean?
-I'm tellin' you. Wackos.
+584
+00:39:43,548 --> 00:39:46,133
+You see what I mean?
+I'm tellin' you, wackos.
 
-611
-00:39:28,993 --> 00:39:32,288
-Pita bread. Pita bread.
-Get your pita bread here.
+585
+00:39:46,217 --> 00:39:49,553
+Pitta bread. Pitta bread.
+Get your pitta bread here.
 
-612
-00:39:32,455 --> 00:39:35,166
+586
+00:39:49,637 --> 00:39:52,521
 - Hey, Mack.
 - Whoa, whoa, whoa!
 
-613
-00:39:35,291 --> 00:39:37,251
-You wanna buy a sundial?
+587
+00:39:52,640 --> 00:39:55,642
+- You wanna buy a sundial?
+- He's not interested, all right?
 
-614
-00:39:37,376 --> 00:39:39,420
-He's not interested, all right?
+588
+00:39:55,727 --> 00:39:56,769
 Come on, kid.
 
-615
-00:39:39,587 --> 00:39:42,715
-The end is coming!
-Can't you feel it?
+589
+00:39:56,853 --> 00:39:59,980
+The end is coming! Can't you feel it?
 
-616
-00:39:42,882 --> 00:39:45,593
-Yes, yes.
-Thank you for the info. Yes.
+590
+00:40:00,065 --> 00:40:04,318
+Yes, yes. Thank you for the info. Yes.
+We'll ponder that for a while.
 
-617
-00:39:45,718 --> 00:39:48,095
-We'll ponder that for awhile.
-Just stare at the sidewalk.
+591
+00:40:04,402 --> 00:40:05,694
+Just stare at the sidewalk. Come on.
 
-618
-00:39:48,262 --> 00:39:49,597
-Come on.
+592
+00:40:05,779 --> 00:40:08,238
 Don't make eye contact.
+People here are nuts.
 
-619
-00:39:49,722 --> 00:39:53,226
-People here are nuts. That's because
+593
+00:40:08,323 --> 00:40:10,491
+That's because
 they live in a city of turmoil.
 
-620
-00:39:53,351 --> 00:39:56,187
-Trust me, kid. You're gonna be
+594
+00:40:10,575 --> 00:40:11,617
+Trust me, kid.
+
+595
+00:40:11,701 --> 00:40:13,994
+You're gonna be
 just what the doctor ordered.
 
-621
-00:39:57,855 --> 00:40:02,276
+596
+00:40:14,996 --> 00:40:19,291
 It was tragic!
 We lost everything in the fire.
 
-622
-00:40:02,401 --> 00:40:06,614
-everything
-except old Snowball here.
+597
+00:40:19,375 --> 00:40:22,669
+Everything except old Snowball here.
 
-623
-00:40:06,739 --> 00:40:09,450
-Now were the fires
+598
+00:40:23,463 --> 00:40:26,507
+Now, were the fires
 before or after the earthquake?
 
-624
-00:40:09,534 --> 00:40:11,410
+599
+00:40:26,591 --> 00:40:28,759
 They were after the earthquake.
 I remember.
 
-625
-00:40:11,577 --> 00:40:13,037
+600
+00:40:28,843 --> 00:40:30,260
 But before the flood.
 
-626
-00:40:13,162 --> 00:40:16,374
+601
+00:40:30,345 --> 00:40:33,764
 Don't even get me started
 on the crime rate.
 
-627
-00:40:16,541 --> 00:40:20,211
+602
+00:40:33,848 --> 00:40:37,434
 Thebes has certainly
 gone downhill in a hurry.
 
-628
-00:40:20,378 --> 00:40:22,004
+603
+00:40:37,519 --> 00:40:39,103
 Tell me about it.
 
-629
-00:40:22,171 --> 00:40:24,131
-It seems like every time
-I turn around...
+604
+00:40:39,187 --> 00:40:41,230
+It seems like every time I turn around,
 
-630
-00:40:24,298 --> 00:40:26,342
+605
+00:40:41,314 --> 00:40:43,607
 there's some new monster
-wreakin' havoc and I...
+wreaking havoc and I...
 
-631
-00:40:26,509 --> 00:40:29,637
-All we need now
-is a plague of locusts.
+606
+00:40:43,691 --> 00:40:47,277
+All we need now is a plague of locusts.
 
-632
-00:40:32,181 --> 00:40:35,017
-That's it!
-I'm movin' to Sparta!
+607
+00:40:49,072 --> 00:40:52,282
+That's it! I'm movin' to Sparta!
 
-633
-00:40:35,184 --> 00:40:37,603
+608
+00:40:52,367 --> 00:40:53,617
 Excuse me.
 
-634
-00:40:37,770 --> 00:40:39,438
-It, uh...
-
-635
-00:40:39,605 --> 00:40:43,234
-seems to me that
+609
+00:40:54,744 --> 00:41:00,374
+It, uh... seems to me that
 what you folks need is a hero.
 
-636
-00:40:44,610 --> 00:40:46,487
+610
+00:41:01,751 --> 00:41:03,669
 Yeah, and who are you?
 
-637
-00:40:48,614 --> 00:40:50,783
+611
+00:41:05,713 --> 00:41:10,384
 I'm Hercules, and, uh...
-
-638
-00:40:50,950 --> 00:40:53,202
 I happen to be a hero.
 
-639
-00:40:54,620 --> 00:40:56,581
+612
+00:41:11,719 --> 00:41:14,096
 - Is that so?
 - A hero!
 
-640
-00:40:56,747 --> 00:40:59,000
-Have you ever saved
-a town before?
+613
+00:41:14,180 --> 00:41:18,725
+- Have you ever saved a town before?
+- Uh, no. Uh, not exactly, but I...
 
-641
-00:40:59,166 --> 00:41:01,419
-Uh, no. Uh, not exactly, but I...
+614
+00:41:18,810 --> 00:41:21,311
+Have you ever
+reversed a natural disaster?
 
-642
-00:41:01,586 --> 00:41:04,005
-Have you ever reversed
-a natural disaster?
-
-643
-00:41:04,172 --> 00:41:06,424
+615
+00:41:21,396 --> 00:41:23,814
 Well, uh, no.
 
-644
-00:41:06,591 --> 00:41:10,428
-Oh, listen to thi... He's just another
-chariot chaser. This we need.
+616
+00:41:23,898 --> 00:41:27,025
+Oh, listen to this.
+He's just another chariot chaser.
 
-645
-00:41:10,595 --> 00:41:11,929
-That's a laugh.
+617
+00:41:27,110 --> 00:41:29,278
+- This we need.
+- That's a laugh.
 
-646
-00:41:12,096 --> 00:41:14,515
+618
+00:41:29,362 --> 00:41:31,697
 - Don't you pea brains get it?
 - Hmm?
 
-647
-00:41:14,682 --> 00:41:16,642
+619
+00:41:31,823 --> 00:41:34,074
 This kid is the genuine article.
 
-648
-00:41:16,767 --> 00:41:21,022
+620
+00:41:34,284 --> 00:41:38,162
 Hey, isn't that the goat-man
 who trained Achilles?
 
-649
-00:41:21,189 --> 00:41:22,732
+621
+00:41:38,246 --> 00:41:39,913
 Watch it, pal.
 
-650
-00:41:22,857 --> 00:41:27,361
+622
+00:41:39,998 --> 00:41:42,249
 Yeah, you're right.
+
+623
+00:41:42,333 --> 00:41:44,835
 Hey, uh, nice job on those heels!
 
-651
-00:41:27,528 --> 00:41:30,031
+624
+00:41:44,919 --> 00:41:47,504
 Ya missed a spot!
 
-652
-00:41:30,156 --> 00:41:32,283
-You... I got your heel
-right here!
+625
+00:41:47,589 --> 00:41:49,590
+You... I got your heel right here!
 
-653
-00:41:32,408 --> 00:41:34,660
+626
+00:41:49,674 --> 00:41:51,800
 I'll wipe that stupid grin
 off your face! You...
 
-654
-00:41:34,827 --> 00:41:37,705
-Hey, Phil! Phil! Phil!
+627
+00:41:51,885 --> 00:41:55,179
+Hey, Phil! Phil! Phil! Take it easy. Phil.
 
-655
-00:41:37,872 --> 00:41:40,625
+628
+00:41:55,263 --> 00:41:57,139
 What are you, crazy? Sheesh.
 
-656
-00:41:40,750 --> 00:41:44,378
+629
+00:41:57,932 --> 00:42:03,312
 Young man, we need
-a professional hero...
+a professional hero, not an amateur.
 
-657
-00:41:44,545 --> 00:41:46,964
-not an amateur.
-
-658
-00:41:47,798 --> 00:41:49,842
+630
+00:42:04,731 --> 00:42:06,857
 Well, wait. Stop!
 
-659
-00:41:54,847 --> 00:41:56,974
-How am I supposed
-to prove myself a hero...
+631
+00:42:12,155 --> 00:42:16,033
+How am I supposed to prove myself
+a hero if nobody will give me a chance?
 
-660
-00:41:57,099 --> 00:41:58,809
-if nobody
-will give me a chance?
-
-661
-00:41:58,976 --> 00:42:00,311
+632
+00:42:16,117 --> 00:42:17,242
 You'll get your chance.
 
-662
-00:42:00,478 --> 00:42:04,273
-You just need some kind
-of catastrophe or disaster.
+633
+00:42:17,327 --> 00:42:20,996
+You just need some kind of
+catastrophe or disaster.
 
-663
-00:42:04,398 --> 00:42:08,027
-Please. Help! Please!
+634
+00:42:21,080 --> 00:42:22,164
+Please.
+
+635
+00:42:22,248 --> 00:42:25,459
+Help! Please!
 There's been a terrible accident!
 
-664
-00:42:08,194 --> 00:42:10,530
+636
+00:42:25,543 --> 00:42:27,711
 - Meg?
 - Speakin' of disasters.
 
-665
-00:42:10,655 --> 00:42:13,241
+637
+00:42:28,129 --> 00:42:31,423
 Wonderboy! Hercules!
+Thank goodness!
 
-666
-00:42:13,407 --> 00:42:15,201
-- Thank goodness.
-- Wha-Wha-What's wrong?
+638
+00:42:31,507 --> 00:42:32,966
+Wha-Wha-What's wrong?
 
-667
-00:42:15,368 --> 00:42:16,702
-Oh! Outside of town.
-
-668
-00:42:16,869 --> 00:42:19,080
-Two little boys.
+639
+00:42:33,051 --> 00:42:36,386
+Oh! Outside of town, two little boys.
 Th-They were playing in the gorge.
 
-669
-00:42:19,247 --> 00:42:21,791
+640
+00:42:36,471 --> 00:42:39,139
 Th-There was this rock slide,
 a terrible rock slide.
 
-670
-00:42:21,958 --> 00:42:24,669
+641
+00:42:39,224 --> 00:42:41,975
 - They're trapped!
 - Kids? Trapped?
 
-671
-00:42:24,836 --> 00:42:26,379
+642
+00:42:42,060 --> 00:42:43,644
 Phil, this is great!
 
-672
-00:42:26,546 --> 00:42:28,381
-You're really choked up
-about this, aren't ya?
+643
+00:42:43,728 --> 00:42:45,520
+You're really choked up about this,
+aren't ya?
 
-673
-00:42:28,548 --> 00:42:30,675
-- Come on!
-- No, I... You don't under...
+644
+00:42:45,605 --> 00:42:46,563
+Come on!
 
-674
-00:42:30,800 --> 00:42:33,928
-I, I have this terrible fear
-of heights!
+645
+00:42:46,648 --> 00:42:51,401
+No, I... You don't under...
+I, I have this terrible fear of heights!
 
-675
-00:42:39,141 --> 00:42:41,853
+646
+00:42:56,241 --> 00:42:59,034
 I'm right behind ya, kid! Whoo!
 
-676
-00:42:41,936 --> 00:42:44,689
+647
+00:42:59,118 --> 00:43:01,036
 I'm way behind ya, kid.
 
-677
-00:42:44,856 --> 00:42:46,274
+648
+00:43:01,621 --> 00:43:03,497
 I got a fur wedgie.
 
-678
-00:42:53,197 --> 00:42:54,949
+649
+00:43:10,421 --> 00:43:12,214
 - Are you okay?
 - I'll be fine.
 
-679
-00:42:55,116 --> 00:42:57,201
+650
+00:43:12,298 --> 00:43:14,508
 Just get me down
-before I ruin the upholstey.
+before I ruin the upholstery.
 
-680
-00:42:57,368 --> 00:42:59,245
-Help! I can't breathe!
-
-681
-00:42:59,412 --> 00:43:01,330
+651
+00:43:14,592 --> 00:43:17,636
+- Help! I can't breathe!
 - Hurry!
+
+652
+00:43:17,720 --> 00:43:20,180
 - Get us out!
+- We're suffocating!
 
-682
-00:43:01,497 --> 00:43:03,916
-We're suffocating!
-
-683
-00:43:04,083 --> 00:43:07,211
+653
+00:43:21,307 --> 00:43:24,559
 Somebody call IX-I-I!
 
-684
-00:43:07,378 --> 00:43:09,005
-Easy, fellas.
-You'll be all right.
+654
+00:43:24,644 --> 00:43:26,270
+Easy, fellas. You'll be all right.
 
-685
-00:43:09,172 --> 00:43:10,756
-We can't last much longer!
+655
+00:43:26,354 --> 00:43:30,857
+- We can't last much longer!
+- Get us out before we get crushed!
 
-686
-00:43:10,923 --> 00:43:13,426
-Get us out before we get crushed!
-
-687
-00:43:32,570 --> 00:43:34,572
+656
+00:43:49,711 --> 00:43:51,920
 - How you boys doin'?
 - We're okay now.
 
-688
-00:43:34,739 --> 00:43:38,367
-Jeepers, mister.
-You're really strong.
+657
+00:43:52,005 --> 00:43:55,632
+Jeepers, mister. You're really strong.
 
-689
-00:43:38,534 --> 00:43:42,038
-Well, just ty to be a little
-more careful next time, okay, kids?
+658
+00:43:55,717 --> 00:43:59,219
+Well, try to be a little more careful
+next time, okay, kids?
 
-690
-00:43:42,205 --> 00:43:45,082
+659
+00:43:59,304 --> 00:44:00,971
 We sure will.
 
-691
-00:43:49,670 --> 00:43:51,130
-Stirring performance, boys.
+660
+00:44:06,436 --> 00:44:08,395
+A stirring performance, boys.
 
-692
-00:43:51,297 --> 00:43:53,216
+661
+00:44:08,479 --> 00:44:10,314
 I was really moved.
 
-693
-00:43:54,383 --> 00:43:56,761
+662
+00:44:11,607 --> 00:44:13,900
 "Jeepers, mister"?
 
-694
-00:43:56,928 --> 00:44:00,056
+663
+00:44:13,985 --> 00:44:17,195
 I was going for innocence.
 
-695
-00:44:00,223 --> 00:44:04,143
-And, hey, two thumbs way,
-way up for our leading lady.
+664
+00:44:17,280 --> 00:44:21,491
+And, hey, two thumbs
+way, way up for our leading lady.
 
-696
-00:44:04,310 --> 00:44:06,354
-What a dish.
-What a doll.
+665
+00:44:21,576 --> 00:44:23,285
+What a dish. What a doll.
 
-697
-00:44:06,521 --> 00:44:08,814
-Get outta there, ya big lug,
-while ya still can.
+666
+00:44:23,369 --> 00:44:26,079
+Get outta there, you big lug,
+while you still can.
 
-698
-00:44:09,524 --> 00:44:11,609
+667
+00:44:26,622 --> 00:44:28,790
 Phil, I-I did great.
 
-699
-00:44:11,776 --> 00:44:13,611
-They even applauded. Sort of.
+668
+00:44:28,916 --> 00:44:31,001
+They even applauded, sort of.
 
-700
-00:44:15,196 --> 00:44:17,490
-Huh! I hate
-to burst your bubble, kid...
-
-701
-00:44:17,657 --> 00:44:19,534
+669
+00:44:33,129 --> 00:44:36,715
+Huh! I hate to burst your bubble, kid,
 but that ain't applause.
 
-702
-00:44:26,290 --> 00:44:29,794
+670
+00:44:44,182 --> 00:44:46,975
 Ph-Ph-Ph-Phil?
 What do you call that thing?
 
-703
-00:44:29,961 --> 00:44:32,421
-Two words:
+671
+00:44:47,060 --> 00:44:48,268
+Two words.
 
-704
-00:44:32,588 --> 00:44:34,131
-am-scray!
+672
+00:44:49,645 --> 00:44:51,438
+Am-scray!
 
-705
-00:44:37,176 --> 00:44:40,721
+673
+00:44:54,317 --> 00:44:58,695
 Let's get ready to rumble!
 
-706
-00:44:47,937 --> 00:44:50,147
-That's it. Dance around!
-Dance around!
+674
+00:45:04,911 --> 00:45:07,537
+That's it. Dance around! Dance around!
 
-707
-00:44:50,314 --> 00:44:53,651
-Watch the teeth! Watch the teeth!
+675
+00:45:07,622 --> 00:45:10,749
+Watch the teeth. Watch the teeth.
 Keep going. Come on. Come on.
 
-708
-00:44:53,818 --> 00:44:56,737
+676
+00:45:10,833 --> 00:45:14,294
 Lead with your left.
-Lead with your left. Your other left!
+Lead with your left! Your other left!
 
-709
-00:45:23,264 --> 00:45:25,474
-Whoa!
-
-710
-00:45:51,125 --> 00:45:54,295
-All right! All right!
+677
+00:46:08,141 --> 00:46:11,601
+Whoa! All right! All right!
 You're bad! Okay!
 
-711
-00:45:54,462 --> 00:45:58,674
-See, Phil?
-That... That wasn't so hard.
+678
+00:46:11,686 --> 00:46:15,355
+See, Phil? That... That wasn't so hard.
 
-712
-00:45:58,841 --> 00:46:02,053
+679
+00:46:15,440 --> 00:46:17,149
 Kid, kid, kid.
-How many horns do you see?
 
-713
-00:46:02,220 --> 00:46:04,222
-- Six?
-- Eh, close enough.
+680
+00:46:17,233 --> 00:46:18,733
+How many horns do ya see?
 
-714
-00:46:04,388 --> 00:46:06,265
+681
+00:46:18,818 --> 00:46:20,569
+Six?
+
+682
+00:46:20,653 --> 00:46:23,530
+Eh, close enough.
 Let's get you cleaned up.
 
-715
-00:46:10,561 --> 00:46:15,316
+683
+00:46:27,618 --> 00:46:30,620
 Guys, guys, relax.
-It's only halftime.
 
-716
-00:46:18,528 --> 00:46:20,321
+684
+00:46:30,705 --> 00:46:32,581
+It's only half-time.
+
+685
+00:46:35,710 --> 00:46:37,669
 That doesn't sound good.
 
-717
-00:46:28,162 --> 00:46:29,664
+686
+00:46:45,303 --> 00:46:46,928
 Definitely not good!
 
-718
-00:46:58,693 --> 00:47:01,696
-Will you forget
-the head-slicing thing?
+687
+00:47:15,750 --> 00:47:18,668
+Will you forget the head-slicing thing?
 
-719
-00:47:09,370 --> 00:47:12,206
-Phil, I don't think we covered this one
-in basic training!
+688
+00:47:26,260 --> 00:47:29,846
+I don't think we covered
+this one in basic training!
 
-720
-00:47:24,010 --> 00:47:26,888
-My favourite part of the game:
+689
+00:47:41,108 --> 00:47:43,777
+My favourite part of the game,
 
-721
-00:47:29,724 --> 00:47:31,392
+690
+00:47:46,948 --> 00:47:48,782
 sudden death.
 
-722
-00:47:52,663 --> 00:47:56,501
+691
+00:48:11,722 --> 00:48:15,600
 Oh. There goes another one.
-
-723
-00:47:56,667 --> 00:47:58,836
 Just like Achilles.
 
-724
-00:48:01,005 --> 00:48:02,840
-Game...
+692
+00:48:18,187 --> 00:48:20,063
+Game.
 
-725
-00:48:03,007 --> 00:48:06,636
-set, match.
+693
+00:48:20,147 --> 00:48:21,982
+Set.
 
-726
-00:48:09,680 --> 00:48:11,766
-Hmm?
+694
+00:48:22,066 --> 00:48:23,441
+Match.
 
-727
-00:48:29,784 --> 00:48:32,620
+695
+00:48:47,216 --> 00:48:52,304
 Phil, you gotta admit.
-
-728
-00:48:32,787 --> 00:48:35,039
 That was pretty heroic.
 
-729
-00:48:35,206 --> 00:48:39,502
+696
+00:48:52,388 --> 00:48:56,933
 Ya did it, kid! Ya did it!
-Ya won by a landslide!
+You won by a landslide!
 
-730
-00:48:42,755 --> 00:48:44,632
+697
+00:48:59,562 --> 00:49:01,646
 Hades mad.
 
-731
-00:48:47,218 --> 00:48:49,637
-Well, what do you know?
+698
+00:49:04,358 --> 00:49:07,152
+Well, what do ya know?
 
-732
-00:48:54,308 --> 00:48:57,812
+699
+00:49:11,198 --> 00:49:15,160
 From that day forward,
 our boy Hercules could do no wrong.
 
+700
+00:49:15,244 --> 00:49:18,663
+He was so hot, steam looked cool.
+
+701
+00:49:18,748 --> 00:49:20,999
+<i><font color=yellow>♪ Oh, yeah</i>
+
+702
+00:49:21,959 --> 00:49:24,919
+<i><font color=yellow>♪ Bless my soul
+Herc was on a roll</i>
+
+703
+00:49:25,004 --> 00:49:27,964
+<i><font color=yellow>♪ Person of the week
+in every Greek opinion poll</i>
+
+704
+00:49:28,049 --> 00:49:30,675
+<i><font color=yellow>- ♪ What a pro
+<font color=yellow>- ♪ Herc could stop a show</i>
+
+705
+00:49:30,760 --> 00:49:33,762
+<i><font color=yellow>♪ Point him at a monster
+and you're talkin' SRO</i>
+
+706
+00:49:33,846 --> 00:49:36,640
+<i><font color=yellow>- ♪ He was a no one
+<font color=yellow>- ♪ A zero, zero</i>
+
+707
+00:49:36,724 --> 00:49:39,559
+<i><font color=yellow>- ♪ Now he's a honcho
+<font color=yellow>- ♪ He's a hero</i>
+
+708
+00:49:39,685 --> 00:49:42,479
+<i><font color=yellow>♪ Here was a kid with his act down pat</i>
+
+709
+00:49:42,563 --> 00:49:45,440
+<i><font color=yellow>♪ Zero to hero in no time flat</i>
+
+710
+00:49:45,524 --> 00:49:48,318
+<i><font color=yellow>- ♪ Zero to hero
+<font color=yellow>- ♪ Just like that</i>
+
+711
+00:49:48,402 --> 00:49:50,904
+<i><font color=yellow>♪ When he smiled the girls went wild</i>
+
+712
+00:49:51,030 --> 00:49:53,823
+<i><font color=yellow>♪ With oohs and aahs</i>
+
+713
+00:49:53,908 --> 00:49:56,660
+<i><font color=yellow>♪ And they slapped his face
+on every vase</i>
+
+714
+00:49:56,744 --> 00:50:00,080
+<i><font color=yellow>♪ On every "vahse"</i>
+
+715
+00:50:00,164 --> 00:50:02,582
+<i><font color=yellow>♪ From appearance fees and royalties</i>
+
+716
+00:50:02,667 --> 00:50:05,251
+<i><font color=yellow>♪ Our Herc had cash to burn</i>
+
+717
+00:50:05,336 --> 00:50:07,962
+<i><font color=yellow>♪ Now nouveau riche and famous</i>
+
+718
+00:50:08,047 --> 00:50:11,633
+<i><font color=yellow>♪ He could tell you what's a Grecian urn</i>
+
+719
+00:50:11,759 --> 00:50:14,469
+<i><font color=yellow>♪ Say amen, there he goes again</i>
+
+720
+00:50:14,553 --> 00:50:17,430
+<i><font color=yellow>- ♪ Sweet and undefeated
+<font color=yellow>- ♪ And an awesome ten for ten</i>
+
+721
+00:50:17,556 --> 00:50:20,100
+<i><font color=yellow>♪ Folks lined up just to watch him flex</i>
+
+722
+00:50:20,184 --> 00:50:23,353
+<i><font color=yellow>♪ And this perfect package
+packed a pair of pretty pecs</i>
+
+723
+00:50:23,437 --> 00:50:26,189
+<i><font color=yellow>♪ Hercie, he comes
+he sees, he conquers</i>
+
+724
+00:50:26,273 --> 00:50:29,192
+<i><font color=yellow>♪ Honey, the crowds were goin' bonkers</i>
+
+725
+00:50:29,276 --> 00:50:31,194
+<i><font color=yellow>♪ He showed the moxie
+brains and spunk</i>
+
+726
+00:50:31,278 --> 00:50:32,278
+<i><font color=yellow>♪ Yeah</i>
+
+727
+00:50:32,363 --> 00:50:34,823
+<i><font color=yellow>- ♪ From zero to hero
+<font color=yellow>- ♪ A major hunk</i>
+
+728
+00:50:34,907 --> 00:50:37,617
+<i><font color=yellow>- ♪ Zero to hero
+<font color=yellow>- ♪ And who'd have thunk?</i>
+
+729
+00:50:41,163 --> 00:50:43,456
+<i><font color=yellow>♪ Who put the glad in gladiator?</i>
+
+730
+00:50:43,541 --> 00:50:44,916
+<i><font color=yellow>♪ Hercules</i>
+
+731
+00:50:45,000 --> 00:50:47,377
+<i><font color=yellow>♪ Who's darin' deeds are great theatre?</i>
+
+732
+00:50:47,461 --> 00:50:49,087
+<i><font color=yellow>♪ Hercules</i>
+
 733
-00:48:57,979 --> 00:49:01,524
-He was so hot,
-steam looked cool.
+00:50:49,171 --> 00:50:51,089
+<i><font color=yellow>- ♪ Isn't he bold?
+<font color=yellow>- ♪ No one braver</i>
 
 734
-00:49:01,691 --> 00:49:04,861
-Oh, yeah
+00:50:51,173 --> 00:50:53,216
+<i><font color=yellow>- ♪ Is he sweet?
+<font color=yellow>- ♪ Our favourite flavour</i>
 
 735
-00:49:05,027 --> 00:49:07,572
-Bless my soul
-Herc was on a roll
+00:50:53,300 --> 00:50:54,342
+<i><font color=yellow>♪ Hercules</i>
 
 736
-00:49:07,738 --> 00:49:10,616
-Person of the week
-in every Greek opinion poll
+00:50:54,427 --> 00:50:55,427
+<i><font color=yellow>♪ My man.</i>
 
 737
-00:49:10,783 --> 00:49:13,452
-- What a pro
-- Herc could stop a show
+00:50:55,511 --> 00:50:57,387
+<i><font color=yellow>- ♪ Hercules
+<font color=yellow>- ♪ Hercules</i>
 
 738
-00:49:13,619 --> 00:49:16,455
-Point him at a monster
-and you're talkin 'SRO
+00:50:57,471 --> 00:50:59,472
+<i><font color=yellow>♪ Hercules</i>
 
 739
-00:49:16,622 --> 00:49:19,292
-- He was a no one
-- A zero, zero
+00:50:59,557 --> 00:51:01,516
+<i><font color=yellow>- ♪ Hercules
+<font color=yellow>- ♪ Look at my Hercules</i>
 
 740
-00:49:19,458 --> 00:49:22,378
-- Now he's a honcho
-- He's a hero
+00:51:01,600 --> 00:51:05,061
+<i><font color=yellow>- ♪ Hercules, Hercules
+<font color=yellow>- ♪ Yeah, yeah, yeah</i>
 
 741
-00:49:22,545 --> 00:49:25,214
-Here was a kid
-with his act down pat
+00:51:05,146 --> 00:51:07,480
+<i><font color=yellow>♪ Bless my soul, Herc was on a roll</i>
 
 742
-00:49:25,339 --> 00:49:28,134
-Zero to hero in no time flat
+00:51:07,565 --> 00:51:10,150
+<i><font color=yellow>- ♪ Undefeated
+<font color=yellow>- ♪ Riding high</i>
 
 743
-00:49:28,301 --> 00:49:30,970
-- Zero to hero
--Just like that
+00:51:10,234 --> 00:51:11,609
+<i><font color=yellow>♪ And the nicest guy.</i>
 
 744
-00:49:31,095 --> 00:49:33,931
-When he smiled
-the girls went wild
+00:51:11,694 --> 00:51:13,403
+<i><font color=yellow>♪ Not conceited</i>
 
 745
-00:49:34,098 --> 00:49:36,559
-With oohs and aahs
+00:51:13,487 --> 00:51:15,447
+<i><font color=yellow>- ♪ He was a nothing
+<font color=yellow>- ♪ A zero, zero</i>
 
 746
-00:49:36,726 --> 00:49:39,520
-And they slapped his face
-on every vase
+00:51:15,531 --> 00:51:17,490
+<i><font color=yellow>- ♪ Now he's a honcho
+<font color=yellow>- ♪ He's our hero</i>
 
 747
-00:49:39,687 --> 00:49:42,481
-On every "vahse"
+00:51:17,575 --> 00:51:20,702
+<i><font color=yellow>♪ He hit the heights at breakneck speed</i>
 
 748
-00:49:42,648 --> 00:49:45,193
-From appearance fees
-and royalties
+00:51:20,786 --> 00:51:23,037
+<i><font color=yellow>♪ From zero to hero</i>
 
 749
-00:49:45,359 --> 00:49:47,904
-Our Herc had cash to burn
+00:51:23,122 --> 00:51:24,956
+<i><font color=yellow>♪ Herc is a hero</i>
 
 750
-00:49:48,070 --> 00:49:50,781
-Now nouveau riche and famous
+00:51:25,040 --> 00:51:29,419
+<i><font color=yellow>♪ Now he's a hero</i>
 
 751
-00:49:50,948 --> 00:49:54,410
-He could tell you
-what's a Grecian urn
+00:51:30,337 --> 00:51:32,297
+<i><font color=yellow>♪ Yes, indeed ♪</i>
 
 752
-00:49:54,577 --> 00:49:57,288
-Say amen
-There he goes again
-
-753
-00:49:57,455 --> 00:50:00,124
-- Sweet and undefeated
-- And an awesome ten for ten
-
-754
-00:50:00,249 --> 00:50:02,710
-Folks lined up
-just to watch him flex
-
-755
-00:50:02,877 --> 00:50:06,088
-And this perfect package
-packed a pair of pretty pecs
-
-756
-00:50:06,255 --> 00:50:09,008
-Hercie, he comes
-He sees, he conquers
-
-757
-00:50:09,175 --> 00:50:11,928
-Honey, the crowds
-were goin 'bonkers
-
-758
-00:50:12,094 --> 00:50:14,514
-- He showed the moxie brains and spunk
-- Yeah
-
-759
-00:50:14,680 --> 00:50:17,725
-- From zero to hero
-- A major hunk
-
-760
-00:50:17,892 --> 00:50:20,269
-- Zero to hero
-- And who'd have thunk
-
-761
-00:50:24,023 --> 00:50:25,900
-Who put the glad in gladiator
-
-762
-00:50:26,067 --> 00:50:27,652
-Hercules
-
-763
-00:50:27,818 --> 00:50:30,196
-Whose darin 'deeds
-are great theatre
-
-764
-00:50:30,363 --> 00:50:31,822
-Hercules
-
-765
-00:50:31,989 --> 00:50:33,824
-- Isn't he bold
-- No one braver
-
-766
-00:50:33,991 --> 00:50:36,035
-- Is he sweet
-- Our favourite flavour
-
-767
-00:50:36,202 --> 00:50:38,037
-- Hercules
-- My man.
-
-768
-00:50:38,204 --> 00:50:39,997
-- Hercules
-- Hercules
-
-769
-00:50:40,164 --> 00:50:42,083
-- Hercules
-- Ooh
-
-770
-00:50:42,250 --> 00:50:44,669
-- Hercules
-- Look at my Hercules
-
-771
-00:50:44,836 --> 00:50:47,964
-- Hercules, Hercules
-- Yeah, yeah, yeah
-
-772
-00:50:48,130 --> 00:50:50,341
-Bless my soul
-Herc was on a roll
-
-773
-00:50:50,508 --> 00:50:52,969
-- Undefeated
-- Riding high
-
-774
-00:50:53,135 --> 00:50:56,138
-- And the nicest guy.
-- Not conceited
-
-775
-00:50:56,305 --> 00:50:58,266
-- He was a nothing
-- A zero, zero
-
-776
-00:50:58,432 --> 00:51:00,226
-- Now he's a honcho
-- He's our hero
-
-777
-00:51:00,393 --> 00:51:03,354
-He hit the heights
-at breakneck speed
-
-778
-00:51:03,521 --> 00:51:05,731
-From zero to hero
-
-779
-00:51:05,898 --> 00:51:07,733
-Herc is a hero
-
-780
-00:51:07,900 --> 00:51:12,989
-Now he's a hero
-
-781
-00:51:13,155 --> 00:51:15,157
-Yes, indeed
-
-782
-00:51:18,202 --> 00:51:20,162
+00:51:35,092 --> 00:51:36,468
 Pull!
 
-783
-00:51:23,416 --> 00:51:25,251
+753
+00:51:40,306 --> 00:51:42,307
 Nice shootin', Rex.
 
-784
-00:51:25,418 --> 00:51:28,462
+754
+00:51:42,391 --> 00:51:43,933
 I can't believe this guy.
-I throw everything I've got at him...
 
-785
-00:51:28,629 --> 00:51:31,048
+755
+00:51:44,018 --> 00:51:47,604
+I throw everything I've got at him
 and it doesn't even...
 
-786
-00:51:31,215 --> 00:51:34,927
+756
+00:51:48,355 --> 00:51:51,858
 What are those?
 
-787
-00:51:35,094 --> 00:51:38,931
-Um, I don't know.
+757
+00:51:52,327 --> 00:51:56,070
+Oh, I don't know.
 I-I thought they looked kinda dashing.
 
-788
-00:51:39,098 --> 00:51:42,768
-I've got 24 hours
-to get rid of this bozo...
+758
+00:51:56,155 --> 00:51:59,908
+I've got 24 hours to get rid of this bozo,
 
-789
-00:51:42,935 --> 00:51:48,316
+759
+00:51:59,992 --> 00:52:05,622
 or the entire scheme I've been setting
-up for 18 years goes up in smoke...
+up for 18 years goes up in smoke,
 
-790
-00:51:48,482 --> 00:51:53,654
-and you are wearing
-his merchandise?
+760
+00:52:06,040 --> 00:52:11,377
+and you are wearing his merchandise!
 
-791
-00:52:01,412 --> 00:52:03,748
+761
+00:52:18,344 --> 00:52:19,427
 Thirsty?
 
-792
-00:52:13,633 --> 00:52:17,720
-Looks like your game's over. Wonderboy
-is hitting every curve you throw at him.
+762
+00:52:30,689 --> 00:52:32,065
+Looks like your game's over.
 
-793
-00:52:18,930 --> 00:52:20,765
+763
+00:52:32,149 --> 00:52:34,901
+Wonderboy is hitting
+every curve you throw at him.
+
+764
+00:52:35,820 --> 00:52:37,695
 Oh, yeah.
 
-794
-00:52:22,308 --> 00:52:25,269
+765
+00:52:39,615 --> 00:52:41,366
 I wonder if maybe
-I haven't been throwing...
 
-795
-00:52:25,436 --> 00:52:30,816
-the right curves at him,
-Meg, my sweet.
+766
+00:52:41,450 --> 00:52:47,747
+I haven't been throwing
+the right curves at him, Meg, my sweet.
 
-796
-00:52:30,983 --> 00:52:32,818
+767
+00:52:48,207 --> 00:52:49,999
 Don't even go there.
 
-797
-00:52:32,985 --> 00:52:35,112
-See, he's gotta have
-a weakness...
+768
+00:52:50,084 --> 00:52:54,629
+See, he's gotta have a weakness
+because everybody's got a weakness.
 
-798
-00:52:35,279 --> 00:52:37,406
-because everybody's
-got a weakness.
-
-799
-00:52:37,573 --> 00:52:39,909
+769
+00:52:54,713 --> 00:52:57,173
 I mean, for what?
 Pandora, it was the box thing.
 
-800
-00:52:40,076 --> 00:52:42,745
+770
+00:52:57,258 --> 00:52:59,926
 For the Trojans, hey.
 They bet on the wrong horse, okay?
 
-801
-00:52:42,870 --> 00:52:45,540
-We simply need
-to find out Wonderboy's.
+771
+00:53:00,010 --> 00:53:02,887
+We simply need to
+find out Wonderboy's.
 
-802
-00:52:45,706 --> 00:52:47,875
-I've done my part.
-Get your little imps...
+772
+00:53:02,972 --> 00:53:05,139
+I've done my part. Get your little imps...
 
-803
-00:52:48,042 --> 00:52:49,836
-They couldn't handle him
-as a baby.
+773
+00:53:05,224 --> 00:53:06,391
+They couldn't handle him as a baby.
 
-804
-00:52:50,002 --> 00:52:52,672
+774
+00:53:06,475 --> 00:53:09,853
 I need somebody
 who can handle him as a man.
 
-805
-00:52:52,797 --> 00:52:54,507
+775
+00:53:09,937 --> 00:53:11,938
 Hey, I've sworn off manhandling.
 
-806
-00:52:54,674 --> 00:52:56,843
-Well, you know, that's good
-because that's what got you...
+776
+00:53:12,022 --> 00:53:16,025
+Well, you know, that's good because that's what
+got you into this jam in the first place, isn't it?
 
-807
-00:52:57,009 --> 00:52:58,845
-into this jam in the first place,
-isn't it?
-
-808
-00:52:59,011 --> 00:53:02,348
+777
+00:53:16,110 --> 00:53:19,529
 You sold your soul to me
 to save your boyfriend's life.
 
-809
-00:53:02,515 --> 00:53:04,976
+778
+00:53:19,613 --> 00:53:22,198
 And how does this creep thank you?
 
-810
-00:53:05,142 --> 00:53:08,229
-By running off
-with some babe.
+779
+00:53:22,283 --> 00:53:25,368
+By running off with some babe.
 
-811
-00:53:08,396 --> 00:53:10,231
+780
+00:53:25,452 --> 00:53:27,537
 He hurt you real bad,
 didn't he, Meg? Huh?
 
-812
-00:53:10,398 --> 00:53:12,441
+781
+00:53:27,621 --> 00:53:29,581
 Look, I learned my lesson, okay?
 
-813
-00:53:12,608 --> 00:53:14,902
-Which is exactly why
-I got a feelin'...
+782
+00:53:29,665 --> 00:53:34,210
+Which is exactly why I got a feelin'
+you're gonna leap at my new offer.
 
-814
-00:53:15,069 --> 00:53:16,988
-you're gonna leap
-at my new offer.
-
-815
-00:53:17,154 --> 00:53:20,116
+783
+00:53:34,295 --> 00:53:37,338
 You give me the key
-to bringing down Wonder Breath...
+to bringing down Wonder Breath,
 
-816
-00:53:20,283 --> 00:53:23,828
-and I give you the thing
-that you crave most...
+784
+00:53:37,423 --> 00:53:43,428
+and I give you the thing that
+you crave most in the entire cosmos,
 
-817
-00:53:23,995 --> 00:53:26,789
-in the entire cosmos:
-
-818
-00:53:26,956 --> 00:53:29,959
+785
+00:53:43,888 --> 00:53:45,805
 your freedom.
 
-819
-00:53:32,837 --> 00:53:34,630
-You should
-have been there, Father.
+786
+00:53:49,385 --> 00:53:49,961
+Ha!
 
-820
-00:53:34,797 --> 00:53:36,757
-I mangled the Minotaur...
+787
+00:53:49,977 --> 00:53:51,561
+You should have been there, Father.
 
-821
-00:53:36,924 --> 00:53:39,594
+788
+00:53:51,645 --> 00:53:56,900
+I mangled the Minotaur,
 grappled with the Gorgon.
 
-822
-00:53:39,719 --> 00:53:42,180
+789
+00:53:56,984 --> 00:53:58,234
 Just like Phil told me.
-I analysed the situation...
 
-823
-00:53:42,346 --> 00:53:44,724
-controlled my strength
-and kicked.
+790
+00:53:58,319 --> 00:54:02,155
+I analysed the situation,
+controlled my strength and kicked.
 
-824
-00:53:47,185 --> 00:53:49,020
+791
+00:54:04,241 --> 00:54:06,492
 The crowds went wild!
 
-825
-00:53:51,439 --> 00:53:54,317
-- Thank you. Thank you.
-- Hah!
+792
+00:54:08,829 --> 00:54:10,246
+Thank you. Thank you.
 
-826
-00:53:54,483 --> 00:53:58,404
-You're doing great, son.
+793
+00:54:10,624 --> 00:54:15,585
+Hah! You're doin' great, son.
 You're doing your old man proud.
 
-827
-00:53:58,571 --> 00:54:00,573
-I'm glad to hear you
-say that, Father.
+794
+00:54:15,669 --> 00:54:17,879
+I'm glad to hear you say that, Father.
 
-828
-00:54:00,740 --> 00:54:02,992
-I've been waiting
-for this day a long time.
+795
+00:54:17,963 --> 00:54:20,340
+I've been waiting for this day
+a long time.
 
-829
-00:54:03,159 --> 00:54:05,745
+796
+00:54:20,383 --> 00:54:22,592
 Hmm. What day is that, son?
 
-830
-00:54:05,912 --> 00:54:08,956
+797
+00:54:22,676 --> 00:54:25,720
 The day I rejoin the gods.
 
-831
-00:54:09,123 --> 00:54:12,543
+798
+00:54:25,804 --> 00:54:29,724
 You've done wonderfully.
 You really have, my boy.
 
-832
-00:54:12,710 --> 00:54:14,545
+799
+00:54:29,808 --> 00:54:31,643
 You're just not there yet.
 
-833
-00:54:14,712 --> 00:54:18,466
-You haven't proven yourself
-a true hero.
+800
+00:54:31,727 --> 00:54:35,772
+You haven't proven yourself a true hero.
 
-834
-00:54:18,633 --> 00:54:21,928
-But, Father, I've beaten every
-single monster I've come up against.
+801
+00:54:35,856 --> 00:54:39,275
+But, Father, I've beaten every single
+monster I've come up against.
 
-835
-00:54:22,094 --> 00:54:25,306
+802
+00:54:39,360 --> 00:54:42,612
 I-I'm-I'm the most famous person
 in all of Greece.
 
-836
-00:54:25,473 --> 00:54:29,268
+803
+00:54:42,696 --> 00:54:46,574
 I'm-I-I'm an action figure!
 
-837
-00:54:29,435 --> 00:54:32,104
+804
+00:54:46,659 --> 00:54:52,288
 I'm afraid being famous
-isn't the same...
+isn't the same as being a true hero.
 
-838
-00:54:32,230 --> 00:54:35,566
-as being a true hero.
-
-839
-00:54:35,733 --> 00:54:37,109
+805
+00:54:52,373 --> 00:54:54,123
 What more can I do?
 
-840
-00:54:37,276 --> 00:54:40,446
-It's something you have
-to discover for yourself.
+806
+00:54:54,208 --> 00:54:57,710
+It's something
+you have to discover for yourself.
 
-841
-00:54:40,613 --> 00:54:44,867
+807
+00:54:57,795 --> 00:55:02,048
 - But how can I...
 - Look inside your heart.
 
-842
-00:54:46,452 --> 00:54:48,329
+808
+00:55:03,300 --> 00:55:05,468
 Father, wait!
 
-843
-00:55:04,345 --> 00:55:06,305
-On your left
-is Hercules' villa.
+809
+00:55:21,318 --> 00:55:23,695
+On your left is Hercules' villa.
 
-844
-00:55:06,472 --> 00:55:08,724
-Our next stop
-is the Pecs and Flex Gift Shop...
+810
+00:55:23,779 --> 00:55:26,114
+Our next stop is
+the Pecs and Flex Gift Shop
 
-845
-00:55:08,891 --> 00:55:11,978
-where you can pick up the great hero's
-30-minute workout scroll...
+811
+00:55:26,198 --> 00:55:27,198
+where you can pick up
 
-846
-00:55:12,144 --> 00:55:14,021
-"Buns of Bronze".
+812
+00:55:27,282 --> 00:55:31,244
+the great hero's 30-minute
+workout scroll Buns of Bronze.
 
-847
-00:55:14,188 --> 00:55:16,357
-At 1:00, you got a meeting
-with King Augeas.
+813
+00:55:31,328 --> 00:55:33,663
+At 1:00,
+you got a meeting with King Augeas.
 
-848
-00:55:16,524 --> 00:55:18,150
-He's got a problem
-with his stables.
+814
+00:55:33,747 --> 00:55:35,498
+He's got a problem with his stables.
 
-849
-00:55:18,317 --> 00:55:19,944
+815
+00:55:35,582 --> 00:55:37,333
 I'd advise you
 not to wear your new sandals.
 
-850
-00:55:20,111 --> 00:55:22,405
-- Phil.
+816
+00:55:37,418 --> 00:55:39,752
+- Phil?
 - I told you, don't move!
 
-851
-00:55:22,572 --> 00:55:24,574
-DGR, the Daughters
-of the Greek Revolution.
+817
+00:55:39,837 --> 00:55:41,462
+DGR, the Daughters of
+the Greek Revolution.
 
-852
-00:55:24,740 --> 00:55:27,285
-- At 3:00, you gotta get a girdle
-from some Amazons.
+818
+00:55:41,588 --> 00:55:42,588
 - Phil.
+- At 3:00,
 
-853
-00:55:27,451 --> 00:55:30,413
+819
+00:55:42,673 --> 00:55:44,674
+you gotta get a girdle
+from some Amazons.
+
+820
+00:55:44,758 --> 00:55:47,802
 Phil, what's the point?
 
-854
-00:55:32,498 --> 00:55:33,833
+821
+00:55:49,930 --> 00:55:51,222
 That's it!
 
-855
-00:55:34,000 --> 00:55:35,877
+822
+00:55:51,306 --> 00:55:53,266
 Keep your toga on, pal.
 
-856
-00:55:38,171 --> 00:55:41,424
+823
+00:55:56,854 --> 00:55:58,646
 Yuck! What do you mean,
 "What's the point?"
 
-857
-00:55:41,591 --> 00:55:43,050
-You wanna go to Olympus,
-don't ya?
+824
+00:55:58,731 --> 00:56:00,481
+You wanna go to Olympus, don't ya?
 
-858
-00:55:43,217 --> 00:55:47,305
+825
+00:56:00,566 --> 00:56:04,652
 Yeah, but this stuff doesn't seem
 to be getting me anywhere.
 
-859
-00:55:47,471 --> 00:55:50,141
+826
+00:56:04,737 --> 00:56:07,321
 You can't give up now.
 I'm countin' on ya.
 
-860
-00:55:50,308 --> 00:55:52,226
+827
+00:56:07,406 --> 00:56:09,699
 I gave this everything I had.
 
-861
-00:55:54,770 --> 00:55:57,607
-Listen to me, kid.
-I seen 'em all.
+828
+00:56:11,994 --> 00:56:14,871
+Listen to me, kid. I seen 'em all.
 
-862
-00:55:57,773 --> 00:56:01,819
-And I am tellin' you...
-and this is the honest-to-Zeus truth...
+829
+00:56:14,955 --> 00:56:19,167
+And I am tellin' you,
+and this is the honest-to-Zeus truth,
 
-863
-00:56:01,986 --> 00:56:03,946
-you got somethin'
-I never seen before.
-
-864
-00:56:04,113 --> 00:56:05,948
+830
+00:56:19,251 --> 00:56:22,253
+- you got somethin' I never seen before.
 - Really?
-- I can feel it...
 
-865
-00:56:06,115 --> 00:56:08,618
-right down in these stubby
-bowlegs of mine.
+831
+00:56:22,337 --> 00:56:26,007
+I can feel it right down
+to these stubby bowlegs of mine.
 
-866
-00:56:08,784 --> 00:56:11,746
-There is nothin'
-you can't do, kid.
+832
+00:56:26,091 --> 00:56:28,968
+There is nothin' you can't do, kid.
 
-867
-00:56:13,539 --> 00:56:15,541
-- It's him!
-- Hey, watch it!
+833
+00:56:30,637 --> 00:56:31,637
+It's him!
 
-868
-00:56:15,708 --> 00:56:17,001
-- Watch it! Watch...
-- I touched his elbow!
+834
+00:56:32,306 --> 00:56:33,639
+Hey, watch it! Watch it! Watch...
 
-869
-00:56:17,168 --> 00:56:20,046
-- Hey, girls!
+835
+00:56:33,724 --> 00:56:37,477
+- I touched his elbow! Hey, girls!
 - I got his sweatband!
 
-870
-00:56:20,213 --> 00:56:22,423
+836
+00:56:37,561 --> 00:56:39,812
 Phil, help!
 
-871
-00:56:22,590 --> 00:56:25,968
-- Okay. Escape plan: beta.
+837
+00:56:39,897 --> 00:56:42,398
+- Okay. Escape plan, beta.
 - Gotcha.
 
-872
-00:56:26,135 --> 00:56:29,889
-- Hey! Where is he?
-- There he goes! On the veranda!
+838
+00:56:43,442 --> 00:56:44,901
+Hey. Where is he?
 
-873
-00:56:30,056 --> 00:56:31,933
-Whoa!
+839
+00:56:44,985 --> 00:56:47,320
+There he goes! On the veranda!
 
-874
-00:56:46,697 --> 00:56:50,034
-Let's see. What could be behind
+840
+00:57:03,879 --> 00:57:04,879
+Whoa! Let's see.
+
+841
+00:57:04,963 --> 00:57:07,423
+What could be behind
 curtain number one?
 
-875
-00:56:50,201 --> 00:56:51,786
+842
+00:57:07,508 --> 00:57:08,758
 Meg!
 
-876
-00:56:51,953 --> 00:56:54,622
+843
+00:57:08,842 --> 00:57:11,969
 It's all right.
 The sea of raging hormones has ebbed.
 
-877
-00:56:54,747 --> 00:56:57,333
-Gee, i-i-it's
-great to see you.
+844
+00:57:12,054 --> 00:57:15,098
+Gee, i-i-it's great to see you.
 
-878
-00:56:57,500 --> 00:56:59,418
+845
+00:57:15,182 --> 00:57:16,808
 I-I-I missed you.
 
-879
-00:56:59,585 --> 00:57:02,004
+846
+00:57:16,892 --> 00:57:19,352
 So this is what heroes do
 on their days off.
 
-880
-00:57:02,171 --> 00:57:04,257
+847
+00:57:19,436 --> 00:57:21,687
 Nah. I'm no hero.
 
-881
-00:57:04,423 --> 00:57:06,634
-Sure ya are.
-everybody in Greece...
+848
+00:57:21,772 --> 00:57:24,107
+Sure ya are. Everybody in Greece
 
-882
-00:57:06,801 --> 00:57:10,221
+849
+00:57:24,191 --> 00:57:26,692
 thinks you're the greatest thing
-since they put the pocket in pita.
+since they put the pocket in pitta.
 
-883
-00:57:10,388 --> 00:57:13,599
-I know, it's... it's crazy. You know, I
-can't go anywhere without being mobbed.
+850
+00:57:27,569 --> 00:57:29,445
+I know, it's... it's crazy.
 
-884
-00:57:13,766 --> 00:57:16,227
+851
+00:57:29,530 --> 00:57:31,280
+You know, I can't go anywhere
+without being mobbed.
+
+852
+00:57:31,365 --> 00:57:33,616
 - I mean...
 - You sound like you could use a break.
 
-885
-00:57:16,394 --> 00:57:21,190
-Think your nanny goat would go berserk
-if you played hookey this afternoon?
+853
+00:57:33,700 --> 00:57:36,828
+Think your nanny goat
+would go berserk
 
-886
-00:57:21,357 --> 00:57:24,569
-Oh, gee, I-I don't know. Uh, Phil's got
-the rest of the day pretty much booked.
+854
+00:57:36,912 --> 00:57:38,621
+if you played hooky this afternoon?
 
-887
-00:57:24,735 --> 00:57:26,612
-Ah, Phil, schmill.
+855
+00:57:38,705 --> 00:57:40,206
+Oh, gee, I-I don't know.
 
-888
-00:57:26,779 --> 00:57:29,323
-Just follow me out the window,
-round the dumbbells.
+856
+00:57:40,290 --> 00:57:41,958
+Uh, Phil's got the rest of the day
+pretty much booked.
 
-889
-00:57:29,490 --> 00:57:32,159
-You lift up the back wall
-and we're gone.
+857
+00:57:42,042 --> 00:57:45,002
+Ah, Phil, schmill. Just follow me.
 
-890
-00:57:37,582 --> 00:57:39,667
+858
+00:57:45,087 --> 00:57:49,382
+Out the window, round the dumbbells,
+you lift up the back wall and we're gone.
+
+859
+00:57:54,763 --> 00:57:56,973
 Wow. What a day.
 
-891
-00:57:39,834 --> 00:57:41,752
-First that restaurant by the bay.
+860
+00:57:57,057 --> 00:58:02,520
+First, that restaurant by the bay,
+and then that play, that Oedipus thing.
 
-892
-00:57:41,919 --> 00:57:45,298
-And then that, that play,
-that, that, that Oedipus thing.
-
-893
-00:57:45,464 --> 00:57:47,884
+861
+00:58:02,604 --> 00:58:05,148
 Man! I thought I had problems.
 
-894
-00:57:50,428 --> 00:57:55,433
-- Psst! Stop foolin' around.
+862
+00:58:09,236 --> 00:58:12,780
+- Stop foolin' around!
 - Yeah. Get the goods, sister.
 
-895
-00:57:55,600 --> 00:57:59,020
-I didn't know that playing hookey
-could be so much fun.
+863
+00:58:12,865 --> 00:58:16,367
+I didn't know that
+playing hooky could be so much fun.
 
-896
-00:57:59,187 --> 00:58:01,772
-Yeah, neither did I.
-
-897
-00:58:01,939 --> 00:58:05,193
+864
+00:58:16,451 --> 00:58:20,204
+- Yeah. Neither did I.
 - Thanks, Meg.
-- Oh.
 
-898
-00:58:05,359 --> 00:58:07,445
-Don't thank me just yet.
+865
+00:58:21,183 --> 00:58:24,250
+Oh. Don't thank me just yet.
 
-899
-00:58:07,612 --> 00:58:10,031
+866
+00:58:25,044 --> 00:58:27,295
 - Oh!
 - Oop. Careful.
 
-900
-00:58:10,198 --> 00:58:12,116
-sorry. Weak ankles.
+867
+00:58:27,379 --> 00:58:29,463
+Sorry. Weak ankles.
 
-901
-00:58:12,283 --> 00:58:16,454
+868
+00:58:29,548 --> 00:58:32,967
 Oh, yeah? Well, maybe you better
 sit down for a while.
 
-902
-00:58:16,621 --> 00:58:20,625
-So, uh, do you
-have any problems...
-
-903
-00:58:20,791 --> 00:58:22,752
+869
+00:58:34,261 --> 00:58:39,473
+So, uh, do you have any problems
 with things like this?
 
-904
-00:58:22,919 --> 00:58:25,838
+870
+00:58:41,435 --> 00:58:43,144
 - Uh...
 - Weak ankles, I mean.
 
-905
-00:58:26,005 --> 00:58:28,799
+871
+00:58:43,237 --> 00:58:46,063
 Oh, uh, no, not really.
 
-906
-00:58:28,966 --> 00:58:32,762
+872
+00:58:46,148 --> 00:58:49,984
 No weaknesses whatsoever?
 
-907
-00:58:32,929 --> 00:58:35,681
+873
+00:58:50,068 --> 00:58:52,153
 - No trick knee?
 - Uh...
 
-908
-00:58:35,848 --> 00:58:38,351
+874
+00:58:52,821 --> 00:58:55,489
 Ruptured disks?
 
-909
-00:58:40,561 --> 00:58:45,483
+875
+00:58:57,659 --> 00:59:01,621
 No. I'm, I'm, I'm afraid
-I'm, uh, fit as a fiddle.
+I'm, uh, fit as a fiddle..
 
-910
-00:58:45,650 --> 00:58:49,695
-- Wonderboy, you are perfect.
-- Thanks.
+876
+00:59:02,748 --> 00:59:05,124
+Wonderboy, you are perfect.
 
-911
-00:58:51,155 --> 00:58:53,533
+877
+00:59:05,584 --> 00:59:06,960
+Thanks.
+
+878
+00:59:08,205 --> 00:59:09,483
 Whoops!
 
-912
-00:58:54,992 --> 00:58:57,036
+879
+00:59:12,216 --> 00:59:14,383
 It looks better that way.
 
-913
-00:58:57,203 --> 00:58:59,580
+880
+00:59:14,468 --> 00:59:16,802
 No, it really does.
 
-914
-00:59:06,337 --> 00:59:08,422
-You know, when, when I was a kid...
+881
+00:59:23,602 --> 00:59:25,895
+You know, when I was a kid,
 
-915
-00:59:08,589 --> 00:59:12,844
-I, I would have given anything to be
-exactly like everybody else.
+882
+00:59:25,979 --> 00:59:30,066
+I, I would have given anything
+to be exactly like everybody else.
 
-916
-00:59:13,010 --> 00:59:15,513
-You wanted to be
-petty and dishonest?
+883
+00:59:30,150 --> 00:59:32,777
+You wanted to be petty and dishonest?
 
-917
-00:59:15,680 --> 00:59:19,392
-- everybody's not like that.
-- Yes, they are.
+884
+00:59:32,861 --> 00:59:34,028
+Everybody's not like that.
 
-918
-00:59:19,559 --> 00:59:22,812
-- You're not like that.
-- How do you know what I'm like?
+885
+00:59:34,821 --> 00:59:36,739
+Yes, they are.
 
-919
-00:59:22,979 --> 00:59:24,814
-All I know is...
+886
+00:59:36,823 --> 00:59:38,616
+You're not like that.
 
-920
-00:59:24,981 --> 00:59:30,027
-you're the most amazing person with
-weak ankles I've ever met.
+887
+00:59:38,700 --> 00:59:40,368
+How do you know what I'm like?
 
-921
-00:59:33,614 --> 00:59:35,283
+888
+00:59:40,452 --> 00:59:47,458
+All I know is you're the most amazing
+person with weak ankles I've ever met.
+
+889
+00:59:51,138 --> 00:59:52,410
 Oh!
 
-922
-00:59:35,449 --> 00:59:37,869
-Meg, when I'm with you...
-
-923
-00:59:38,035 --> 00:59:42,373
+890
+00:59:52,589 --> 00:59:58,511
+Meg, when I'm with you,
 I-I don't feel so alone.
 
-924
-00:59:42,540 --> 00:59:44,959
-Sometimes it's better
-to be alone.
+891
+00:59:59,763 --> 01:00:02,265
+Sometimes it's better to be alone.
 
-925
-00:59:45,126 --> 00:59:48,504
-- What do you mean?
-- Nobody can hurt you.
+892
+01:00:02,349 --> 01:00:03,599
+What do you mean?
 
-926
-00:59:52,300 --> 00:59:57,346
-Meg? I would never ever hurt you.
+893
+01:00:03,684 --> 01:00:05,768
+Nobody can hurt you.
 
-927
-00:59:57,513 --> 01:00:00,099
-And I don't wanna
-hurt you, so...
+894
+01:00:09,439 --> 01:00:10,731
+Meg?
 
-928
-01:00:00,266 --> 01:00:02,727
-let's both do
-ourselves a favour and...
+895
+01:00:11,191 --> 01:00:14,735
+I would never, ever hurt you.
 
-929
-01:00:02,894 --> 01:00:07,690
-stop this before we...
+896
+01:00:14,820 --> 01:00:21,033
+And I don't wanna hurt you, so let's both
+do ourselves a favour and stop this
 
-930
-01:00:07,857 --> 01:00:11,694
-All right! Break it up!
-Break it up! Party's over!
+897
+01:00:22,494 --> 01:00:24,745
+before we...
 
-931
-01:00:11,861 --> 01:00:14,572
-- I've been lookin' all over this town!
+898
+01:00:25,205 --> 01:00:29,041
+All right! Break it up! Break it up!
+Party's over!
+
+899
+01:00:29,126 --> 01:00:31,961
+- I been lookin' all over this town!
 - Calm down, mutton man.
 
-932
-01:00:14,739 --> 01:00:17,200
-- It was all my fault.
-- You're already on my list, sister!
+900
+01:00:32,045 --> 01:00:33,337
+It was all my fault.
 
-933
-01:00:17,366 --> 01:00:19,493
-So don't make it worse!
+901
+01:00:33,422 --> 01:00:36,257
+You're already on my list, sister,
+so don't make it worse!
 
-934
-01:00:21,871 --> 01:00:24,582
+902
+01:00:39,261 --> 01:00:41,971
 And as for you, ya bum,
-you're gonna go to the stadium...
+you're gonna go to the stadium
 
-935
-01:00:24,749 --> 01:00:26,918
+903
+01:00:42,055 --> 01:00:44,015
 and you're gonna be put through
 the workout of your life!
 
-936
-01:00:27,084 --> 01:00:31,297
+904
+01:00:44,099 --> 01:00:47,393
 - Now get on the horse.
 - Okay, okay.
 
-937
-01:00:31,464 --> 01:00:34,133
+905
+01:00:48,729 --> 01:00:51,355
 - I'm sorry.
 - Ah, he'll get over it.
 
-938
-01:00:39,847 --> 01:00:42,767
+906
+01:00:57,070 --> 01:01:00,156
 Move! Move, move,
 move, move, move! Move!
 
-939
-01:00:48,564 --> 01:00:51,025
-Hey, watch it. Watch it.
-Watch it.
-
-940
-01:00:51,192 --> 01:00:53,402
+907
+01:01:05,871 --> 01:01:10,124
+Hey, watch it, watch it! Watch it!
 Keep your goo-goo eyes on the...
 
-941
-01:00:55,613 --> 01:00:59,867
+908
+01:01:12,919 --> 01:01:16,505
 That's it. Next time, I drive.
 
-942
-01:01:06,958 --> 01:01:10,002
+909
+01:01:24,181 --> 01:01:27,224
 Oh, what's the matter with me?
 
-943
-01:01:10,169 --> 01:01:13,798
+910
+01:01:27,309 --> 01:01:30,144
 You'd think a girl would learn.
 
+911
+01:01:31,063 --> 01:01:35,316
+<i><font color=yellow>♪ If there's a prize for rotten judgement</i>
+
+912
+01:01:35,525 --> 01:01:39,278
+<i><font color=yellow>♪ I guess I've already won that</i>
+
+913
+01:01:39,780 --> 01:01:43,949
+<i><font color=yellow>♪ No man is worth the aggravation</i>
+
+914
+01:01:44,034 --> 01:01:47,995
+<i><font color=yellow>♪ That's ancient history
+Been there, done that</i>
+
+915
+01:01:48,080 --> 01:01:51,916
+<i><font color=yellow>♪ Who d'ya think you're kidding
+He's the Earth and heaven to you</i>
+
+916
+01:01:52,000 --> 01:01:55,878
+<i><font color=yellow>♪ Try to keep it hidden
+Honey, we can see right through you</i>
+
+917
+01:01:55,962 --> 01:01:57,713
+<i><font color=yellow>- ♪ Oh, no
+<font color=yellow>- ♪ Girl, you can't conceal it</i>
+
+918
+01:01:57,798 --> 01:02:02,676
+<i><font color=yellow>♪ We know how you feel
+and who you're thinkin' of</i>
+
+919
+01:02:04,346 --> 01:02:08,265
+<i><font color=yellow>♪ Oh, no chance, no way
+I won't say it, no, no</i>
+
+920
+01:02:08,350 --> 01:02:12,061
+<i><font color=yellow>♪ You swoon, you sigh
+Why deny it?</i>
+
+921
+01:02:12,145 --> 01:02:16,607
+<i><font color=yellow>♪ It's too cliché, I won't say I'm in love</i>
+
+922
+01:02:16,771 --> 01:02:19,717
+<i><font color=yellow>♪ Shoo-doo, shoo-doo
+Oo-oo-oo</i>
+
+923
+01:02:19,820 --> 01:02:23,489
+<i><font color=yellow>♪ I thought my heart
+had learned its lesson</i>
+
+924
+01:02:23,573 --> 01:02:27,118
+<i><font color=yellow>♪ It feels so good when you start out</i>
+
+925
+01:02:27,494 --> 01:02:31,163
+<i><font color=yellow>♪ My head is screaming
+"Get a grip, girl"</i>
+
+926
+01:02:31,623 --> 01:02:35,459
+<i><font color=yellow>♪ Unless you're dyin'
+To cry your heart out</i>
+
+927
+01:02:35,544 --> 01:02:39,463
+<i><font color=yellow>♪ You keep on denying
+Who you are and how you're feelin'</i>
+
+928
+01:02:39,548 --> 01:02:43,426
+<i><font color=yellow>♪ Baby, we're not buyin'
+Hon, we saw you hit the ceilin'</i>
+
+929
+01:02:43,510 --> 01:02:47,388
+<i><font color=yellow>♪ Face it like a grown-up
+When you gonna own up that you</i>
+
+930
+01:02:47,472 --> 01:02:51,225
+<i><font color=yellow>- ♪ Got
+<font color=yellow>- ♪ Got it bad?</i>
+
+931
+01:02:51,810 --> 01:02:55,771
+<i><font color=yellow>♪ No chance, no way
+I won't say it, no, no</i>
+
+932
+01:02:55,856 --> 01:02:59,650
+<i><font color=yellow>- ♪ Give up, but give in
+<font color=yellow>- ♪ Check the grin, you're in love</i>
+
+933
+01:02:59,734 --> 01:03:03,612
+<i><font color=yellow>♪ This scene won't play
+I won't say I'm in love</i>
+
+934
+01:03:03,697 --> 01:03:06,449
+<i><font color=yellow>♪ You're doing flips
+Read our lips</i>
+
+935
+01:03:06,533 --> 01:03:07,533
+<i><font color=yellow>♪ You're in love</i>
+
+936
+01:03:07,617 --> 01:03:10,077
+<i><font color=yellow>- ♪ Shoo-doo, shoo-doo
+<font color=yellow>- ♪ You're way off base. I won't say I'm it</i>
+
+937
+01:03:10,162 --> 01:03:11,454
+<i><font color=yellow>♪ She won't say in love</i>
+
+938
+01:03:11,538 --> 01:03:15,541
+<i><font color=yellow>♪ Get off my case, I won't say it</i>
+
+939
+01:03:15,625 --> 01:03:20,045
+<i><font color=yellow>♪ Girl, don't be proud
+It's okay, you're in love</i>
+
+940
+01:03:23,675 --> 01:03:27,136
+<i><font color=yellow>♪ Oh, at least out loud</i>
+
+941
+01:03:27,220 --> 01:03:30,055
+<i><font color=yellow>♪ I won't say I'm in</i>
+
+942
+01:03:30,932 --> 01:03:35,478
+<i><font color=yellow>- ♪ Love
+<font color=yellow>- ♪ Shoo-doo, shoo-doo, shoo-doo</i>
+
+943
+01:03:35,589 --> 01:03:38,334
+<i><font color=yellow>♪ Shoo-doo
+Sha-la-la-la-la-la-la</i>
+
 944
-01:01:13,965 --> 01:01:18,261
-If there's a prize
-for rotten judgment
+01:03:38,501 --> 01:03:40,676
+<i><font color=yellow>♪ Ha ♪</i>
 
 945
-01:01:18,427 --> 01:01:22,306
-I guess I've already won that
+01:03:49,409 --> 01:03:51,952
+Hey, what's the buzz, Meg?
 
 946
-01:01:22,473 --> 01:01:26,936
-No man is worth the aggravation
-
-947
-01:01:27,103 --> 01:01:30,606
-That's ancient history
-Been there, done that
-
-948
-01:01:30,773 --> 01:01:34,527
-Who do ya think you're kidding
-He's the earth and heaven toya
-
-949
-01:01:34,694 --> 01:01:38,030
-Try to keep it hidden
-Honey, we can see right through ya
-
-950
-01:01:38,197 --> 01:01:40,324
-- Oh, no
-- Girl, you can't conceal it
-
-951
-01:01:40,491 --> 01:01:45,288
-We know how you feel
-and who you're thinkin' of
-
-952
-01:01:45,454 --> 01:01:50,960
-Oh, no chance, no way
-I won't say it, no, no
-
-953
-01:01:51,127 --> 01:01:54,672
-You swoon, you sigh
-Why deny it, uh-oh
-
-954
-01:01:54,839 --> 01:01:58,843
-It's too cliche
-I won't say I'm in love
-
-955
-01:01:59,010 --> 01:02:02,555
-Shoo-doo, shoo-doo
-Oo-oo-oo
-
-956
-01:02:02,722 --> 01:02:06,142
-I thought my heart
-had learned its lesson
-
-957
-01:02:06,309 --> 01:02:09,812
-It feels so good
-when you start out
-
-958
-01:02:09,979 --> 01:02:14,400
-- Ah
-- My head is screaming, get a grip, girl
-
-959
-01:02:14,567 --> 01:02:18,362
-Unless you're dyin'
-to cry your heart out, oh
-
-960
-01:02:18,529 --> 01:02:22,074
-You keep on denyin ' who you are
-and how you're feelin'
-
-961
-01:02:22,241 --> 01:02:26,245
-Baby, we're not buyin'
-Hon, we saw you hit the ceilin'
-
-962
-01:02:26,412 --> 01:02:29,874
-Face it like a grown up
-When you gonna own up that you
-
-963
-01:02:30,041 --> 01:02:32,919
-- Got
-- Got
-- Got it bad
-
-964
-01:02:33,085 --> 01:02:38,424
-Oh, no chance, no way
-I won't say it, no, no
-
-965
-01:02:38,549 --> 01:02:42,386
-- Give up, but give in
-- Check the grin, you're in love
-
-966
-01:02:42,553 --> 01:02:46,182
-This scene won't play
-I won't say I'm in love
-
-967
-01:02:46,349 --> 01:02:50,102
-You're doin 'flips, read our lips
-You're in love
-
-968
-01:02:50,269 --> 01:02:52,104
-- Shoo-doo, shoo-doo
-- You're way off base
-
-969
-01:02:52,271 --> 01:02:54,065
-- I won't say it
-- She won't say love
-
-970
-01:02:54,232 --> 01:02:58,069
-Get off my case
-I won't say it
-
-971
-01:02:58,236 --> 01:03:03,574
-Girl, don't be proud
-It's okay, you're in love
-
-972
-01:03:03,699 --> 01:03:06,369
-Oh
-
-973
-01:03:06,536 --> 01:03:09,664
-At least out loud
-
-974
-01:03:09,830 --> 01:03:13,459
-I won't say I'm in
-
-975
-01:03:13,626 --> 01:03:16,420
-- Love
-- Shoo-doo, shoo-doo, shoo-doo
-
-976
-01:03:16,587 --> 01:03:19,757
-Shoo-doo
-Sha-la-la-la-la-la-la
-
-977
-01:03:19,924 --> 01:03:22,093
-Ha
-
-978
-01:03:32,436 --> 01:03:34,605
-Hey, what's the buzz, huh, Meg?
-
-979
-01:03:34,772 --> 01:03:38,109
+01:03:52,037 --> 01:03:55,456
 What is the weak link
 in Wonderboy's chain?
 
-980
-01:03:38,276 --> 01:03:42,154
--Get yourself another girl. I'm through.
--I'm sorry. You mind runnin'
-that by me again?
+947
+01:03:55,540 --> 01:03:57,833
+Get yourself another girl.
+I'm through.
 
-981
-01:03:42,321 --> 01:03:44,991
+948
+01:03:57,918 --> 01:03:59,710
+I'm sorry. Do you mind
+runnin' that by me again?
+
+949
+01:03:59,794 --> 01:04:02,463
 I must have had a chunk of brimstone
 wedged in my ear or something.
 
-982
-01:03:45,157 --> 01:03:49,328
+950
+01:04:02,547 --> 01:04:06,675
 Then read my lips! Forget it.
 
-983
-01:03:49,495 --> 01:03:53,958
+951
+01:04:06,760 --> 01:04:11,263
 Meg, Meg, Meg,
-my sweet deluded little minion.
+my sweet, deluded little minion.
 
-984
-01:03:54,125 --> 01:03:58,754
+952
+01:04:11,348 --> 01:04:16,143
 Aren't we forgetting one teensy-weensy,
 but ever so crucial little, tiny detail?
 
-985
-01:03:58,921 --> 01:04:00,756
+953
+01:04:16,228 --> 01:04:18,187
 I own you!
 
-986
-01:04:00,923 --> 01:04:05,636
+954
+01:04:20,190 --> 01:04:22,900
 - Oh, oh, I got another horn here.
 - You work for me.
 
-987
-01:04:05,803 --> 01:04:08,181
+955
+01:04:22,984 --> 01:04:25,361
 That kid's gonna be
 doin' laps for a month.
 
-988
-01:04:08,347 --> 01:04:11,350
-If I say, "Sing",
-you say, "Hey, name that tune".
+956
+01:04:25,445 --> 01:04:28,697
+If I say, "Sing," you say,
+"Hey, name that tune."
 
-989
-01:04:11,517 --> 01:04:15,980
-If I say, "l want Wonderboy's head
-on a platter", you say...
+957
+01:04:28,782 --> 01:04:33,285
+If I say, "I want Wonderboy's head
+on a platter," you say...
 
-990
-01:04:16,147 --> 01:04:17,982
-Medium or well done?
+958
+01:04:33,411 --> 01:04:35,454
+Medium or well-done.
 
-991
-01:04:18,149 --> 01:04:22,612
-Oh! I knew that dame was trouble.
+959
+01:04:36,164 --> 01:04:40,042
+I knew that dame was trouble.
 This is gonna break the kid's heart.
 
-992
-01:04:22,778 --> 01:04:25,907
+960
+01:04:40,126 --> 01:04:43,212
 - I'll work on that.
 - I'm sorry. You hear that sound?
 
-993
-01:04:26,073 --> 01:04:30,661
+961
+01:04:43,296 --> 01:04:48,133
 That's the sound of your freedom
 fluttering out the window forever.
 
-994
-01:04:30,828 --> 01:04:34,665
+962
+01:04:48,218 --> 01:04:51,345
 I don't care.
 I'm not gonna help you hurt him.
 
-995
-01:04:34,832 --> 01:04:38,836
-I can't believe you're getting
-so worked up about some guy.
+963
+01:04:52,138 --> 01:04:56,141
+I can't believe you're
+getting so worked up about some guy.
 
-996
-01:04:39,003 --> 01:04:41,339
+964
+01:04:56,226 --> 01:04:58,477
 This one is different.
-He's honest and, and he's sweet.
+He's honest, and he's sweet...
 
-997
-01:04:41,506 --> 01:04:43,341
-- Please!
+965
+01:04:58,562 --> 01:04:59,562
+Please!
+
+966
+01:04:59,646 --> 01:05:01,397
 - He would never do anything to hurt me.
+- He's a guy!
 
-998
-01:04:43,508 --> 01:04:48,262
-- He's a guy.
-- Besides, O Oneness, you can't beat him.
+967
+01:05:01,481 --> 01:05:05,693
+Besides, O oneness,
+you can't beat him.
 
-999
-01:04:48,429 --> 01:04:52,808
-He has no weaknesses.
-He's gonna...
+968
+01:05:05,777 --> 01:05:09,572
+He has no weaknesses. He's gonna...
 
-1000
-01:04:52,975 --> 01:04:56,479
+969
+01:05:09,990 --> 01:05:13,742
 I think he does, Meg.
 
-1001
-01:04:56,646 --> 01:05:00,358
+970
+01:05:13,827 --> 01:05:17,162
 I truly think he does.
 
-1002
-01:05:22,880 --> 01:05:27,468
-- Hey, Phil, what happened to you?
-- Kid, we gotta talk.
+971
+01:05:40,270 --> 01:05:42,646
+Hey, Phil! What happened to you?
 
-1003
-01:05:27,635 --> 01:05:30,555
-Oh, Phil, I just had
-the greatest day of my life.
+972
+01:05:42,731 --> 01:05:44,148
+Kid, we gotta talk.
 
-1004
-01:05:30,721 --> 01:05:33,975
-I, I, I can't stop thinkin'
-about Meg.
+973
+01:05:44,232 --> 01:05:47,901
+Oh, Phil I just had
+the greatest day of my life!
 
-1005
-01:05:34,141 --> 01:05:36,936
-- She's somethin' else.
-- Kid! I'm tryin' to talk to you!
+974
+01:05:47,986 --> 01:05:50,321
+I, I, I can't stop thinking about Meg.
 
-1006
-01:05:37,103 --> 01:05:38,938
-Will you come down here
-and listen?
+975
+01:05:51,239 --> 01:05:52,781
+She's something else.
 
-1007
-01:05:39,105 --> 01:05:43,734
-Aw, how can I come down there
-when I'm feelin' so up?
+976
+01:05:52,866 --> 01:05:56,118
+Kid, I'm tryin' to talk to ya!
+Will you come down here and listen?
 
-1008
-01:06:09,051 --> 01:06:10,261
+977
+01:05:56,202 --> 01:06:01,040
+How can I come down there
+when I'm feeling so up?
+
+978
+01:06:26,316 --> 01:06:27,816
 Gotcha!
 
-1009
-01:06:10,428 --> 01:06:12,930
-Ah, very nice.
+979
+01:06:27,901 --> 01:06:30,235
+Ah, very nice!
 What I'm tryin' to say is...
 
-1010
-01:06:13,097 --> 01:06:15,600
-That if it wasn't foryou,
+980
+01:06:30,320 --> 01:06:32,863
+That if it wasn't for you,
 I never would have met her.
 
-1011
-01:06:15,766 --> 01:06:18,019
+981
+01:06:32,947 --> 01:06:34,782
 Oh, I owe you big time,
 little guy. I do.
 
-1012
-01:06:18,186 --> 01:06:19,437
+982
+01:06:34,866 --> 01:06:36,617
 Will you just knock it off
 for a couple of seconds?
 
-1013
-01:06:19,604 --> 01:06:22,106
+983
+01:06:36,701 --> 01:06:39,328
 Rule number 38. Come on, Phil.
 Keep them up there, huh?
 
-1014
-01:06:22,273 --> 01:06:25,193
-- Phil, I got two words for ya: duck!
-- Listen to me. She's...
+984
+01:06:39,412 --> 01:06:42,498
+- Phil, I got two words for ya, duck!
+- Listen to me! She's...
 
-1015
-01:06:25,359 --> 01:06:26,903
-- My dream come true?
+985
+01:06:42,582 --> 01:06:43,999
+- A dream come true?
 - Not exactly.
 
-1016
-01:06:27,069 --> 01:06:28,946
+986
+01:06:44,084 --> 01:06:46,210
 - More beautiful than Aphrodite?
 - Aside from that!
 
-1017
-01:06:29,113 --> 01:06:33,159
+987
+01:06:46,294 --> 01:06:50,506
 - The most wonderful...
 - She's a... She's a fraud!
 
-1018
-01:06:33,326 --> 01:06:35,786
+988
+01:06:50,590 --> 01:06:53,175
 She's been playin' ya for a sap!
 
-1019
-01:06:35,953 --> 01:06:38,831
+989
+01:06:53,259 --> 01:06:56,303
 - Aw, come on. Stop kiddin' around.
 - I'm not kiddin' around.
 
-1020
-01:06:38,998 --> 01:06:40,833
+990
+01:06:56,388 --> 01:06:58,097
 - She...
 - I know you're upset about today,
 but that's no reason to...
 
-1021
-01:06:41,000 --> 01:06:43,294
-- Kid, you're missin' the point.
+991
+01:06:58,181 --> 01:06:59,223
+Kid, you're missin' the point.
+
+992
+01:06:59,307 --> 01:07:01,725
 - The point is, I love her.
-
-1022
-01:06:43,461 --> 01:06:45,087
 - She don't love you.
+
+993
+01:07:01,810 --> 01:07:04,019
 - You're crazy.
+- She's nothin' but a two-timin'...
 
-1023
-01:06:45,254 --> 01:06:47,131
-- She nothin' but a two-timin'...
+994
+01:07:04,104 --> 01:07:06,188
 - Stop it!
-
-1024
-01:06:47,298 --> 01:06:49,592
 - No-good, lyin', schemin'...
-- Shut up!
 
-1025
-01:06:53,971 --> 01:06:57,517
-Phil. I... Oh, I'm, I'm sorry.
+995
+01:07:06,272 --> 01:07:07,606
+Shut up!
 
-1026
-01:06:57,683 --> 01:07:01,437
+996
+01:07:10,944 --> 01:07:12,778
+Phil. I...
+
+997
+01:07:13,822 --> 01:07:14,863
+Oh, I'm, I'm sorry.
+
+998
+01:07:14,948 --> 01:07:18,867
 Okay, okay, that's it.
 You won't face the truth? Fine.
 
-1027
-01:07:01,604 --> 01:07:04,023
-Phil, wait. Where ya goin'?
+999
+01:07:18,952 --> 01:07:21,453
+Phil, wait. Where you going?
 
-1028
-01:07:04,190 --> 01:07:08,361
-I'm hoppin' the first barge outta here.
+1000
+01:07:21,579 --> 01:07:25,040
+I'm hoppin' the first barge out of here.
 I'm goin' home.
 
-1029
-01:07:08,528 --> 01:07:10,655
+1001
+01:07:25,792 --> 01:07:27,876
 Fine! G...
 
-1030
-01:07:10,821 --> 01:07:13,783
+1002
+01:07:27,961 --> 01:07:30,963
 Go! I don't... I don't need you.
 
-1031
-01:07:16,077 --> 01:07:19,330
+1003
+01:07:33,341 --> 01:07:36,593
 I thought you were gonna be
-the all-time champ...
+the all-time champ,
 
-1032
-01:07:19,497 --> 01:07:22,792
+1004
+01:07:36,678 --> 01:07:39,179
 not the all-time chump.
 
-1033
-01:07:24,669 --> 01:07:27,505
-Jeez Louise,
-what got his goat, huh?
+1005
+01:07:42,058 --> 01:07:44,810
+Geez Louise! What got his goat, huh?
 
-1034
-01:07:30,466 --> 01:07:32,385
-Baboom. Name is Hades,
-lord of the dead.
+1006
+01:07:48,440 --> 01:07:49,773
+Name is Hades, Lord of the Dead.
 
-1035
-01:07:32,552 --> 01:07:34,512
+1007
+01:07:49,858 --> 01:07:51,900
 - Hi. How ya doin'?
 - Uh, not now, okay?
 
-1036
-01:07:34,679 --> 01:07:37,348
-Hey, hey. I only need a few seconds,
+1008
+01:07:51,985 --> 01:07:54,653
+Hey, hey. I only need a few seconds
 and I'm a fast talker, all right?
 
-1037
-01:07:37,515 --> 01:07:40,184
-See, I've got
-this major deal in the works.
+1009
+01:07:54,738 --> 01:07:57,573
+See, I've got the major deal in the works.
 A real estate venture, if you will.
 
-1038
-01:07:40,351 --> 01:07:42,353
-And, Herc, you little devil you.
+1010
+01:07:57,657 --> 01:07:59,742
+And Herc, you little devil you.
 May I call you Herc?
 
-1039
-01:07:42,520 --> 01:07:44,856
+1011
+01:07:59,826 --> 01:08:02,077
 You seem to be constantly
 getting in the way of it, huh?
 
-1040
-01:07:45,022 --> 01:07:47,525
-- You've got the wrong guy.
-- Hear me out, ya little...
+1012
+01:08:02,162 --> 01:08:03,370
+You've got the wrong guy.
 
-1041
-01:07:47,692 --> 01:07:49,652
+1013
+01:08:03,455 --> 01:08:06,957
+Hear me out, ya little...
 Just hear me out, okay?
 
-1042
-01:07:49,819 --> 01:07:52,530
+1014
+01:08:07,041 --> 01:08:09,084
 So I would be eternally grateful
-if you would just...
 
-1043
-01:07:52,697 --> 01:07:55,032
-take a day off from
-this hero business of yours.
+1015
+01:08:09,169 --> 01:08:12,254
+if you would just take a day off
+from this hero business of yours.
 
-1044
-01:07:55,199 --> 01:07:57,118
-Jeez, I mean, monsters,
-natural disasters.
+1016
+01:08:12,338 --> 01:08:15,466
+Jeez, I mean, monsters, natural disasters.
+You wait a day, okay?
 
-1045
-01:07:57,285 --> 01:07:59,036
-- You wait a day, huh?
+1017
+01:08:15,550 --> 01:08:17,760
 - You're out of your mind.
+- Not so fast, because, ya see,
 
-1046
-01:07:59,203 --> 01:08:03,791
-Not so fast, because, ya see,
+1018
+01:08:17,844 --> 01:08:21,221
 I do have a little leverage
 you might wanna know about.
 
-1047
-01:08:05,209 --> 01:08:09,046
+1019
+01:08:22,015 --> 01:08:24,057
 - Meg!
 - Don't listen, Herc...
 
-1048
-01:08:09,213 --> 01:08:11,299
+1020
+01:08:26,603 --> 01:08:28,604
 - Let her go!
 - Here's the trade-off.
 
-1049
-01:08:11,465 --> 01:08:14,260
+1021
+01:08:28,688 --> 01:08:31,774
 You give up your strength
 for about 24 hours, okay?
 
-1050
-01:08:14,427 --> 01:08:16,554
-Say, the next 24 hours.
+1022
+01:08:31,858 --> 01:08:33,859
+Say the next 24 hours.
 
-1051
-01:08:16,721 --> 01:08:18,598
+1023
+01:08:33,943 --> 01:08:35,986
 And Meg here is free as a bird
 and safe from harm.
 
-1052
-01:08:18,764 --> 01:08:20,892
+1024
+01:08:36,070 --> 01:08:38,238
 We dance, we kiss, we schmooze,
 we carry on, we go home happy.
 
-1053
-01:08:21,058 --> 01:08:23,519
+1025
+01:08:38,323 --> 01:08:39,740
 What do ya say? Come on.
 
-1054
-01:08:23,686 --> 01:08:25,521
-People are... are gonna
-get hurt, aren't they?
+1026
+01:08:40,867 --> 01:08:42,868
+People are gonna get hurt, aren't they?
 
-1055
-01:08:25,688 --> 01:08:27,648
-Nah! I mean, it's, you know,
-it's a possibility.
+1027
+01:08:42,952 --> 01:08:46,497
+Nah! I mean, it's a possibility.
+It happens 'cause, you know, it's war.
 
-1056
-01:08:27,815 --> 01:08:29,650
-It happens 'cause, you know, it's war,
-but what can I tell ya?
+1028
+01:08:46,581 --> 01:08:49,166
+But what can I tell ya? Anyway,
+what do you owe these people, huh?
 
-1057
-01:08:29,817 --> 01:08:31,694
-Anyway, what do you
-owe these people, huh?
+1029
+01:08:49,250 --> 01:08:52,085
+Isn't Meg, little smoochy face you,
+isn't she more important than they are?
 
-1058
-01:08:31,861 --> 01:08:34,697
-Isn't Meg...
-you little smoochy face you...
-Isn't she more important than they are?
-
-1059
-01:08:34,864 --> 01:08:36,782
+1030
+01:08:52,170 --> 01:08:54,213
 - Stop it!
 - Isn't she?
 
-1060
-01:08:36,949 --> 01:08:39,619
+1031
+01:08:54,297 --> 01:08:56,965
 You've gotta swear
 she'll be safe from any harm.
 
-1061
-01:08:39,744 --> 01:08:41,662
-Fine, okay.
-I'll give you that one.
+1032
+01:08:57,050 --> 01:08:58,967
+Fine, okay. I'll give you that one.
 
-1062
-01:08:41,829 --> 01:08:43,915
+1033
+01:08:59,052 --> 01:09:01,720
 Meg is safe, otherwise
 you get your strength right back.
 
-1063
-01:08:44,081 --> 01:08:46,125
+1034
+01:09:01,805 --> 01:09:05,390
 Yadda, yadda. Fine print. Boilerplate.
 Baboom. Okay? We're done.
+What d'ya say we shake on it?
 
-1064
-01:08:46,292 --> 01:08:48,127
-What do you say we shake on it?
+1035
+01:09:05,475 --> 01:09:07,810
+Hey, I really don't have, like,
+time to bat this around.
 
-1065
-01:08:48,294 --> 01:08:50,338
-Hey, I really don't have,
-like, time to bat this around.
-
-1066
-01:08:50,505 --> 01:08:52,381
+1036
+01:09:07,894 --> 01:09:09,686
 I'm kind of on a schedule here.
 I got plans for August. Okay?
 
-1067
-01:08:52,548 --> 01:08:55,468
+1037
+01:09:09,771 --> 01:09:12,898
 I need an answer, like, now.
 Going once, going twice...
 
-1068
-01:08:55,635 --> 01:08:59,388
+1038
+01:09:12,982 --> 01:09:15,400
 - All right!
-- Yes! We're there! Bam!
+- Yes, we're there! Bam!
 
-1069
-01:09:06,771 --> 01:09:09,607
+1039
+01:09:23,910 --> 01:09:26,745
 You may feel just a little queasy.
-It's kind of natural.
+It's kinda natural.
 
-1070
-01:09:09,774 --> 01:09:11,817
+1040
+01:09:26,830 --> 01:09:28,747
 Maybe you should sit down!
 
-1071
-01:09:14,111 --> 01:09:17,823
-Now you know how it feels to be
-just like everybody else.
+1041
+01:09:30,959 --> 01:09:35,045
+Now you know how it feels
+to be just like everybody else.
 
-1072
-01:09:17,990 --> 01:09:21,410
+1042
+01:09:35,129 --> 01:09:38,090
 Isn't it just peachy?
 
-1073
-01:09:21,577 --> 01:09:23,829
-Oh! You'll love this.
-One more thing.
+1043
+01:09:38,883 --> 01:09:41,093
+Oh! You'll love this. One more thing.
 
-1074
-01:09:23,996 --> 01:09:26,666
+1044
+01:09:41,177 --> 01:09:45,722
 Meg, babe, a deal's a deal.
-
-1075
-01:09:26,791 --> 01:09:29,961
 You're off the hook.
+
+1045
+01:09:46,474 --> 01:09:49,601
 And by the way, Herc,
+is she not a fabulous little actress?
 
-1076
-01:09:30,127 --> 01:09:32,213
-is she not, like,
-a fabulous little actress?
-
-1077
-01:09:32,380 --> 01:09:33,798
+1046
+01:09:49,686 --> 01:09:51,186
 - Stop it.
 - What do you mean?
 
-1078
-01:09:33,965 --> 01:09:38,094
+1047
+01:09:51,271 --> 01:09:55,524
 I mean your little chickie-poo here
 was working for me all the time.
 
-1079
-01:09:38,261 --> 01:09:41,973
+1048
+01:09:56,526 --> 01:09:58,610
 - Duh.
 - You're... You're lying!
 
-1080
-01:09:42,139 --> 01:09:46,978
+1049
+01:09:59,571 --> 01:10:04,366
 - Help!
 - Jeepers, mister, you're really strong.
 
-1081
-01:09:47,144 --> 01:09:51,107
-- Couldn't have done it without you,
+1050
+01:10:04,450 --> 01:10:07,035
+Couldn't have done it without you,
 sugar, sweetheart, babe.
-- No! It's... It's not like that.
 
-1082
-01:09:51,274 --> 01:09:56,153
-I didn't mean to...
-I-I couldn't... I... I'm so sorry.
+1051
+01:10:07,120 --> 01:10:08,453
+No! It's... It's not like that.
 
-1083
-01:09:56,320 --> 01:10:00,241
-Our hero's a zero!
-Our hero's a zero!
+1052
+01:10:08,538 --> 01:10:11,415
+I didn't mean to... I-I couldn't... I...
 
-1084
-01:10:02,285 --> 01:10:06,205
-Well, gotta blaze. There's a whole
-cosmos up there waiting for me...
+1053
+01:10:11,791 --> 01:10:13,667
+I'm so sorry.
 
-1085
-01:10:06,372 --> 01:10:08,291
-with, hey, my name on it.
+1054
+01:10:13,751 --> 01:10:18,088
+Our hero's a zero! Our hero's a zero!
 
-1086
-01:10:10,626 --> 01:10:14,505
+1055
+01:10:19,215 --> 01:10:21,049
+Well, gotta blaze.
+
+1056
+01:10:21,134 --> 01:10:25,679
+There's a whole cosmos up there
+waiting for me with, hey, my name on it.
+
+1057
+01:10:28,057 --> 01:10:31,727
 So much for the preliminaries,
 and now on to the main event!
 
-1087
-01:10:27,518 --> 01:10:30,897
+1058
+01:10:44,782 --> 01:10:48,076
 Brothers! Titans!
 
-1088
-01:10:31,063 --> 01:10:34,525
+1059
+01:10:48,161 --> 01:10:51,413
 Look at you in your squalid prison!
 
-1089
-01:10:34,692 --> 01:10:39,655
-- Who put you down there?
-- Zeus!
+1060
+01:10:51,497 --> 01:10:54,583
+Who put you down there?
 
-1090
-01:10:39,822 --> 01:10:42,241
-And now that I set you free...
+1061
+01:10:54,667 --> 01:10:56,793
+Zeus!
 
-1091
-01:10:42,408 --> 01:10:45,870
-what is the first thing
-you are going to do?
+1062
+01:10:56,878 --> 01:11:03,342
+And now that I set you free, what is
+the first thing you are going to do?
 
-1092
-01:10:46,037 --> 01:10:49,749
+1063
+01:11:03,676 --> 01:11:07,054
 - Destroy him!
 - Good answer.
 
-1093
-01:10:52,251 --> 01:10:56,464
+1064
+01:11:09,432 --> 01:11:11,435
 Crush Zeus!
 
-1094
-01:10:59,008 --> 01:11:02,303
+1065
+01:11:16,147 --> 01:11:19,358
 Freeze him!
 
-1095
-01:11:06,724 --> 01:11:10,019
+1066
+01:11:23,780 --> 01:11:26,239
 Melt Zeus!
 
-1096
-01:11:10,186 --> 01:11:14,607
+1067
+01:11:27,325 --> 01:11:32,204
 Blow him away!
 
-1097
-01:11:17,443 --> 01:11:21,864
+1068
+01:11:34,707 --> 01:11:36,875
 Zeus!
 
-1098
-01:11:22,031 --> 01:11:23,699
+1069
+01:11:39,170 --> 01:11:40,796
 - Uh, guys?
 - Huh?
 
-1099
-01:11:23,866 --> 01:11:26,619
+1070
+01:11:41,255 --> 01:11:43,173
 Olympus would be that way.
 
-1100
-01:11:26,786 --> 01:11:30,873
+1071
+01:11:44,050 --> 01:11:47,386
 - Zeus!
 - Freeze him!
 
-1101
-01:11:30,998 --> 01:11:32,875
+1072
+01:11:48,221 --> 01:11:50,097
 - Hold it, bright eye.
 - Huh?
 
-1102
-01:11:33,042 --> 01:11:36,128
+1073
+01:11:50,223 --> 01:11:53,225
 I have a special job for you,
 my optic friend.
 
-1103
-01:11:43,594 --> 01:11:47,223
+1074
+01:12:00,776 --> 01:12:03,928
 - Huh? Huh?
 - Destroy Zeus!
 
-1104
-01:11:47,348 --> 01:11:51,143
+1075
+01:12:04,696 --> 01:12:07,906
 Oh, we're in trouble!
 Oh, big trouble! I gotta...
 
-1105
-01:11:51,310 --> 01:11:53,604
+1076
+01:12:08,491 --> 01:12:10,909
 My lord and lady,
-the Titans have escaped.
+the Titans have escaped,
 
-1106
-01:11:53,771 --> 01:11:55,648
-And they're practically
-at our gates!
+1077
+01:12:10,994 --> 01:12:12,995
+and they're practically at our gates!
 
-1107
-01:11:55,815 --> 01:11:59,861
+1078
+01:12:13,079 --> 01:12:17,165
 Sound the alarm!
 Launch an immediate counterattack!
 
-1108
-01:12:00,027 --> 01:12:02,613
+1079
+01:12:17,250 --> 01:12:19,793
 - Go! Go!
 - Gone, babe.
 
-1109
-01:12:05,157 --> 01:12:07,326
+1080
+01:12:23,927 --> 01:12:26,102
 Huh?
 
-1110
-01:12:12,123 --> 01:12:17,253
-- Charge!
-- On to battle!
+1081
+01:12:29,137 --> 01:12:30,637
+Charge!
 
-1111
-01:12:27,847 --> 01:12:30,224
-Ya windbag!
+1082
+01:12:31,514 --> 01:12:33,640
+On to battle!
 
-1112
-01:12:31,475 --> 01:12:34,145
+1083
+01:12:44,944 --> 01:12:46,987
+You windbag!
+
+1084
+01:12:48,957 --> 01:12:50,434
 Boom, badda-boom!
 Boom, boom!
 
-1113
-01:12:37,732 --> 01:12:41,611
+1085
+01:12:50,857 --> 01:12:51,727
+Ha!
+
+1086
+01:12:54,954 --> 01:12:58,457
 Hercules!
 
-1114
-01:12:41,777 --> 01:12:45,031
+1087
+01:12:58,833 --> 01:13:01,710
 Where are you?
 
-1115
-01:12:46,741 --> 01:12:49,660
-- What can we do?
+1088
+01:13:03,796 --> 01:13:06,048
+What can we do?
+
+1089
+01:13:06,132 --> 01:13:09,342
 - Where is Hercules?
+- Yeah, Hercules'll save us.
 
-1116
-01:12:49,827 --> 01:12:52,663
-Yeah, Hercules will save us.
-
-1117
-01:12:52,830 --> 01:12:56,167
+1090
+01:13:10,427 --> 01:13:13,388
 Hercules!
 
-1118
-01:12:56,334 --> 01:13:01,964
+1091
+01:13:13,473 --> 01:13:18,143
 Come out! Face me!
 
-1119
-01:13:02,131 --> 01:13:05,468
+1092
+01:13:19,520 --> 01:13:22,773
 Oh, what are you doing?
 Without your strength, you'll be killed.
 
-1120
-01:13:05,635 --> 01:13:08,429
+1093
+01:13:23,316 --> 01:13:25,400
 - Hercules!
 - There are worse things.
 
-1121
-01:13:08,596 --> 01:13:12,391
-- Run!
-- Wait! Stop!
+1094
+01:13:25,485 --> 01:13:26,735
+Run!
 
-1122
-01:13:12,558 --> 01:13:17,647
+1095
+01:13:26,819 --> 01:13:29,072
+Wait! Stop!
+
+1096
+01:13:29,655 --> 01:13:33,116
 - Hey, look! It's Hercules.
-- Thank the gods! We're saved!
+- Thank the gods!
 
-1123
-01:13:17,813 --> 01:13:21,859
-So, you mighty Hercules.
+1097
+01:13:33,201 --> 01:13:36,161
+- We're saved!
+- So...
 
-1124
-01:13:28,741 --> 01:13:30,952
+1098
+01:13:36,245 --> 01:13:39,289
+You mighty Hercules.
+
+1099
+01:13:47,534 --> 01:13:49,742
 - Oh!
 - Oh!
 
-1125
-01:13:35,623 --> 01:13:39,377
+1100
+01:13:51,886 --> 01:13:54,262
 Easy, horsefeathers.
-Whoa! Stop twitching!
 
-1126
-01:13:39,544 --> 01:13:43,631
-Listen.
-Hercules is in trouble.
+1101
+01:13:54,847 --> 01:13:56,765
+Stop twitching.
 
-1127
-01:13:43,756 --> 01:13:46,717
-We've gotta find Phil. He's the only one
+1102
+01:13:56,849 --> 01:14:00,060
+Listen. Hercules is in trouble.
+
+1103
+01:14:00,812 --> 01:14:01,937
+We've gotta find Phil.
+
+1104
+01:14:02,021 --> 01:14:04,523
+He's the only one
 who can talk some sense into him.
 
-1128
-01:13:52,056 --> 01:13:54,267
-Get back! Blast you!
+1105
+01:14:09,070 --> 01:14:11,446
+Get back, blast you!
 
-1129
-01:13:58,354 --> 01:14:02,608
+1106
+01:14:16,119 --> 01:14:18,995
 - Ooh! Chihuahua!
 - Zeus!
 
-1130
-01:14:03,901 --> 01:14:06,946
-Come on! Hury up!
+1107
+01:14:20,998 --> 01:14:24,251
+Come on! Hurry up!
 We're shovin' off here!
 
-1131
-01:14:07,071 --> 01:14:10,908
-Phil! Phil,
-Hercules needs your help.
+1108
+01:14:24,377 --> 01:14:25,877
+Phil!
 
-1132
-01:14:11,075 --> 01:14:13,411
+1109
+01:14:26,045 --> 01:14:28,171
+Phil, Hercules needs your help!
+
+1110
+01:14:28,256 --> 01:14:30,924
 What does he need me for
 when he's got friends like you?
 
-1133
-01:14:13,578 --> 01:14:18,291
+1111
+01:14:31,008 --> 01:14:35,554
 - He won't listen to me.
-- Good! He's finally learned somethin'.
+- Good! He's finally learned something.
 
-1134
-01:14:18,457 --> 01:14:22,587
+1112
+01:14:35,638 --> 01:14:38,890
 Look, I know what I did was wrong,
-but this isn't about me. It's about him.
+but this isn't about me.
 
-1135
-01:14:22,712 --> 01:14:26,090
-If you don't help him now,
-Phil, he'll die.
+1113
+01:14:38,975 --> 01:14:43,270
+It's about him.
+If you don't help him now, Phil, he'll die.
 
-1136
-01:14:26,257 --> 01:14:28,384
+1114
+01:14:43,396 --> 01:14:45,689
 I need more thunderbolts!
 
-1137
-01:14:28,551 --> 01:14:32,930
+1115
+01:14:45,773 --> 01:14:48,275
 Uh, Hephaestus has been captured,
-my lord. everyone's been captured.
+my lord.
 
-1138
-01:14:33,097 --> 01:14:36,726
-I've been captured.
-Hey, hey, watch the glasses.
+1116
+01:14:48,359 --> 01:14:50,735
+Everyone's been captured.
+I've been captured!
 
-1139
-01:14:41,814 --> 01:14:44,650
+1117
+01:14:50,820 --> 01:14:52,779
+Hey, hey! Watch the glasses.
+
+1118
+01:14:59,078 --> 01:15:01,997
 Zeusy, I'm home!
 
-1140
-01:14:44,817 --> 01:14:48,613
-Hades! You're behind this?
+1119
+01:15:02,081 --> 01:15:05,917
+Hades. You're behind this!
 
-1141
-01:14:48,738 --> 01:14:52,033
-You're correct, sir!
+1120
+01:15:06,002 --> 01:15:07,919
+You are correct, sir!
 
-1142
-01:14:54,994 --> 01:14:57,288
-Flea!
+1121
+01:15:12,383 --> 01:15:14,259
+Flea.
 
-1143
-01:15:01,459 --> 01:15:04,420
+1122
+01:15:18,806 --> 01:15:21,725
 - Hercules!
 - Phil.
 
-1144
-01:15:04,587 --> 01:15:07,798
+1123
+01:15:21,809 --> 01:15:23,810
 Come on, kid. Come on. Fight back.
-Come on. You can take this bum.
 
-1145
-01:15:07,965 --> 01:15:12,845
-- This guy's a pushover. Look at him.
-- You were right all along, Phil.
+1124
+01:15:23,936 --> 01:15:26,980
+Come on, you can take this bum.
+This guy's a pushover. Look at him.
 
-1146
-01:15:13,012 --> 01:15:16,390
-- Dreams are for rookies.
-- No, no, no, no, no, kid.
+1125
+01:15:27,064 --> 01:15:29,107
+You were right all along, Phil.
 
-1147
-01:15:16,557 --> 01:15:20,603
-Givin' up is for rookies. I came back
+1126
+01:15:30,318 --> 01:15:32,194
+Dreams are for rookies.
+
+1127
+01:15:32,278 --> 01:15:35,530
+No, no, no, no, kid.
+Givin' up is for rookies.
+
+1128
+01:15:35,615 --> 01:15:37,657
+I came back
 'cause I'm not quittin' on ya.
 
-1148
-01:15:20,728 --> 01:15:24,815
-I'm willin' to go the distance.
-How about you?
+1129
+01:15:37,742 --> 01:15:39,951
+I'm willing to go the distance.
 
-1149
-01:15:27,318 --> 01:15:30,238
+1130
+01:15:40,036 --> 01:15:41,786
+How 'bout you?
+
+1131
+01:15:44,373 --> 01:15:47,542
 Me bite off head!
 
-1150
-01:15:34,283 --> 01:15:37,370
+1132
+01:15:51,380 --> 01:15:53,632
 Whoa, baby!
 
-1151
-01:15:50,049 --> 01:15:52,343
+1133
+01:16:07,188 --> 01:16:09,481
 Hercules! Look out!
 
-1152
-01:15:52,510 --> 01:15:55,513
+1134
+01:16:09,607 --> 01:16:12,400
 Meg! No!
 
-1153
-01:16:04,146 --> 01:16:06,816
+1135
+01:16:21,369 --> 01:16:23,119
 What's happening?
 
-1154
-01:16:07,900 --> 01:16:10,570
+1136
+01:16:24,830 --> 01:16:27,666
 H-Hades' deal is broken.
 
-1155
-01:16:11,696 --> 01:16:14,574
+1137
+01:16:28,834 --> 01:16:31,002
 He promised I wouldn't get hurt.
 
-1156
-01:16:14,740 --> 01:16:19,829
-Meg, why... why... why did ya...
+1138
+01:16:31,754 --> 01:16:33,505
+Meg.
+
+1139
+01:16:33,589 --> 01:16:36,383
+Why... why... why did ya...
+
+1140
+01:16:36,467 --> 01:16:37,759
 You didn't have to...
 
-1157
-01:16:19,996 --> 01:16:24,208
-Oh, people always
-do crazy things...
-
-1158
-01:16:24,333 --> 01:16:26,878
+1141
+01:16:37,843 --> 01:16:43,014
+Oh, people always do crazy things
 when they're in love.
 
-1159
-01:16:27,044 --> 01:16:30,923
-Oh, Meg. Meg, I... I...
+1142
+01:16:44,934 --> 01:16:46,184
+Oh, Meg.
 
-1160
-01:16:31,090 --> 01:16:35,887
+1143
+01:16:46,310 --> 01:16:48,353
+Meg, I... I...
+
+1144
+01:16:48,854 --> 01:16:52,315
 Are you always this articulate?
 
-1161
-01:16:38,055 --> 01:16:43,394
+1145
+01:16:55,569 --> 01:16:59,447
 You... You haven't got much time.
 You can still stop Hades.
 
-1162
-01:16:43,477 --> 01:16:46,689
+1146
+01:17:00,574 --> 01:17:03,076
 I'll watch over her, kid.
 
-1163
-01:16:46,856 --> 01:16:50,985
+1147
+01:17:03,953 --> 01:17:05,912
 You're gonna be all right.
+
+1148
+01:17:06,247 --> 01:17:08,206
 I promise.
 
-1164
-01:16:53,529 --> 01:16:56,324
+1149
+01:17:10,668 --> 01:17:12,544
 Let's go, Pegasus!
 
-1165
-01:16:58,201 --> 01:17:00,536
-Hup, two, three, four!
+1150
+01:17:15,006 --> 01:17:17,966
+Hup, two, three, four.
 Come on, everybody!
 
-1166
-01:17:00,703 --> 01:17:03,372
-- I can't hear you!
-- Oh, oh, that.
+1151
+01:17:18,134 --> 01:17:20,093
+I can't hear you!
 
-1167
-01:17:03,539 --> 01:17:07,710
+1152
+01:17:20,803 --> 01:17:24,973
 I swear to you, Hades,
-when I get out of th...
+when I get out of this...
 
-1168
-01:17:07,877 --> 01:17:10,421
-I'm the one giving orders now,
-bolt boy.
+1153
+01:17:25,057 --> 01:17:27,976
+I'm the one giving orders now, bolt boy.
 
-1169
-01:17:10,546 --> 01:17:13,299
-And I think
-I'm gonna like it here.
+1154
+01:17:28,060 --> 01:17:30,478
+And I think I'm gonna like it here.
 
-1170
-01:17:13,466 --> 01:17:17,553
-Don't get too
-comfortable, Hades!
+1155
+01:17:30,563 --> 01:17:33,356
+Don't get too comfortable, Hades!
 
-1171
-01:17:17,720 --> 01:17:21,098
-- Hercules!
-- This ought to even the odds!
+1156
+01:17:35,026 --> 01:17:36,484
+Hercules!
 
-1172
-01:17:24,101 --> 01:17:27,897
-- Yeah, Hercules! Thank you, man.
-- Get them!
+1157
+01:17:36,569 --> 01:17:38,903
+This ought to even the odds!
 
-1173
-01:17:31,067 --> 01:17:33,152
+1158
+01:17:41,574 --> 01:17:44,159
+Yeah, Hercules! Thank you, man.
+
+1159
+01:17:44,243 --> 01:17:45,577
+Get them!
+
+1160
+01:17:48,164 --> 01:17:49,306
 Whoa! Hey!
 
-1174
-01:17:33,319 --> 01:17:36,697
+1161
+01:17:50,291 --> 01:17:54,461
 No! Get him! Not me! Him!
 
-1175
-01:17:38,991 --> 01:17:43,704
+1162
+01:17:56,255 --> 01:18:00,759
 Follow the fingers! Him!
-The yutz with the horse!
+The yutz with the horse.
 
-1176
-01:17:50,461 --> 01:17:53,381
-- Thank you, my boy.
-- Nice horsey!
+1163
+01:18:07,641 --> 01:18:09,476
+Thank you, my boy.
 
-1177
-01:17:53,548 --> 01:17:58,344
-My intentions were pure.
+1164
+01:18:09,643 --> 01:18:14,314
+Nice horsey! My intentions were pure!
 I really was attracted to you.
 
-1178
-01:18:00,263 --> 01:18:05,518
-- Throw!
-- Ah! Now watch your old man work!
+1165
+01:18:17,318 --> 01:18:18,693
+Throw!
 
-1179
-01:18:05,685 --> 01:18:07,520
-Uh-oh!
+1166
+01:18:18,727 --> 01:18:23,031
+Ah! Now watch your old man work!
 
-1180
-01:18:10,606 --> 01:18:13,067
-Guys, get your
-titanic rears in gear...
+1167
+01:18:27,703 --> 01:18:32,916
+Guys, get your titanic rears in gear
+and kick some Olympian butt!
 
-1181
-01:18:13,234 --> 01:18:16,445
-and kick some Olympian butt.
-
-1182
-01:18:16,612 --> 01:18:19,365
+1168
+01:18:33,709 --> 01:18:35,460
 Whoa! Is my hair out?
 
-1183
-01:18:45,683 --> 01:18:50,021
-Thanks a ton, Wonderboy. But at least
-I've got one swell consolation prize...
+1169
+01:19:02,780 --> 01:19:04,531
+Thanks a ton, Wonderboy.
 
-1184
-01:18:50,188 --> 01:18:54,567
-a friend of yours
-who's dying to see me.
+1170
+01:19:04,615 --> 01:19:07,409
+But at least
+I've got one swell consolation prize,
 
-1185
-01:18:54,734 --> 01:18:55,860
+1171
+01:19:07,493 --> 01:19:11,246
+a friend of yours who's dying to see me.
+
+1172
+01:19:12,164 --> 01:19:13,636
 Meg.
 
-1186
-01:19:26,224 --> 01:19:27,767
+1173
+01:19:40,164 --> 01:19:41,636
+Ha! Meg.
+
+1174
+01:19:43,164 --> 01:19:44,636
 Meg.
 
-1187
-01:19:34,190 --> 01:19:36,651
+1175
+01:19:51,412 --> 01:19:53,204
 Meg, no.
 
-1188
-01:19:56,337 --> 01:19:58,381
+1176
+01:20:13,392 --> 01:20:15,560
 Oh, I'm sorry, kid.
 
-1189
-01:20:01,092 --> 01:20:03,427
+1177
+01:20:18,355 --> 01:20:21,232
 There's some things
 you just can't change.
 
-1190
-01:20:06,722 --> 01:20:08,641
+1178
+01:20:23,777 --> 01:20:25,653
 Yes, I can.
 
-1191
-01:20:12,436 --> 01:20:15,106
+1179
+01:20:29,450 --> 01:20:31,826
 We were so close!
 
-1192
-01:20:15,273 --> 01:20:18,109
-So close. We tripped
-at the finish line. Why?
+1180
+01:20:31,911 --> 01:20:33,411
+So close.
 
-1193
-01:20:18,234 --> 01:20:22,613
+1181
+01:20:33,496 --> 01:20:35,371
+We tripped at the finish line. Why?
+
+1182
+01:20:35,456 --> 01:20:39,417
 Because our little nut, Meg,
 has to go all noble.
 
-1194
-01:20:26,450 --> 01:20:28,995
+1183
+01:20:43,797 --> 01:20:46,508
 - Where's Meg?
-- Oh. Look who's here.
+- Look who's here.
 
-1195
-01:20:29,161 --> 01:20:33,666
-- Wonderboy, you are too much.
+1184
+01:20:46,592 --> 01:20:48,801
+Wonderboy, you are too much.
+
+1185
+01:20:48,886 --> 01:20:52,722
 - Let her go.
+- Get a grip.
 
-1196
-01:20:33,833 --> 01:20:37,628
-Get a grip. Come here. Come here.
+1186
+01:20:52,806 --> 01:20:54,933
+Come here, come here.
 Let me show you around.
 
-1197
-01:20:38,421 --> 01:20:41,924
+1187
+01:20:55,935 --> 01:20:59,437
 Hmph. Well, well.
-It's a small underworld, after all, huh?
+It's a small underworld after all. Huh?
 
-1198
-01:20:43,176 --> 01:20:46,929
-- Meg!
-- No, no, no. Mustn't touch.
+1188
+01:21:00,523 --> 01:21:02,482
+Meg!
 
-1199
-01:20:47,096 --> 01:20:49,765
-You see, Meg's running
-with a new crowd these days...
+1189
+01:21:02,566 --> 01:21:04,359
+No, no, no. Mustn't touch.
 
-1200
-01:20:49,891 --> 01:20:52,059
-and not a very lively one at that.
+1190
+01:21:04,443 --> 01:21:06,986
+You see, Meg's
+running with a new crowd these days.
 
-1201
-01:20:53,519 --> 01:20:56,814
+1191
+01:21:07,112 --> 01:21:08,947
+And not a very lively one, at that.
+
+1192
+01:21:10,783 --> 01:21:14,035
 You like making deals.
 Take me in Meg's place.
 
-1202
-01:20:56,981 --> 01:21:02,320
-Oh, hmph. The son of my hated rival
+1193
+01:21:14,119 --> 01:21:19,707
+Oh, hmph, well. The son of my hated rival
 trapped forever in a river of death.
 
-1203
-01:21:02,486 --> 01:21:04,822
-- Going once!
+1194
+01:21:19,792 --> 01:21:22,210
+- Going once.
 - Hmm? Is there a downside to this?
 
-1204
-01:21:04,989 --> 01:21:07,950
+1195
+01:21:22,294 --> 01:21:25,380
 - Going twice!
-- Okay, okay, okay, okay, okay!
+- Okay, okay, okay, okay.
 
-1205
-01:21:08,117 --> 01:21:11,537
-You get her out.
-She goes; you stay.
+1196
+01:21:25,464 --> 01:21:28,925
+You get her out. She goes, you stay.
 
-1206
-01:21:14,665 --> 01:21:18,044
-Oh, you know what slipped my mind?
-You'll be dead before
-you can get to her.
+1197
+01:21:31,887 --> 01:21:33,471
+Oh, you what slipped my mind?
 
-1207
-01:21:18,211 --> 01:21:21,255
+1198
+01:21:33,556 --> 01:21:35,431
+You'll be dead
+before you can get to her.
+
+1199
+01:21:35,516 --> 01:21:37,100
 That's not a problem, is it?
 
-1208
-01:21:46,155 --> 01:21:48,324
+1200
+01:22:03,639 --> 01:22:04,454
 Oh!
 
-1209
-01:21:48,491 --> 01:21:50,660
+1201
+01:22:05,504 --> 01:22:07,922
 What's the matter
 with these scissors?
 
-1210
-01:21:50,826 --> 01:21:53,287
+1202
+01:22:08,007 --> 01:22:10,508
 The thread won't cut.
 
-1211
-01:22:01,045 --> 01:22:03,548
-This is...
-This is impossible!
+1203
+01:22:18,058 --> 01:22:20,768
+This is... This is impossible!
 
-1212
-01:22:03,714 --> 01:22:06,551
+1204
+01:22:20,853 --> 01:22:23,771
 You... You... You can't be alive.
 You'd have to be a, a...
 
-1213
-01:22:06,676 --> 01:22:09,387
-A god?
+1205
+01:22:23,856 --> 01:22:25,273
+- A god?
+- A god?
 
-1214
-01:22:12,807 --> 01:22:16,561
+1206
+01:22:29,945 --> 01:22:33,656
 Hercules, stop!
-Ya can't do this to me! Ya can't...
+You can't do this to me. You can't...
 
-1215
-01:22:16,727 --> 01:22:19,897
+1207
+01:22:33,741 --> 01:22:36,034
 Fine. Okay. Listen.
-Okay, well, I deserved that.
 
-1216
-01:22:20,064 --> 01:22:23,901
-Herc, Herc, Herc? Can we talk?
+1208
+01:22:36,118 --> 01:22:39,120
+Okay. Well, I deserved that.
+Herc, Herc, Herc. Can we talk?
+
+1209
+01:22:39,204 --> 01:22:41,122
 Y-Your dad? He's a fun guy, right?
 
-1217
-01:22:24,068 --> 01:22:26,153
+1210
+01:22:41,206 --> 01:22:43,416
 So maybe you could
-put in a word with him...
+put in a word with him,
 
-1218
-01:22:26,320 --> 01:22:28,406
-and he'd kind of blow
-this whole thing off, you know?
+1211
+01:22:43,500 --> 01:22:45,793
+and he'd kinda blow this
+whole thing off, you know?
 
-1219
-01:22:28,573 --> 01:22:31,659
+1212
+01:22:45,878 --> 01:22:48,463
 Meg, Meg, talk to him.
 You know, a little schmooze, uh...
 
-1220
-01:22:34,579 --> 01:22:39,834
+1213
+01:22:51,592 --> 01:22:56,304
 Get away from me! Don't touch me!
 Get your slimy souls off me!
 
-1221
-01:22:40,001 --> 01:22:42,378
+1214
+01:22:57,348 --> 01:22:59,891
 He's not gonna be happy
 when he gets outta there.
 
-1222
-01:22:42,503 --> 01:22:45,590
+1215
+01:22:59,975 --> 01:23:02,852
 - You mean, if he gets outta there.
 - Taxi!
 
-1223
-01:22:45,756 --> 01:22:47,592
-- If? If is good.
+1216
+01:23:02,936 --> 01:23:04,896
+- If. If is good.
 - Taxi!
 
-1224
-01:22:47,717 --> 01:22:51,387
+1217
+01:23:04,980 --> 01:23:07,231
 I don't feel so good.
 I-I feel a little...
 
-1225
-01:23:14,452 --> 01:23:18,206
+1218
+01:23:31,757 --> 01:23:34,676
 Wonderboy, what...
+
+1219
+01:23:34,760 --> 01:23:36,302
 Why did you...
 
-1226
-01:23:19,624 --> 01:23:24,670
+1220
+01:23:36,929 --> 01:23:40,014
 People always do crazy things
+
+1221
+01:23:40,099 --> 01:23:41,599
 when they're in love.
 
-1227
-01:23:32,803 --> 01:23:35,056
+1222
+01:23:50,776 --> 01:23:52,276
 Whoa! Hey, hey, hey, hey!
 
-1228
-01:23:46,984 --> 01:23:49,487
-Three cheers
-for the mighty Hercules!
+1223
+01:24:04,289 --> 01:24:06,749
+Three cheers for the mighty Hercules!
 
-1229
-01:23:49,654 --> 01:23:52,573
-Oh, yeah.
-Flowers for everybody! Oh!
+1224
+01:24:06,834 --> 01:24:09,377
+Oh, yeah! Flowers for everybody! Oh!
 
-1230
-01:24:03,793 --> 01:24:05,837
-Hercules!
-
-1231
-01:24:06,003 --> 01:24:11,259
+1225
+01:24:23,308 --> 01:24:27,311
 Hercules, we're so proud of you.
 
-1232
-01:24:11,425 --> 01:24:13,928
+1226
+01:24:28,480 --> 01:24:29,731
 Mother.
 
-1233
-01:24:15,096 --> 01:24:18,224
-Fine work, my boy!
-You've done it!
+1227
+01:24:32,151 --> 01:24:35,570
+Fine work, my boy! You've done it!
 
-1234
-01:24:18,391 --> 01:24:20,685
+1228
+01:24:35,654 --> 01:24:38,072
 You're a true hero.
 
-1235
-01:24:20,852 --> 01:24:24,897
+1229
+01:24:38,157 --> 01:24:42,368
 You were willing to give your life
 to rescue this young woman.
 
-1236
-01:24:25,022 --> 01:24:28,818
+1230
+01:24:42,453 --> 01:24:46,205
 For a true hero isn't measured
-by the size of his strength...
+by the size of his strength,
 
-1237
-01:24:28,985 --> 01:24:32,697
-but by the strength
-of his heart.
+1231
+01:24:46,290 --> 01:24:49,250
+but by the strength of his heart.
 
-1238
-01:24:32,864 --> 01:24:37,660
-Now, at last, my son...
+1232
+01:24:50,002 --> 01:24:54,255
+Now, at last, my son,
 
-1239
-01:24:37,827 --> 01:24:40,621
+1233
+01:24:54,923 --> 01:24:57,633
 you can come home.
 
-1240
-01:24:53,801 --> 01:24:58,264
+1234
+01:25:11,064 --> 01:25:15,318
 Congratulations, Wonderboy.
 You'll make one heck of a god.
 
-1241
-01:25:06,397 --> 01:25:11,110
+1235
+01:25:23,368 --> 01:25:27,747
 Father, this is the moment
-I've always dreamed of...
+I've always dreamed of.
 
-1242
-01:25:11,235 --> 01:25:14,739
-but...
+1236
+01:25:28,707 --> 01:25:30,041
+But...
 
-1243
-01:25:14,906 --> 01:25:19,744
-a life without Meg,
-even an immortal life...
+1237
+01:25:32,044 --> 01:25:36,756
+A life without Meg,
+even an immortal life,
 
-1244
-01:25:19,911 --> 01:25:22,747
+1238
+01:25:37,049 --> 01:25:39,884
 would be empty.
 
-1245
-01:25:24,415 --> 01:25:26,959
+1239
+01:25:41,553 --> 01:25:42,762
 I...
 
-1246
-01:25:27,126 --> 01:25:29,462
-I wish to stay
-on Earth with her.
+1240
+01:25:44,139 --> 01:25:46,641
+I wish to stay on Earth with her.
 
-1247
-01:25:29,629 --> 01:25:32,298
+1241
+01:25:46,725 --> 01:25:49,101
 I finally know where I belong.
 
+1242
+01:26:03,408 --> 01:26:05,201
+Hit it, ladies!
+
+1243
+01:26:06,161 --> 01:26:10,540
+<i><font color=yellow>- ♪ Oh, gonna shout it from the mountaintops
+<font color=yellow>- ♪ A star is born</i>
+
+1244
+01:26:10,624 --> 01:26:14,627
+<i><font color=yellow>- ♪ It's the time for pulling out the stops
+<font color=yellow>- ♪ A star is born</i>
+
+1245
+01:26:14,711 --> 01:26:18,756
+<i><font color=yellow>- ♪ Honey, hit us with a hallelu
+<font color=yellow>- ♪ That kid came shining through</i>
+
+1246
+01:26:18,841 --> 01:26:20,716
+<i><font color=yellow>♪ Girl, sing the song</i>
+
+1247
+01:26:20,801 --> 01:26:26,556
+<i><font color=yellow>- ♪ Come blow your horn
+<font color=yellow>- ♪ A star is born</i>
+
 1248
-01:25:46,103 --> 01:25:47,813
-Hit it, ladies.
+01:26:26,640 --> 01:26:30,810
+<i><font color=yellow>- ♪ He's a hero who can please the crowd
+<font color=yellow>- ♪ A star is born</i>
 
 1249
-01:25:47,980 --> 01:25:51,609
-Oh, gonna shout it
-from the mountaintops
+01:26:30,894 --> 01:26:35,064
+<i><font color=yellow>♪ Come on, everybody shout out loud
+A star is born</i>
 
 1250
-01:25:51,776 --> 01:25:53,277
-A staris born
+01:26:35,148 --> 01:26:39,402
+<i><font color=yellow>♪ Just remember in the darkest hour
+within your heart's the power</i>
 
 1251
-01:25:53,444 --> 01:25:55,780
-It's the time
-for pullin 'out the stops
+01:26:39,528 --> 01:26:43,072
+<i><font color=yellow>♪ For makin' you a hero, too</i>
 
 1252
-01:25:55,947 --> 01:25:57,448
-A star is born
+01:26:43,156 --> 01:26:46,534
+<i><font color=yellow>♪ So don't lose hope when you're forlorn</i>
 
 1253
-01:25:57,615 --> 01:26:01,494
-- Honey, hit us with a hallelu
-- That kid came shinin' through
+01:26:46,618 --> 01:26:47,660
+<i><font color=yellow>♪ That's Phil's boy!</i>
 
 1254
-01:26:01,661 --> 01:26:03,496
-Girl, sing the song
+01:26:47,744 --> 01:26:52,039
+<i><font color=yellow>♪ Just keep your eyes upon the skies</i>
 
 1255
-01:26:03,663 --> 01:26:09,335
-Come blow your horn
-A star is born, a star is born
+01:26:52,124 --> 01:26:56,711
+<i><font color=yellow>♪ Every night, a star is
+Right in sight, a star is</i>
 
 1256
-01:26:09,502 --> 01:26:13,756
-- He's a hero who can please the crowd
-- A star is born
+01:26:56,795 --> 01:27:01,465
+<i><font color=yellow>- ♪ Burning bright, a star is born
+<font color=yellow>- ♪ A star is born</i>
 
 1257
-01:26:13,923 --> 01:26:17,635
-Come on, everybody, shout out loud
-A star is born
+01:32:48,396 --> 01:32:50,231
+What d'ya say? It's happy ending time!
 
 1258
-01:26:17,802 --> 01:26:21,848
-Just remember in the darkest hour
-Within your heart's the power
+01:32:50,315 --> 01:32:52,483
+Everybody's got a little taste
+of somethin' but me.
 
 1259
-01:26:22,014 --> 01:26:25,768
-For makin 'you a hero too
-
-1260
-01:26:25,935 --> 01:26:29,021
-So don't lose hope
-when you're for lorn
-
-1261
-01:26:29,188 --> 01:26:31,524
-- That's Phil's boy!
-- Just keep your eyes
-
-1262
-01:26:31,691 --> 01:26:34,819
-- You just keep your eyes
-- Upon the skies
-- Upon the skies
-
-1263
-01:26:34,986 --> 01:26:36,571
-- every night, a star is
-- every night
-
-1264
-01:26:36,737 --> 01:26:38,656
-- Right in sight, a star is
-- Burning bright
-
-1265
-01:26:38,823 --> 01:26:43,953
-Burning bright
-A star is born
-
-1266
-01:32:30,883 --> 01:32:32,844
-What do ya say?
-It's happy ending time!
-
-1267
-01:32:33,010 --> 01:32:35,805
-everybody's got a little taste
-of somethin' but me. I got nothin'.
-
-1268
-01:32:35,972 --> 01:32:38,766
-I-I'm here with nothin'.
+01:32:52,609 --> 01:32:56,070
+I got nothin'. I'm here with nothin'.
 Anybody listenin'?
 
-1269
-01:32:38,933 --> 01:32:41,227
-It's like I'm... What am I,
-an echo or something?
+1260
+01:32:56,154 --> 01:32:58,405
+It's like I'm...
+What am I, an echo or something?
 
-1270
-01:32:41,394 --> 01:32:44,480
-Hello? Hello?
-Am I talking to, what?
-
-1271
-01:32:44,647 --> 01:32:48,150
+1261
+01:32:58,490 --> 01:33:03,911
+Hello? Hello? Am I talking to, what?
 Hyperspace? Hello, it's me.
+
+1262
+01:33:03,995 --> 01:33:05,371
 Nobody listens.
+
