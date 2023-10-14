@@ -11,6 +11,12 @@ $ python working.srt.py \
     example/the.magic.school.bus.1994.song.en.srt > the.magic.school.bus.1994.song.en.srt
 ~~~
 
+### Agregar delay
+~~~
+$ python working.srt.py --delay 4.15 \
+    example/the.magic.school.bus.1994.s1e7.en.srt > the.magic.school.bus.1994.s0e7.en.srt
+~~~
+
 ### Unir varios subtitulos
 ~~~
 $ python working.srt.py \

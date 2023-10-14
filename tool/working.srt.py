@@ -1,12 +1,23 @@
 import srt
 import os
 import sys
+import argparse
+
+from datetime import timedelta
+
 
 srt_path = []
 srt_subs = []
 
-for i in range(len(sys.argv)-1):
-    srt_path.append(sys.argv[i+1])
+parser = argparse.ArgumentParser(description='Working SRT')
+parser.add_argument('srt_path', nargs='+')
+parser.add_argument('-d', '--delay', type=float)
+args = parser.parse_args()
+
+delay = args.delay
+
+for i in range(len(args.srt_path)):
+    srt_path.append(args.srt_path[i])
     # Solo asignamos espacio en el array
     srt_subs.append(None)
 
@@ -27,6 +38,9 @@ for subs in srt_subs:
 
 for i, sub in enumerate(text):
     sub.index = i+1
+    if delay:
+        sub.start += timedelta(seconds=delay)
+        sub.end   += timedelta(seconds=delay)
 
 content = srt.compose(text)
 print(content)
