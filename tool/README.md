@@ -23,3 +23,9 @@ $ python working.srt.py \
     example/the.magic.school.bus.1994.song.en.srt \
     example/the.magic.school.bus.1994.s01e7.en.srt > the.magic.school.bus.1994.s01e7.en.srt
 ~~~
+
+### Utiliar ia para sync
+~~~
+$ autosubsync The.Magic.School.Bus.s01e07.mp4 \
+    the.magic.school.bus.1994.s01e7.en.fix.srt the.magic.school.bus.1994.s01e7.en.srt
+~~~

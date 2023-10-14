@@ -1,6 +1,8 @@
 *.mmdb
 
 # Django #
+*.mp4
+*.mkv
 *.log
 *.pot
 *.pyc
