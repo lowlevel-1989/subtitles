@@ -1,2 +1,2 @@
 srt==3.5.3
-autosubsync==1.0.1
+autosubsync
