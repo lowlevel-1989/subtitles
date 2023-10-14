@@ -24,9 +24,9 @@ $ python working.srt.py \
     example/the.magic.school.bus.1994.s01e7.en.srt > the.magic.school.bus.1994.s01e7.en.srt
 ~~~
 
-### Reemplazar lineas de subtitulos
+### Parchear lineas de subtitulos
 ~~~
-$ python working.srt.py -r resource/blues.clues.intro.en.srt \
+$ python working.srt.py --patch resource/blues.clues.intro.en.srt \
     ../blue\ is\ clues/s1/Blue\'s.Clues.S01E01.en.srt > blues.clues.s01e01.en.srt
 ~~~
 
