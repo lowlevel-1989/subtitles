@@ -41,3 +41,8 @@ $ autosubsync The.Magic.School.Bus.s01e07.mp4 \
 $ find . -type f -name "*.srt" -exec sed -i ':a;N;$!ba;s/([^)]*)//g' {} \;
 $ find . -type f -name "*.srt" -exec sed -i ':a;N;$!ba;s/\[[^]]*\]//g' {} \;
 ~~~
+
+### export srt
+~~~
+$ ffmpeg -i Heartstopper.S01E01.1080p.WEB.H264-PECULATE.mkv -map 0:s:5 'heartstopper.2022.s01e02.en.srt'
+~~~
