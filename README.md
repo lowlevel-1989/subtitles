@@ -35,3 +35,9 @@ $ python working.srt.py --patch resource/blues.clues.intro.en.srt \
 $ autosubsync The.Magic.School.Bus.s01e07.mp4 \
     the.magic.school.bus.1994.s01e7.en.fix.srt the.magic.school.bus.1994.s01e7.en.srt
 ~~~
+
+### Eliminar CC
+~~~
+$ find . -type f -name "*.srt" -exec sed -i ':a;N;$!ba;s/([^)]*)//g' {} \;
+$ find . -type f -name "*.srt" -exec sed -i ':a;N;$!ba;s/\[[^]]*\]//g' {} \;
+~~~
