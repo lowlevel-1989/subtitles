@@ -1,2361 +1,4714 @@
-1
-00:00:14,258 --> 00:00:18,208
-Swan. He has no other name.
+﻿1
+00:00:14,458 --> 00:00:18,533
+Swan...
+He has no other name.
 
 2
-00:00:18,458 --> 00:00:23,542
+00:00:18,534 --> 00:00:21,028
 His past is a mystery,
-but his work is already a legend.
 
 3
-00:00:24,667 --> 00:00:28,875
+00:00:21,029 --> 00:00:24,521
+But his work
+is already a legend.
+
+4
+00:00:24,522 --> 00:00:29,012
 He wrote and produced
 his first gold record at 14.
 
-4
-00:00:29,125 --> 00:00:32,333
-Since then, he's won so many...
-
 5
-00:00:32,583 --> 00:00:36,292
-...that he tried to deposit them
-in Fort Knox.
+00:00:29,013 --> 00:00:32,507
+In the years since then,
+he has won so many others...
 
 6
-00:00:36,542 --> 00:00:41,917
-He brought the blues to Britain.
-He brought Liverpool to America.
+00:00:33,005 --> 00:00:36,498
+That he once tried
+to deposit them in Fort Knox.
 
 7
-00:00:42,167 --> 00:00:47,583
-He brought folk and rock together.
-His band, the Juicy Fruits...
+00:00:36,499 --> 00:00:38,993
+He brought the blues to Britain.
 
 8
-00:00:47,833 --> 00:00:52,583
-...single-handedly gave birth
-to the nostalgia wave in the '70s.
+00:00:39,493 --> 00:00:41,986
+He brought Liverpool to America.
 
 9
-00:00:53,542 --> 00:00:57,167
-Now he's looking for the new sound
-of the spheres...
+00:00:41,987 --> 00:00:45,480
+He brought folk and rock
+together.
 
 10
-00:00:57,417 --> 00:01:01,917
-...to inaugurate his own Xanadu,
-his own Disneyland...
+00:00:45,481 --> 00:00:47,975
+His band, The Juicy fruits,
 
 11
-00:01:02,167 --> 00:01:06,292
-...the Paradise,
-the ultimate rock palace.
+00:00:47,976 --> 00:00:53,464
+Single-handedly gave birth to
+the nostalgia wave of the '70s.
 
 12
-00:01:08,292 --> 00:01:13,625
-This film is the story
-of that search, of that sound...
+00:00:53,465 --> 00:00:57,457
+Now he is looking for
+the new sound of the spheres...
 
 13
-00:01:13,875 --> 00:01:17,667
-...of the man who made it,
-the girl who sang it...
+00:00:57,458 --> 00:00:59,951
+To inaugurate his own Xanadu,
 
 14
-00:01:17,917 --> 00:01:20,208
-...and the monster who stole it.
+00:00:59,952 --> 00:01:01,948
+his own Disneyland,
 
 15
-00:05:14,500 --> 00:05:18,833
-It seems like yesterday
-I found Annette in that church choir.
+00:01:02,448 --> 00:01:04,443
+The Paradise,
 
 16
-00:05:19,042 --> 00:05:23,750
-I got her singing lessons, taught her
-how to dress, got her first gig.
+00:01:04,444 --> 00:01:06,939
+the ultimate rock palace.
 
 17
-00:05:23,958 --> 00:05:27,792
-I paid off a columnist.
-He did a beautiful story on her.
+00:01:08,436 --> 00:01:11,928
+This film is the story
+of that search...
 
 18
-00:05:28,000 --> 00:05:30,750
-I told her who to be nice to, who to...
+00:01:11,929 --> 00:01:13,924
+of that sound,
 
 19
-00:05:30,958 --> 00:05:35,583
-I fed her drugs to get through
-the tours, made her record a hit.
+00:01:13,925 --> 00:01:17,916
+of the man who made it,
+the girl who sang it...
 
 20
-00:05:35,792 --> 00:05:39,083
-Then you made her
-the biggest thing in rock.
+00:01:17,917 --> 00:01:20,784
+and the monster who stole it.
 
 21
-00:05:39,292 --> 00:05:43,833
-So now what does she do?
-She fires us, cancels Vegas...
+00:01:20,785 --> 00:01:23,419
+♫ We'll remember you ♫
 
 22
-00:05:44,042 --> 00:05:47,208
-...and gives free concerts
-for gook orphans.
+00:01:23,919 --> 00:01:27,420
+♫ Forever, Eddie ♫
 
 23
-00:05:47,417 --> 00:05:51,458
-She was more than a piece.
-She was the light of my life.
+00:01:27,421 --> 00:01:30,421
+♫ Through the sacrifice
+You made ♫
 
 24
-00:05:51,667 --> 00:05:53,375
-And now she's gone.
+00:01:30,422 --> 00:01:34,922
+♫ We can't believe
+The price you paid ♫
 
 25
-00:05:53,708 --> 00:05:57,542
-There'll be a 20-minute intermission
-before the next show.
+00:01:34,923 --> 00:01:41,425
+♫ For love ♫
 
 26
-00:05:57,750 --> 00:06:02,208
-We sued her. We couldn't lose.
-We had an ironclad contract.
+00:01:41,508 --> 00:01:44,925
+♫ For love ♫
 
 27
-00:06:02,417 --> 00:06:07,542
-It was a lock, it was over, it was
-closed. I even bribed the judge.
+00:01:44,926 --> 00:01:47,927
+♫ For love ♫
 
 28
-00:06:08,208 --> 00:06:12,125
-He said we couldn't sign anyone
-to a life contract.
+00:01:48,177 --> 00:01:50,928
+♫ Little Eddie Mitty
+Born in jersey city ♫
 
 29
-00:06:12,333 --> 00:06:16,042
-Called us a disgrace
-to the profession. A disgrace.
+00:01:51,128 --> 00:01:53,929
+♫ Started singing
+When he was five ♫
 
 30
-00:06:16,250 --> 00:06:20,917
-I made her the moneygrubbing
-whore she was, and I'm a disgrace?
+00:01:54,430 --> 00:01:56,930
+♫ Never knew his father
+And mother didn't bother? ♫
 
 31
-00:06:21,125 --> 00:06:24,625
-- What do you want me to do?
-- Break her.
+00:01:57,431 --> 00:01:59,931
+♫ To catch his last name
+Fast as he came ♫
 
 32
-00:06:25,208 --> 00:06:27,542
-- Is that all?
-- Isn't that enough?
+00:02:00,348 --> 00:02:02,932
+♫ He was off and flyin'
+Times were really tryin' ♫
 
 33
-00:06:27,750 --> 00:06:30,708
+00:02:03,349 --> 00:02:06,933
+♫ Eddie and his mother alone ♫
+
+34
+00:02:07,100 --> 00:02:09,434
+♫ Soon another mister
+And soon a baby sister ♫
+
+35
+00:02:09,435 --> 00:02:11,935
+♫ Mama kept swingin'
+And Eddie kept singin' ♫
+
+36
+00:02:36,444 --> 00:02:38,944
+♫ For love ♫
+
+37
+00:02:39,394 --> 00:02:43,696
+♫ For love ♫
+And now the tragic story.
+
+38
+00:02:45,447 --> 00:02:47,947
+Eddie's sister, Mary Louise,
+
+39
+00:02:48,448 --> 00:02:50,947
+Needed an operation.
+
+40
+00:02:50,948 --> 00:02:55,450
+To get the money he would have
+to become an overnight sensation.
+
+41
+00:02:55,817 --> 00:02:59,451
+♫ Eddie believed
+The American people...
+
+42
+00:02:59,567 --> 00:03:02,951
+Had wonderful,
+love-giving hearts.
+
+43
+00:03:02,952 --> 00:03:06,454
+His well-publicized end
+he considered would send...
+
+44
+00:03:06,953 --> 00:03:09,954
+his memorial album
+to the top of the charts.
+
+45
+00:03:10,404 --> 00:03:12,455
+♫ And it did!
+
+46
+00:03:34,463 --> 00:03:37,963
+♫ Good-bye ♫
+
+47
+00:03:38,130 --> 00:03:40,963
+♫ Good-bye ♫
+
+48
+00:03:40,964 --> 00:03:44,466
+When a young singer dies
+to our shock and surprise...
+
+49
+00:03:44,883 --> 00:03:46,966
+In a plane crash
+or a flashy sports car,
+
+50
+00:03:47,416 --> 00:03:51,467
+He becomes quite well-known
+and the kindness he's shown...
+
+51
+00:03:51,468 --> 00:03:54,468
+has made more than one
+postmortem star.
+
+52
+00:03:54,469 --> 00:03:57,470
+Well, you did it, Eddie.
+
+53
+00:03:57,720 --> 00:04:00,471
+And though it's hard
+to applaud suicide,
+
+54
+00:04:00,838 --> 00:04:04,972
+you gave all you could give
+so your sister could live.
+
+55
+00:04:05,172 --> 00:04:08,974
+All America's
+choked up inside, man.
+
+56
+00:04:09,091 --> 00:04:15,475
+♫ We'll remember you
+Forever, Eddie ♫
+
+57
+00:04:15,476 --> 00:04:18,976
+♫ Through the sacrifice
+You made ♫
+
+58
+00:04:18,977 --> 00:04:21,977
+♫ We can't believe
+The price you paid ♫
+
+59
+00:04:21,978 --> 00:04:27,979
+♫ For love ♫
+
+60
+00:04:27,980 --> 00:04:30,481
+♫ For love ♫
+
+61
+00:04:30,814 --> 00:04:33,982
+♫ For love ♫
+
+62
+00:04:34,483 --> 00:04:36,483
+♫ For love ♫
+
+63
+00:04:36,766 --> 00:04:40,485
+♫ For love ♫
+
+64
+00:05:14,996 --> 00:05:18,996
+You know, it just seems like yesterday
+I found Annette in that church choir.
+
+65
+00:05:18,997 --> 00:05:22,997
+I got her singing lessons.
+I taught her how to dress.
+
+66
+00:05:22,998 --> 00:05:25,499
+I got her first club job,
+and I paid off a columnist.
+
+67
+00:05:25,500 --> 00:05:27,999
+He did a beautiful story on her.
+
+68
+00:05:28,000 --> 00:05:30,997
+I taught her who to be nice to,
+who to...
+
+69
+00:05:30,998 --> 00:05:33,996
+I fed her the drugs to get her
+through the road tours.
+
+70
+00:05:33,997 --> 00:05:37,494
+I made her record a hit.
+Then I sold her to you.
+
+71
+00:05:37,495 --> 00:05:41,492
+You made her the biggest thing in rock.
+So now what does she do?
+
+72
+00:05:41,493 --> 00:05:44,491
+She fires us,
+cancels her Vegas date...
+
+73
+00:05:44,492 --> 00:05:47,490
+And wants to give free concerts
+for starving gook orphans.
+
+74
+00:05:47,989 --> 00:05:51,488
+She was more than a piece to me.
+She was the light of my life.
+
+75
+00:05:51,987 --> 00:05:53,986
+And now she's gone.
+
+76
+00:05:54,486 --> 00:05:55,985
+There will be
+a 20-minute intermission...
+
+77
+00:05:56,485 --> 00:05:57,984
+Before the next show.
+
+78
+00:05:58,484 --> 00:06:00,482
+We sued her.
+We couldn't lose.
+
+79
+00:06:00,483 --> 00:06:02,980
+We had her
+in an ironclad contract.
+
+80
+00:06:02,981 --> 00:06:05,480
+It was a lock. It was over.
+It was closed.
+
+81
+00:06:05,481 --> 00:06:07,978
+I even bribed the judge.
+
+82
+00:06:07,979 --> 00:06:12,476
+He ruled against us. Said we couldn't
+sign anyone to a life contract.
+
+83
+00:06:12,477 --> 00:06:16,475
+Said we were a disgrace to the profession.
+A disgrace, he said!
+
+84
+00:06:16,974 --> 00:06:21,471
+I was the one that made her the money-grubbing
+whore she was, and he calls me a disgrace.
+
+85
+00:06:21,472 --> 00:06:23,470
+What do you want me to do?
+
+86
+00:06:23,471 --> 00:06:25,469
+Break her.
+
+87
+00:06:25,470 --> 00:06:27,967
+Is that all?
+Isn't that enough?
+
+88
+00:06:27,968 --> 00:06:30,966
 Annette is nothing,
 finished, washed up.
 
-34
-00:06:30,917 --> 00:06:34,708
-- She's at the top of the charts.
-- That's today, Philbin.
-
-35
-00:06:34,917 --> 00:06:39,917
-Tomorrow she'll be forgotten.
-We have more important business.
-
-36
-00:06:40,125 --> 00:06:43,625
-- The Paradise.
-- I know. We've looked everywhere...
-
-37
-00:06:43,833 --> 00:06:44,875
-Listen.
-
-38
-00:06:46,958 --> 00:06:48,375
-What?
-
-39
-00:08:11,792 --> 00:08:15,708
-That's it.
-The music to open the Paradise.
-
-40
-00:08:15,917 --> 00:08:21,292
-- I've finally found it.
-- That creep to open the Paradise?
-
-41
-00:08:21,542 --> 00:08:26,083
-No, not him. The music.
-Listen to the music.
-
-42
-00:08:27,333 --> 00:08:29,417
-What do I do with him?
-
-43
-00:08:30,667 --> 00:08:32,750
-You'll think of something.
-
-44
-00:09:47,208 --> 00:09:49,042
-- Mr. Leach?
-- Hello.
-
-45
-00:09:49,250 --> 00:09:51,500
-My name's Arnold Philbin.
-
-46
-00:09:51,750 --> 00:09:56,042
-I scout talent for Swan.
-He's interested in your stuff.
-
-47
-00:09:56,292 --> 00:09:58,042
-- The Swan?
-- That's right.
-
-48
-00:09:58,250 --> 00:10:01,042
-- He said your song could be big.
-- Really?
-
-49
-00:10:01,250 --> 00:10:02,500
-I was right there.
-
-50
-00:10:02,708 --> 00:10:06,167
-If he produced my music,
-the world would listen.
-
-51
-00:10:06,375 --> 00:10:10,750
-The game plan exactly,
-but you need a lot of work, polishing.
-
-52
-00:10:10,958 --> 00:10:13,792
-I know. I have a long way to go.
-
-53
-00:10:14,000 --> 00:10:19,417
-- Do you have any tapes of your stuff?
-- No, but it's all written down here.
-
-54
-00:10:19,625 --> 00:10:24,708
-- Give us two or three good up numbers.
-- Two or three?
-
-55
-00:10:24,917 --> 00:10:29,458
-This cantata is 200 or 300 pages,
-and I haven't finished yet.
-
-56
-00:10:29,667 --> 00:10:32,958
-Forget the sonata.
-We just want the songs.
-
-57
-00:10:33,167 --> 00:10:37,250
-- It's not just songs. It's much more.
-- I don't get you.
-
-58
-00:10:37,833 --> 00:10:42,417
-It's a whole series of songs
-that tell a story of Faust.
-
-59
-00:10:42,625 --> 00:10:47,833
-- Who? What label's he on?
-- He was a legendary German magician.
-
-60
-00:10:48,042 --> 00:10:51,792
-He sold his soul to the devil
-for worldly power.
-
-61
-00:10:52,000 --> 00:10:54,708
-What is this, kid? School time?
-
-62
-00:10:54,917 --> 00:10:59,000
-A song is a song.
-You either dig it, or you don't.
-
-63
-00:10:59,208 --> 00:11:04,042
-Now, I like your stuff, kid.
-It's terrific. And you know what?
-
-64
-00:11:04,292 --> 00:11:07,417
-I think the Juicy Fruits will dig it.
-
-65
-00:11:07,625 --> 00:11:10,500
-I'm not promising anything. First...
-
-66
-00:11:10,708 --> 00:11:14,583
-I won't let my music be mutilated
-by those greaseballs!
-
-67
-00:11:14,792 --> 00:11:17,833
-- Only I can sing Faust!
-- It was just an idea.
-
-68
-00:11:18,042 --> 00:11:21,083
-Swan makes all these decisions,
-you know?
-
-69
-00:11:22,958 --> 00:11:28,375
-I'm sorry. It's just that
-I worked so hard on this thing.
-
-70
-00:11:28,792 --> 00:11:33,333
-- It's okay. You sure got a temper.
-- I'm sorry.
-
-71
-00:11:33,542 --> 00:11:38,042
-- I don't know what comes over me.
-- Just relax. Take it easy.
-
-72
-00:11:38,250 --> 00:11:42,958
-Give me the music. Swan will take
-a look and get right back to you.
-
-73
-00:11:43,542 --> 00:11:48,250
-But if you ask me, I think
-we're gonna produce your first album.
-
-74
-00:11:48,417 --> 00:11:49,458
-Really?
-
-75
-00:12:19,667 --> 00:12:22,583
-- Hello. I'm Winslow Leach.
-- Yes?
-
-76
-00:12:22,792 --> 00:12:27,375
-Mr. Philbin said Mr. Swan would call
-about producing my record.
-
-77
-00:12:27,583 --> 00:12:31,375
-He said he'd get back to me.
-That was a month ago.
-
-78
-00:12:31,583 --> 00:12:33,583
-One moment, please.
-
-79
-00:12:59,375 --> 00:13:02,542
-Taxi! Taxi! Taxi!
-
-80
-00:13:04,875 --> 00:13:06,708
-Follow that car.
-
-81
-00:14:50,125 --> 00:14:54,833
-- Where did you get that song?
-- From Philbin, to audition with.
-
-82
-00:14:55,042 --> 00:14:57,417
-- Sing it again.
-- Why?
-
-83
-00:14:57,625 --> 00:14:59,417
-Go ahead. Sing it.
-
-84
-00:15:37,667 --> 00:15:41,875
-That's incredible.
-How'd you know it went like that?
-
-85
-00:15:42,125 --> 00:15:46,792
-- I wrote the song.
-- Then why aren't you with Swan?
-
-86
-00:15:47,000 --> 00:15:49,625
-- There must be some mix-up.
-- Oh, sure.
-
-87
-00:15:49,833 --> 00:15:53,083
-Your name's not on the music.
-
-88
-00:15:53,292 --> 00:15:58,250
-Swan heard me sing this. Why's he
-auditioning girls for my cantata?
-
 89
-00:15:58,458 --> 00:16:01,208
-- I only sing it solo.
-- Haven't you heard?
+00:06:30,967 --> 00:06:33,466
+But she's at the top
+of the charts.
 
 90
-00:16:01,417 --> 00:16:04,917
-- He's opening the Paradise with it.
-- You're kidding.
+00:06:33,965 --> 00:06:36,962
+That's today, Philbin, today.
+Tomorrow she'll be forgotten.
 
 91
-00:16:05,125 --> 00:16:08,250
-- I look like a kidder?
-- He's using my cantata?
+00:06:36,963 --> 00:06:41,460
+Besides, we have more important
+business, you and I... the Paradise.
 
 92
-00:16:08,458 --> 00:16:11,542
-- Isn't that great?
-- I wish he'd told me.
+00:06:41,461 --> 00:06:44,958
+I know, boss. We've looked everywhere.
+You just don't seem to...
 
 93
-00:16:11,750 --> 00:16:15,167
+00:06:44,959 --> 00:06:46,957
+Listen.
+
+94
+00:06:46,958 --> 00:06:48,957
+What?
+
+95
+00:06:49,457 --> 00:06:52,450
+♫ Out of place as a crying clown
+Who could only frown ♫
+
+96
+00:06:52,451 --> 00:06:55,949
+♫ And the play went on
+For hours ♫
+
+97
+00:06:59,447 --> 00:07:01,945
+♫ And as I lived my role ♫
+
+98
+00:07:01,946 --> 00:07:06,443
+♫ I swore I'd sell my soul
+For one love ♫
+
+99
+00:07:06,444 --> 00:07:08,942
+♫ Who would stand by me ♫
+
+100
+00:07:10,441 --> 00:07:13,439
+♫ And give them back
+The gift of laughter ♫
+
+101
+00:07:13,440 --> 00:07:17,436
+♫ Yeah, one love ♫
+
+102
+00:07:17,437 --> 00:07:19,935
+♫ Who would stand by me ♫
+
+103
+00:07:20,935 --> 00:07:24,932
+♫ And after makin' love
+We'd dream ♫
+
+104
+00:07:24,933 --> 00:07:27,432
+♫ A bit of style ♫
+
+105
+00:07:29,930 --> 00:07:33,928
+♫ We'd dream
+A bunch of friends ♫
+
+106
+00:07:35,427 --> 00:07:38,925
+♫ Dream each other's smiles ♫
+
+107
+00:07:40,924 --> 00:07:45,920
+♫ And dream it never ends ♫
+
+108
+00:07:45,921 --> 00:07:49,418
+♫ I was not myself last night
+In the mornin' light ♫
+
+109
+00:07:49,419 --> 00:07:52,418
+♫ I could see
+The change was showin' ♫
+
+110
+00:07:56,415 --> 00:07:59,912
+♫ Like a child who was always poor
+Reachin' out for more ♫
+
+111
+00:07:59,913 --> 00:08:03,411
+♫ I could feel
+The hunger growin' ♫
+
+112
+00:08:06,909 --> 00:08:09,407
+♫ And as I lost control ♫
+
+113
+00:08:09,408 --> 00:08:12,405
+♫ I swore I'd sell my soul
+For one love ♫
+
+114
+00:08:12,406 --> 00:08:14,404
+That's it.
+What?
+
+115
+00:08:14,405 --> 00:08:16,403
+The music to open the Paradise.
+
+116
+00:08:16,404 --> 00:08:19,401
+After all these years,
+I've finally found it.
+
+117
+00:08:19,402 --> 00:08:22,899
+You want that creep to open the Paradise?
+No, not him.
+
+118
+00:08:22,900 --> 00:08:25,897
+The music.
+Listen to the music.
+
+119
+00:08:25,898 --> 00:08:28,897
+♫ What do I do with him? ♫
+
+120
+00:08:29,397 --> 00:08:31,395
+♫ And lay beside me
+While we dream ♫
+
+121
+00:08:31,396 --> 00:08:33,394
+You'll think of something.
+
+122
+00:08:33,395 --> 00:08:35,893
+♫ A bit of style ♫
+
+123
+00:08:37,226 --> 00:08:41,390
+♫ Dream a bunch of friends ♫
+
+124
+00:08:42,549 --> 00:08:46,910
+♫ Dream each other's smiles ♫
+
+125
+00:08:51,527 --> 00:08:56,031
+♫ And dream it never ends ♫
+
+126
+00:08:56,382 --> 00:09:00,379
+♫ All my dreams are lost ♫
+
+127
+00:09:00,879 --> 00:09:04,377
+♫ And I can't sleep ♫
+
+128
+00:09:06,376 --> 00:09:11,872
+♫ And sleep alone
+Could ease my mind ♫
+
+129
+00:09:14,272 --> 00:09:18,074
+♫ All my tears have dried ♫
+
+130
+00:09:18,080 --> 00:09:21,368
+♫ And I can't weep ♫
+
+131
+00:09:23,366 --> 00:09:25,864
+♫ Old emotions ♫
+
+132
+00:09:25,865 --> 00:09:29,363
+♫ May they rest in peace ♫
+
+133
+00:09:29,862 --> 00:09:34,359
+♫ And dream, dream
+A bunch of friends ♫
+
+134
+00:09:34,360 --> 00:09:37,358
+♫ Rest in peace ♫
+
+135
+00:09:37,359 --> 00:09:43,854
+♫ And dream, dream
+It never ends ♫
+
+136
+00:09:46,386 --> 00:09:48,351
+Mr. Leach?
+
+137
+00:09:48,352 --> 00:09:50,851
+Hello? Yeah.
+My name's Arnold Philbin.
+
+138
+00:09:51,351 --> 00:09:54,348
+Hello. Look, I scout
+talent for Swan,
+
+139
+00:09:54,349 --> 00:09:56,347
+and, uh, he's interested
+in your stuff.
+
+140
+00:09:56,348 --> 00:09:58,845
+The Swan?
+That's right.
+
+141
+00:09:58,846 --> 00:10:01,345
+He said your sound could be real big.
+Did he really say that?
+
+142
+00:10:01,511 --> 00:10:04,343
+I was sittin' next to him. Oh, if
+Mr. Swan would produce my music,
+
+143
+00:10:04,843 --> 00:10:06,841
+the whole world
+would listen to me.
+
+144
+00:10:06,842 --> 00:10:10,340
+The game plan exactly. But you need
+a lot of work, a lot of polishing.
+
+145
+00:10:10,839 --> 00:10:13,837
+Oh, I know, Mr. Philbin.
+I-I have a long way to go.
+
+146
+00:10:13,838 --> 00:10:16,835
+Right. Now, do you have
+any tapes of your stuff?
+
+147
+00:10:16,836 --> 00:10:19,334
+No, but it's all
+written down here.
+
+148
+00:10:19,335 --> 00:10:22,833
+Well, why don't you give us just two or
+three of the really good up numbers...
+
+149
+00:10:23,333 --> 00:10:25,332
+Two or three up numbers?
+You don't understand.
+
+150
+00:10:25,781 --> 00:10:29,779
+The scope of this cantata is 200 or 300
+pages long, and I haven't finished yet.
+
+151
+00:10:29,862 --> 00:10:32,328
+Well, never mind the sonata.
+We just want the songs.
+
+152
+00:10:32,527 --> 00:10:36,274
+It's not just songs.
+It's more. It's much more.
+
+153
+00:10:36,358 --> 00:10:38,323
+I don't get you, kid.
+
+154
+00:10:38,324 --> 00:10:42,322
+Well, it's a whole series of songs
+that tell the story of Faust.
+
+155
+00:10:42,821 --> 00:10:44,820
+Who? What label is he on? Faust.
+
+156
+00:10:45,320 --> 00:10:49,318
+Faust was a legendary German magician
+who sold his soul to the devil...
+
+157
+00:10:49,734 --> 00:10:51,815
+For worldly experience
+and power.
+
+158
+00:10:51,816 --> 00:10:54,814
+What is this, kid, school time?
+I got a plane to catch.
+
+159
+00:10:55,064 --> 00:10:59,311
+Look, a song is a song.
+You either dig it or you don't.
+
+160
+00:10:59,312 --> 00:11:02,310
+Now, I like your stuff, kid.
+I think it's terrific.
+
+161
+00:11:02,311 --> 00:11:04,310
+You know what?
+What?
+
+162
+00:11:04,425 --> 00:11:06,309
+I think The Juicy Fruits
+are gonna dig it.
+
+163
+00:11:06,641 --> 00:11:09,806
+The Juicy Fruits? I'm not
+promising anything. First...
+
+164
+00:11:10,306 --> 00:11:13,803
+I'm not gonna let my music be
+mutilated by those grease-balls!
+
+165
+00:11:13,804 --> 00:11:16,303
+I'm the only one
+that can sing "Faust"!
+
+166
+00:11:16,503 --> 00:11:18,301
+Relax, kid.
+It was just an idea.
+
+167
+00:11:18,302 --> 00:11:21,667
+Swan makes all these
+decisions, you know?
+
+168
+00:11:22,799 --> 00:11:25,297
+I'm-I'm sorry. I...
+
+169
+00:11:25,298 --> 00:11:27,795
+It's just that I've worked
+so hard on this thing.
+
+170
+00:11:27,796 --> 00:11:29,795
+Uh, it's okay, kid.
+
+171
+00:11:29,878 --> 00:11:31,794
+Boy, you sure got some temper.
+
+172
+00:11:32,127 --> 00:11:34,792
+I'm sorry. I don't know
+what comes over me.
+
+173
+00:11:35,042 --> 00:11:39,290
+It's all right. Just relax. Take it easy.
+Why don't you give me the music,
+
+174
+00:11:39,706 --> 00:11:43,237
+Swan'll take a look at it on the
+plane and we'll get right back to you.
+
+175
+00:11:43,321 --> 00:11:48,284
+But if you ask me, I think we're
+gonna produce your first album.
+
+176
+00:11:48,285 --> 00:11:50,284
+Really?
+
+177
+00:12:19,800 --> 00:12:21,766
+Hello.
+I'm Winslow Leach.
+
+178
+00:12:21,848 --> 00:12:24,265
+Yes?
+Mr. Philbin said...
+
+179
+00:12:24,631 --> 00:12:27,263
+Mr. Swan was gonna call me
+about producing my first record.
+
+180
+00:12:27,762 --> 00:12:30,261
+Mr. Philbin said he'd get right back to me.
+That was a month ago.
+
+181
+00:12:30,711 --> 00:12:32,759
+One moment, please.
+
+182
+00:12:59,245 --> 00:13:02,243
+Taxi! Taxi, taxi!
+
+183
+00:13:04,741 --> 00:13:06,740
+Follow that car.
+
+184
+00:13:37,224 --> 00:13:40,222
+♫ Never thought
+I'd get to meet the devil ♫
+
+185
+00:13:42,054 --> 00:13:45,302
+♫ Never thought I'd meet him
+Face to face ♫
+
+186
+00:13:46,716 --> 00:13:48,714
+♫ Heard he always
+Worked alone ♫
+
+187
+00:13:48,715 --> 00:13:50,713
+♫ And that he seldom wrote
+Or used a phone ♫
+
+188
+00:13:51,213 --> 00:13:54,211
+♫ So I walked right up
+To meet him at his place ♫
+
+189
+00:14:03,822 --> 00:14:06,703
+♫ All my dreams ♫
+
+190
+00:14:06,704 --> 00:14:08,703
+♫ I can't sleep ♫
+
+191
+00:14:09,203 --> 00:14:12,700
+♫ All my dreams are lost ♫
+
+192
+00:14:37,687 --> 00:14:43,182
+♫ Oh-oh-oh
+All my tears have dried ♫
+
+193
+00:14:43,183 --> 00:14:47,681
+♫ And I can't weep ♫
+
+194
+00:14:48,181 --> 00:14:51,179
+♫ Old emotions ♫
+Where'd you get that song?
+
+195
+00:14:51,679 --> 00:14:54,677
+Well, I got it from Philbin,
+to audition with.
+
+196
+00:14:55,177 --> 00:14:56,676
+Sing it again.
+
+197
+00:14:57,176 --> 00:14:59,675
+Why?
+Go ahead, sing it.
+
+198
+00:15:01,674 --> 00:15:05,620
+♫ All my dreams are lost ♫
+
+199
+00:15:05,704 --> 00:15:10,167
+♫ And I can't sleep ♫
+
+200
+00:15:10,168 --> 00:15:16,164
+♫ Sleep alone
+Could ease my mind ♫
+
+201
+00:15:16,165 --> 00:15:21,161
+♫ All my tears have dried ♫
+
+202
+00:15:21,162 --> 00:15:25,159
+♫ And I can't weep ♫
+
+203
+00:15:25,160 --> 00:15:27,659
+♫ Old emotions ♫
+
+204
+00:15:28,158 --> 00:15:30,656
+♫ May they rest ♫
+
+205
+00:15:30,657 --> 00:15:33,155
+♫ In peace ♫
+
+206
+00:15:33,656 --> 00:15:35,653
+♫ And dream ♫
+
+207
+00:15:35,654 --> 00:15:39,651
+That's incredible.
+
+208
+00:15:39,652 --> 00:15:42,650
+How'd you know it went like that?
+I wrote the song.
+
+209
+00:15:42,983 --> 00:15:44,482
+If you wrote this stuff,
+
+210
+00:15:44,483 --> 00:15:47,647
+then why aren't you in there with
+Swan auditioning the singers?
+
+211
+00:15:47,648 --> 00:15:49,647
+I don't know. There must be some mix-up.
+Oh, sure.
+
+212
+00:15:49,846 --> 00:15:53,144
+They must not know who you are.
+Your name's not on the music.
+
+213
+00:15:53,311 --> 00:15:56,142
+Well, that's funny.
+Swan heard me sing that song.
+
+214
+00:15:56,225 --> 00:15:59,640
+Why is he auditioning girls for my cantata?
+I only sing it solo.
+
+215
+00:15:59,641 --> 00:16:01,639
+Haven't you heard?
+What?
+
+216
+00:16:01,640 --> 00:16:04,637
+He's opening the Paradise with it.
+You're kidding!
+
+217
+00:16:04,638 --> 00:16:08,136
+Do I look like a kidder? He's
+opening the Paradise with my cantata?
+
+218
+00:16:08,469 --> 00:16:11,634
+- Yes. Isn't that great?
+- Gee, I wish he'd told me.
+
+219
+00:16:11,750 --> 00:16:14,134
 He's just auditioning girls
 for a backup chorus.
 
-94
-00:16:15,375 --> 00:16:19,000
-You're a fine singer.
-You shouldn't be in a chorus.
+220
+00:16:14,550 --> 00:16:18,634
+But you're really a fine singer. You shouldn't
+waste your time singing in a chorus.
 
-95
-00:16:19,208 --> 00:16:21,917
-I don't care where I sing this music.
+221
+00:16:18,635 --> 00:16:21,634
+I don't care
+where I sing this music.
 
-96
-00:16:22,750 --> 00:16:26,167
-Hey, look. Could you help me?
+222
+00:16:21,635 --> 00:16:25,634
+Hey, look, could you help me?
 
-97
-00:16:26,375 --> 00:16:29,417
-I can sing these songs
-better than anybody.
+223
+00:16:25,635 --> 00:16:29,635
+I know I can sing these
+songs better than anybody.
 
-98
-00:16:29,625 --> 00:16:32,625
-With your help,
-I can get in the chorus.
+224
+00:16:29,636 --> 00:16:32,636
+And with your help, I'm sure I
+could get a part in the chorus.
 
-99
-00:16:33,042 --> 00:16:37,125
-- I'd love to help you.
-- You're not just being nice?
+225
+00:16:32,802 --> 00:16:37,136
+- Sure, I'd love to help you.
+- you're not just doing this to be nice, are you?
 
-100
-00:16:37,333 --> 00:16:41,292
-Personal desire never influences
-my aesthetic judgment.
+226
+00:16:37,336 --> 00:16:40,136
+I would never let my personal desires
+influence my aesthetic judgment.
 
-101
-00:16:41,917 --> 00:16:45,708
-- What's that mean?
-- It means I think you're terrific.
+227
+00:16:40,420 --> 00:16:42,637
+Wh-what's that mean?
 
-102
-00:16:45,917 --> 00:16:47,542
+228
+00:16:43,136 --> 00:16:45,637
+It means
+I think you're terrific.
+
+229
+00:16:45,887 --> 00:16:47,887
 Do you?
 
-103
-00:16:56,750 --> 00:17:01,708
-Everybody get in line, gotta
-quick it up a bit. Move in quietly.
+230
+00:16:56,638 --> 00:16:59,637
+Hey! All right,
+let's everybody get in line.
 
-104
-00:17:01,917 --> 00:17:04,667
-One, two, three, four...
+231
+00:16:59,638 --> 00:17:02,137
+Gotta quick it up a little bit.
+Move in quietly.
 
-105
-00:17:04,875 --> 00:17:08,375
+232
+00:17:02,138 --> 00:17:04,639
+One, two, three, four!
+
+233
+00:17:05,138 --> 00:17:08,638
 Come on, come on.
-Five, six, seven, eight.
+Five, six, seven, eight!
 
-106
-00:17:08,583 --> 00:17:12,833
-Wait a minute. Stop.
-What's that, a boyfriend?
+234
+00:17:08,639 --> 00:17:11,138
+Oh, wait, wait.
+Wait a minute. Wait a minute.
 
-107
-00:17:13,042 --> 00:17:15,042
-- I'm the composer.
-- Great.
+235
+00:17:11,139 --> 00:17:14,639
+Stop. What's that? A boyfriend?
+I'm Winslow Leach, the composer.
 
-108
-00:17:15,250 --> 00:17:18,208
-- Swan's only seeing girls.
-- I must see...
+236
+00:17:14,640 --> 00:17:17,139
+That's great. But Swan's
+only seeing girls today.
 
-109
-00:17:18,417 --> 00:17:22,208
-If you wanna see Swan,
+237
+00:17:17,140 --> 00:17:19,140
+But I have to see him.
+Don't give me a hard time.
+
+238
+00:17:19,473 --> 00:17:22,140
+If you want to see Swan,
 call and make an appointment.
 
-110
-00:17:22,458 --> 00:17:25,292
-- I got thrown out.
-- They don't wanna see you.
+239
+00:17:22,424 --> 00:17:24,140
+I did that,
+and they threw me out.
 
-111
-00:17:25,500 --> 00:17:29,000
-- But I wrote the music.
-- Just get out of here!
+240
+00:17:24,641 --> 00:17:27,091
+Then they don't want to see you.
+But I wrote the music.
 
-112
-00:17:29,208 --> 00:17:34,000
-- Winslow, I'll tell him you're here.
-- I'll wait for you. Good luck.
+241
+00:17:27,173 --> 00:17:29,641
+Look, why don't you
+just get out of here!
 
-113
-00:17:57,083 --> 00:18:00,417
+242
+00:17:30,091 --> 00:17:32,141
+Winslow, I'll tell him
+you're out here.
+
+243
+00:17:32,341 --> 00:17:35,141
+Okay. I'll wait for you.
+Good luck.
+
+244
+00:17:56,644 --> 00:17:59,143
 Why won't he just let me sing?
-It was awful.
 
-114
-00:18:00,625 --> 00:18:04,583
-- What's the matter?
-- Philbin tried to... I can't do it.
+245
+00:17:59,644 --> 00:18:01,643
+That was awful!
+What's the matter?
 
-115
-00:18:04,792 --> 00:18:09,500
-- I came here to sing. Leave me alone.
-- Did you tell him who I am?
+246
+00:18:01,644 --> 00:18:05,644
+Philbin tried to... I just can't do it.
+I came here to sing.
 
-116
-00:18:09,708 --> 00:18:13,583
-- What's your name?
-- Hey! Come here, buddy.
+247
+00:18:05,645 --> 00:18:08,144
+That doesn't sound like an audition.
+Leave me alone!
 
-117
-00:18:30,042 --> 00:18:33,125
-- Where's a good department store?
-- We'll take you.
+248
+00:18:08,645 --> 00:18:11,145
+I'm sorry. Did you tell him who I am?
+What's your name?
 
-118
-00:18:35,125 --> 00:18:39,000
-- When do we get to sing?
-- Not much singing happens here.
+249
+00:18:11,645 --> 00:18:13,645
+Hey, come here, buddy!
 
-119
-00:18:39,208 --> 00:18:42,833
-I've been here 12 times,
-and I still haven't sung.
+250
+00:18:29,647 --> 00:18:32,145
+Do you guys know where
+a good department store is?
 
-120
-00:18:43,042 --> 00:18:45,375
-- What do you do here?
-- You'll see.
+251
+00:18:32,146 --> 00:18:34,646
+Yeah. We'll take you.
+we'll go right now.
 
-121
-00:18:45,583 --> 00:18:48,875
-- Can't you sing on your back?
-- I've never tried.
+252
+00:18:34,647 --> 00:18:36,646
+When do we get to sing?
 
-122
-00:18:49,083 --> 00:18:52,875
+253
+00:18:36,647 --> 00:18:39,647
+I don't think much singing
+goes on around here.
+
+254
+00:18:39,648 --> 00:18:43,647
+I've been here 12 times, and I still don't
+get to sing. I just get to come back.
+
+255
+00:18:43,648 --> 00:18:46,147
+What do you do here?
+You'll see.
+
+256
+00:18:46,148 --> 00:18:49,147
+Can't you sing on your back?
+I've never tried.
+
+257
+00:18:49,148 --> 00:18:52,147
 If you can sing standing up,
 you can sing lying down.
 
-123
-00:18:53,083 --> 00:18:56,583
-- Take your slip off.
-- No, I'm saving it for Swan.
+258
+00:18:52,148 --> 00:18:54,649
+Oh! Ah! Why don't you
+take your slip off?
 
-124
-00:18:56,792 --> 00:19:00,792
-- Do it now.
-- You're being auditioned right now.
+259
+00:18:55,149 --> 00:18:57,148
+No, I'm saving it for Swan.
 
-125
-00:19:01,000 --> 00:19:03,333
-- What?
-- The whole place is bugged.
+260
+00:18:57,149 --> 00:18:59,148
+He won't miss anything
+if you do it now.
 
-126
-00:19:03,542 --> 00:19:07,583
-- You're kidding.
-- No, Swan's watching us right now.
+261
+00:18:59,149 --> 00:19:02,148
+You're being auditioned right now.
+What do you mean?
 
-127
-00:19:07,792 --> 00:19:10,167
-- Come here.
-- What are you doing?
+262
+00:19:02,149 --> 00:19:04,649
+The whole place is bugged.
+You're kidding.
 
-128
-00:19:10,375 --> 00:19:13,375
-- He likes to watch us.
-- Watch us doing what?
+263
+00:19:04,650 --> 00:19:07,649
+No. No. Swan's
+watching us right now.
 
-129
-00:19:13,625 --> 00:19:15,333
-- Doing each other.
-- Really?
+264
+00:19:07,650 --> 00:19:10,149
+Come here.
+What are you doing?
 
-130
-00:19:15,542 --> 00:19:18,167
-- It turns him on.
-- Does he like blondes?
+265
+00:19:10,150 --> 00:19:13,150
+Swan likes to watch us.
+Watch us doing what?
 
-131
-00:19:18,375 --> 00:19:20,125
+266
+00:19:13,651 --> 00:19:15,651
+Doing each other.
+Really?
+
+267
+00:19:16,150 --> 00:19:18,650
+That's how he gets turned on.
+Does he like blondes?
+
+268
+00:19:18,651 --> 00:19:20,650
 I like blondes.
 
-132
-00:19:20,333 --> 00:19:23,875
+269
+00:19:20,651 --> 00:19:23,150
 Do you mind?
-I hate to bother you, but...
+I hate to bother you,
 
-133
-00:19:24,083 --> 00:19:28,625
-That's right, I...
-Just hold me close. I just...
+270
+00:19:23,151 --> 00:19:26,652
+but, that's right...
+Oh, just hold me close.
 
-134
-00:19:28,917 --> 00:19:31,250
-I need someone to help me
-warm my voice up.
+271
+00:19:27,151 --> 00:19:31,152
+I just... Oh, I just need someone
+to help me warm my voice up.
 
-135
-00:19:34,667 --> 00:19:36,625
+272
+00:19:34,686 --> 00:19:36,486
+Swan!
 Swan!
 
-136
-00:19:36,833 --> 00:19:41,083
-Mr. Swan, you remember me.
+273
+00:19:36,853 --> 00:19:39,986
+Oh, Mr. Swan. You remember me.
 I'm Winslow Leach.
 
-137
-00:19:41,375 --> 00:19:43,375
-May we rehearse?
+274
+00:19:43,487 --> 00:19:45,487
+Swan!
+Swan!
 
-138
-00:19:47,625 --> 00:19:49,833
+275
+00:19:45,986 --> 00:19:47,986
+Swan!
+
+276
+00:19:47,987 --> 00:19:49,986
 Over here, Swan.
 
-139
-00:19:57,583 --> 00:20:02,208
-- Get this fag out of here.
-- It's me. Winslow. Don't you remember?
+277
+00:19:49,987 --> 00:19:51,987
+Swan! Swan!
 
-140
-00:20:02,417 --> 00:20:05,792
-I gave Mr. Philbin a copy
-of my cantata, Faust.
+278
+00:19:52,487 --> 00:19:56,986
+Oh, Swan! Swan!
+Oh, Swan!
 
-141
-00:20:06,000 --> 00:20:10,583
-You were gonna look at it.
-You're auditioning girls for my work.
+279
+00:19:56,987 --> 00:19:59,988
+Get this fag out of here.
 
-142
-00:20:10,792 --> 00:20:16,208
-I'm Winslow Leach! I wrote it!
-Where are you taking me?
+280
+00:20:00,237 --> 00:20:02,987
+Mr. Swan, it's me, Winslow.
+Don't you remember?
 
-143
-00:20:16,958 --> 00:20:18,792
+281
+00:20:02,988 --> 00:20:05,987
+I gave Mr. Philbin a copy of
+my cantata... You know, "Faust".
+
+282
+00:20:05,988 --> 00:20:07,988
+You were supposed
+to look at it and do it.
+
+283
+00:20:08,489 --> 00:20:10,988
+And you're auditioning
+girls for my cantata!
+
+284
+00:20:10,989 --> 00:20:12,989
+I'm Winslow Leach!
+I wrote it!
+
+285
+00:20:13,489 --> 00:20:15,988
+Hey, where are you going
+with me? Hey, Swan!
+
+286
+00:20:15,989 --> 00:20:18,988
+Oh, Swan.
 Telephone.
 
-144
-00:20:27,583 --> 00:20:28,625
-That's him.
+287
+00:20:23,190 --> 00:20:25,990
+Hey! Hey!
 
-145
-00:20:28,833 --> 00:20:31,458
-- What are you doing?
+288
+00:20:27,491 --> 00:20:29,490
+That's him! What do
+you think you're doing?
+
+289
+00:20:29,491 --> 00:20:32,990
 - Nothing.
+- What are you, some kind of pervert?
 
-146
-00:20:31,667 --> 00:20:35,875
-- Are you some kind of pervert?
-- No, sir. I'm...
+290
+00:20:32,991 --> 00:20:38,492
+No, sir. I'm, I'm,
+I'm Winslow Leach, the composer.
 
-147
-00:20:36,083 --> 00:20:41,500
-- I'm Winslow Leach, the composer.
-- What are you doing outside Swanage?
+291
+00:20:38,858 --> 00:20:41,491
+What are you doing
+outside the Swanage?
 
-148
-00:20:41,708 --> 00:20:46,417
-Listen, officers, you gotta help me.
-Mr. Swan's got my music.
+292
+00:20:41,492 --> 00:20:44,492
+Listen, officers,
+you've gotta help me.
 
-149
-00:20:46,625 --> 00:20:51,500
-He pretends he doesn't know me.
-He had me thrown out and beaten up.
+293
+00:20:44,775 --> 00:20:48,493
+Mr. Swan's got my music, and he's
+pretending he doesn't know me.
 
-150
-00:20:51,708 --> 00:20:57,125
-- He didn't want to buy what you had.
-- He said nothing about buying.
+294
+00:20:48,992 --> 00:20:51,493
+He had me thrown out
+of the mansion and beaten up.
 
-151
-00:20:57,458 --> 00:21:00,667
-Jack, what's that he got in his purse?
+295
+00:20:51,743 --> 00:20:54,992
+Didn't want to buy what
+you had to sell, did he?
 
-152
-00:21:00,875 --> 00:21:03,125
-I don't know, Joe. Take a look.
+296
+00:20:54,993 --> 00:20:57,492
+He-he didn't say anything
+about buying anything.
 
-153
-00:21:03,667 --> 00:21:08,042
+297
+00:20:57,493 --> 00:21:00,494
+Hey, jack, what's that
+he got in his purse?
+
+298
+00:21:00,910 --> 00:21:03,993
+I don't know, Joe.
+Why don't you take a look?
+
+299
+00:21:03,994 --> 00:21:08,278
 - I think I will.
 - Mr. Swan said he had it on him.
 
-154
-00:21:09,208 --> 00:21:10,583
-What do you know?
-
-155
-00:21:11,458 --> 00:21:13,625
+300
+00:21:09,495 --> 00:21:12,994
+What do you know.
 Smack, Jack.
 
-156
-00:21:13,833 --> 00:21:18,042
-- You know the penalty for pushing?
-- Life!
+301
+00:21:13,495 --> 00:21:15,994
+Do you know what you could get
+for pushin' in this state?
 
-157
-00:21:18,250 --> 00:21:22,208
-But I'm innocent!
-Swan stole my music and framed me!
+302
+00:21:15,995 --> 00:21:17,994
+Life!
 
-158
-00:21:36,167 --> 00:21:39,208
+303
+00:21:17,995 --> 00:21:22,362
+But I'm innocent! Swan
+stole my music and framed me!
+
+304
+00:21:26,496 --> 00:21:30,612
+One, two, three, four!
+One, two, three, four!
+
+305
+00:21:34,996 --> 00:21:38,996
 Welcome to Sing Sing.
 
-159
-00:21:39,417 --> 00:21:44,833
-We're very fortunate to be included
-in the Dental Health Research Program.
+306
+00:21:38,997 --> 00:21:44,996
+We are very fortunate to be included here
+in the dental health research program.
 
-160
-00:21:45,042 --> 00:21:50,042
+307
+00:21:44,997 --> 00:21:49,997
 This is a volunteer program
-funded by the Swan Foundation.
+funded by the Swan foundation.
 
-161
-00:21:50,250 --> 00:21:52,958
+308
+00:21:49,998 --> 00:21:52,997
 You are all volunteers.
 
-162
-00:21:53,167 --> 00:21:55,792
+309
+00:21:52,998 --> 00:21:55,948
 All your teeth will be pulled.
 
-163
-00:21:56,375 --> 00:22:01,083
-Teeth are a source of infection.
-It pays to be on the safe side.
+310
+00:21:56,031 --> 00:21:58,499
+Teeth are a source of infection,
 
-164
-00:22:01,292 --> 00:22:02,333
-Sir?
+311
+00:21:58,999 --> 00:22:01,498
+and it pays
+to be on the safe side.
 
-165
-00:22:02,542 --> 00:22:05,750
-Pardon me. I'm not a volunteer.
+312
+00:22:01,499 --> 00:22:05,500
+Sir, pardon me?
+I'm not a volunteer.
 
-166
-00:22:05,958 --> 00:22:10,458
-I'm innocent. I don't want you
-to take my teeth out.
+313
+00:22:05,999 --> 00:22:09,500
+I'm innocent. I don't want
+you to take my teeth out.
 
-167
-00:22:10,750 --> 00:22:15,250
-How many men here are innocent?
+314
+00:22:09,700 --> 00:22:12,500
+Oh. How many men here
+are innocent?
+
+315
+00:22:13,000 --> 00:22:15,501
 Raise your hands.
 
-168
-00:22:19,208 --> 00:22:22,125
+316
+00:22:19,501 --> 00:22:23,001
 All innocent.
 
-169
-00:22:24,250 --> 00:22:25,792
-Good morning, everyone.
+317
+00:22:23,201 --> 00:22:25,500
+And good morning, everybody.
 
-170
-00:22:29,083 --> 00:22:33,292
-Swan can deposit
-another golden disk in Fort Knox.
+318
+00:22:25,501 --> 00:22:28,501
+This is Windy Greg here on WCHT.
 
-171
-00:22:33,500 --> 00:22:38,583
-The Juicy Fruits on the Death Label
+319
+00:22:28,502 --> 00:22:32,002
+Well, Swan has another golden
+disc to deposit in Fort Knox.
+
+320
+00:22:32,502 --> 00:22:34,502
+His fabulous group,
+The Juicy Fruits,
+
+321
+00:22:35,002 --> 00:22:37,502
+On the death label,
 has taken the charts by storm.
 
-172
-00:22:39,042 --> 00:22:44,000
-Friday night, you can see them
-at the grand opening of the Paradise.
+322
+00:22:37,503 --> 00:22:41,502
+And get this, kids. Friday night,
+you can see The Juicy Fruits live...
 
-173
-00:22:44,208 --> 00:22:45,917
-Swan's rock palace...
+323
+00:22:41,503 --> 00:22:44,003
+At the grand opening
+of the Paradise.
 
-174
-00:22:46,125 --> 00:22:50,125
-...is scheduled to open at last
-with this dynamite sound.
+324
+00:22:44,252 --> 00:22:48,002
+That's right. Swan's rock palace
+is scheduled to open at last...
 
-175
-00:22:50,333 --> 00:22:55,292
-So let's hear it again. The
-Juicy Fruits singing Swan's Faust.
+325
+00:22:48,003 --> 00:22:50,503
+and with this dynamite sound.
 
-176
-00:24:25,417 --> 00:24:27,708
-Get away from the record press.
+326
+00:22:50,504 --> 00:22:55,453
+So let's hear it again. The Juicy
+Fruits singing Swan's "Faust".
 
-177
-00:25:49,250 --> 00:25:53,458
-- Let's move this ladder now.
-- What's that?
+327
+00:22:55,537 --> 00:22:57,504
+Never!
 
-178
-00:25:53,708 --> 00:25:55,917
-I shove the tire in his mouth.
+328
+00:23:09,005 --> 00:23:10,506
+Never!
 
-179
-00:25:56,167 --> 00:25:59,208
-Then he really gets mad
-at me, you know?
+329
+00:24:25,512 --> 00:24:27,929
+Hey, get away
+from that record press!
 
-180
-00:26:28,750 --> 00:26:32,417
-This is the last time
-we go through it. See Swan?
+330
+00:25:49,384 --> 00:25:51,383
+Okay, let's move this ladder.
 
-181
-00:26:32,625 --> 00:26:37,542
-He's listening and watching,
+331
+00:25:51,384 --> 00:25:53,468
+What's that?
+
+332
+00:25:53,884 --> 00:25:56,384
+I take the tire and I shove it
+right in his mouth.
+
+333
+00:25:56,385 --> 00:25:58,884
+Then he really
+gets mad at me, you know?
+
+334
+00:25:58,885 --> 00:26:01,385
+Look.
+
+335
+00:26:28,388 --> 00:26:31,387
+All right, this is the
+last time we're gonna go through it.
+
+336
+00:26:31,388 --> 00:26:33,887
+You see Swan up there?
+He's listenin'.
+
+337
+00:26:33,888 --> 00:26:36,887
+He' watchin' this whole thing,
 so don't make me look bad again.
 
-182
-00:26:43,042 --> 00:26:47,167
-All right, let's get going here,
-will you, please?
+338
+00:26:36,888 --> 00:26:40,887
+All right, watch the microphones. I
+want to see plenty of movement up there.
 
-183
-00:27:58,042 --> 00:28:02,625
-Let's get it going over here.
+339
+00:26:40,888 --> 00:26:43,388
+Harold, you leave her alone.
+Put her down!
+
+340
+00:26:43,389 --> 00:26:45,889
+All right, let's get goin'.
+Will ya, please?
+
+341
+00:26:46,389 --> 00:26:48,888
+All right, look...
+
+342
+00:27:30,893 --> 00:27:32,893
+Carburetors, man.
+
+343
+00:27:33,394 --> 00:27:35,892
+That's what life is all about.
+
+344
+00:27:38,394 --> 00:27:41,393
+♫ That's what life
+Is all about ♫
+
+345
+00:27:41,394 --> 00:27:44,894
+♫ That's what life
+Is all about ♫
+
+346
+00:27:45,395 --> 00:27:48,395
+♫ That's what life
+Is all about ♫
+
+347
+00:27:48,895 --> 00:27:52,395
+♫ That's what it's all about ♫
+
+348
+00:27:52,730 --> 00:27:55,374
+♫ I was not myself
+last night, lost a fight, ♫
+
+349
+00:27:55,375 --> 00:27:57,663
+♫ My woody barely running ♫
+
+350
+00:27:57,896 --> 00:28:00,395
+Come on, let's get it
+goin' over here.
+
+351
+00:28:00,396 --> 00:28:02,895
+- Come on, that's it.
 Get the car over there.
 
-184
-00:28:02,875 --> 00:28:05,750
+352
+00:28:02,896 --> 00:28:05,895
 All right, girls.
 Just a second, Linda.
 
-185
-00:28:06,000 --> 00:28:10,667
+353
+00:28:05,896 --> 00:28:07,562
 You got a very nice body.
-We want to see some skin.
 
-186
-00:28:10,875 --> 00:28:15,208
-- It's cold. It's just a rehearsal.
-- You're not paid to be cold.
+354
+00:28:07,563 --> 00:28:10,772
+♫ I finally lost control
+and tore my tuck 'n roll ♫
 
-187
-00:28:15,417 --> 00:28:17,958
-- Don't touch me.
-- You wanna get paid?
+355
+00:28:10,897 --> 00:28:13,396
+♫ Upholstery ♫
+This is just a rehearsal.
 
-188
-00:28:18,208 --> 00:28:21,292
-- Yeah, I wanna get paid.
-- Get back on the car.
+356
+00:28:13,397 --> 00:28:16,397
+You're not gettin' paid to be clothed.
+Don't touch me!
 
-189
-00:28:21,958 --> 00:28:24,833
-Come on, let's move it out of here.
+357
+00:28:16,398 --> 00:28:19,397
+You wanna get paid?
+Yeah, I wanna get paid.
 
-190
-00:28:28,250 --> 00:28:30,958
-We've gotta get some thin girls here.
+358
+00:28:19,398 --> 00:28:21,898
+Get back out there.
+♫ What our life is all about ♫
 
-191
-00:28:31,167 --> 00:28:34,417
-- Where are you going?
-- I gotta get out of here.
+359
+00:28:22,398 --> 00:28:25,398
+Come on, let's move it out here.
+That's it. Come on.
 
-192
-00:28:34,667 --> 00:28:36,667
-- What sign are you?
-- Leo.
+360
+00:28:25,399 --> 00:28:27,398
+♫ Upholstery ♫
 
-193
-00:28:36,917 --> 00:28:39,708
+361
+00:28:27,399 --> 00:28:30,398
+♫ Where my baby
+Sits up close to me ♫
+
+362
+00:28:30,399 --> 00:28:32,898
+- Where do you think you're goin'?
+
+363
+00:28:32,899 --> 00:28:35,398
+I gotta get out of here.
+What are you talkin' about?
+
+364
+00:28:35,399 --> 00:28:37,399
+What sign are you?
+Leo. So what?
+
+365
+00:28:37,400 --> 00:28:40,382
 You're okay. I gotta get out of here.
+Come with me.
 
-194
-00:28:39,917 --> 00:28:44,208
-- Come on, I wanna show you something.
-- I swear to God.
+366
+00:28:40,383 --> 00:28:43,470
+♫ Of all life's mysteries ♫
 
-195
-00:28:44,458 --> 00:28:49,583
-Do you see Swan up there?
-He doesn't show it, but he's thinking:
+367
+00:28:43,472 --> 00:28:46,399
+I swear to god. You see Swan
+sittin' in that box up there?
 
-196
-00:28:49,792 --> 00:28:52,625
-"Why isn't Harold in the car?"
+368
+00:28:46,400 --> 00:28:49,400
+Yeah, right. Well, he
+doesn't show up every day.
 
-197
-00:28:52,833 --> 00:28:58,167
-Do you really want me to tell him
-that it's not in the stars for you?
+369
+00:28:49,401 --> 00:28:53,900
+Now, if he comes down here, do
+you really want me to tell him...
 
-198
-00:28:58,417 --> 00:29:00,000
-I don't feel good.
+370
+00:28:53,901 --> 00:28:58,401
+That it's not in the stars for you
+to ride off the stage in this car?
 
-199
-00:29:00,208 --> 00:29:03,417
-You'll feel worse
-if you don't do what I say.
+371
+00:28:58,402 --> 00:29:00,900
+I told you,
+I just don't feel good.
 
-200
-00:29:03,625 --> 00:29:07,583
-- I hear this ticking.
-- Maybe something's loose up there.
+372
+00:29:00,901 --> 00:29:03,901
+You're gonna feel a lot worse
+if you don't do what I tell ya.
 
-201
-00:29:07,792 --> 00:29:11,750
-- There's something weird here.
-- Take one of these.
+373
+00:29:03,902 --> 00:29:07,401
+I've got this headache. I think
+something's loose up there.
 
-202
-00:29:12,000 --> 00:29:16,750
-- I can't take pills...
-- Take the pills, swallow. Feel better?
+374
+00:29:07,402 --> 00:29:10,902
+No, there's something weird down here.
+Take one of these.
 
-203
-00:29:16,958 --> 00:29:19,792
-- Yeah, I feel better.
-- No more ticking?
+375
+00:29:11,403 --> 00:29:14,902
+Can I take these with me?
+Just take the pills.
 
-204
-00:29:20,000 --> 00:29:23,875
-Get out there. All right.
-Come on, get this car out.
+376
+00:29:18,903 --> 00:29:21,902
+♫ That's supposed to be ♫
 
-205
-00:29:24,083 --> 00:29:28,625
-Girls, I want big smiles now.
-Look at the audience. That's it.
+377
+00:29:21,903 --> 00:29:24,403
+♫ What life is all about ♫
 
-206
-00:29:28,833 --> 00:29:32,333
-Big smiles. Sing the song.
+378
+00:29:24,404 --> 00:29:27,404
+I want big smiles now.
+Look out at the audience.
 
-207
-00:30:47,708 --> 00:30:52,417
-Winslow, good to see you.
-I've been looking for you everywhere.
+379
+00:29:27,904 --> 00:29:29,404
+That's it.
+♫ Upholstery ♫
 
-208
-00:30:52,625 --> 00:30:55,250
+380
+00:29:29,904 --> 00:29:33,404
+♫ When my baby
+Sits up close to me ♫
+
+381
+00:29:33,405 --> 00:29:36,404
+♫ That's supposed to be ♫
+
+382
+00:29:36,405 --> 00:29:40,404
+♫ What our life is all about ♫
+♫ All about ♫
+
+383
+00:29:40,405 --> 00:29:42,905
+♫ Upholstery ♫
+
+384
+00:29:43,406 --> 00:29:47,405
+♫ When my baby
+Sits up close to me ♫
+
+385
+00:29:47,407 --> 00:29:50,003
+♫ That's supposed to be... ♫
+
+386
+00:30:28,410 --> 00:30:32,409
+♫ What life is all about ♫
+
+387
+00:30:32,410 --> 00:30:34,909
+♫ Upholstery ♫
+
+388
+00:30:34,910 --> 00:30:38,909
+♫ When my baby
+Sits up close to me ♫
+
+389
+00:30:38,910 --> 00:30:41,410
+♫ That's supposed to be ♫
+
+390
+00:30:46,411 --> 00:30:49,911
+Why, Winslow, good to see you.
+
+391
+00:30:50,412 --> 00:30:54,411
+Been looking for you everywhere.
 Killing me won't help you.
 
-209
-00:30:57,083 --> 00:31:00,667
-My God, you're horrible.
+392
+00:30:57,162 --> 00:30:59,912
+My god, you're horrible.
 Don't rush off.
 
-210
-00:31:02,750 --> 00:31:04,292
+393
+00:31:02,912 --> 00:31:05,412
 Look at yourself.
-
-211
-00:31:04,500 --> 00:31:06,500
 Look at yourself!
 
-212
-00:31:08,250 --> 00:31:11,917
-What's that horrible sound?
+394
+00:31:08,413 --> 00:31:11,413
+What's that horrible sound you're making?
 Can't you talk?
 
-213
-00:31:14,500 --> 00:31:16,875
+395
+00:31:13,913 --> 00:31:16,914
 Look around you, Winslow.
 
-214
-00:31:17,083 --> 00:31:20,625
-You've destroyed your face,
-your voice.
+396
+00:31:17,414 --> 00:31:20,414
+You've destroyed
+your face, your voice.
 
-215
-00:31:20,833 --> 00:31:25,500
-Now you're trying to destroy
-the Paradise. Haven't we had enough?
+397
+00:31:20,415 --> 00:31:23,415
+And now you're trying
+to destroy the Paradise.
 
-216
-00:31:25,708 --> 00:31:29,958
-I can give you the power to create.
-I'll make you somebody.
+398
+00:31:23,914 --> 00:31:25,914
+Haven't we all had enough?
 
-217
-00:31:30,167 --> 00:31:34,917
-We'll have to start over,
-only this time working together.
+399
+00:31:25,915 --> 00:31:29,914
+I can give you the power to create again.
+I can make you somebody.
 
-218
-00:31:35,125 --> 00:31:40,542
-The time for your sound is now.
-People will want to hear your music.
+400
+00:31:29,915 --> 00:31:32,415
+We'll have to start
+all over again, Winslow,
 
-219
-00:31:41,000 --> 00:31:45,708
-Tomorrow, I'll put a whole new group
-together who'll do your songs.
+401
+00:31:32,416 --> 00:31:35,415
+Only this time working together
+instead of against each other.
 
-220
-00:31:45,958 --> 00:31:50,458
-Come to the auditions.
-You'll see for yourself. Trust me!
+402
+00:31:35,416 --> 00:31:39,415
+The time for your sound is now. People
+are going to want to hear your music.
 
-221
-00:31:54,292 --> 00:31:55,875
+403
+00:31:39,416 --> 00:31:41,415
+I mean what I say.
+
+404
+00:31:41,416 --> 00:31:44,915
+Tomorrow I'll put a whole new group
+together who'll do your songs your way.
+
+405
+00:31:44,916 --> 00:31:48,416
+You don't have to believe me. Come to
+the auditions and see for yourself.
+
+406
+00:31:48,417 --> 00:31:50,417
+Trust me!
+
+407
+00:31:54,418 --> 00:31:56,418
 Trust me.
 
-222
-00:32:13,250 --> 00:32:15,250
-Next!
+408
+00:32:06,419 --> 00:32:09,918
+♫ Caught up
+In your simple feelin' ♫
 
-223
-00:32:26,417 --> 00:32:29,625
-- What's your name, sweetheart?
-- Phoenix.
+409
+00:32:09,920 --> 00:32:13,418
+♫ Got no time
+For a simple feelin' ♫
 
-224
-00:32:30,833 --> 00:32:34,917
-- Let's see what you got.
-- Do I get to sing this time?
+410
+00:32:13,419 --> 00:32:16,919
+Next. ♫ Thought I knew you
+But I don't... ♫
 
-225
-00:32:35,125 --> 00:32:38,750
-- You mean you're really a singer?
-- Yes, I'm a singer.
-
-226
-00:32:38,958 --> 00:32:43,792
-Try to forget it. We're not looking for
-singers. We're looking for screamers.
-
-227
-00:32:44,000 --> 00:32:47,125
-I'm not a screamer. I'm a singer.
-
-228
-00:32:49,917 --> 00:32:51,708
+411
+00:32:26,421 --> 00:32:29,919
+What's your name, sweetheart?
 Phoenix.
 
-229
-00:32:53,000 --> 00:32:55,250
+412
+00:32:29,920 --> 00:32:32,421
+All right,
+Let's see what you got.
+
+413
+00:32:32,552 --> 00:32:35,051
+Do I get to sing this time?
+
+414
+00:32:35,052 --> 00:32:37,551
+Oh, you mean
+you're really a singer?
+
+415
+00:32:37,552 --> 00:32:40,552
+Yes, I'm a singer.
+Well, try to forget it.
+
+416
+00:32:40,553 --> 00:32:44,052
+We're not lookin' for singers.
+We're lookin' for screamers.
+
+417
+00:32:44,053 --> 00:32:47,053
+I'm not a screamer.
+I'm a singer.
+
+418
+00:32:50,053 --> 00:32:52,554
+Phoenix.
+
+419
+00:32:53,053 --> 00:32:55,054
 Swan here.
 
-230
-00:32:56,792 --> 00:33:01,125
-- I want you to answer a question.
-- Yes?
+420
+00:32:56,670 --> 00:32:59,554
+I want you to answer
+a question for me.
 
-231
-00:33:01,333 --> 00:33:04,208
+421
+00:33:00,054 --> 00:33:01,555
+Yes?
+
+422
+00:33:02,054 --> 00:33:04,555
 What would you give me to sing?
 
-232
-00:33:06,000 --> 00:33:07,958
+423
+00:33:06,088 --> 00:33:08,554
 Anything you wanted.
 
-233
-00:33:08,667 --> 00:33:10,458
+424
+00:33:08,555 --> 00:33:10,555
 Anything?
 
-234
-00:33:11,917 --> 00:33:15,708
-Would you give me your voice?
+425
+00:33:12,055 --> 00:33:15,555
+Would you give me...
+your voice?
 
-235
-00:33:15,958 --> 00:33:17,750
+426
+00:33:15,556 --> 00:33:18,056
 Try me.
 
-236
-00:35:33,417 --> 00:35:35,083
-She's good...
+427
+00:33:35,140 --> 00:33:38,557
+♫ Caught up in your
+Wheelin', dealin' ♫
 
-237
-00:35:35,375 --> 00:35:37,000
-...isn't she?
+428
+00:33:38,558 --> 00:33:42,057
+♫ You've got no time left
+For simple feelin' ♫
 
-238
-00:35:38,292 --> 00:35:39,542
+429
+00:33:42,058 --> 00:33:44,057
+♫ I thought I knew you ♫
+
+430
+00:33:44,058 --> 00:33:47,559
+♫ But I didn't know you at all ♫
+
+431
+00:33:49,559 --> 00:33:52,559
+♫ Trapped inside
+Your world of worry ♫
+
+432
+00:33:53,059 --> 00:33:56,059
+♫ You miss so much
+When you always hurry ♫
+
+433
+00:33:56,343 --> 00:33:58,058
+♫ Well, slow down, baby ♫
+
+434
+00:33:58,059 --> 00:34:01,560
+♫ You'll only get hurt
+If you fall ♫
+
+435
+00:34:03,060 --> 00:34:07,059
+♫ Well, you told me one time
+That you'd be somebody ♫
+
+436
+00:34:07,060 --> 00:34:10,060
+♫ That you weren't workin'
+Just to survive ♫
+
+437
+00:34:10,310 --> 00:34:12,061
+♫ But you're workin' so hard ♫
+
+438
+00:34:12,561 --> 00:34:16,061
+♫ That you don't even know
+You're alive ♫
+
+439
+00:34:18,061 --> 00:34:21,561
+♫ Workin' so hard
+To be somebody special ♫
+
+440
+00:34:21,565 --> 00:34:24,725
+♫ Not working just to survive ♫
+
+441
+00:34:24,728 --> 00:34:26,562
+♫ Well, you're special
+To me, babe ♫
+
+442
+00:34:27,062 --> 00:34:28,563
+♫ And what I don't see, babe ♫
+
+443
+00:34:29,062 --> 00:34:32,062
+♫ Is where you go
+Once you arrive ♫
+
+444
+00:34:32,262 --> 00:34:36,063
+♫ Where we go once we arrive ♫
+
+445
+00:34:39,564 --> 00:34:42,564
+♫ Then all the evil
+That takes possession ♫
+
+446
+00:34:42,931 --> 00:34:46,563
+♫ Until your pipe dreams
+Become obsessions ♫
+
+447
+00:34:46,564 --> 00:34:48,563
+♫ You scare me, baby ♫
+
+448
+00:34:48,564 --> 00:34:52,064
+♫ And we should have
+Nothing to fear ♫
+
+449
+00:34:53,598 --> 00:34:57,064
+♫ I'm no child
+But I can't help wonderin' ♫
+
+450
+00:34:57,065 --> 00:35:00,566
+♫ It seems like some kind
+Of spell you're under ♫
+
+451
+00:35:00,731 --> 00:35:02,565
+♫ You're listening, baby ♫
+
+452
+00:35:02,566 --> 00:35:06,066
+♫ But somehow
+You don't really hear ♫
+
+453
+00:35:07,566 --> 00:35:11,065
+♫ Well, you told me one time
+that you'd be somebody ♫
+
+454
+00:35:11,066 --> 00:35:14,566
+♫ That you weren't workin'
+Just to survive ♫
+
+455
+00:35:14,567 --> 00:35:16,566
+♫ But you're workin' so hard ♫
+
+456
+00:35:16,567 --> 00:35:22,066
+♫ That you don't even know
+You're alive ♫
+
+457
+00:35:22,067 --> 00:35:25,567
+♫ Workin' so hard
+To be somebody special ♫
+
+458
+00:35:25,568 --> 00:35:28,664
+♫ Not working just to survive ♫
+
+459
+00:35:28,665 --> 00:35:31,144
+♫ Well, you're special
+To me, babe ♫
+
+460
+00:35:31,145 --> 00:35:33,067
+♫ But what I don't see, babe ♫
+
+461
+00:35:33,068 --> 00:35:36,068
+♫ Is where we go once we arrive ♫
+She's good, isn't she?
+
+462
+00:35:36,569 --> 00:35:39,852
+♫ Where you go once you arrive ♫
 Then let's talk.
 
-239
-00:37:13,917 --> 00:37:15,500
+463
+00:36:04,932 --> 00:36:08,169
+♫ I was not myself last night ♫
+
+464
+00:36:16,572 --> 00:36:19,572
+♫ Out of place as a cryin' clown
+Who could only frown ♫
+
+465
+00:36:19,573 --> 00:36:23,573
+♫ And the play
+Went on for hours ♫
+
+466
+00:36:28,073 --> 00:36:30,073
+♫ And as I lived my role ♫
+
+467
+00:36:30,574 --> 00:36:35,073
+♫ I swore I'd sell my soul
+For one love ♫
+
+468
+00:36:35,074 --> 00:36:39,074
+♫ Who would stand by me ♫
+
+469
+00:36:39,575 --> 00:36:44,073
+♫ And give me back
+The gift of laughter ♫
+
+470
+00:36:44,074 --> 00:36:46,574
+♫ One love ♫
+
+471
+00:36:46,575 --> 00:36:50,075
+♫ Who would stand by me ♫
+
+472
+00:36:50,576 --> 00:36:54,075
+♫ And after makin' love
+We'd dream ♫
+
+473
+00:36:54,409 --> 00:36:57,076
+♫ A bit of style ♫
+
+474
+00:37:00,577 --> 00:37:04,243
+♫ Dream a bunch of friends ♫
+
+475
+00:37:06,410 --> 00:37:08,443
+♫ Dream each other's smiles ♫
+
+476
+00:37:11,077 --> 00:37:13,578
+♫ Dream it never ends ♫
+
+477
+00:37:13,860 --> 00:37:15,578
 Filters.
 
-240
-00:37:23,042 --> 00:37:24,917
+478
+00:37:15,828 --> 00:37:20,077
+♫ I was not myself last night
+in the morning light ♫
+
+479
+00:37:20,078 --> 00:37:22,579
+♫ I could see
+the change was showing ♫
+
+480
+00:37:22,661 --> 00:37:25,362
 Dolbys.
 
-241
-00:37:31,208 --> 00:37:33,208
-Perfect.
+481
+00:37:27,328 --> 00:37:31,079
+♫ Like a child who was
+always poor, reaching out for more ♫
 
-242
-00:37:46,375 --> 00:37:50,292
-- How's that? Try it.
-- Phoenix.
+482
+00:37:31,329 --> 00:37:35,079
+- Perfect.
+- ♫ I could feel the hunger growing ♫
 
-243
-00:37:50,875 --> 00:37:52,792
+483
+00:37:38,079 --> 00:37:40,579
+♫ And as I lost control ♫
+
+484
+00:37:40,580 --> 00:37:43,364
+♫ I swore I'd sell my soul... ♫
+
+485
+00:37:45,780 --> 00:37:47,581
+How's that? Try it.
+
+486
+00:37:47,914 --> 00:37:50,530
+Phoenix.
+
+487
+00:37:50,614 --> 00:37:52,581
 Try it again.
 
-244
-00:37:54,833 --> 00:37:56,750
-And again.
+488
+00:37:53,081 --> 00:37:55,582
+- Phoenix.
+- And again.
 
-245
-00:37:58,417 --> 00:38:02,875
-At least you can talk. Plug yourself
-into the console to sing.
+489
+00:37:55,914 --> 00:37:58,081
+Phoenix.
 
-246
-00:38:03,083 --> 00:38:07,375
-- You really think she's that good?
-- Too good for you.
+490
+00:37:58,531 --> 00:38:03,081
+Well, at least you can talk. You can plug
+yourself into the console for singing.
 
-247
-00:38:08,083 --> 00:38:10,292
+491
+00:38:03,082 --> 00:38:05,581
+You really think
+she's that good?
+
+492
+00:38:05,582 --> 00:38:09,616
+She's too good for you.
 I'll hire her anyway.
 
-248
-00:38:11,583 --> 00:38:14,500
+493
+00:38:11,583 --> 00:38:14,082
 She could be my voice now.
 
-249
-00:38:14,750 --> 00:38:17,375
-Could she? Really?
+494
+00:38:14,083 --> 00:38:17,585
+Oh, could she? Really? Yes.
 
-250
-00:38:17,833 --> 00:38:22,833
-Stop terrorizing the Paradise
-and rewrite your cantata...
+495
+00:38:17,952 --> 00:38:19,584
+Then let's get down to business.
 
-251
-00:38:23,083 --> 00:38:25,167
-...for Phoenix. We'll both win.
+496
+00:38:19,585 --> 00:38:21,586
+I want you to stop
+terrorizing the Paradise...
 
-252
-00:38:25,375 --> 00:38:29,917
-You get your cantata sung by
-the right singer, I open Paradise.
+497
+00:38:22,086 --> 00:38:24,036
+And rewrite your cantata...
+for Phoenix.
 
-253
-00:38:30,125 --> 00:38:34,292
-We can't waste time.
-Lock yourself up in here and write.
+498
+00:38:24,119 --> 00:38:26,086
+That way we both
+get what we want.
 
-254
-00:38:34,500 --> 00:38:38,208
-- I could write for her.
-- It'll be performed here live.
+499
+00:38:26,087 --> 00:38:29,088
+You get your cantata sung by the
+right singer, and I open Paradise.
 
-255
-00:38:38,417 --> 00:38:42,458
-- Phoenix will star.
-- My cantata. For her.
+500
+00:38:29,588 --> 00:38:32,088
+Rewrite my cantata? We have no
+time to waste. Just one week.
 
-256
-00:38:42,667 --> 00:38:45,917
+501
+00:38:32,089 --> 00:38:35,088
+You must lock yourself in here
+and do nothing but write.
+
+502
+00:38:35,089 --> 00:38:39,591
+I could write it for her. It will be
+performed here live, and Phoenix will star.
+
+503
+00:38:39,841 --> 00:38:42,591
+My cantata? For her?
+
+504
+00:38:42,592 --> 00:38:46,092
 I'll get fantastic musicians.
-The hall has...
+The hall has great acoustics.
 
-257
-00:38:46,125 --> 00:38:49,500
-I don't trust you.
-You ruined my music before.
+505
+00:38:46,093 --> 00:38:49,593
+I don't trust you, Swan.
+You've ruined my music before.
 
-258
-00:38:49,708 --> 00:38:54,083
-Forget about the Juicy Fruits.
+506
+00:38:49,594 --> 00:38:52,093
+Forget about The Juicy Fruits.
+
+507
+00:38:52,094 --> 00:38:54,095
 Who wants nostalgia anymore?
 
-259
-00:38:54,292 --> 00:38:58,042
-- I don't trust you.
-- No need. Here's a contract.
+508
+00:38:54,596 --> 00:38:56,596
+I don't trust you.
+You don't have to.
 
-260
-00:38:58,250 --> 00:39:01,583
-Everything I've said
-and more is in it.
+509
+00:38:57,096 --> 00:39:01,597
+Here's a contract. Everything
+I've said and more is in it.
 
-261
-00:39:01,833 --> 00:39:04,875
-- I'll read it.
-- At your leisure.
+510
+00:39:01,598 --> 00:39:04,599
+I'll read it.
+At your leisure.
 
-262
-00:39:07,000 --> 00:39:11,333
-"The party of the first part
-gives the party of the second part...
+511
+00:39:07,099 --> 00:39:11,100
+"Party of the first part gives the party
+of the second part and his associates...
 
-263
-00:39:11,542 --> 00:39:15,917
-...full power to do with him at their
-pleasure, to rule, send, fetch...
+512
+00:39:11,601 --> 00:39:13,601
+"full power to do with him
+at their pleasure,
 
-264
-00:39:16,125 --> 00:39:20,458
-...or carry him or his, be it
-either body, soul, flesh or blood."
+513
+00:39:13,800 --> 00:39:17,800
+"to rule, to send, to fetch
+or carry him or his,
 
-265
-00:39:20,667 --> 00:39:25,083
-- What does that mean?
-- That's a transportation clause.
+514
+00:39:17,801 --> 00:39:20,302
+be it either body, soul,
+flesh, blood or goods."
 
-266
-00:39:33,042 --> 00:39:34,667
-"All articles...
+515
+00:39:20,802 --> 00:39:24,803
+What does that mean?
+That's a transportation clause.
 
-267
-00:39:36,083 --> 00:39:39,458
-...which are excluded
+516
+00:39:33,305 --> 00:39:35,806
+"All art..."
+
+517
+00:39:35,807 --> 00:39:38,808
+"All articles which are excluded
 shall be deemed included."
 
-268
-00:39:39,667 --> 00:39:44,667
-- What does that mean?
-- That's a clause to protect you.
+518
+00:39:39,107 --> 00:39:41,307
+What does that mean?
 
-269
-00:39:47,250 --> 00:39:51,958
-Anyway, what difference does it make?
+519
+00:39:41,308 --> 00:39:44,309
+That's a clause
+to protect you, Winslow.
+
+520
+00:39:47,310 --> 00:39:49,810
+Anyway, what difference
+does it make?
+
+521
+00:39:49,811 --> 00:39:51,811
 What choice do you have?
 
-270
-00:39:57,375 --> 00:40:01,958
-I'll rewrite my cantata,
-but you'd best play what I write.
+522
+00:39:57,313 --> 00:39:59,312
+I'll rewrite my cantata.
 
-271
-00:40:03,583 --> 00:40:06,750
-Ink isn't worth anything
-to me, Winslow.
+523
+00:39:59,313 --> 00:40:01,814
+But you best play what I write.
 
-272
-00:40:07,000 --> 00:40:08,625
+524
+00:40:03,531 --> 00:40:06,815
+Ink isn't worth
+anything to me, Winslow.
+
+525
+00:40:06,816 --> 00:40:08,816
 Now sign.
 
-273
-00:40:21,583 --> 00:40:23,208
+526
+00:40:21,820 --> 00:40:23,821
 Excellent.
 
-274
-00:40:28,708 --> 00:40:32,167
-And now we're in business together.
+527
+00:40:28,822 --> 00:40:33,824
+And now we're in business.
+Together... Forever.
 
-275
-00:40:33,208 --> 00:40:34,875
-Forever.
-
-276
-00:40:53,292 --> 00:40:57,667
+528
+00:40:53,329 --> 00:40:57,830
 I'll rewrite my cantata,
-but you'd best play what I write.
+but you best play what I write.
 
-277
-00:40:57,875 --> 00:41:01,000
-Ink isn't worth anything
-to me, Winslow.
+529
+00:40:57,831 --> 00:41:01,331
+Ink isn't
+worth anything to me, Winslow.
 
-278
-00:41:01,208 --> 00:41:03,208
+530
+00:41:01,332 --> 00:41:03,332
 Now sign.
 
-279
-00:41:06,333 --> 00:41:08,625
+531
+00:41:06,333 --> 00:41:08,337
 Excellent.
 
-280
-00:41:10,583 --> 00:41:13,250
-And now we're in business together.
+532
+00:41:10,841 --> 00:41:15,349
+Now we're in business.
+Together... Forever.
 
-281
-00:41:13,458 --> 00:41:14,500
-Forever.
+533
+00:41:30,877 --> 00:41:35,886
+♫ Half asleep I hear a voice ♫
 
-282
-00:42:27,875 --> 00:42:29,792
+534
+00:41:38,891 --> 00:41:43,816
+♫ Is it only in my mind ♫
+
+535
+00:41:46,404 --> 00:41:52,413
+♫ Or is it someone
+Calling me ♫
+
+536
+00:41:52,414 --> 00:41:57,423
+♫ Someone I failed
+And left behind ♫
+
+537
+00:42:00,429 --> 00:42:05,436
+♫ To work it out
+I let them in ♫
+
+538
+00:42:05,437 --> 00:42:09,945
+♫ All the good guys
+And the bad guys ♫
+
+539
+00:42:09,946 --> 00:42:12,449
+♫ That I've been ♫
+
+540
+00:42:12,450 --> 00:42:16,456
+♫ All the devils
+That disturb me ♫
+
+541
+00:42:16,457 --> 00:42:21,967
+♫ And the angels
+That defeated them somehow ♫
+
+542
+00:42:25,440 --> 00:42:30,315
+♫ Come together in me now ♫
 Tasty, Winslow, tasty.
 
-283
-00:42:43,833 --> 00:42:48,917
-- But I thought you liked her, boss.
-- I do. She's perfect.
+543
+00:42:44,506 --> 00:42:47,010
+I know, boss,
+but I thought you liked her.
 
-284
-00:42:49,125 --> 00:42:53,208
-But you know how I abhor perfection
-in anyone but myself.
+544
+00:42:47,011 --> 00:42:49,015
+I do. She's perfect.
 
-285
-00:42:53,417 --> 00:42:55,292
+545
+00:42:49,515 --> 00:42:53,021
+But you know how I abhor
+perfection in anyone but myself.
+
+546
+00:42:53,022 --> 00:42:55,525
 Then Phoenix is out?
 
-286
-00:42:55,542 --> 00:42:59,750
-No, not out. Just a backup singer.
+547
+00:42:55,526 --> 00:42:59,532
+No, not out,
+Just a backup singer.
 
-287
-00:42:59,958 --> 00:43:03,583
-My cantata needs something
-really heavy.
+548
+00:42:59,533 --> 00:43:04,040
+No, my cantata needs
+something really... Heavy.
 
-288
-00:43:12,833 --> 00:43:13,875
+549
+00:43:04,041 --> 00:43:06,045
+♫ Half asleep I hear a voice ♫
+
+550
+00:43:06,512 --> 00:43:09,049
+♫ I hear a voice ♫
+♫ I hear a voice ♫
+
+551
+00:43:09,050 --> 00:43:12,555
+♫ Is it only in my mind ♫
+
+552
+00:43:12,556 --> 00:43:17,064
 No, no.
+♫ Or is there someone calling me ♫
 
-289
-00:43:20,583 --> 00:43:22,458
-Wrong again.
+553
+00:43:17,565 --> 00:43:21,070
+♫ Someone I've failed
+And left behind ♫
 
-290
-00:43:33,625 --> 00:43:35,167
-Pretty, but no.
+554
+00:43:21,071 --> 00:43:23,074
+Wrong. Wrong again.
 
-291
-00:43:47,417 --> 00:43:49,042
+555
+00:43:23,075 --> 00:43:27,581
+♫ To work it out I let them in ♫
+
+556
+00:43:27,582 --> 00:43:31,589
+♫ All the good guys
+And the bad guys ♫
+
+557
+00:43:31,590 --> 00:43:34,093
+♫ That I've been ♫
+
+558
+00:43:34,094 --> 00:43:36,097
+Pretty, but... No.
+
+559
+00:43:36,098 --> 00:43:40,104
+♫ All the devils
+That disturb me ♫
+
+560
+00:43:40,105 --> 00:43:44,111
+♫ And the angels
+That defeated ♫
+
+561
+00:43:44,112 --> 00:43:47,618
+♫ Them somehow ♫
+
+562
+00:43:48,119 --> 00:43:50,122
 No.
 
-292
-00:43:58,083 --> 00:44:00,833
-There's something here like...
+563
+00:43:50,123 --> 00:43:54,630
+♫ Come together in me now ♫
 
-293
-00:45:22,500 --> 00:45:27,708
-- How come we don't get to take photos?
-- They have exclusive rights to him.
+564
+00:43:58,637 --> 00:44:01,142
+There's something he'll like.
 
-294
-00:45:27,958 --> 00:45:33,000
-- Where's he coming in from?
-- Transylvania. Swan will go anywhere...
+565
+00:44:01,643 --> 00:44:04,648
+♫ Like a circus ♫
 
-295
-00:45:33,958 --> 00:45:36,958
-Remember, no pictures of Swan.
+566
+00:44:05,149 --> 00:44:07,653
+♫ On parade ♫
 
-296
-00:45:39,750 --> 00:45:44,500
+567
+00:44:09,657 --> 00:44:14,165
+♫ Seldom close enough to see ♫
+
+568
+00:44:17,171 --> 00:44:21,678
+♫ I wander through an angry crowd ♫
+
+569
+00:44:23,682 --> 00:44:27,689
+♫ And wonder
+What's become of me ♫
+
+570
+00:44:30,694 --> 00:44:34,701
+♫ To work it out
+I let them in ♫
+
+571
+00:44:36,705 --> 00:44:40,210
+♫ All the good guys
+And the bad guys ♫
+
+572
+00:44:40,211 --> 00:44:42,215
+♫ That I've been ♫
+
+573
+00:44:43,717 --> 00:44:47,224
+♫ All the devils
+That disturb me ♫
+
+574
+00:44:47,724 --> 00:44:52,733
+♫ And the angels
+That defeated them somehow ♫
+
+575
+00:44:56,240 --> 00:45:00,747
+♫ Come together in me now ♫
+
+576
+00:45:22,952 --> 00:45:26,457
+How come they get to shoot Swan and
+we don't get to take any pictures?
+
+577
+00:45:26,458 --> 00:45:28,962
+Because they've got
+exclusive rights to his life.
+
+578
+00:45:28,963 --> 00:45:32,468
+Where's he coming in from? Transylvania.
+My boss'll go anywhere for a new sound.
+
+579
+00:45:35,307 --> 00:45:38,479
+Remember, no pictures of Swan!
+
+580
+00:45:40,984 --> 00:45:43,488
 Gentlemen, I want to tell you
-of our latest work. An opera.
+of our latest work.
 
-297
-00:45:44,708 --> 00:45:46,667
+581
+00:45:43,989 --> 00:45:47,462
+It's an opera.
 A kind of pop cantata.
 
-298
-00:45:46,875 --> 00:45:50,458
+582
+00:45:47,545 --> 00:45:51,001
 It was written
 by the late Winslow Leach.
 
-299
-00:45:50,667 --> 00:45:54,750
-It is about a young man
+583
+00:45:51,002 --> 00:45:55,508
+It tells the story of a young man
 who sells his soul to the devil...
 
-300
-00:45:54,958 --> 00:46:00,167
-...to become a pop star. It'll be
-the first rock version of Faust.
+584
+00:45:55,509 --> 00:45:57,513
+To become a pop star.
 
-301
-00:46:00,375 --> 00:46:04,333
-We'll be recording
-at the Paradise, Friday night.
+585
+00:45:58,014 --> 00:46:01,018
+It will be the first
+Rock version of Faust.
 
-302
-00:46:04,542 --> 00:46:06,458
-Live on the Death Label.
+586
+00:46:01,019 --> 00:46:05,025
+We'll be recording at
+The Paradise, uh, Friday night.
 
-303
-00:46:08,750 --> 00:46:12,375
-- Mr. Pizer.
-- Who's singing this? The Juicy Fruits?
+587
+00:46:05,026 --> 00:46:07,030
+Live on the death label.
 
-304
-00:46:12,583 --> 00:46:15,917
-No. They're a reflection of the past.
+588
+00:46:07,113 --> 00:46:10,536
+- Mr. Preiser.
 
-305
-00:46:16,167 --> 00:46:20,083
-Gentlemen, I give you the future:
+589
+00:46:10,786 --> 00:46:14,041
+Yeah, Mr. Swan, who's gonna be
+singing this, The Juicy Fruits?
 
-306
-00:46:20,750 --> 00:46:22,375
+590
+00:46:14,042 --> 00:46:17,047
+No, no. They're
+a reflection of the past.
+
+591
+00:46:17,048 --> 00:46:20,053
+Gentlemen,
+I give you the future.
+
+592
+00:46:21,555 --> 00:46:23,058
 Beef.
 
-307
-00:46:49,083 --> 00:46:51,417
-Winslow. Good morning.
+593
+00:46:45,932 --> 00:46:47,601
+Winslow.
 
-308
-00:46:53,708 --> 00:46:57,833
+594
+00:46:48,603 --> 00:46:50,606
+Winslow.
+What?
+
+595
+00:46:51,108 --> 00:46:54,113
+- Good morning.
+- Hi.
+
+596
+00:46:54,613 --> 00:46:58,621
 - What day is it?
 - Thursday. Today is Thursday.
 
-309
-00:46:59,083 --> 00:47:00,708
+597
+00:46:58,838 --> 00:47:01,625
 Breakfast.
+Ah.
 
-310
-00:47:01,875 --> 00:47:03,833
-A little pick-me-up.
+598
+00:47:01,626 --> 00:47:03,629
+A pick-me-up.
 
-311
-00:47:08,167 --> 00:47:11,042
-How's it coming?
-Don't mean to rush you.
+599
+00:47:08,638 --> 00:47:11,644
+Uh, how's it coming? I don't
+mean to rush you, of course.
 
-312
-00:47:11,250 --> 00:47:14,083
-Don't worry. It'll be finished.
+600
+00:47:12,061 --> 00:47:16,118
+Don't worry.
+It'll be finished.
 
-313
-00:47:15,375 --> 00:47:16,542
-How's Phoenix?
+601
+00:47:16,202 --> 00:47:19,123
+How's Phoenix doing?
+I can't wait to hear her sing.
 
-314
-00:47:16,750 --> 00:47:20,292
-- I can't wait to hear her sing.
-- Doing beautifully.
-
-315
-00:47:20,500 --> 00:47:24,833
+602
+00:47:19,207 --> 00:47:23,163
+Phoenix is doing beautifully.
 Can't wait to meet you, by the way.
-Tomorrow's the big night.
 
-316
-00:47:25,167 --> 00:47:27,167
+603
+00:47:23,164 --> 00:47:25,668
+Tomorrow night's the big night.
+
+604
+00:47:25,886 --> 00:47:27,672
 Tomorrow night.
 
-317
-00:48:02,208 --> 00:48:06,958
-You better get a castrato.
-This is a little out of my range.
+605
+00:47:50,212 --> 00:47:53,050
+♫ Why do you try ♫
 
-318
-00:48:07,167 --> 00:48:11,833
-- Something bothering you, Beef?
-- This was scored for a chick.
+606
+00:47:54,720 --> 00:47:56,722
+♫ Why you got to ♫
 
-319
-00:48:12,042 --> 00:48:17,000
-- I'm not doing it in drag.
-- You sing it better than any bitch.
+607
+00:48:03,118 --> 00:48:07,743
+Man, you better get yourself a castrato
+for this, 'cause it's out of my range.
 
-320
-00:48:20,417 --> 00:48:23,458
-You don't know
-how right you are, Goliath.
+608
+00:48:08,077 --> 00:48:11,750
+- Something bothering you?
+- This was scored for a chick!
 
-321
-00:48:23,667 --> 00:48:27,583
-Okay, boys, from the bridge. Hit it.
+609
+00:48:12,251 --> 00:48:15,256
+I'm not doin' it in drag.
 
-322
-00:49:03,542 --> 00:49:07,583
+610
+00:48:15,757 --> 00:48:18,145
+You can sing it
+better than any bitch.
+
+611
+00:48:20,481 --> 00:48:23,771
+You don't know how right
+you are, Goliath.
+
+612
+00:48:23,938 --> 00:48:27,778
+Okay, boys.
+From the bridge. Hit it.
+
+613
+00:48:30,283 --> 00:48:33,788
+♫ Our paths crossed and parted ♫
+
+614
+00:48:33,789 --> 00:48:35,791
+♫ This love affair was started ♫
+
+615
+00:48:35,792 --> 00:48:40,300
+♫ Long, long ago ♫
+
+616
+00:48:40,301 --> 00:48:44,307
+♫ Oh, this love
+Survives the ages ♫
+
+617
+00:48:44,308 --> 00:48:46,812
+♫ And in its story
+Lives are pages ♫
+
+618
+00:48:47,313 --> 00:48:51,319
+♫ Fill 'em up
+May ours turn slow ♫
+
+619
+00:48:51,320 --> 00:48:54,626
+♫ Whoa, whoa ♫
+
+620
+00:49:04,476 --> 00:49:08,350
 - Who says I can't sing it?
 - I like it. Keep working on it.
 
-323
-00:49:07,792 --> 00:49:10,708
+621
+00:49:08,818 --> 00:49:11,356
 Drop an octave here,
-change a line there.
+Change a line there.
 
-324
-00:49:10,917 --> 00:49:14,667
+622
+00:49:11,856 --> 00:49:14,360
+Give it a beat.
 Make it completely yours.
-Let's go.
 
-325
-00:49:15,375 --> 00:49:17,167
-Far out.
+623
+00:49:14,361 --> 00:49:17,366
+- Let's go.
+- Far out.
 
-326
-00:49:24,333 --> 00:49:26,917
-Doesn't that change the whole thing?
+624
+00:49:24,879 --> 00:49:27,384
+Doesn't that
+kind of change the whole thing?
 
-327
-00:49:27,125 --> 00:49:32,500
-You heard him. Make it yours. If it's
-good, who cares what it's about?
+625
+00:49:27,467 --> 00:49:30,389
+You heard what he said.
+Make it yours.
 
-328
-00:49:32,708 --> 00:49:33,750
-Is that so?
+626
+00:49:30,522 --> 00:49:33,894
+As long as it sounds good, nobody's
+gonna care what it's about.
 
-329
-00:49:33,958 --> 00:49:37,000
-- Nobody cares what it's about.
+627
+00:49:33,895 --> 00:49:36,900
+- Is that so?
+- Nobody cares what anything's about.
+
+628
+00:49:37,150 --> 00:49:39,405
 - Is that right?
+- Who the hell listens to lyrics anyway?
 
-330
-00:49:37,208 --> 00:49:40,708
-- Who listens to lyrics anyway?
-- Dry up, tubbo.
+629
+00:49:39,872 --> 00:49:41,992
+Dry up, tubbo.
 
-331
-00:50:24,083 --> 00:50:26,125
+630
+00:50:24,985 --> 00:50:27,490
 Seal it now.
 
-332
-00:50:48,917 --> 00:50:50,833
+631
+00:50:50,029 --> 00:50:52,033
 This creep gets no comps.
 
-333
-00:50:52,250 --> 00:50:55,500
+632
+00:50:52,250 --> 00:50:56,002
 My music! Swan!
 
-334
-00:51:05,750 --> 00:51:07,917
+633
+00:51:05,817 --> 00:51:08,188
 - What was that?
 - What was what?
 
-335
-00:51:08,583 --> 00:51:13,917
-I knew I shouldn't screw around
-with a dead man's music. This place...
+634
+00:51:08,474 --> 00:51:11,861
+Oh, I knew I shouldn't be screwing
+around with a dead man's music.
 
-336
-00:51:15,292 --> 00:51:16,708
-...is possessed.
+635
+00:51:12,133 --> 00:51:16,596
+This place is... Possessed.
 
-337
-00:51:16,917 --> 00:51:21,208
-- What are you talking about?
-- Didn't you hear that shriek?
+636
+00:51:16,790 --> 00:51:18,109
+- What are you talkin' about?
 
-338
-00:51:21,417 --> 00:51:26,333
-That was something trying to get out
-of its premature grave.
+637
+00:51:18,111 --> 00:51:21,018
+- You tryin' to tell me
+you didn't hear that shriek?
 
-339
-00:51:26,667 --> 00:51:30,292
+638
+00:51:21,370 --> 00:51:24,440
+That was somethin' trying to get
+out of its premature grave,
+
+639
+00:51:24,441 --> 00:51:26,871
+and I don't want
+to be here when it does.
+
+640
+00:51:26,872 --> 00:51:28,996
 Opening night prima donnas.
-Look, iron man...
 
-340
-00:51:30,500 --> 00:51:35,083
-...you're uptight. Take a shower.
-- My pleasure...
+641
+00:51:29,214 --> 00:51:33,071
+Look, iron man, if you're so
+uptight, take a shower and cool off.
 
-341
-00:51:35,667 --> 00:51:37,792
-...Bones.
+642
+00:51:33,139 --> 00:51:36,593
+My pleasure... Bones.
 
-342
-00:53:06,625 --> 00:53:11,917
-Never sing my music again. Not here,
-not anywhere. Do you understand?
+643
+00:52:26,371 --> 00:52:28,076
+♫ Life at last ♫
 
-343
-00:53:12,125 --> 00:53:15,250
-Only Phoenix can sing my music.
+644
+00:52:28,080 --> 00:52:31,328
+♫ Salutations
+From the other side ♫
 
-344
-00:53:15,458 --> 00:53:18,792
-Anyone else that tries, dies.
+645
+00:52:34,801 --> 00:52:37,774
+♫ Do you realize that all of you
+Donated something horrible ♫
 
-345
-00:53:19,333 --> 00:53:24,333
-Let's see your tickets.
-Everybody's got to have a ticket.
+646
+00:52:37,775 --> 00:52:40,253
+♫ You hated
+That was part of you ♫
 
-346
-00:53:24,542 --> 00:53:27,833
-- Everybody have a ticket. You got one?
-- Sure.
+647
+00:52:40,254 --> 00:52:43,724
+♫ Well, I'm your
+Nightmares comin' true ♫
 
-347
-00:53:28,042 --> 00:53:30,083
-Get back in line.
+648
+00:52:43,725 --> 00:52:46,203
+♫ I am your crime ♫
 
-348
-00:53:36,417 --> 00:53:39,875
-Take care of the rest of the line.
-Open the gate.
+649
+00:52:46,204 --> 00:52:49,178
+♫ Whoo, life at last ♫
 
-349
-00:53:43,708 --> 00:53:46,958
-Where do you think
-you're going, Tinkerbell?
+650
+00:52:49,179 --> 00:52:51,658
+♫ Sit and listen
+While the fun begins ♫
 
-350
-00:53:47,167 --> 00:53:51,417
-- Cincinnati, to see my mother.
-- You're gonna miss the show.
+651
+00:52:51,659 --> 00:52:54,632
+♫ Hearts are broken
+Bad guy wins ♫
 
-351
-00:53:51,625 --> 00:53:54,875
-- There ain't gonna be no show.
-- What?
+652
+00:52:54,633 --> 00:52:57,111
+♫ Sit and listen
+All the cuttin' up is easy ♫
 
-352
-00:53:55,083 --> 00:54:00,125
-Listen, Philbin.
-There really is a phantom.
+653
+00:52:57,112 --> 00:52:59,592
+♫ And it isn't for the queasy
+Or the weak of heart ♫
 
-353
-00:54:00,375 --> 00:54:02,958
-He was just in my shower.
+654
+00:53:00,037 --> 00:53:03,558
+♫ Well, you had better start
+For home ♫
 
-354
-00:54:03,167 --> 00:54:08,083
-He threatened my life. He said
-his music is just for Phoenix.
+655
+00:53:03,806 --> 00:53:06,533
+♫ While there's still time... ♫
 
-355
-00:54:08,292 --> 00:54:10,375
+656
+00:53:06,698 --> 00:53:10,002
+Never sing my music again.
+Not here, not anywhere.
+
+657
+00:53:10,003 --> 00:53:11,987
+Do you understand?
+Never again.
+
+658
+00:53:12,152 --> 00:53:15,443
+My music is for Phoenix.
 Only she can sing it.
 
-356
-00:54:10,583 --> 00:54:14,167
-Anyone else who tries, dies.
+659
+00:53:15,458 --> 00:53:18,911
+Anyone else that tries, dies.
 
-357
-00:54:14,625 --> 00:54:17,458
-What the hell are you talking about?
+660
+00:53:18,994 --> 00:53:21,463
+All right, tickets.
+Come on, let's see your tickets.
 
-358
-00:54:17,667 --> 00:54:22,417
-Look, Philbin, I am a professional.
+661
+00:53:21,464 --> 00:53:24,466
+This is a ticket holders' line.
+Everybody's got to have a ticket here.
 
-359
-00:54:22,667 --> 00:54:26,125
-I have been in this business
-a long time.
+662
+00:53:24,467 --> 00:53:26,968
+Everybody have a ticket?
+You, you got a ticket?
 
-360
-00:54:26,333 --> 00:54:30,583
-I don't want to do the show.
-Not because I got stage fright...
+663
+00:53:26,969 --> 00:53:29,972
+Sure, I have a ticket.
+All right, get back in line.
 
-361
-00:54:30,792 --> 00:54:35,792
-...but because some creature
-from beyond doesn't want me to.
+664
+00:53:35,978 --> 00:53:38,848
+Take care of the rest of this line.
+Frank, open that gate.
 
-362
-00:54:36,000 --> 00:54:40,750
-- Bullshit! What really happened?
-- Can't you feel the vibes?
+665
+00:53:43,987 --> 00:53:46,989
+Where the hell do you think
+you're goin', tinker-bell?
 
-363
-00:54:40,958 --> 00:54:43,333
-Bad, sport, real bad.
+666
+00:53:46,990 --> 00:53:48,992
+Cincinnati to see my mother.
 
-364
-00:54:43,542 --> 00:54:47,333
-The karma's so thick,
-you need an Aqua Lung to breathe.
+667
+00:53:49,493 --> 00:53:51,495
+You're gonna miss the show.
 
-365
-00:54:47,542 --> 00:54:51,125
-- I know what it is.
-- Why don't you tell me?
+668
+00:53:51,661 --> 00:53:53,997
+- Ain't gonna be no show.
+- What?
 
-366
-00:54:51,333 --> 00:54:55,375
-- Speed, that's what it is.
-- What do you know about it?
+669
+00:53:54,247 --> 00:54:00,002
+Listen, Philbin,
+there really is a phantom.
 
-367
-00:54:55,583 --> 00:55:00,375
-You just pass it out, I take it.
-I know drug-real from real-real.
+670
+00:54:00,003 --> 00:54:05,007
+He was just in my shower.
+He threatened my life.
 
-368
-00:55:00,583 --> 00:55:04,708
-- Do me a favor and take this.
-- No, that'll bring me down.
+671
+00:54:05,008 --> 00:54:08,011
+He said his music
+is just for Phoenix.
 
-369
-00:55:04,917 --> 00:55:08,958
-You better come down.
-You better get yourself together.
+672
+00:54:08,512 --> 00:54:10,513
+Only she can sing it.
 
-370
-00:55:09,167 --> 00:55:13,500
-You got a show to do. It's
-opening night. Can you still sing?
+673
+00:54:10,514 --> 00:54:14,017
+Anyone else who tries...
+Dies.
 
-371
-00:55:13,708 --> 00:55:17,625
+674
+00:54:14,434 --> 00:54:16,520
+What the hell
+Are you talkin' about?
+
+675
+00:54:16,636 --> 00:54:19,522
+Tsk. Look, Philbin,
+
+676
+00:54:19,523 --> 00:54:22,525
+I am a professional.
+
+677
+00:54:22,526 --> 00:54:26,028
+I have been in this
+business a long time.
+
+678
+00:54:26,029 --> 00:54:30,534
+Now, if I don't want to do a show,
+it's not because I got stage fright.
+
+679
+00:54:30,535 --> 00:54:34,538
+It's because some creature from
+beyond doesn't want me to do the show!
+
+680
+00:54:34,539 --> 00:54:38,144
+Now, gangway! Bullshit.
+Now, how did that really happen?
+
+681
+00:54:38,543 --> 00:54:40,747
+Can't you feel the vibes
+in your own house?
+
+682
+00:54:40,828 --> 00:54:43,656
+Bad, sport.
+Real bad.
+
+683
+00:54:43,806 --> 00:54:47,342
+I mean, the karma's so thick around
+here, you need an Aqua-Lung to breathe.
+
+684
+00:54:47,383 --> 00:54:49,236
+I know what it is.
+Oh, you do, huh?
+
+685
+00:54:49,291 --> 00:54:51,784
+You wanna know what it is?
+Why don't you tell me what it is?
+
+686
+00:54:51,785 --> 00:54:55,559
+Speed, that's what it is. Speed?
+What do you know about it?
+
+687
+00:54:55,560 --> 00:54:58,062
+You just pass the stuff out!
+I take it!
+
+688
+00:54:58,148 --> 00:55:00,451
+I know drug real from real real!
+
+689
+00:55:00,485 --> 00:55:02,120
+Do me a favor and take this.
+
+690
+00:55:02,645 --> 00:55:04,859
+No!
+That'll bring me down.
+
+691
+00:55:04,955 --> 00:55:07,367
+Well, listen, my friend,
+you better come down.
+
+692
+00:55:07,612 --> 00:55:09,268
+You better
+get yourself together.
+
+693
+00:55:09,383 --> 00:55:11,761
+You got a show to do.
+This is opening night.
+
+694
+00:55:12,211 --> 00:55:13,586
+Can you still sing?
+
+695
+00:55:13,587 --> 00:55:17,703
 Sure, I can still sing.
-The Phantom! Help!
+Help! The phantom! Help!
 
-372
-01:02:08,500 --> 01:02:11,750
-Somebody get a fire extinguisher!
+696
+00:56:15,173 --> 00:56:18,010
+♫ We need a man
+That is simple perfection ♫
 
-373
-01:02:14,542 --> 01:02:19,375
-We want Beef! We want Beef!
+697
+00:56:18,427 --> 00:56:21,513
+♫ There's nothing
+That's harder to find ♫
+
+698
+00:56:21,847 --> 00:56:25,016
+♫ Someone to lead us
+Protect us and feed us ♫
+
+699
+00:56:25,017 --> 00:56:28,020
+♫ And help us
+To make up our minds ♫
+
+700
+00:56:28,270 --> 00:56:31,106
+♫ We need a man
+That's sophisticated ♫
+
+701
+00:56:31,523 --> 00:56:34,526
+♫ Quiet and strong
+And well-educated ♫
+
+702
+00:56:34,743 --> 00:56:37,529
+♫ Where to go
+What to do ♫
+
+703
+00:56:38,030 --> 00:56:42,834
+♫ Could it be
+Somebody super like you ♫
+
+704
+00:56:54,347 --> 00:56:57,550
+♫ We need a man
+That can stand as a symbol ♫
+
+705
+00:56:57,683 --> 00:57:00,553
+♫ And symbols
+Have got to be tall ♫
+
+706
+00:57:01,020 --> 00:57:03,556
+♫ Someone with taste
+And the tiniest waist ♫
+
+707
+00:57:03,583 --> 00:57:06,643
+♫ With his help
+Would not life be a ball ♫
+
+708
+00:57:06,990 --> 00:57:10,703
+♫ If we had fun
+He would not restrain us ♫
+
+709
+00:57:10,705 --> 00:57:13,566
+♫ If we got caught
+He would just explain us ♫
+
+710
+00:57:13,900 --> 00:57:17,036
+♫ Where to go
+What to do ♫
+
+711
+00:57:17,120 --> 00:57:21,574
+♫ Could it be
+Somebody super like you ♫
+
+712
+00:57:34,170 --> 00:57:38,091
+♫ We pledge allegiance
+To his gracefulness ♫
+
+713
+00:57:38,591 --> 00:57:40,592
+♫ And charming manners ♫
+
+714
+00:57:40,593 --> 00:57:43,096
+♫ With a voice
+That's both sides' choice ♫
+
+715
+00:57:43,097 --> 00:57:47,101
+♫ He'll bring us
+To our knees in admiration ♫
+
+716
+00:57:49,653 --> 00:57:54,608
+♫ He is king of all who see
+And hear his perfect pitch ♫
+
+717
+00:57:54,741 --> 00:57:56,610
+♫ And more surprises ♫
+
+718
+00:57:56,910 --> 00:58:02,116
+♫ When his time has come
+A stallion rises ♫
+
+719
+00:58:06,120 --> 00:58:09,123
+♫ We need a man with
+A head on his shoulders ♫
+
+720
+00:58:09,540 --> 00:58:11,625
+♫ A nose that is
+Simply divine ♫
+
+721
+00:58:12,009 --> 00:58:15,629
+♫ A Hollywood smile
+And a perfect profile ♫
+
+722
+00:58:15,712 --> 00:58:18,132
+♫ And with eyes that
+Would sparkle and shine ♫
+
+723
+00:58:18,804 --> 00:58:22,231
+♫ Long flowing hair
+For the crowning glory ♫
+
+724
+00:58:22,232 --> 00:58:25,351
+♫ There'd be a man
+Who could tell our story ♫
+
+725
+00:58:25,556 --> 00:58:28,642
+♫ Where to go
+What to do ♫
+
+726
+00:58:28,859 --> 00:58:33,615
+♫ Could it be
+Somebody super like you ♫
+
+727
+00:58:45,743 --> 00:58:50,164
+♫ We pledge allegiance
+To his gracefulness ♫
+
+728
+00:58:50,165 --> 00:58:52,166
+♫ And charming manners ♫
+
+729
+00:58:52,167 --> 00:58:55,170
+♫ With a voice
+That's both sides' choice ♫
+
+730
+00:58:55,336 --> 00:58:59,390
+♫ He'll bring us
+To our knees in admiration ♫
+
+731
+00:59:00,675 --> 00:59:04,678
+♫ He is king of
+All who see and hear ♫
+
+732
+00:59:04,679 --> 00:59:08,682
+♫ His perfect pitch
+And more surprises ♫
+
+733
+00:59:08,683 --> 00:59:14,689
+♫ When his time has come
+A stallion rises ♫
+
+734
+00:59:17,609 --> 00:59:21,030
+♫ Rises ♫
+
+735
+00:59:24,617 --> 00:59:28,204
+♫ Rises ♫
+
+736
+00:59:31,257 --> 00:59:34,710
+♫ Rises ♫
+
+737
+00:59:51,360 --> 00:59:53,229
+♫ Life at last ♫
+
+738
+00:59:53,729 --> 00:59:56,732
+♫ Salutations
+From the other side ♫
+
+739
+00:59:57,149 --> 01:00:00,235
+♫ I can see that you're
+The devil's pride ♫
+
+740
+01:00:00,236 --> 01:00:02,238
+♫ Do you realize
+That all of you donated ♫
+
+741
+01:00:02,250 --> 01:00:05,659
+♫ Something horrible you hated
+That was part of you ♫
+
+742
+01:00:05,706 --> 01:00:10,789
+♫ I'm your nightmares
+Coming true, I am your crime ♫
+
+743
+01:00:15,654 --> 01:00:18,088
+♫ Life at last ♫
+
+744
+01:00:18,255 --> 01:00:20,757
+♫ Sit and listen
+While the fun begins ♫
+
+745
+01:00:21,258 --> 01:00:23,260
+♫ Hearts are broken
+And the bad guys win ♫
+
+746
+01:00:23,643 --> 01:00:26,896
+♫ Sit and listen All the cuttin' up is
+easy and This isn't for the queasy ♫
+
+747
+01:00:27,264 --> 01:00:29,766
+♫ Or the weak of heart ♫
+
+748
+01:00:30,016 --> 01:00:34,771
+♫ You had better start for home
+While there's still time ♫
+
+749
+01:00:40,410 --> 01:00:43,280
+♫ I'm the evil
+That you created ♫
+
+750
+01:00:43,747 --> 01:00:45,782
+♫ Gettin' horny
+And damn frustrated ♫
+
+751
+01:00:45,915 --> 01:00:49,286
+♫ Bored stiff
+And I want me a woman now ♫
+
+752
+01:00:49,786 --> 01:00:51,788
+♫ All right ♫
+
+753
+01:00:51,871 --> 01:00:53,957
+♫ Whoa ♫
+
+754
+01:01:12,276 --> 01:01:14,111
+♫ Oh ♫
+
+755
+01:01:15,780 --> 01:01:18,316
+♫ Oh ♫
+
+756
+01:01:18,733 --> 01:01:21,319
+♫ Oh ♫
+
+757
+01:01:21,652 --> 01:01:25,873
+♫ Oh, yeah ♫
+
+758
+01:01:27,458 --> 01:01:30,828
+♫ Oh, yeah ♫
+
+759
+01:01:30,911 --> 01:01:33,331
+♫ I'm the evil
+That you created ♫
+
+760
+01:01:33,414 --> 01:01:35,966
+♫ Gettin' horny
+And damn frustrated ♫
+
+761
+01:01:36,133 --> 01:01:39,419
+♫ Each of you must
+Stop and try me ♫
+
+762
+01:01:39,503 --> 01:01:41,972
+♫ All of you
+Might satisfy me ♫
+
+763
+01:02:08,500 --> 01:02:10,999
+Somebody get
+a fire extinguisher.
+
+764
+01:02:15,080 --> 01:02:17,497
+We want Beef!
 We want Beef!
 
-374
-01:02:36,625 --> 01:02:38,833
+765
+01:02:17,830 --> 01:02:22,995
+We want Beef!
+We want Beef!
+
+766
+01:02:35,825 --> 01:02:38,190
 Somebody get rid of him.
 
-375
-01:02:39,417 --> 01:02:42,625
-- Get out there and sing.
-- You're crazy.
+767
+01:02:39,940 --> 01:02:41,990
+Phoenix, get out there and sing.
 
-376
-01:02:42,833 --> 01:02:48,125
-Someone killed Beef so you could sing.
-If you don't, there'll be more bodies.
+768
+01:02:42,439 --> 01:02:45,987
+You're crazy. Look, some maniac
+killed Beef so you could sing.
 
-377
-01:06:20,500 --> 01:06:22,708
-- Is Beef...?
-- Dead.
+769
+01:02:45,988 --> 01:02:48,855
+Don't disappoint him, or else there
+will be more bodies out there.
 
-378
-01:06:27,042 --> 01:06:32,292
-But let's not talk about that.
+770
+01:03:14,980 --> 01:03:17,979
+♫ Our love ♫
+
+771
+01:03:18,479 --> 01:03:22,478
+♫ Is an old love, baby ♫
+
+772
+01:03:22,977 --> 01:03:25,975
+♫ It's older ♫
+
+773
+01:03:25,976 --> 01:03:29,475
+♫ Than all our years ♫
+
+774
+01:03:29,476 --> 01:03:33,974
+♫ I have seen
+In strange young eyes ♫
+
+775
+01:03:34,474 --> 01:03:38,473
+♫ Familiar tears ♫
+
+776
+01:03:38,923 --> 01:03:42,471
+♫ We're old souls ♫
+
+777
+01:03:42,472 --> 01:03:45,970
+♫ In a new life, baby ♫
+
+778
+01:03:45,971 --> 01:03:49,469
+♫ They gave us a new life ♫
+
+779
+01:03:49,470 --> 01:03:53,468
+♫ To live and learn ♫
+
+780
+01:03:53,469 --> 01:03:57,468
+♫ Some time
+To touch old friends ♫
+
+781
+01:03:57,967 --> 01:04:01,466
+♫ And still return ♫
+
+782
+01:04:03,132 --> 01:04:06,963
+♫ Our paths have
+Crossed and parted ♫
+
+783
+01:04:06,964 --> 01:04:09,963
+♫ This love affair was started ♫
+
+784
+01:04:10,413 --> 01:04:12,462
+♫ Long ♫
+
+785
+01:04:12,463 --> 01:04:15,962
+♫ Long ago ♫
+
+786
+01:04:17,961 --> 01:04:21,460
+♫ This love
+Survives the ages ♫
+
+787
+01:04:21,960 --> 01:04:24,958
+♫ In its story
+Lives are pages ♫
+
+788
+01:04:24,959 --> 01:04:26,958
+♫ Fill them up ♫
+
+789
+01:04:27,459 --> 01:04:30,956
+♫ May ours turn slow ♫
+
+790
+01:04:30,957 --> 01:04:32,956
+♫ Oh ♫
+
+791
+01:04:32,957 --> 01:04:35,956
+♫ Our love ♫
+
+792
+01:04:36,456 --> 01:04:41,453
+♫ Is a strong love, baby ♫
+
+793
+01:04:41,454 --> 01:04:46,951
+♫ We give it all
+And so receive ♫
+
+794
+01:04:46,952 --> 01:04:50,451
+♫ And so with empty arms ♫
+
+795
+01:04:50,452 --> 01:04:54,950
+♫ We must still believe ♫
+
+796
+01:04:56,450 --> 01:04:59,947
+♫ All souls last forever ♫
+
+797
+01:04:59,948 --> 01:05:06,946
+♫ So we need never
+Fear good-bye ♫
+
+798
+01:05:10,446 --> 01:05:12,444
+♫ A kiss ♫
+
+799
+01:05:12,445 --> 01:05:17,443
+♫ When I must go ♫
+
+800
+01:05:17,444 --> 01:05:20,941
+♫ No tears ♫
+
+801
+01:05:20,942 --> 01:05:23,941
+♫ In time ♫
+
+802
+01:05:24,442 --> 01:05:27,939
+♫ We kiss ♫
+
+803
+01:05:27,940 --> 01:05:33,938
+♫ Hello ♫
+
+804
+01:06:14,125 --> 01:06:18,124
+Phoenix.
+Swan.
+
+805
+01:06:21,123 --> 01:06:24,122
+Is Beef...
+Dead.
+
+806
+01:06:27,621 --> 01:06:32,120
+Let's not talk about that.
 Let's talk about you.
 
-379
-01:06:33,417 --> 01:06:36,958
+807
+01:06:33,619 --> 01:06:37,617
 I like your name.
 We won't have to change it.
 
-380
-01:06:37,167 --> 01:06:40,000
-You're going to be a very big star.
+808
+01:06:37,618 --> 01:06:40,616
+You're going to be
+a very big star, Phoenix.
 
-381
-01:06:40,208 --> 01:06:43,167
-We'll finish the cantata
-tomorrow night...
+809
+01:06:40,617 --> 01:06:44,615
+We'll finish the cantata tomorrow night.
+We'll record. We'll go on tour.
 
-382
-01:06:43,417 --> 01:06:46,292
-...we'll record,
-we'll go on tour and then...
+810
+01:06:44,616 --> 01:06:46,615
+And then...
 
-383
-01:06:46,500 --> 01:06:50,625
+811
+01:06:47,115 --> 01:06:51,114
 There are no words to express
 what you're going to become.
 
-384
-01:06:52,125 --> 01:06:54,583
+812
+01:06:52,613 --> 01:06:58,112
 I'll do anything you want.
-
-385
-01:06:55,250 --> 01:06:57,500
 I owe you everything.
 
-386
-01:06:58,167 --> 01:07:02,375
-- Just give me that crowd again.
-- Tomorrow night.
+813
+01:06:58,611 --> 01:07:01,110
+Just give me that crowd again.
 
-387
-01:07:02,583 --> 01:07:06,250
-- Tomorrow night, they'll be yours.
-- Mine.
+814
+01:07:01,111 --> 01:07:05,109
+Tomorrow night. Tomorrow
+night they'll be yours.
 
-388
-01:07:06,500 --> 01:07:08,542
-And all I want...
+815
+01:07:05,110 --> 01:07:07,108
+Mine.
 
-389
-01:07:09,583 --> 01:07:11,667
-...is your voice.
+816
+01:07:07,109 --> 01:07:11,608
+And all I want is your voice.
 
-390
-01:07:12,542 --> 01:07:14,167
+817
+01:07:13,108 --> 01:07:15,606
 Is that all?
 
-391
-01:07:16,917 --> 01:07:18,333
-No.
+818
+01:07:17,106 --> 01:07:22,603
+No. We'll go
+to Swanage and celebrate.
 
-392
-01:07:19,125 --> 01:07:21,875
-We'll go to Swanage and celebrate.
-
-393
-01:07:22,333 --> 01:07:24,583
+819
+01:07:22,604 --> 01:07:26,103
 I'll wait for you in the car.
 
-394
-01:08:03,000 --> 01:08:05,250
+820
+01:07:26,104 --> 01:07:28,603
+Phoenix! Phoenix!
+
+821
+01:07:57,260 --> 01:07:59,592
+Beef, Beef, Beef, Beef!
+
+822
+01:08:03,093 --> 01:08:05,092
 He wouldn't listen to me.
 
-395
-01:08:10,500 --> 01:08:13,875
-- Where is she?
-- Have you ever seen such a crowd?
+823
+01:08:11,090 --> 01:08:14,588
+Where the hell is she? Philbin,
+have you ever seen such a crowd?
 
-396
-01:08:14,083 --> 01:08:18,167
-- I never want to see another one.
-- They've been entertained.
+824
+01:08:14,589 --> 01:08:16,587
+No, and I never
+wanna see another one.
 
-397
-01:08:18,375 --> 01:08:20,500
-They never want the show to stop.
+825
+01:08:16,588 --> 01:08:18,587
+Look at them. They've
+really been entertained.
 
-398
-01:08:20,708 --> 01:08:24,167
-The Paradise is more magnificent
-than I dreamed.
+826
+01:08:18,588 --> 01:08:21,087
+They never want
+the show to stop.
 
-399
-01:08:24,375 --> 01:08:28,125
-- How often is a star fried on-stage?
-- It's an attraction.
+827
+01:08:21,587 --> 01:08:24,585
+The Paradise is more
+magnificent than I ever dreamed.
 
-400
-01:08:33,167 --> 01:08:37,083
-- Don't hurt me.
-- I would never hurt you, Phoenix.
+828
+01:08:24,586 --> 01:08:28,585
+Sure. How often is a rock star
+fried on stage? Quite an attraction.
 
-401
-01:08:38,500 --> 01:08:40,000
-You know me?
+829
+01:08:33,000 --> 01:08:35,083
+Don't hurt me.
 
-402
-01:08:41,750 --> 01:08:43,875
+830
+01:08:35,299 --> 01:08:37,582
+I would never hurt you, Phoenix.
+
+831
+01:08:37,715 --> 01:08:40,548
+You know me.
+
+832
+01:08:40,631 --> 01:08:44,497
 I'm Winslow. Remember?
 
-403
-01:08:46,750 --> 01:08:50,167
-- But Winslow is dead.
-- No, not quite.
+833
+01:08:47,080 --> 01:08:50,578
+But Winslow's dead.
+No, not quite.
 
-404
-01:08:51,125 --> 01:08:54,292
-Who are you?
+834
+01:08:50,795 --> 01:08:54,577
+What do you mean? Who are you?
 Why do you wear that mask?
 
-405
-01:08:54,500 --> 01:08:59,083
-Because Swan has taken
-my voice, my music...
+835
+01:08:54,911 --> 01:09:00,575
+Because Swan's taken my voice,
+my music, and given me this!
 
-406
-01:08:59,292 --> 01:09:04,500
-...and given me this. And now he
-wants you. But you're all I have left.
+836
+01:09:00,909 --> 01:09:05,073
+And now he wants you.
+But you're all I have left.
 
-407
-01:09:04,708 --> 01:09:09,375
-No one will sing in this Paradise
-again, no one will sing my Faust.
+837
+01:09:05,074 --> 01:09:07,573
+Phoenix, no one will sing
+in this Paradise again.
 
-408
-01:09:09,583 --> 01:09:14,167
-No one but you. Leave this place,
-or I'll destroy you too.
+838
+01:09:08,040 --> 01:09:11,072
+No one's ever gonna sing my "Faust" again.
+No one but you.
 
-409
-01:09:14,375 --> 01:09:19,458
-Why should I go with you? Don't you
-hear them? Why should I give that up?
+839
+01:09:11,073 --> 01:09:14,571
+Phoenix, leave this place,
+or I will destroy you too.
 
-410
-01:09:19,667 --> 01:09:23,667
-They want much more now.
-More than you could ever give.
+840
+01:09:14,821 --> 01:09:17,070
+You're crazy.
+Why should I go with you?
 
-411
-01:09:23,875 --> 01:09:26,583
+841
+01:09:17,071 --> 01:09:19,570
+Don't you hear them down there?
+Why should I give that up?
+
+842
+01:09:20,036 --> 01:09:22,068
+They want more now.
+They want much more.
+
+843
+01:09:22,069 --> 01:09:24,069
+They want more than
+you could ever give.
+
+844
+01:09:24,284 --> 01:09:27,068
 - I'll give them whatever they want.
-- No!
+- No, Phoenix!
 
-412
-01:09:26,792 --> 01:09:29,083
+845
+01:09:27,201 --> 01:09:29,699
 Get your hands off me!
 
-413
-01:09:33,375 --> 01:09:36,083
-With that freak, the Paradise is done.
+846
+01:09:33,815 --> 01:09:36,064
+I'm telling you, with that freak on
+the loose, the Paradise is finished.
 
-414
-01:09:36,292 --> 01:09:40,042
-It's beginning.
-Tomorrow, Phoenix will finish Faust.
+847
+01:09:36,065 --> 01:09:40,613
+The Paradise is just beginning. Tomorrow
+night, Phoenix will finish "Faust".
 
-415
-01:09:43,625 --> 01:09:45,417
+848
+01:09:44,029 --> 01:09:46,062
 There she is.
 
-416
-01:09:50,000 --> 01:09:53,750
-- Beef's killer is on the roof.
-- Get the police.
+849
+01:09:50,560 --> 01:09:52,527
+The freak that killed Beef
+is up on the roof.
 
-417
-01:09:58,833 --> 01:10:03,583
+850
+01:09:52,610 --> 01:09:55,059
+Philbin, get the police.
+
+851
+01:09:59,224 --> 01:10:04,056
 Don't think about it. Tonight is
 your night. I won't have it ruined.
 
-418
-01:10:03,792 --> 01:10:05,625
+852
+01:10:04,057 --> 01:10:06,556
 Swanage.
 
-419
-01:13:06,083 --> 01:13:10,875
-What a foolish thing to do.
-Didn't you read your contract closely?
+853
+01:10:21,551 --> 01:10:24,550
+♫ Our love ♫
 
-420
-01:13:11,083 --> 01:13:14,417
-See where it says
-"terms of agreement"?
+854
+01:10:25,051 --> 01:10:29,049
+♫ Is an old love, baby ♫
 
-421
-01:13:15,083 --> 01:13:20,500
-"This contract terminates with Swan."
-No more suicides.
+855
+01:10:29,549 --> 01:10:32,547
+♫ It's older ♫
 
-422
-01:13:20,792 --> 01:13:25,833
-You gave up your right to rest
-in peace when you signed the contract.
+856
+01:10:32,548 --> 01:10:36,046
+♫ Than all our years ♫
 
-423
-01:13:26,042 --> 01:13:29,458
-But if you do find a loophole,
-forget it.
+857
+01:10:36,047 --> 01:10:40,545
+♫ I have seen
+In strange young eyes ♫
 
-424
-01:13:29,667 --> 01:13:33,625
-That stays sealed as long
+858
+01:10:41,046 --> 01:10:45,045
+♫ Familiar tears ♫
+
+859
+01:10:45,294 --> 01:10:49,042
+♫ We're old souls ♫
+
+860
+01:10:49,043 --> 01:10:52,541
+♫ In a new life, baby ♫
+
+861
+01:10:52,542 --> 01:10:56,040
+♫ They gave us a new life ♫
+
+862
+01:10:56,041 --> 01:11:00,039
+♫ To live and learn ♫
+
+863
+01:11:00,040 --> 01:11:04,039
+♫ Some time
+To touch old friends ♫
+
+864
+01:11:04,538 --> 01:11:07,587
+♫ And still return ♫
+
+865
+01:11:09,537 --> 01:11:13,036
+♫ Our paths have
+Crossed and parted ♫
+
+866
+01:11:13,169 --> 01:11:16,535
+♫ This love affair was started ♫
+
+867
+01:11:17,035 --> 01:11:19,034
+♫ Long ♫
+
+868
+01:11:19,035 --> 01:11:22,283
+♫ Long ago ♫
+
+869
+01:11:24,532 --> 01:11:28,032
+♫ This love
+Survives the ages ♫
+
+870
+01:11:28,531 --> 01:11:31,364
+♫ In its story
+Lives are pages ♫
+
+871
+01:11:31,663 --> 01:11:33,529
+♫ Fill them up ♫
+
+872
+01:11:33,530 --> 01:11:37,528
+♫ May ours turn slow ♫
+
+873
+01:11:37,528 --> 01:11:39,527
+♫ Oh ♫
+
+874
+01:11:39,528 --> 01:11:42,527
+♫ Our love ♫
+
+875
+01:11:43,027 --> 01:11:48,025
+♫ Is a strong love, baby ♫
+
+876
+01:11:48,026 --> 01:11:53,523
+♫ We give it all
+And so receive ♫
+
+877
+01:11:53,524 --> 01:11:57,022
+♫ And so with empty arms ♫
+
+878
+01:11:57,023 --> 01:12:01,521
+♫ We must still believe ♫
+
+879
+01:12:03,021 --> 01:12:06,519
+♫ All souls last forever ♫
+
+880
+01:12:06,520 --> 01:12:13,101
+♫ So we need never
+Fear good-bye ♫
+
+881
+01:12:17,183 --> 01:12:19,016
+♫ A kiss ♫
+
+882
+01:12:19,017 --> 01:12:24,014
+♫ When I must go ♫
+
+883
+01:12:24,015 --> 01:12:27,514
+♫ No tears ♫
+
+884
+01:12:27,763 --> 01:12:31,013
+♫ In time ♫
+
+885
+01:12:31,263 --> 01:12:34,511
+♫ We kiss ♫
+
+886
+01:12:34,512 --> 01:12:40,510
+♫ Hello ♫
+
+887
+01:13:06,466 --> 01:13:08,798
+Winslow,
+what a foolish thing to do.
+
+888
+01:13:08,799 --> 01:13:11,299
+Didn't you read
+your contract closely?
+
+889
+01:13:11,415 --> 01:13:14,797
+See where it says "terms of
+agreement". Can you read what it says?
+
+890
+01:13:14,964 --> 01:13:18,629
+"This contract
+terminates with Swan."
+
+891
+01:13:18,879 --> 01:13:20,795
+No more suicides, Winslow.
+
+892
+01:13:21,129 --> 01:13:24,793
+You gave up your right to rest in
+peace when you signed this contract.
+
+893
+01:13:24,794 --> 01:13:29,793
+What if you do find a loophole? Is
+that what you're thinking? Forget it.
+
+894
+01:13:29,993 --> 01:13:33,791
+That stays sealed only as long
 as I have the power to bind you.
 
-425
-01:13:33,833 --> 01:13:37,083
-If I'm destroyed,
+895
+01:13:33,792 --> 01:13:37,291
+If I am destroyed,
 that gaping wound opens.
 
-426
-01:13:37,292 --> 01:13:41,583
+896
+01:13:37,574 --> 01:13:41,789
 You might say we terminate together.
 Now get back to work.
 
-427
-01:13:41,792 --> 01:13:47,083
-We need new love songs for Phoenix.
-If you as much as say boo to anyone...
+897
+01:13:42,123 --> 01:13:44,288
+I need a whole bunch
+of new love songs for Phoenix.
 
-428
-01:13:47,292 --> 01:13:50,208
-...you'll never see Phoenix again.
+898
+01:13:44,289 --> 01:13:47,288
+And if you as much as say "boo"
+to anyone at the Paradise,
 
-429
-01:13:51,042 --> 01:13:53,417
-Oh, yes, about the love songs.
+899
+01:13:47,621 --> 01:13:49,287
+you'll never see Phoenix again.
 
-430
-01:13:54,250 --> 01:13:55,875
-- Perhaps a duet?
-- Never.
+900
+01:13:49,737 --> 01:13:52,653
+- No!
+- Oh, yes.
 
-431
-01:14:03,583 --> 01:14:05,583
+901
+01:13:52,736 --> 01:13:55,952
+- About the love songs, perhaps a duet.
+- Never!
+
+902
+01:14:03,566 --> 01:14:06,865
 I'm under contract too.
 
-432
-01:14:28,375 --> 01:14:31,500
-Do we get to shoot pictures
-of you tonight?
+903
+01:14:28,276 --> 01:14:31,774
+Hey, Swan. Are we gonna get
+to shoot pictures of you tonight?
 
-433
-01:14:31,708 --> 01:14:34,458
-Is it true you'll wear
-a mask on-stage?
+904
+01:14:32,275 --> 01:14:34,273
+What's this rumor you're
+gonna wear a mask on stage?
 
-434
-01:14:34,667 --> 01:14:37,375
-How can we shoot you
-if you have a mask?
+905
+01:14:34,274 --> 01:14:37,772
+Hey, how can we shoot you
+if you got a mask on, man?
 
-435
-01:14:37,667 --> 01:14:39,042
-You can't, fools.
+906
+01:14:37,773 --> 01:14:42,271
+You can't, fools. Philbin, it was genius
+making the end of the opera a wedding.
 
-436
-01:14:39,250 --> 01:14:43,333
-It was genius, making
-the end of the opera a wedding.
+907
+01:14:44,271 --> 01:14:47,269
+You mean Faust, instead of
+burning in hell, he gets the girl?
 
-437
-01:14:44,042 --> 01:14:48,000
-Faust, instead of burning in hell,
-he gets the girl?
+908
+01:14:47,270 --> 01:14:51,268
+Yes. And you, Philbin,
+will be the priest.
 
-438
-01:14:48,208 --> 01:14:50,667
-And you will be the priest.
-
-439
-01:14:50,917 --> 01:14:54,750
-I've never been a priest before.
+909
+01:14:51,269 --> 01:14:55,268
+I ain't never been a priest before.
 That's terrific.
 
-440
-01:15:41,125 --> 01:15:45,833
-Swan, you remember me, don't you?
-You do, don't you?
+910
+01:15:41,287 --> 01:15:43,752
+Swan, you remember me,
+don't you?
 
-441
-01:15:48,458 --> 01:15:52,792
-- Do you know him?
-- We went steady in high school.
+911
+01:15:43,753 --> 01:15:46,752
+You do, don't you? Swan!
 
-442
-01:15:53,000 --> 01:15:58,125
-- You're old enough to be his mother.
-- This was taken 20 years ago.
+912
+01:15:48,751 --> 01:15:50,750
+Do you know him?
 
-443
-01:15:58,333 --> 01:16:01,292
-My God! He doesn't look any different.
+913
+01:15:50,751 --> 01:15:53,250
+Well, we went steady
+together in high school.
 
-444
-01:16:01,667 --> 01:16:02,750
-Saturday...
+914
+01:15:53,251 --> 01:15:55,250
+You're kidding. You're old
+enough to be his mother.
 
-445
-01:16:02,958 --> 01:16:07,708
-...November 19, 1953.
+915
+01:15:55,666 --> 01:15:58,249
+This was taken twenty years ago.
 
-446
-01:16:07,917 --> 01:16:11,292
-Today, I have decided to kill myself.
+916
+01:15:58,616 --> 01:16:01,698
+My god. He doesn't
+look any different.
 
-447
-01:16:11,958 --> 01:16:14,958
-In being the greatest showman
-of my time...
+917
+01:16:01,781 --> 01:16:04,247
+Saturday November 19th,
 
-448
-01:16:16,417 --> 01:16:19,583
-...I'm recording live
-for the Swan Archives.
+918
+01:16:04,747 --> 01:16:08,245
+1953.
 
-449
-01:16:20,917 --> 01:16:22,292
+919
+01:16:08,246 --> 01:16:11,695
+Today I have decided
+to kill myself.
+
+920
+01:16:11,778 --> 01:16:14,743
+And being the greatest
+showman of my time,
+
+921
+01:16:14,744 --> 01:16:19,243
+I'm recording live
+for the Swan archives.
+
+922
+01:16:21,242 --> 01:16:24,740
 Why?
 
-450
-01:16:24,583 --> 01:16:26,250
-Simple.
-
-451
-01:16:28,000 --> 01:16:29,375
+923
+01:16:24,741 --> 01:16:29,856
+It's simple.
 I'm getting old.
 
-452
-01:16:33,000 --> 01:16:35,000
-I can't bear...
+924
+01:16:32,988 --> 01:16:35,736
+I can't bear it.
 
-453
-01:16:35,792 --> 01:16:40,833
-...to see this beautiful face
+925
+01:16:35,737 --> 01:16:40,736
+To see this beautiful face
 ravaged by the forces of time.
 
-454
-01:16:45,500 --> 01:16:48,333
-If I can't be young forever...
+926
+01:16:45,735 --> 01:16:48,234
+If I can't be young forever,
 
-455
-01:16:48,542 --> 01:16:51,625
-...I'd rather end it all. Now.
+927
+01:16:48,734 --> 01:16:52,099
+I'd rather end it all now.
 
-456
-01:16:57,667 --> 01:16:59,542
+928
+01:16:57,931 --> 01:17:00,730
 - Why not?
 - What?
 
-457
-01:17:00,583 --> 01:17:02,917
+929
+01:17:00,847 --> 01:17:03,728
 Stay young forever.
 
-458
-01:17:03,417 --> 01:17:08,667
-I'm real. And I'll leave
-if you want. But you did call me.
+930
+01:17:03,729 --> 01:17:08,728
+I'm real, and I'll leave if you want.
+But you did call me.
 
-459
-01:17:10,417 --> 01:17:12,583
+931
+01:17:09,144 --> 01:17:12,726
 I didn't call anybody.
 
-460
-01:17:13,000 --> 01:17:16,833
+932
+01:17:13,060 --> 01:17:16,725
 You said you wanted
 to be young forever.
 
-461
-01:17:17,042 --> 01:17:19,042
+933
+01:17:17,226 --> 01:17:19,508
 Well, here I am.
 
-462
-01:17:20,792 --> 01:17:24,083
+934
+01:17:21,224 --> 01:17:25,723
 But I am stoned.
-
-463
-01:17:24,292 --> 01:17:25,625
 You're not real.
 
-464
-01:17:26,667 --> 01:17:30,625
-Then it really doesn't matter
+935
+01:17:26,089 --> 01:17:29,721
+It really doesn't matter
 what happens, does it?
 
-465
-01:17:31,083 --> 01:17:36,500
-- What is going to happen?
-- For openers, you'll look like me.
+936
+01:17:30,088 --> 01:17:32,721
+What is going to happen?
 
-466
-01:17:36,750 --> 01:17:38,333
-Forever.
+937
+01:17:33,087 --> 01:17:37,220
+For openers, you're going
+to look like me forever.
 
-467
-01:17:41,333 --> 01:17:45,625
-This is too much. I guess
-you're supposed to be the devil?
+938
+01:17:41,218 --> 01:17:43,716
+Oh, this is too much.
 
-468
-01:17:45,833 --> 01:17:50,292
-- I go by many names.
-- And you will make me young forever?
+939
+01:17:43,717 --> 01:17:45,717
+I guess you're
+supposed to be the devil.
 
-469
-01:17:50,500 --> 01:17:54,083
-This image will age in your place.
+940
+01:17:45,883 --> 01:17:47,217
+I go by many names.
 
-470
-01:17:55,500 --> 01:17:58,542
-This picture gets old instead of me?
+941
+01:17:47,633 --> 01:17:50,714
+And you will make me
+young forever?
 
-471
-01:17:58,792 --> 01:18:03,958
-Yes. And you must watch it every day,
-just to see how lucky you are.
+942
+01:17:50,715 --> 01:17:53,215
+This image will age
+in your place.
 
-472
-01:18:04,167 --> 01:18:09,458
-- I'm crazy about pictures of myself.
-- The tape from which it comes...
+943
+01:17:53,465 --> 01:17:58,713
+This picture
+gets old instead of me?
 
-473
-01:18:09,667 --> 01:18:13,125
-...must be guarded at all costs.
+944
+01:17:58,830 --> 01:18:04,212
+Yes. And you must watch it every
+day just to see how lucky you are.
+
+945
+01:18:04,411 --> 01:18:06,211
+I'm just crazy
+about pictures myself.
+
+946
+01:18:06,544 --> 01:18:12,209
+And the tape from which the picture
+comes must be guarded at all costs.
+
+947
+01:18:12,292 --> 01:18:17,041
 - Why?
+- When it goes, you go.
 
-474
-01:18:13,333 --> 01:18:16,542
-When it goes, you go.
+948
+01:18:20,573 --> 01:18:22,706
+What do I have to do?
 
-475
-01:18:21,500 --> 01:18:25,500
-- What do I have to do?
-- It's all here. Read it carefully.
+949
+01:18:22,955 --> 01:18:25,205
+It's all here.
+Read it carefully...
 
-476
-01:18:25,708 --> 01:18:28,750
-Then sign at the bottom in blood.
+950
+01:18:25,538 --> 01:18:29,704
+And then sign
+at the bottom in blood.
 
-477
-01:18:30,292 --> 01:18:35,000
-- Blood? My blood?
-- Messy, I know.
+951
+01:18:30,204 --> 01:18:33,702
+Blood? My blood?
 
-478
-01:18:35,208 --> 01:18:40,417
-But it's the only way
-I can bind you. Tradition.
+952
+01:18:34,203 --> 01:18:40,034
+Messy, I know. But it's the only
+way I can bind you. Tradition.
 
-479
-01:18:41,958 --> 01:18:44,583
+953
+01:18:42,200 --> 01:18:46,698
 What do you have to lose?
 
-480
-01:18:46,500 --> 01:18:48,125
+954
+01:18:46,699 --> 01:18:50,197
 Nothing.
 
-481
-01:18:50,708 --> 01:18:53,750
-I was gonna use this on my wrist.
+955
+01:18:50,198 --> 01:18:53,197
+I was gonna
+use this on my wrist.
 
-482
-01:18:53,958 --> 01:18:56,875
+956
+01:18:53,447 --> 01:18:56,279
 Your soul is damned either way.
 
-483
-01:18:57,583 --> 01:18:59,375
-What soul?
+957
+01:18:57,695 --> 01:19:01,278
+- What soul?
+- Don't waste it.
 
-484
-01:19:00,042 --> 01:19:02,083
-Don't waste it.
-
-485
-01:19:02,583 --> 01:19:04,375
+958
+01:19:02,644 --> 01:19:06,309
 Now sign.
 
-486
-01:19:10,292 --> 01:19:13,500
-Ink isn't worth anything
-to me, Winslow.
+959
+01:19:10,525 --> 01:19:12,691
+Ink isn't worth
+anything to me, Winslow.
 
-487
-01:19:13,708 --> 01:19:15,417
+960
+01:19:13,140 --> 01:19:15,024
 Now sign.
 
-488
-01:19:26,083 --> 01:19:29,500
+961
+01:19:26,053 --> 01:19:29,686
 Just sign this,
 and it will all be legal.
 
-489
-01:19:31,375 --> 01:19:33,083
-"Till death do us part"?
+962
+01:19:29,935 --> 01:19:33,184
+Till death do us part?
+This is too much.
 
-490
-01:19:33,292 --> 01:19:36,958
-Mustn't be late for
-your own funer... Wedding.
+963
+01:19:33,185 --> 01:19:37,184
+Come and sign. You don't want to be late
+for your own funeral... wedding, do you?
 
-491
-01:19:37,167 --> 01:19:40,208
-Aren't we rushing things a little?
+964
+01:19:37,384 --> 01:19:41,014
+Don't you think we're
+rushing things a little? Ow.
 
-492
-01:19:41,917 --> 01:19:46,625
-- Blood!
-- Stop wasting it! Sign your name.
+965
+01:19:41,513 --> 01:19:46,511
+Oh, blood. Stop wasting it.
+Sign your name.
 
-493
-01:19:46,833 --> 01:19:49,917
-P-H-O...
+966
+01:19:46,512 --> 01:19:50,044
+P-h-o...
 
-494
-01:19:51,375 --> 01:19:55,875
-She must be hit when Philbin says:
-"Till death do you part."
+967
+01:19:50,428 --> 01:19:55,010
+Remember. She must be hit just as
+Philbin says, "till death do you part".
 
-495
-01:19:56,083 --> 01:20:01,125
-This may not be my business,
-but why kill her here, tonight?
+968
+01:19:55,093 --> 01:19:58,507
+Wait a minute. This may be
+none of my business or anything,
 
-496
-01:20:01,333 --> 01:20:06,750
-An assassination live on TV,
-coast-to-coast? That's entertainment.
+969
+01:19:58,508 --> 01:20:01,506
+But if you're gonna kill her,
+why do it here tonight?
 
-497
-01:23:10,750 --> 01:23:14,375
+970
+01:20:01,507 --> 01:20:05,006
+An assassination live
+on television coast to coast...
+
+971
+01:20:05,007 --> 01:20:07,172
+That's entertainment.
+
+972
+01:23:10,901 --> 01:23:13,950
 When it goes, you go.
 
-498
-01:23:53,167 --> 01:23:57,042
-Do you, Phoenix, take Swan
-for your wedded husband?
+973
+01:23:13,951 --> 01:23:16,950
+Swan, Swan, Swan, Swan!
 
-499
-01:23:57,250 --> 01:24:01,000
-From this day forward,
-for better, for worse?
+974
+01:23:53,055 --> 01:23:56,938
+Do you, Phoenix, take Swan to be your
+wedded husband to have and to hold...
 
-500
-01:24:01,208 --> 01:24:04,583
-- In sickness and in health?
-- I do.
+975
+01:23:57,387 --> 01:23:59,937
+from this day forward
+for richer, for poorer,
 
-501
-01:24:04,875 --> 01:24:08,208
-Do you, Swan, take Phoenix
-for your wedded wife?
+976
+01:24:00,187 --> 01:24:04,435
+for better, for worse, in
+sickness and in health? - I do.
 
-502
-01:24:08,417 --> 01:24:13,667
-From this day forward, for better, for
-worse. In sickness and in health...
+977
+01:24:04,885 --> 01:24:08,434
+And do you, Swan, take Phoenix
+to be your wedded wife...
 
-503
-01:24:13,875 --> 01:24:15,417
-...till death...
+978
+01:24:08,551 --> 01:24:10,934
+to have and to hold
+from this day forward...
 
-504
-01:24:51,917 --> 01:24:55,042
-Oh, my God!
-What's happened to your face?
+979
+01:24:11,266 --> 01:24:14,016
+for better, for worse, in sickness
+and in health till death...
 
-505
-01:24:55,250 --> 01:24:56,917
-Winslow!
+980
+01:24:52,037 --> 01:24:55,387
+- Oh, my god. Your face, what's
+happened to your face?
 
-506
-01:24:57,250 --> 01:24:59,000
+981
+01:24:55,388 --> 01:24:56,947
+- Winslow!
+
+982
+01:24:57,253 --> 01:24:59,252
 I don't understand.
 
-507
-01:25:01,542 --> 01:25:05,208
+983
+01:25:01,368 --> 01:25:04,918
 Your voice, remember?
 You promised me your voice.
 
-508
-01:25:05,417 --> 01:25:08,542
+984
+01:25:05,417 --> 01:25:09,283
 Our contract, remember?
 
-509
-01:26:36,417 --> 01:26:37,917
+985
+01:26:35,257 --> 01:26:37,506
 Winslow.
 
+986
+01:26:44,053 --> 01:26:47,052
+Winslow.
 
+987
+01:27:16,909 --> 01:27:19,542
+♫ Roll on, thunder
+Shine on, lightning ♫
+
+988
+01:27:19,659 --> 01:27:22,042
+♫ The days are long and
+The nights are frightening ♫
+
+989
+01:27:22,241 --> 01:27:25,540
+♫ And nothing matters anyway
+And that's the hell of it ♫
+
+990
+01:27:30,205 --> 01:27:32,538
+♫ Winter comes
+And the winds blow colder ♫
+
+991
+01:27:32,655 --> 01:27:35,486
+♫ While some grow wiser
+You just grew older ♫
+
+992
+01:27:35,487 --> 01:27:39,037
+♫ You never listened anyway
+And that's the hell of it ♫
+
+993
+01:27:43,618 --> 01:27:45,534
+♫ Good for nothing
+Bad in bed ♫
+
+994
+01:27:45,734 --> 01:27:48,400
+♫ Nobody likes you and you're
+Better off dead good-bye ♫ ♫ Good-bye ♫
+
+995
+01:27:48,950 --> 01:27:53,032
+♫ We've all come to say Good-bye,
+good-bye ♫ ♫ Good-bye, good-bye ♫
+
+996
+01:27:53,115 --> 01:27:55,032
+♫ Born defeated
+Died in vain ♫
+
+997
+01:27:55,531 --> 01:27:57,531
+♫ Super destructive
+You were hooked on pain ♫
+
+998
+01:27:57,947 --> 01:28:00,030
+♫ And though your music
+Lingers on ♫
+
+999
+01:28:00,530 --> 01:28:03,029
+♫ All of us
+Are glad you're gone ♫
+
+1000
+01:28:03,312 --> 01:28:08,527
+♫ If I could live my life
+Half as worthlessly as you ♫
+
+1001
+01:28:08,811 --> 01:28:12,276
+♫ I'm convinced that
+I'd wind up burning too ♫
+
+1002
+01:28:21,773 --> 01:28:23,972
+♫ Loved yourself
+As you loved no other ♫
+
+1003
+01:28:24,056 --> 01:28:25,972
+♫ You'd be no man's fool
+You'd be no man's brother ♫
+
+1004
+01:28:26,056 --> 01:28:27,522
+♫ We're all born to die ♫
+
+1005
+01:28:27,855 --> 01:28:30,554
+♫ And you know, you know
+That's the hell of it ♫
+
+1006
+01:28:31,937 --> 01:28:34,020
+♫ Life's a game where
+They're bound to beat you ♫
+
+1007
+01:28:34,303 --> 01:28:36,519
+♫ And time's a trick
+That can turn to cheat you ♫
+
+1008
+01:28:36,803 --> 01:28:41,518
+♫ And we only waste it anyway
+And that's the hell of it ♫
+
+1009
+01:28:41,717 --> 01:28:44,517
+♫ Good for nothing
+Bad in bed ♫
+
+1010
+01:28:44,600 --> 01:28:46,516
+♫ Nobody likes you
+You're better off dead ♫
+
+1011
+01:28:46,800 --> 01:28:49,515
+♫ Good-bye we've come to say
+good-bye ♫ ♫ Good-bye ♫
+
+1012
+01:28:49,849 --> 01:28:52,015
+♫ Good-bye, good-bye ♫
+♫ Good-bye ♫
+
+1013
+01:28:52,464 --> 01:28:54,014
+♫ Born defeated
+Died in vain ♫
+
+1014
+01:28:54,180 --> 01:28:56,513
+♫ Super destructive
+You were hooked on pain ♫
+
+1015
+01:28:56,680 --> 01:28:59,013
+♫ And though your music
+Lingers on ♫
+
+1016
+01:28:59,129 --> 01:29:02,095
+♫ All of us
+Are glad you're gone ♫
+
+1017
+01:31:29,670 --> 01:31:30,832
+...The End...
